@@ -7,7 +7,7 @@ description: This is the article overview.
 
 Welcome to the something something user guide.
 
-MORE...
+PLACEHOLDER
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.
