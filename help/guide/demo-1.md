@@ -1,6 +1,0 @@
----
-title: demo
----
-
-# Sample article
-

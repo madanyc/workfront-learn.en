@@ -7,7 +7,9 @@ user-guide-description: A collection of how-to videos and tutorials for Workfron
 # Workfront Tutorials {#tutorials}
 
 + [Overview](overview.md)
-+ [Sample](demo-1.md)
++ Group 1 {#group-1-changeme}
+  + [Gauging quality](gauging-quality-and-engagement.md)
+  + [Basic text mode](basic-text-mode-reporting.md)
 
 <!--
 Articles must be added to this TOC file in order to render.
