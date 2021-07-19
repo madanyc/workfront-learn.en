@@ -7,6 +7,7 @@ user-guide-description: A collection of how-to videos and tutorials for Workfron
 # Workfront Tutorials {#tutorials}
 
 + [Overview](overview.md)
++ [Sample](demo-1.md)
 
 <!--
 Articles must be added to this TOC file in order to render.
