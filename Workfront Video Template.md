@@ -14,6 +14,9 @@ exl-id: ?????????
 ---
 # Video title
 
-In this video, xxxxxxxxxxxx.
+In this video, you will learn how to:
+* xxxxx
+* xxxxx
+* xxxxx
 
 >[!VIDEO](https://video.tv.adobe.com/v/MPC#/?quality=12)
