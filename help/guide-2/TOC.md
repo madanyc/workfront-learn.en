@@ -4,12 +4,9 @@ user-guide-breadcrumb: Tutorials
 user-guide-description: A collection of how-to videos and tutorials for Workfront.
 ---
 
-# Workfront Tutorials {#tutorials}
+# Workfront Tutorials {#guide-2}
 
 + [Overview](overview.md)
-+ Admin system setup {#admin-setup}
-  + [Add users to Workfront](admin-system-setups/add-users-to-workfront.md)
-  + [Applying milestones](admin-system-setups/applying-milestones.md)
 
 <!--
 Articles must be added to this TOC file in order to render.
