@@ -1,6 +1,7 @@
 ---
 title: Title matches video name
 description:  In this video, learn how to xxxxxxx
+topics:
 activity: use
 doc-type: feature video
 team: Technical Marketing
