@@ -1,14 +1,11 @@
 ---
 title: Getting started - Plan your project
 description:  In this video you will learn the five main components of a project, what the Planning status signifies, how a view can help you see the information you need and how to set the start or completion date.
-feature: Workfront xxxx
 topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-role: User
-level: Beginner
 ---
 # Getting started: Plan your project
 

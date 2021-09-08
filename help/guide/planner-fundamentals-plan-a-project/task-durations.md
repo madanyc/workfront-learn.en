@@ -1,14 +1,11 @@
 ---
 title: Task durations
 description:  In this video, learn what a task duration is in Workfront, how durations affect start and completion dates of tasks, how durations factor into project timelines and some best practice recommendations for using task durations.
-feature: Workfront xxxx
 topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-role: User
-level: Beginner
 ---
 # Task durations
 
