@@ -6,11 +6,9 @@ topics: Project creation
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket ###
-
+kt: Jira ticket
 role: User
 level: Beginner
-exl-id: ?????????
 ---
 # Introduction to project creation
 

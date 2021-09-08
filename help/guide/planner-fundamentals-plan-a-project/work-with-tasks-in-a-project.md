@@ -2,15 +2,12 @@
 title: Work with tasks in a project
 description:  In this video, learn how to edit existing tasks, ways to add and delete tasks and how to change the task order.
 feature: Workfront xxxx
-topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket ###
-
+kt: Jira ticket
 role: User
 level: Beginner
-exl-id: ?????????
 ---
 # Work with tasks in a project
 

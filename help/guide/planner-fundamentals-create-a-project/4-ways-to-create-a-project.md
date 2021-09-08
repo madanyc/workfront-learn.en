@@ -2,15 +2,12 @@
 title: 4 ways to create a project
 description:  In this video, learn how to create a project from a template, create a project from scratch, copy an existing project, import a Microsoft Project file
 feature: Workfront xxxx
-topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket ###
-
+kt: Jira ticket
 role: User
 level: Beginner
-exl-id: ?????????
 ---
 # 4 Ways to create a project
 

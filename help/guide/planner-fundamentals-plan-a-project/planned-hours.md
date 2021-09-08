@@ -2,15 +2,12 @@
 title: Planned hours
 description:  In this video, learn what planned hours are in Workfront, why planned hours are important to your project, how to add planned hours to tasks
 feature: Workfront xxxx
-topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket ###
-
+kt: Jira ticket
 role: User
 level: Beginner
-exl-id: ?????????
 ---
 # Planned hours
 
