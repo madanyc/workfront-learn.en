@@ -1,14 +1,11 @@
 ---
 title: Convert a request to a project
 description:  In this video, learn how to review request information, select the right project template, convert the request into a project.
-feature: Workfront
 topics: Project management
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-role: User
-level: Beginner
 ---
 # Convert a request to a project
 

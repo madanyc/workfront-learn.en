@@ -3,6 +3,8 @@ cloud: Experience Cloud
 solution: Workfront
 product: experience cloud
 type: Tutorial
+role: User
+level: Beginner
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/workfront-learn.en
 hide: yes

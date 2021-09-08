@@ -1,14 +1,11 @@
 ---
 title: Navigate the project page
 description:  In this video, learn how to view the details of the project, what information shows in the task list, where to upload documents, how to view the update historyxx
-feature: Workfront xxxx
 topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-role: User
-level: Beginner
 ---
 # Navigate the project page
 

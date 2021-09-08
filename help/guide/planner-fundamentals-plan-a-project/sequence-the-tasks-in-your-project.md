@@ -1,13 +1,10 @@
 ---
 title: Sequence the tasks in your project
 description:  In this video, learn what a predecessor is, how predecessors sequence tasks in a project, how to use durations and predecessors to create a timeline, how to change or enter predecessors
-feature: Workfront xxxx
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-role: User
-level: Beginner
 ---
 # Sequence the tasks in your project
 
