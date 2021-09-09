@@ -7,11 +7,11 @@ user-guide-description: A collection of how-to videos and tutorials for Workfron
 # Workfront Tutorials {#tutorials}
 
 + [Overview](overview.md)
-+ Group 1 {#group-1-changeme}
-  + [Gauging quality](gauging-quality-and-engagement.md)
-  + [Basic text mode](basic-text-mode-reporting.md)
-+ Group 2 {#group-2-changename}
-  + [Measuring velocity](measuring-velocity.md)
++ Admin system setup {#system-setup}
+  + [Gauging quality](admin-system-setups/gauging-quality-and-engagement.md)
+  + [Basic text mode](admin-system-setups/basic-text-mode-reporting.md)
++ Workfront goals {#goals}
+  + [Measuring velocity](workfront-goals/introduction-to-workfront-goals.md)
 
 <!--
 Articles must be added to this TOC file in order to render.
