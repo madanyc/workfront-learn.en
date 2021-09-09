@@ -8,8 +8,9 @@ user-guide-description: A collection of how-to videos and tutorials for Workfron
 
 + [Overview](overview.md)
 + Admin system setup {#system-setup}
-  + [Gauging quality](admin-system-setups/gauging-quality-and-engagement.md)
-  + [Basic text mode](admin-system-setups/basic-text-mode-reporting.md)
+  + [Add users to Workfront](admin-system-setups/add-users-to-workfront.md)
+  + [Applying milestones](admin-system-setups/applying-milestones.md)
+  + [Managing access to layout templates](admin-system-setups/assign-and-manage-acess-to-layout-templates.md)
 + Workfront goals {#goals}
   + [Measuring velocity](workfront-goals/introduction-to-workfront-goals.md)
 
