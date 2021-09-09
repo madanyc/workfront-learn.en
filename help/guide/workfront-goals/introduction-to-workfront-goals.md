@@ -1,20 +1,15 @@
 ---
 title: Introduction to Workfront Goals
 description:  In this video, you will learn about articulating the "what" and the "why" during the planning phase, example goals, and scope of influence.
-feature: Workfront Goals
-topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: xxxxxx
-
-role: User
-level: Beginner
-exl-id: xxxxxxxx
 ---
 # Introduction to Workfront Goals
 
 In this video, you will learn about:
+
 * Articulating the "what" and the "why" during the planning phase
 * Example goals
 * Scope of influence
