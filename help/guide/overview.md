@@ -9,6 +9,8 @@ Welcome to the something something user guide.
 
 PLACEHOLDER
 
+New paragraph
+
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.
 

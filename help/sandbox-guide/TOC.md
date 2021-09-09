@@ -1,10 +1,8 @@
 ---
-user-guide-title: Adobe Workfront Tutorials
-user-guide-breadcrumb: Tutorials
-user-guide-description: A collection of how-to videos and tutorials for Workfront.
+user-guide-title: sandbox
 ---
 
-# Workfront Tutorials {#guide-2}
+# Sandbox for testing {#sandbox}
 
 + [Overview](overview.md)
 
