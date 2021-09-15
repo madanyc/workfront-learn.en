@@ -9,6 +9,8 @@ user-guide-title: sandbox
 + [File 2](file-2.md)
 + Section 1 {#section-1}
   + [Bob's file](file-bob.md)
++ Section 2 {#section-2}
+  + [Macey's file](macey-toc-test.md)
 
 <!--
 Articles must be added to this TOC file in order to render.
