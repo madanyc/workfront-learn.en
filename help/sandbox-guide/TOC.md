@@ -9,6 +9,8 @@ user-guide-title: sandbox
 + [File 2](file-2.md)
 + Section 1 {#section-1}
   + [Bob's file](file-bob.md)
++ Betsey Section {#betsey}
+  + [Betsey's file](file-betsey.md)
 
 <!--
 Articles must be added to this TOC file in order to render.
