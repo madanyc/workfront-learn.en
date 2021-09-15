@@ -7,7 +7,7 @@ user-guide-title: sandbox
 + [Overview](overview.md)
 + [File 1](file-1.md)
 + [File 2](file-2.md)
-+ Section 2 {#section-2}
++ Ellie's section {#ellie}
   + [File 2](file-ellie.md)
 
 <!--
