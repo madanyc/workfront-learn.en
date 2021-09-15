@@ -7,6 +7,7 @@ user-guide-title: sandbox
 + [Overview](overview.md)
 + [File 1](file-1.md)
 + [File 2](file-2.md)
+
 + Section 1 {#section-1}
   + [Bob's file](file-bob.md)
 + Section 2 {#section-2}
@@ -15,6 +16,8 @@ user-guide-title: sandbox
   + [Allison's file](file-allison.md)  
 + Betsey Section {#betsey}
   + [Betsey's file](file-betsey.md)
++ Ellie's section {#ellie}
+  + [File 2](file-ellie.md)  
 
 <!--
 Articles must be added to this TOC file in order to render.
