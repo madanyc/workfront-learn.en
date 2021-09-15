@@ -7,6 +7,8 @@ user-guide-title: sandbox
 + [Overview](overview.md)
 + [File 1](file-1.md)
 + [File 2](file-2.md)
++ Section 1 {#section-1}
+  + [Bob's file](file-bob.md)
 
 <!--
 Articles must be added to this TOC file in order to render.
