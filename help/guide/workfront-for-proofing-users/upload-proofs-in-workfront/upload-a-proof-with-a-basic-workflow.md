@@ -1,6 +1,6 @@
 ---
-title: Upload a proof with a basic workflow
-description:  In this video, learn how to upload a file in Workfront so it generates a proof, add a basic proofing workflow so stakeholders can review and approve the asset, and set a deadline for the proofing review.
+title: How to Upload a Proof with a Basic Workflow
+description:  Learn how to upload files as proofs, add a basic proofing workflow for stakeholder review and approval, and set deadlines for proofing review in [!DNL Workfront].
 feature: Workfront
 topics: 
 activity: use

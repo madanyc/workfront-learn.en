@@ -1,6 +1,6 @@
 ---
-title: Benefits of proofing in Workfront
-description:  In this video, learn what proofing is and the benefits of using digital prooding in Workfront.
+title: Benefits of Proofing in Workfront
+description:  Learn what proofing is and the benefits of using digital proofing in [!DNL Adobe Workfront].
 feature: Workfront
 topics: 
 activity: use

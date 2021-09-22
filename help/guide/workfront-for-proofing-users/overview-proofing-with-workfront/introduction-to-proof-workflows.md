@@ -1,6 +1,6 @@
 ---
-title: Introduction to proof workflows
-description:  In this video, learn what information to gather to create a proof workflow and the difference between basic and advanced proof workflows.
+title: Proof Workflows Explained
+description:  Learn what information to gather to create a proof workflow and the difference between basic and advanced proof workflows in Adobe Workfront.
 feature: Workfront
 topics: 
 activity: use
