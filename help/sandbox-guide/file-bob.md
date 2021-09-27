@@ -15,6 +15,8 @@ Link in same folder:
 
 [Ellie's file](file-ellie.md)
 
+<!--
+
 Link with difficult "escapes"
 
 [Report Settings Difficult](../guide/basic-reporting/report-settings.md)
@@ -22,4 +24,4 @@ Link with difficult "escapes"
 Root link = / plus pasted relative link:
 
 [Report Settings Root](/help/guide/basic-reporting/report-settings.md)
-
+-->
