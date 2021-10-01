@@ -6,7 +6,7 @@ topics:
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket ###
+kt: 8824
 
 role: User
 level: Beginner
