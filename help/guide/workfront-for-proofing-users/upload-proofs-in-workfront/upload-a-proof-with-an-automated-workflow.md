@@ -21,3 +21,35 @@ In this video, you will learn:
 * How to set up an automated workflow from scratch
 
 >[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12)
+
+
+
+## Additional proof workflow settings
+
+The settings at the bottom of the proof upload window are optional, so check with your organization to see if and how you’re using them.
+
+![An image of the [!UICONTROL New Proof ]window with the [!UICONTROL Stage settings] highlighted.](assets/additional-proof-workflow-settings.png)
+
+* **[!UICONTROL Lock stage] —** This prevents the people in this workflow stage from making comments or changing decisions after their stage of the workflow is complete.
+* **[!UICONTROL Transfer primary decision rights to] —** Speed up the proofing process by designating a primary decision maker. When set, [!DNL Workfront] recognizes the proof decision by this person as THE decision. Once that person makes their decision, the stage is over and no other decisions are needed.
+* **[!UICONTROL Require only one decision for this stage] —** Another way to streamline the proofing process is to require only one decision on the proof. With this turned on, no matter how many approvers you have in that stage, once any of them makes a decision, that stage is complete.
+* **[!UICONTROL Make this stage private] —** By default, comments on proof are visible to everyone in all stages. Prevent proof recipients in other stages from seeing comments made during this stage by clicking the box.
+
+At the bottom of the proof upload window are several proof settings that affect the security of your proof, such as requiring a login to view the proof. 
+
+<!--
+Learn more about these in the Proof settings section of the Configure a proof article.
+-->
+
+![An image of the [!UICONTROL Proof settings] section of the proof upload window.](assets/additional-proof-workflow-settings-2.png)
+
+<!--
+### Learn more
+* Automated workflow overview
+* Automated workflow stages overview
+-->
+
+<!--
+### Guides
+* Plan an advanced workflow worksheet
+-->
