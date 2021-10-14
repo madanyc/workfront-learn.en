@@ -21,3 +21,15 @@ In this video, you will learn how to:
 * Set a deadline for the proofing review
 
 >[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12)
+
+<!--
+## Learn more
+* Supported proofing file types
+* Configure a proof
+-->
+
+<!--
+## Guides
+* Plan a basic workflow worksheet
+* Upload proofs in Workfront
+-->
