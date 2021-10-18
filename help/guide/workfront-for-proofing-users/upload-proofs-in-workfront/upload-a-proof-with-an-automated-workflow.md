@@ -53,3 +53,11 @@ Learn more about these in the Proof settings section of the Configure a proof ar
 ### Guides
 * Plan an advanced workflow worksheet
 -->
+
+## Why are you on the proof workflow?
+
+You’ll notice that you’re on the list of proof recipients because you’re the one uploading the proof. This also makes you the proof owner, which gives you edit rights over the proof, allowing you to change the workflow setups or upload a new version, among other things.
+
+![An image of the proof upload window with the proof owner highlighted in the list of recipients.](assets/proof-owner.png)
+
+If you’re just uploading the proof but someone else will be managing the workflow, you can change the proof owner by clicking the [!UICONTROL Owner] link and entering their name. This is recommended if someone other than the original uploader will be uploading a version.
