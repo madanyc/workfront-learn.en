@@ -18,3 +18,11 @@ In this video, you will learn how to:
 * Switch an existing workflow to an automated workflow
 
 >[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12)
+
+<!--
+## Learn more
+* Add stages and users to an automated workflow on a proof
+* Convert a basic workflow to an automated workflow on a proof
+* Create or edit an automated workflow for an existing proof
+* Edit proof stages and reviewers
+-->
