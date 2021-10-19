@@ -18,3 +18,10 @@ In this video, you will learn how to:
 * Delete a proof version
 
 >[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12)
+
+<!--
+## Learn more
+* Manage proof versions
+* Remove or archive a proof
+* Summary for documents overview
+-->
