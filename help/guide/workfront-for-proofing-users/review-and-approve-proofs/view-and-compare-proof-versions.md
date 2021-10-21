@@ -19,3 +19,8 @@ In this video, you will learn how to:
 * Compare the current version with an earlier version of the file 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12)
+
+<!--
+## Learn more
+* Compare proofs
+-->
