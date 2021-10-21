@@ -1,6 +1,6 @@
 ---
 title: Guide to Proofing Terminology
-description: Get familiar with the proofing terminology used in [!DNL Adobe Workfront].
+description: Get familiar with the terminology used in [!DNL Adobe Workfront] when talking about proof setups.
 ---
 # Proofing terminology
 
@@ -14,5 +14,5 @@ Before you dive into proof setups in [!DNL Adobe Workfront], get familiar with t
 * **Proof user —** Someone with a [!DNL Workfront] Plan or Work license who can upload, review, approve, manage, etc., digital proofs.
 
 <!--
-For a complete list of Workfront proof terms, download this guide.
+For a complete list of [!DNL Workfront] proof terms, download this guide.
 -->
