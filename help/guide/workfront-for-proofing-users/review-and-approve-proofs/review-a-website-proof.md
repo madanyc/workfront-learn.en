@@ -1,6 +1,6 @@
 ---
 title: How to Review a Website Proof
-description:  Learn how to open a static or interactive website proof in Adobe Workfront and make comments. 
+description:  Learn how to open a static or interactive website proof in [!DNL Adobe Workfront] and make comments. 
 topics: 
 activity: use
 doc-type: feature video
@@ -18,3 +18,9 @@ In this video, you will learn how to:
 * Make comments on an interactive website proof
 
 >[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12)
+
+<!--
+## Learn more
+* Review an interactive proof
+* Review a static proof
+-->
