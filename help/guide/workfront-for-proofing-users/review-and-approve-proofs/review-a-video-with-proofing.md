@@ -17,3 +17,8 @@ In this video, you will learn how to:
 * Adjust viewer settings
 
 >[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12)
+
+<!--
+## Learn more
+* Review a video proof
+-->
