@@ -1,11 +1,10 @@
 ---
 title: Use Workfront for Adobe Creative Cloud
-description:  In this video, learn how to use Workfront for Adobe Creative Cloud
-topics:
+description:  Learn how to use Workfront for Adobe Creative Cloud
 activity: use
-doc-type: feature video
+type: tutorial
 team: Technical Marketing
-kt: Jira ticket
+kt: 8811
 
 ---
 # Use Workfront for Adobe Creative Cloud

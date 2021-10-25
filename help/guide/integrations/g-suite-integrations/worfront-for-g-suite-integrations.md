@@ -1,19 +1,18 @@
 ---
 title: Workfront for G Suite Integration
-description:  In this video, learn how to convert an email to a Workfront task or issue, view and update Workfront work from Gmail, and approve Workfront work from Gmail.
-topics:
+description:  Learn how to convert an email to a Workfront task or issue, view and update Workfront work from Gmail, and approve Workfront work from Gmail.
 activity: use
-doc-type: feature video
+type: tutorial
 team: Technical Marketing
-kt: Jira ticket ###
+kt: 8813
 
 ---
-# Workfront for G Suite Integration
+# Workfront for [!DNL G Suite ]Integration
 
 In this video, you will learn how to:
 
 * Convert email to a Workfront task or issue
-* View and update Workfront work from Gmail
-* Approve Workfront work from Gmail
+* View and update Workfront work from [!DNL Gmail]
+* Approve Workfront work from [!DNL Gmail]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12)

@@ -1,13 +1,12 @@
 ---
 title: Assign tasks through Slack
-description:  In this video, learn how to assign tasks in Workfront
-topics:
+description:  Learn how to assign tasks in Workfront
 activity: use
-doc-type: feature video
+type: tutorial
 team: Technical Marketing
-kt: Jira ticket
+kt: 8817
 ---
-# Assign tasks through Slack
+# Assign tasks through [!DNL Slack]
 
 In this video, you will learn how to:
 

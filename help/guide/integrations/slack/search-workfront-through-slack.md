@@ -1,16 +1,15 @@
 ---
 title: Search Workfront through Slack
-description:  In this video, learn how to search Workfront through Slack
-topics:
+description:  Learn how to search Workfront through Slack
 activity: use
-doc-type: feature video
+type: tutorial
 team: Technical Marketing
-kt: Jira ticket
+kt: 8821
 ---
-# Search Workfront through Slack
+# Search Workfront through [!DNL Slack]
 
 In this video, you will learn how to:
 
-* Search Workfront through Slack
+* Search Workfront through [!DNL Slack]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12)

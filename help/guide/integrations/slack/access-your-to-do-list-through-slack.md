@@ -1,11 +1,10 @@
 ---
 title: Access your to-do list through Slack
-description:  In this video, learn how to access your to-do list in Workfront
-topics:
+description:  Learn how to access your to-do list in Workfront
 activity: use
-doc-type: feature video
+type: tutorial
 team: Technical Marketing
-kt: Jira ticket
+kt: 8818
 ---
 # Access your to-do list through Slack
 

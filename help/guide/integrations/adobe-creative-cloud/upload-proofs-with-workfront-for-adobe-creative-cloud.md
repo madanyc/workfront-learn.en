@@ -1,11 +1,10 @@
 ---
 title: Upload Proofs with Workfront for Adobe Creative Cloud
-description:  In this video, learn how to upload proofs with Workfront for Adobe Creative Cloud
-topics:
+description:  Learn how to upload proofs with Workfront for Adobe Creative Cloud
 activity: use
-doc-type: feature video
+type: tutorial
 team: Technical Marketing
-kt: Jira ticket ###
+kt: 8812
 
 ---
 # Upload Proofs with Workfront for Adobe Creative Cloud

@@ -1,16 +1,15 @@
 ---
 title: View recent work through Slack
-description:  In this video, learn how to view recent work through Slack
-topics:
+description:  Learn how to view recent work through Slack
 activity: use
-doc-type: feature video
+type: tutorial
 team: Technical Marketing
-kt: Jira ticket
+kt: 8820
 ---
-# View recent work through Slack
+# View recent work through [!DNL Slack]
 
 In this video, you will learn how to:
 
-* View recent work through Slack
+* View recent work through [!DNL Slack]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12)
