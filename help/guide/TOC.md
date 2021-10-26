@@ -1,12 +1,10 @@
 ---
-user-guide-title: Adobe Workfront Tutorials
-user-guide-breadcrumb: Tutorials
 user-guide-description: A collection of how-to videos and tutorials for Workfront.
 ---
 
-# Workfront Tutorials {#tutorials}
+# Workfront system setup tutorials {#tutorials-system-setup}
 
-+ [Overview](overview.md)
++ [System setup tutorials](overview.md)
 + Admin system setup {#system-setup}
   + [Add users to Workfront](admin-system-setups/add-users-to-workfront.md)
   + [Applying milestones](admin-system-setups/applying-milestones.md)
