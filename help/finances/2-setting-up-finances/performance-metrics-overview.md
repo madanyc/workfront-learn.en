@@ -1,6 +1,6 @@
 ---
 title: Performance Metrics overview
-Description: Performance Metrics overview
+description: Performance Metrics overview
 ---
 # Performance metrics overview
 
