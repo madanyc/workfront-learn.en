@@ -27,7 +27,8 @@ Exchange rates are managed by system administrators. Additional currencies can b
 ![An image of adding a currency to the exchange rates list](assets/setting-up-finances-5.png)
 
 >[!NOTE]
- >[!DNL Workfront] does not update or track current market values for exchange rates. Updates, if needed, must be done manually.
+>
+>[!DNL Workfront] does not update or track current market values for exchange rates. Updates, if needed, must be done manually.
 
 Learn More Icon
 <!--

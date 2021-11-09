@@ -63,7 +63,8 @@ Those two options are available under the [!UICONTROL Edit] option, along with:
 ![An image showing Financial Data edit options in an access level](assets/setting-up-finances-10.png)
 
 >[!NOTE]
- >A user with access to add expenses can also view the expenses they add, as well as expenses added by their direct reports.
+>
+>A user with access to add expenses can also view the expenses they add, as well as expenses added by their direct reports.
 
 Learn More Icon
 <!--

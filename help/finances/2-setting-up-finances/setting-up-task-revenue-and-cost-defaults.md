@@ -22,9 +22,11 @@ The revenue type and cost type are used to calculate the planned and actual fina
 * Role Hourly
 
 >[!NOTE]
- >When the revenue or cost types are set to Not Billable or No Cost, then revenue and cost estimates are not generated for the task. Therefore, work on the task does not contribute to project-level revenue or costs.
+>
+>When the revenue or cost types are set to Not Billable or No Cost, then revenue and cost estimates are not generated for the task. Therefore, work on the task does not contribute to project-level revenue or costs.
 
 ## Set revenue and cost defaults
+
 Select **[!UICONTROL Setup]** from the main menu.
 
 1. Click **[!UICONTROL Project Preferences]** in the left panel menu.
