@@ -1,6 +1,6 @@
 ---
 title: Setting up Task, Revenue, & Cost Defaults
-Description:
+Description: Setting up Task, Revenue, & Cost Defaults
 ---
 # Setting up task revenue & cost defaults
 

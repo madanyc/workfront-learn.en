@@ -1,6 +1,6 @@
 ---
 title: Exchange Rates in [!DNL Workfront]
-Description:
+Description: Exchange Rates in [!DNL Workfront]
 ---
 # Exchange rates in [!DNL Workfront]
 

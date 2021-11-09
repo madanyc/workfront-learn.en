@@ -1,6 +1,6 @@
 ---
 title: Expense Types in [!DNL Workfront]
-Description:
+Description: Expense Types in [!DNL Workfront]
 ---
 # Expense types in [!DNL Workfront]
 

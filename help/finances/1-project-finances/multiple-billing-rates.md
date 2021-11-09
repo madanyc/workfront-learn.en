@@ -1,6 +1,6 @@
 ---
 title: Multiple Billing Rates
-Description:
+Description: Multiple Billing Rates
 ---
 # Multiple billing rates
 

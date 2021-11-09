@@ -1,6 +1,6 @@
 ---
 title: Understanding Financial Access
-Description:
+Description: Understanding Financial Access
 ---
 # Understanding financial access
 
