@@ -1,6 +1,6 @@
 ---
 title: Date & Time and Mathematical expressions
-description: Learn what date, time, and mathematical expressions are and which ones are available to use when creating custom data in Adobe Workfront.
+description: Learn what date, time, and mathematical expressions are and which ones are available to use when creating custom data in Adobe [!UICONTROL Workfront].
 activity: use
 type: tutorial
 team: Technical Marketing
@@ -17,20 +17,20 @@ When looking at the available date and time expressions, you’ll find several o
 
 ![Resource management setups one pager](assets/DTM01.png)
 
-There are two date and time expression sets used most often by Workfront customers:
+There are two date and time expression sets used most often by [!DNL Workfront] customers:
 
 * ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEARS and 
 * DATEDIFF / WEEKDAYDIFF
 
 ## Mathematical expressions
 
-Mathematical expressions allow Workfront to automatically do calculations, whether simple or complicated.
+Mathematical expressions allow [!DNL Workfront] to automatically do calculations, whether simple or complicated.
 
 When looking at the available date and time expressions, you’ll find that you have several options available.
 
 ![Resource management setups one pager](assets/math01.png)
 
-Workfront customers commonly use these two mathematical expression sets:
+[!DNL Workfront] customers commonly use these two mathematical expression sets:
 
 * SUB, SUM, DIV, PROD
 * ROUND

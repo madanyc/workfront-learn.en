@@ -1,13 +1,13 @@
 ---
-title: Workfront for G Suite Integration
-description:  Learn how to convert an email to a Workfront task or issue, view and update Workfront work from Gmail, and approve Workfront work from Gmail.
+title: [!DNL Workfront] for G Suite Integration
+description:  Learn how to convert an email to a [!DNL Workfront] task or issue, view and update [!DNL Workfront] work from Gmail, and approve [!DNL Workfront] work from Gmail.
 activity: use
 type: tutorial
 team: Technical Marketing
 kt: 8813
 
 ---
-# Workfront for [!DNL G Suite ]Integration
+# [!DNL Workfront] for G Suite Integration
 
 In this video, you will learn how to:
 

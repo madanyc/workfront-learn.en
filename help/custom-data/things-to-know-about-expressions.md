@@ -1,6 +1,6 @@
 ---
 title: Things to know about calculated field expressions
-description: Get a glimps at a list of concepts that are good to know when working with custom calculated fields in Workfront.
+description: Get a glimps at a list of concepts that are good to know when working with custom calculated fields in [!DNL Workfront].
 activity: use
 type: tutorial
 team: Technical Marketing
@@ -9,7 +9,7 @@ exl-id:
 ---
 # Things to know about calculated field exprsesions
 
-Here is a list of concepts that are good to know when working with custom calculated fields in Workfront.
+Here is a list of concepts that are good to know when working with custom calculated fields in [!DNL Workfront].
 
 ## Casing doesn’t matter in expression names
 
@@ -24,7 +24,7 @@ All of them will work.
 
 ## Hours are stored in minutes
 
-Hours in Workfront’s database are stored in minutes. If you’re referencing fields like Planned Hours or Actual Hours, divide by 60 to show the time in hours and not minutes. 
+Hours in [!DNL Workfront’s] database are stored in minutes. If you’re referencing fields like Planned Hours or Actual Hours, divide by 60 to show the time in hours and not minutes. 
 
 ## Spacing doesn’t affect expressions
 
@@ -32,13 +32,13 @@ The recommended way to write expressions is with little to no spacing between ea
 
 * IF(ISBLANK(Description),”No Description”,”Has Description”)
 
-However, if spacing helps you see what is going on, some spacing can be added to the expressions. The extra spaces shouldn’t prevent the expression from gathering or calculating a value in Workfront. 
+However, if spacing helps you see what is going on, some spacing can be added to the expressions. The extra spaces shouldn’t prevent the expression from gathering or calculating a value in [!DNL Workfront]. 
 
 * IF  (ISBLANK  (Description), ”No Description” ,  ”Has Description” )
 
 ## Quotation marks must be straight
 
-When using quotation marks in an expression, make sure the quotation marks are straight ("). If the quotation marks are curved (") the Workfront system will continue to display a "Custom Expression Invalid" message.
+When using quotation marks in an expression, make sure the quotation marks are straight ("). If the quotation marks are curved (") the [!DNL Workfront] system will continue to display a "Custom Expression Invalid" message.
 
 ## Calculations update on form save and object edit
 
@@ -51,7 +51,7 @@ You want to see the number of days an issue has been open. Create a calculated f
 * Field Name = Days Open
 * Expression = DATEDIFF(Entry Date,$$TODAY)
  
-Once saved, the number of days between when the issue was first created, or entered in Workfront, and today's date can be shown on the details page of an object or in a report view. 
+Once saved, the number of days between when the issue was first created, or entered in [!DNL Workfront], and today's date can be shown on the details page of an object or in a report view. 
 
 When viewing the same details page or report view the following day, you expect that number to increment by one. If the number is 5 today, it should be 6 tomorrow. The next day should be 7, then 8, etc. 
 
@@ -87,7 +87,7 @@ For example, you’ve created a calculated field, “Days to Complete,” to det
 
 *  WEEKDAYDIFF(Actual Start Date,Actual Completion Date)
 
-You want to do the same thing for an iteration. You can use the same expression; however, the fields available for a task object are not always available for an iteration object. So Workfront gives you the chance to build the calculation with the correct object fields.
+You want to do the same thing for an iteration. You can use the same expression; however, the fields available for a task object are not always available for an iteration object. So [!DNL Workfront] gives you the chance to build the calculation with the correct object fields.
 
 **Pro-Tip**: Copy the calculated expression from the Calculation box to the Instructions field when creating custom fields. This field is not erased when a calculated custom field is added to the custom form from the Field Library. 
 

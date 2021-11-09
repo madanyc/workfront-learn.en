@@ -1,6 +1,6 @@
 ---
 title: Data expression structure
-description:  Learn the standard elements used when building expressions in Adobe Workfront.
+description:  Learn the standard elements used when building expressions in Adobe [!DNL Workfront].
 activity: use
 type: tutorial
 team: Technical Marketing
@@ -11,6 +11,6 @@ kt: 8911
 
 In this video, you will learn:
 
-* The standard elements used when building expressions in Workfront
+* The standard elements used when building expressions in [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335174/?quality=12)

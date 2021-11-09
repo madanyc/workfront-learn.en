@@ -1,6 +1,6 @@
 ---
 title: Create LEFT / RIGHT expressions
-description:  Learn how to use the LEFT/RIGHT expressions in a calculated field in Adobe Workfront.
+description:  Learn how to use the LEFT/RIGHT expressions in a calculated field in Adobe [!DNL Workfront].
 activity: use
 type: tutorial
 team: Technical Marketing

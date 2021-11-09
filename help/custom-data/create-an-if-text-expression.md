@@ -1,6 +1,6 @@
 ---
 title: Create an IF text expression
-description:  Learn what an IF expression does and how to use it in a calculated field in Workfront.
+description:  Learn what an IF expression does and how to use it in a calculated field in [!DNL Workfront].
 activity: use
 type: tutorial
 team: Technical Marketing

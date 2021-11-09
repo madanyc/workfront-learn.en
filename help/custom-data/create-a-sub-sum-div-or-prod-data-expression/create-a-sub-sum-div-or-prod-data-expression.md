@@ -1,6 +1,6 @@
 ---
 title: Create a SUB, SUM, DIV, or PROD data expression
-description:  Learn how to use and create the basic mathematical expressions in the a calculated field in Adobe Workfront.
+description:  Learn how to use and create the basic mathematical expressions in the a calculated field in Adobe [!DNL Workfront].
 activity: use
 type: tutorial
 team: Technical Marketing
@@ -41,7 +41,7 @@ However, if the field format when creating a custom field is left as Text, the f
 ![Workload balancer with utilization report](assets/round02.png)
 
 Use the ROUND data expression in a calculated field
-The ROUND expression includes the name of the expression (ROUND) and, typically, two data points. These data points can be an expression or a field in Workfront, followed by a number to indicate how many decimal places you would like to go.
+The ROUND expression includes the name of the expression (ROUND) and, typically, two data points. These data points can be an expression or a field in [!DNL Workfront], followed by a number to indicate how many decimal places you would like to go.
 
 An expression would be structured like this: ROUND(data point, #)
 

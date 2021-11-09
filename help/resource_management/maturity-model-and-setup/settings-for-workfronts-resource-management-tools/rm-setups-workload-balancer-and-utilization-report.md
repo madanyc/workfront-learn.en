@@ -9,7 +9,7 @@ exl-id:
 ---
 # Resource management setups, Workload Balancer, and Utilization Report
 
-Workfront offers data, across multiple tools in Workfront, to help make your resource decisions easier and your processes smoother. To see what’s going on with your resources, you should make sure your managers, your users, and your projects are configured properly. These configurations are helpful even if you don’t plan on using all of Workfront’s resource management tools.
+[!DNL Workfront] offers data, across multiple tools in [!DNL Workfront], to help make your resource decisions easier and your processes smoother. To see what’s going on with your resources, you should make sure your managers, your users, and your projects are configured properly. These configurations are helpful even if you don’t plan on using all of [!DNL Workfront’s] resource management tools.
 
 In this section you will learn:
 

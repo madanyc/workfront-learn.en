@@ -5,7 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 ---
-# Settings to consider for the [!DNL Workload Balancer]
+# Settings to consider for the Workload Balancer
 
 There are a couple of Workload Balancer settings to consider as you dive into the individual workloads of your users:
 

@@ -9,7 +9,7 @@ kt: 8873
 ---
 # Resource management settings for users
 
-When it comes to understanding what resources are available, there are several things that need to be applied to each user in Workfront. 
+When it comes to understanding what resources are available, there are several things that need to be applied to each user in [!DNL Workfront]. 
 
 In this video tutorial, you will learn about settings for:
 
