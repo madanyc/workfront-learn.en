@@ -1,0 +1,18 @@
+---
+title: Course Introduction
+description:  Learn how to use a project's budget, track costs and revenue, and handle expenses in [!DNL Adobe Workfront].
+activity: use
+type: Tutorial
+team: Technical Marketing
+kt: Jira ticket 
+
+---
+# Course introduction
+
+In this video, you will learn how to:
+
+* Use a project's budget
+* Track costs and revenue
+* Handle expenses
+
+>[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12)
