@@ -8,13 +8,13 @@ level: Intermediate
 
 + [[!DNL Workfront] finances tutorials](home.md)
 + Project finances {#1-project-finances}
-  + [Project finances](1-project-finances/project-finance-page.md)
+  + [Use the project finance page](1-project-finances/project-finance-page.md)
   + [Understand multiple billing rates](1-project-finances/multiple-billing-rates.md)
 + Setting up finances {#2-setting-up-finances}
-  + [Performance metrics](2-setting-up-finances/performance-metrics-overview.md)
-  + [Task revenue & cost defaults](2-setting-up-finances/setting-up-task-revenue-and-cost-defaults.md)
-  + [Exchange rates](2-setting-up-finances/exchange-rates-in-workfront.md)
-  + [Exchange types](2-setting-up-finances/expense-types-in-workfront.md)
+  + [Understand performance metrics](2-setting-up-finances/performance-metrics-overview.md)
+  + [Setup task revenue & cost defaults](2-setting-up-finances/setting-up-task-revenue-and-cost-defaults.md)
+  + [Setup exchange rates](2-setting-up-finances/exchange-rates-in-workfront.md)
+  + [Setup exchange types](2-setting-up-finances/expense-types-in-workfront.md)
   + [Understand financial access](2-setting-up-finances/understanding-financial-access.md)
 
 <!--

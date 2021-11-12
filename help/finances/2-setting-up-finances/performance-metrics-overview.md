@@ -1,8 +1,8 @@
 ---
-title: Performance Metrics overview
+title: Understand Performance Metrics
 description: Performance Metrics overview
 ---
-# Performance metrics overview
+# Understand performance metrics
 
 Two performance metrics used by project managers include the [!UICONTROL Performance Index Method] ([!UICONTROL PIM]) and the [!UICONTROL Estimate at Completion] ([!UICONTROL EAC]). System-wide defaults can be set in [!DNL Workfront] and apply to newly created projects. [!UICONTROL PIM] can then be modified on individual projects.
 
