@@ -38,6 +38,7 @@ As you're sharing calendars, here are a few things to note:
 * [!UICONTROL Manage] access allows users to look at the calendar and change the filters that control the groupings.
 
 ## Shareable link
+
 You can share a calendar with other [!DNL Workfront] users through a private link. This takes them directly to the calendar in [!DNL Workfront]. 
 
 You can do this from the **[!UICONTROL Calendar Actions]** menu, by selecting **[!UICONTROL Get Shareable Link]**. From there, click the **[!UICONTROL Copy Link]** button and paste the URL into an email or instant message with someone else.

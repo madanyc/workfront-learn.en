@@ -40,7 +40,8 @@ Here's how to create your own custom calendar.
 ![An image of the screen to add work items to a calendar grouping](assets/calendar-2-2.png)
 
 >[!NOTE]
- >Additional groupings can be added to an existing calendar by using the Add to Calendar option.
+>
+>Additional groupings can be added to an existing calendar by using the Add to Calendar option.
 
 ## Create a calendar showing personal time off
 

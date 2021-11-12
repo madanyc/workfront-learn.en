@@ -20,6 +20,7 @@ A single calendar can be organized into distinct work item groupings. Each group
 ![An image of the calendar screen](assets/calendar-1-1a.png)
 
 ## Calendar views
+
 The calendar can be displayed in month, week, or [!UICONTROL Gantt] format. Use the scroll bar on the side or the arrows at the top to move through the calendar. The [!UICONTROL Gantt] view lets you see your work from a different perspective. Find the view that works best for you. 
 
 ![An image of the calendar screen in the month view](assets/calendar-1-1b.png)
@@ -46,9 +47,11 @@ Select an item on the calendar to display summary details of that item, includin
 ![An image of the summary details screen of a calendar item](assets/calendar-1-2.png)
 
 ## Ad hoc events
+
 Double-click to create ad hoc events on a calendar to represent your schedule or other work items.
 
 >[!NOTE]
- >Creating an ad hoc event does NOT create a task in Workfront.
+>
+>Creating an ad hoc event does NOT create a task in Workfront.
 
 ![An image of adding an ad hoc event to a calendar](assets/calendar-1-3.png)
