@@ -1,9 +1,8 @@
 ---
 title: How to Review a Video with Proofing
 description:  Learn how to adjust viewer settings and add time-stamped comments to a video using  proofing in [!DNL Adobe Workfront].
-topics: 
 activity: use
-doc-type: feature video
+type: Tutorial
 team: Technical Marketing
 kt: 8847
 

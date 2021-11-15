@@ -1,9 +1,8 @@
 ---
 title: Guide to Proof Viewer Navigation
 description:  Learn how to move a proof around, zoom in/out on the content, use the thumbnail column, filter proof comments, and more in the [!DNL Adobe Workfront] proofing viewer.
-topics: 
 activity: use
-doc-type: feature video
+type: Tutorial
 team: Technical Marketing
 kt: 8840
 

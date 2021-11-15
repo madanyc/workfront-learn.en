@@ -1,8 +1,8 @@
 ---
-title: Exchange Rates in [!DNL Workfront]
+title: Setup Exchange Rates in [!DNL Workfront]
 description: Exchange Rates in [!DNL Workfront]
 ---
-# Exchange rates in [!DNL Workfront]
+# Setup exchange rates in [!DNL Workfront]
 
 [!DNL Workfront] supports different currencies for customer organizations that are multinational companies. Exchange rates can be used on projects and reports to reflect financial information in different currencies from around the world.
 

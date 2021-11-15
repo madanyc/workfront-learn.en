@@ -1,8 +1,8 @@
 ---
-title: Expense Types in [!DNL Workfront]
+title: Setup Expense Types in [!DNL Workfront]
 description: Expense Types in [!DNL Workfront]
 ---
-# Expense types in [!DNL Workfront]
+# Setup expense types in [!DNL Workfront]
 
 Expenses in [!DNL Workfront] represent non-labor costs associated with projects and other work. Expenses could be, for example, travel expenditures while visiting a client or the purchase of supplies needed to complete a photo shoot. These expenses should be logged within the project so planned costs and actual costs can be calculated and reported on for any project.
 

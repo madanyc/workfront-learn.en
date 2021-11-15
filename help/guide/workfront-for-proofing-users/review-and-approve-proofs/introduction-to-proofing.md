@@ -1,6 +1,6 @@
 ---
 title: Get Started with Proofing
-description: Learn what Adobe Workfront's digital review and approval features are at a high level.
+description: Learn what [!DNL Adobe Workfront's] digital review and approval features are at a high level.
 ---
 # Introduction to proofing
 

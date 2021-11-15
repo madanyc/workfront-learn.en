@@ -1,9 +1,8 @@
 ---
 title: Learn How to Manage Proof Versions
 description:  Learn how to find the details of when a proof was uploaded, download all versions of a proof, and delete a proof version in [!DNL Adobe Workfront].
-topics: 
 activity: use
-doc-type: feature video
+type: Tutorial
 team: Technical Marketing
 kt: 8837
 
