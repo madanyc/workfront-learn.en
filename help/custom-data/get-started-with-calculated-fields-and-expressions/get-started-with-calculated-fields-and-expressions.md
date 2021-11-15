@@ -1,5 +1,5 @@
 ---
-title: Getting started with calculated fields and expressions
+title: Get started with calculated fields and expressions
 description:  Learn how to create expressions in calculated fields to gather unique custom data about the work being done for your organization.
 activity: use
 type: tutorial
@@ -7,7 +7,7 @@ team: Technical Marketing
 
 exl-id: 
 ---
-# Getting started with calculated fields and expressions
+# Get started with calculated fields and expressions
 
 <!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by Adobe Workfront. However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
 
