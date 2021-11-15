@@ -4,7 +4,6 @@ description:  Learn how to create a simple report using an existing filter, view
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: Jira ticket 
 
 ---
 # Use the project finance page
