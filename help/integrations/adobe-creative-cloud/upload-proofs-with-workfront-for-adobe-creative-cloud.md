@@ -2,7 +2,7 @@
 title: Upload Proofs with Workfront for Adobe Creative Cloud
 description:  Learn how to upload proofs with [!DNL Workfront] for Adobe Creative Cloud
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8812
 

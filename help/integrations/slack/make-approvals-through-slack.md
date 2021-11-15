@@ -2,7 +2,7 @@
 title: Make approvals through Slack
 description:  Learn how to make approvals through Slack
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8819
 ---

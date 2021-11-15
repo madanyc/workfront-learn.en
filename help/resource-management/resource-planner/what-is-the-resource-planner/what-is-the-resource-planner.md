@@ -2,7 +2,7 @@
 title: What is the Resource Planner?
 description:  Learn what the resource planner is.
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8879
 

@@ -2,7 +2,7 @@
 title: Search Workfront through Slack
 description:  Learn how to search [!DNL Workfront] through Slack
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8821
 ---

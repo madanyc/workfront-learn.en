@@ -2,7 +2,7 @@
 title: View recent work through Slack
 description:  Learn how to view recent work through Slack
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8820
 ---

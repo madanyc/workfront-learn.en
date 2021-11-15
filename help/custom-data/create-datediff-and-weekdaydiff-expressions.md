@@ -2,7 +2,7 @@
 title: Create DATEDIFF and WEEKDAYDIFF expressions
 description:  Learn how to use and create the DATEDIFF expressions in a calculated field in Adobe [!DNL Workfront].
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8913
 

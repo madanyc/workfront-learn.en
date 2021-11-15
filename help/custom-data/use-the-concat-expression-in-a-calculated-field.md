@@ -2,7 +2,7 @@
 title: Use the CONCAT expression in a calculated field
 description:  Learn how to use the CONCAT expression in a calculated field in Adobe [!DNL Workfront].
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8915
 

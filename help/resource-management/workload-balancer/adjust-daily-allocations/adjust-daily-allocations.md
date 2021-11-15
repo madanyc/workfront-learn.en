@@ -2,7 +2,7 @@
 title: Adjust daily allocations in the Workload Balancer
 description:  Learn how to redistribute allocated hours or percentages and reassign work from one user to another.
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8877
 

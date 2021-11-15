@@ -2,7 +2,7 @@
 title: View by project in the Resource Planner
 description:  See how to use the View by Project option and how resource information is displayed in this view.
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8907
 

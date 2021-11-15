@@ -2,7 +2,7 @@
 title: Get started with calculated fields and expressions
 description:  Learn how to create expressions in calculated fields to gather unique custom data about the work being done for your organization.
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 
 exl-id: 

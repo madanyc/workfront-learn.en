@@ -2,7 +2,7 @@
 title: View user allocations in the Workload Balancer
 description:  Learn how to select Chart mode to get a high-level view of user allocaiton and show users' daily allocation breakdowns.
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8876
 

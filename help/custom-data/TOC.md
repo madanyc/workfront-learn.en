@@ -6,17 +6,17 @@ user-guide-description: A collection of how-to videos and tutorials for Workfron
 
 + [Custom data tutorials](home.md)
   + [Get started with calculated fields and expressions](get-started-with-calculated-fields-and-expressions/get-started-with-calculated-fields-and-expressions.md)
-  + [Data expressions](custom-data/data-expression-structure.md)
+  + [Data expressions](data-expression-structure.md)
   + [Date & Time and Mathematical expressions](date-and-time-and-mathematical-expressions/date-and-time-and-mathematical-expressions.md)
-  + [Create ADDDAYS, ADDWEEKDAY, ADDMONTHS, and ADDYEARS expressions](custom-data/create-adddays-addweekdays-addmonths-addyears-expressions.md)
-  + [Create DATEDIFF and WEEKDAYDIFF expressions](custom-data/create-datediff-and-weekdaydiff-expressions.md)
+  + [Create ADDDAYS, ADDWEEKDAY, ADDMONTHS, and ADDYEARS expressions](create-adddays-addweekdays-addmonths-addyears-expressions.md)
+  + [Create DATEDIFF and WEEKDAYDIFF expressions](create-datediff-and-weekdaydiff-expressions.md)
   + [Create a SUB, SUM, DIV, or PROF data expressions](create-a-sub-sum-div-or-prod-data-expression/create-a-sub-sum-div-or-prod-data-expression.md)
   + [Text expressions](text-expressions/text-expressions.md)
   + [ISBLANK and CONTAINS exprsesions](isblank-and-contains/isblank-and-contains.md)
-  + [Use the CONCAT expression in a calculated field](custom-data/use-the-concat-expression-in-a-calculated-field.md)
-  + [Create LEFT/RIGHT expressions](custom-data/create-left-right-expressions.md)
-  + [Create an IF text expression](custom-data/create-an-if-text-expression.md)
-  + [Things to know about expressions](custom-data/things-to-know-about-expressions.md)
+  + [Use the CONCAT expression in a calculated field](use-the-concat-expression-in-a-calculated-field.md)
+  + [Create LEFT/RIGHT expressions](create-left-right-expressions.md)
+  + [Create an IF text expression](create-an-if-text-expression.md)
+  + [Things to know about expressions](things-to-know-about-expressions.md)
 
 
 

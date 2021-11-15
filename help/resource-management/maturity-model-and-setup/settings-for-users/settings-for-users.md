@@ -2,7 +2,7 @@
 title: Resource management settings for users
 description:  Learn about the user settings needed to properly use the resource management tools.
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8873
 

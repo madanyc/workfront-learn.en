@@ -2,7 +2,7 @@
 title: View by job role in the Resource Planner
 description:  See how to use the View by Job Role option and how resource information is displayed in this view.
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8906
 

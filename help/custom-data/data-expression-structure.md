@@ -2,7 +2,7 @@
 title: Data expression structure
 description:  Learn the standard elements used when building expressions in Adobe [!DNL Workfront].
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8911
 

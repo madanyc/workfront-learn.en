@@ -2,7 +2,7 @@
 title: Things to know about calculated field expressions
 description: Get a glimps at a list of concepts that are good to know when working with custom calculated fields in [!DNL Workfront].
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 
 exl-id: 

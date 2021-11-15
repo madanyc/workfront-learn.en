@@ -2,7 +2,7 @@
 title: Integrations for Microsoft Outlook
 description:  Learn how to install the Microsoft Outlook Add-in
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8814
 

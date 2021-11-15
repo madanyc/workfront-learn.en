@@ -2,7 +2,7 @@
 title: Assign work in the Workload Balancer
 description:  Learn how view the task summary panel and make assignments to an unassigned task.
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8878
 

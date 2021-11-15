@@ -2,7 +2,7 @@
 title: Text expressions
 description:  Learn what text expressions are and which ones are available to use when creating custom data in Adobe [!DNL Workfront].
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 
 exl-id: 

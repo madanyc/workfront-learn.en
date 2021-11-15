@@ -2,7 +2,7 @@
 title: Use Workfront for Adobe Creative Cloud
 description:  Learn how to use [!DNL Workfront] for Adobe Creative Cloud
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8811
 

@@ -2,7 +2,7 @@
 title: Access your to-do list through Slack
 description:  Learn how to access your to-do list in [!DNL Workfront]
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8818
 ---

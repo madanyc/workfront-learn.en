@@ -2,7 +2,7 @@
 title: Introduction to [!DNL Workfront] for Slack
 description:  Learn how to get an introduction into what you will learn from other [!DNL Workfront] for Slack videos.
 activity: use
-type: tutorial
+type: Tutorial
 team: Technical Marketing
 kt: 8815
 ---
