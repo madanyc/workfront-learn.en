@@ -1,8 +1,8 @@
 ---
-title: Setting up Task, Revenue, & Cost Defaults
+title: Setup Task Revenue & Cost Defaults
 description: Setting up Task, Revenue, & Cost Defaults
 ---
-# Setting up task revenue & cost defaults
+# Setup task revenue & cost defaults
 
 The revenue type and cost type are used to calculate the planned and actual financial information for a task. Default information for each of these can be set system-wide, so it applies to each new task created. The information can be changed on individual projects or set on project templates.
 

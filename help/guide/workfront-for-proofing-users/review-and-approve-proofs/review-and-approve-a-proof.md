@@ -1,9 +1,8 @@
 ---
 title: How to Review and Approve a Proof
 description:  Learn how to access and comment on a proof, use markup to indicate necessary changes, reply to proof comments, and make a decision on a proof in [!DNL Workfront].
-topics: 
 activity: use
-doc-type: feature video
+type: Tutorial
 team: Technical Marketing
 kt: 8841
 

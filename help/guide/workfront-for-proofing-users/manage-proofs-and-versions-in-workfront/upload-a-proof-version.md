@@ -1,9 +1,8 @@
 ---
 title: How to Upload a Proof Version
 description:  Learn how to upload a new version of a proof and apply a proofing workflow to the version in [!DNL Adobe Workfront].
-topics: 
 activity: use
-doc-type: feature video
+type: Tutorial
 team: Technical Marketing
 kt: 8836
 

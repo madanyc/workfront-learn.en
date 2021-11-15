@@ -1,8 +1,8 @@
 ---
-title: Understanding Financial Access
+title: Understand Financial Access
 description: Understanding Financial Access
 ---
-# Understanding financial access
+# Understand financial access
 
 If your organization is capturing any financial data with [!DNL Workfront], as the system administrator, it is your responsibility to protect and manage who has access to view and edit that information.
 

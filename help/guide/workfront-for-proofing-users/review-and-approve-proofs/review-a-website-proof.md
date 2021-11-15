@@ -1,9 +1,8 @@
 ---
 title: How to Review a Website Proof
 description:  Learn how to open a static or interactive website proof in [!DNL Adobe Workfront] and make comments. 
-topics: 
 activity: use
-doc-type: feature video
+type: Tutorial
 team: Technical Marketing
 kt: 8846
 

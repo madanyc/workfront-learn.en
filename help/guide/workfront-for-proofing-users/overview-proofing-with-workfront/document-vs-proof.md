@@ -2,9 +2,8 @@
 title: Documents and Proofs Explained
 description:  Learn the difference between a document and a proof in [!DNL Adobe Workfront].
 feature: Workfront
-topics: 
 activity: use
-doc-type: feature video
+type: Tutorial
 team: Technical Marketing
 kt: 8823
 
@@ -16,6 +15,6 @@ exl-id: ?????????
 
 In this video, you will learn:
 
-* The difference between a document and a proof in Workfront
+* The difference between a document and a proof in [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12)
