@@ -1,0 +1,28 @@
+---
+title: How to Sequence Tasks Using Predecessors
+description: Learn what a predecessor is and how they sequence tasks in a project. Then learn to use durations and predecessors to create a timeline.
+activity: use
+type: Tutorial
+team: Technical Marketing
+kt: 8778
+---
+# Sequence the tasks in your project with predecessors
+
+In this video, you will learn:
+
+* What a predecessor is in [!DNL Adobe Workfront]
+* How predecessors sequence tasks in a project
+* How to use durations and predecessors to create a timeline
+* How to change or enter predecessors
+
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12)
+
+<!---
+Learn more urls
+There’s a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you’re curious, here are some articles about additional functionality.
+Overview of task predecessors
+Create predecessor relationships by chaining tasks
+Creating a predecessor relationship on the task list
+Overview of lag types
+Overview of task dependency types
+--->

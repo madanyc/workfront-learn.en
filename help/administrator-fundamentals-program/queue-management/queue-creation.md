@@ -1,0 +1,34 @@
+---
+title: How to Create a Request Queue
+description: Learn how to set up a request queue and establish queue details in [!DNL Adobe Workfront]. Follow these steps to help help your organization manage work intake.
+activity: deploy
+type: Tutorial
+team: Technical Marketing
+kt: 8958
+---
+# Create request queues
+
+In this video, you will learn how to:
+
+* Create a request queue by first creating a project in [!DNL Adobe Workfront]
+* Set up a request queue
+* Set up the request queue details
+
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12)
+
+<!---
+Let's take a minute to review the information you were just presented.
+
+Which of the following must be in place in order for a Request Queue to go live? (select all that apply)
+
+Project status = current
+"Issue" from the request type is selected
+"Publish as Help Request Queue" is selected
+Project Status = Current or Planning
+
+Answer: a) Project status = current and c) "Publish as Help Request Queue" is selected
+
+2. Requests can be made via email. True or false?
+
+Answer: True
+--->
