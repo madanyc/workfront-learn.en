@@ -1,0 +1,17 @@
+---
+title: Convert an Activity or Result into an Aligned Goal
+description:  Learn how to convert an activity or result into an aligned goal in [!DNL Adobe Workfront Goals].
+activity: use
+type: Tutorial
+team: Technical Marketing
+kt: 8898
+---
+# Top-to-bottom approach. Convert existing activities and results (work) to child goals.
+
+The second way to align goals is by converting an existing result or activity of a goal into a new goal. The converted result/activity becomes the child goal of the original goal. A top-down approach might be used when the scope of work for the activity/result is bigger than planned and should be encompassed within its own child goal that has additional activities and results. This is a way to cascade goals and spread out the work to make the goal more measurable and achievable.
+
+In this video, you will learn how to:
+
+* Convert an activity into an aligned goal
+
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12)

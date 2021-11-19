@@ -1,0 +1,21 @@
+---
+title: How to Customize [!UICONTROL Workfront DAM]
+description: Learn how to customize [!UICONTROL Workfront DAM] by creating watermarks, customizing the [!UICONTROL DAM] login window, branding the interface, and more.
+activity: use
+type: Tutorial
+team: Technical Marketing
+kt: 8969
+---
+# System setup: Customize [!UICONTROL Workfront DAM]
+
+In this video, you will learn how to:
+
+* Create watermarks
+* Customize the [!UICONTROL Workfront DAM] login window
+* Brand the interface with your colors and logo
+* Customize emails sent from [!UICONTROL Workfront DAM]
+* Establish rules for downloading assets
+* Control in-app notifications
+* Plan for setting up and maintaining [!UICONTROL Workfront DAM]
+
+>[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12)

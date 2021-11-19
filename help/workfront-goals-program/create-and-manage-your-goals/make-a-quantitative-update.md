@@ -1,0 +1,15 @@
+---
+title: Make a Quantitative Update in [!DNL Workfront Goals]
+description: Learn how to make a quantitative update in [!DNL Adobe Workfront Goals].
+activity: use
+type: Tutorial
+team: Technical Marketing
+kt: 8924
+---
+# Make a quantitative update
+
+In this video, you will learn how to:
+
+* Make a quantitative update, or an update to progress indicators (i.e., results, activities, aligned goals, etc.) to drive your goal’s progress
+
+>[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12)
