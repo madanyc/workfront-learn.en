@@ -3,6 +3,8 @@ title: Prioritize and Manage Work with Portfolios
 description: Learn how to prioritize and manage work with portfolios in [!DNL Adobe Workfront].
 ---
 
+# Prioritize and manage work with portfolios
+
 All of the information entered in the [!UICONTROL Business Case] rolls up to the portfolio and into the default view in the [!UICONTROL Portfolio Optimization] section. 
 
 ![An image of the [!UICONTROL Portfolio Optimizer] area with information from the [!UICONTROL Business Case]](assets/10-portfolio-management9.png)
