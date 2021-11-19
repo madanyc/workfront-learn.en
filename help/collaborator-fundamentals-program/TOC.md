@@ -12,6 +12,6 @@ level: Beginner
   + [Update a request](/help/collaborator-fundamentals-program/update-a-request.md) 
 + Review work {#review-work} 
   + [Introduction](/help/collaborator-fundamentals-program/introduction-to-workfront-for-reviewers.md) 
-  + [Approve digital work](/help/collaborator-fundamentals-program/review-and-approve-digitial-work.md) 
+  + [Approve digital work](/help/collaborator-fundamentals-program/review-and-approve-digital-work.md) 
 + [Updates and notifications](/help/collaborator-fundamentals-program/updates-and-notifications.md)
 + [Delegate approvals](/help/collaborator-fundamentals-program/delegate-approvals.md) 

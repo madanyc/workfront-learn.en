@@ -23,7 +23,7 @@ level: Beginner
     + [Proof actions](proof-system-setups-part-one-system-and-user-settings/actions-for-proof-comments.md) 
 + Workflow templates {#workflow-templates} 
   + [Introduction](proof-system-setups-part-two-workflow-management/introduction-to-automated-workflow-templates.md) 
-  + [Template groups](help/setups-for-proofing-in-workfront-program/proof-system-setups-part-two-workflow-management/create-template-groups.md) 
+  + [Template groups](/help/setups-for-proofing-in-workfront-program/proof-system-setups-part-two-workflow-management/create-template-groups.md) 
   + [Create a template](proof-system-setups-part-two-workflow-management/create-an-automated-workflow-template.md) 
   + [Edit a template](proof-system-setups-part-two-workflow-management/demo-edit-a-proof-template.md) 
 + Proof reports {#proof-reports} 

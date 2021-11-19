@@ -8,16 +8,16 @@ level: Beginner
 
 + [Workfront tutorials for workers](home.md) 
 + Find and manage work {#find-and-manage-work} 
-  + [Find work](/help/worker-fundamentals-programworker-fundamentals-program/find-your-work-in-workfront-home.md) 
-  + [Organize the Work List](/help/worker-fundamentals-programworker-fundamentals-program/organize-your-to-do-list-in-workfront-home.md) 
-  + [Prioritize work](/help/worker-fundamentals-programworker-fundamentals-program/prioritize-your-work-in-workfront-home.md) 
+  + [Find work](/help/worker-fundamentals-program/find-your-work-in-workfront-home.md) 
+  + [Organize the Work List](/help/worker-fundamentals-program/organize-your-to-do-list-in-workfront-home.md) 
+  + [Prioritize work](/help/worker-fundamentals-program/prioritize-your-work-in-workfront-home.md) 
 + Update work {#update-work} 
-  + [Indicate work status](/help/worker-fundamentals-programworker-fundamentals-program/indicate-work-status-in-workfront-home.md) 
-  + [Communicate about work](/help/worker-fundamentals-programworker-fundamentals-program/communicate-about-work-in-workfront-home.md) 
-  + [Log hours](/help/worker-fundamentals-programworker-fundamentals-program/log-hours-on-work-in-workfront-home.md) 
+  + [Indicate work status](/help/worker-fundamentals-program/indicate-work-status-in-workfront-home.md) 
+  + [Communicate about work](/help/worker-fundamentals-program/communicate-about-work-in-workfront-home.md) 
+  + [Log hours](/help/worker-fundamentals-program/log-hours-on-work-in-workfront-home.md) 
 + Complete work {#complete-work} 
-  + [Complete work](/help/worker-fundamentals-programworker-fundamentals-program/complete-work-in-workfront-home.md) 
-  + [Approve work](/help/worker-fundamentals-programworker-fundamentals-program/approve-work-in-workfront-home.md)
+  + [Complete work](/help/worker-fundamentals-program/complete-work-in-workfront-home.md) 
+  + [Approve work](/help/worker-fundamentals-program/approve-work-in-workfront-home.md)
 
 <!--
 Articles must be added to this TOC file in order to render.

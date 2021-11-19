@@ -40,7 +40,7 @@ level: Beginner
   + [Create a user](/help/administrator-fundamentals-program/add-users-to-workfront/create-an-individual-user.md)
   + [Add users in bulk](/help/administrator-fundamentals-program/add-users-to-workfront/add-users-in-bulk.md)
   + [Edit users](/help/administrator-fundamentals-program/add-users-to-workfront/edit-user-information.md)
-  + [Deactivate users](/help/administrator-fundamentals-program/add-users-to-workfront/deactivate-or-delete-user.md)
+  + [Deactivate users](/help/administrator-fundamentals-program/add-users-to-workfront/deactivate-or-delete-users.md)
 + Custom forms {#custom-forms}
   + [Introduction](/help/administrator-fundamentals-program/custom-forms/custom-forms-course-introduction.md)
   + [Create a form](/help/administrator-fundamentals-program/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
@@ -57,12 +57,12 @@ level: Beginner
   + [Create a request flow](/help/administrator-fundamentals-program/queue-management/how-to-create-a-request-flow.md)
   + [FAQ](/help/administrator-fundamentals-program/queue-management/request-queue-faq.md)
 + Project milestones {#project-milestones}
-  + [Introduction](/help/administrator-fundamentals-program/milestones/milestons-course-introduction.md)
+  + [Introduction](/help/administrator-fundamentals-program/milestones/milestones-course-introduction.md)
   + [Create milestones](/help/administrator-fundamentals-program/milestones/creating-milestones.md)
   + [Apply to projects and tasks](/help/administrator-fundamentals-program/milestones/applying-milestones.md)
   + [View milestone progress](/help/administrator-fundamentals-program/milestones/viewing-milestones.md)
 + Approval processes {#approval-processes}
-  + [Introduction](/help/administrator-fundamentals-program/approval-processes/approval-processes-course-inroduction.md)
+  + [Introduction](/help/administrator-fundamentals-program/approval-processes/approval-processes-course-introduction.md)
   + [Single-use approval](/help/administrator-fundamentals-program/approval-processes/creating-a-single-use-approval-process.md)
   + [Use and edit approvals](/help/administrator-fundamentals-program/approval-processes/how-to-attach-and-edit-existing-approval-processes.md)
   + [Group-specific approvals](/help/administrator-fundamentals-program/approval-processes/group-specific-approval-processes.md)
