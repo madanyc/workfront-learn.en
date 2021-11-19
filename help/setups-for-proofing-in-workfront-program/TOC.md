@@ -3,7 +3,8 @@ user-guide-description: Get started with [!DNL Workfront’s] digital proofing b
 role: User
 level: Beginner
 ---
-# [!DNL Workfront] setups for proofing tutorials {#tutorials-setups-for-proofing}
+
+# Workfront setups for proofing tutorials {#tutorials-setups-for-proofing}
 
 + [Workfront setups for proofing tutorials](home.md)
 + Introduction to proofing {#introduction-to-proofing}

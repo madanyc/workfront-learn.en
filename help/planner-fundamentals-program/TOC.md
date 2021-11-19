@@ -9,10 +9,10 @@ level: Beginner
 + [Workfront tutorials for planners](home.md)
 + Make a request {#make-a-request}
   + [Make a request](/help/planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-make-a-request.md)
-  + [Update a request](/help/planner-fundamentals-program/requests-in-the-new-workfront-experience/planner-update-a-request.md)
-  + [Manage requests](/help/planner-fundamentals-program/requests-in-the-new-workfront-experience/planner-manage-incoming-requests.md)
-  + [Review digital work](/help/planner-fundamentals-program/requests-in-the-new-workfront-experience/planner-review-and-approve-digital-work.md)
-  + [Updates and notifications](/help/planner-fundamentals-program/requests-in-the-new-workfront-experience/planner-updates-and-notifications.md)
+  + [Update a request](/help/planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-update-a-request.md)
+  + [Manage requests](/help/planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-manage-incoming-requests.md)
+  + [Review digital work](/help/planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-review-and-approve-digital-work.md)
+  + [Updates and notifications](/help/planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-updates-and-notifications.md)
   + [Delegate approvals](/help/planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-delegate-approvals.md)
 + Create a project {#create-a-project}
   + [Introduction](planner-fundamentals-create-a-project/introduction-to-project-creation.md)
