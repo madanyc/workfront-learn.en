@@ -12,4 +12,4 @@ There are 3 ways to create goals with [!DNL Workfront]:
 
 * [Create a goal from scratch](add-a-goal-to-workfront-goals.md)
 * [Copy an existing goal](copy-an-existing-goal.md)
-* [Convert a result or activity to a goal](convert-an-activity-into-an-aligned-goal.md)
+* [Convert a result or activity to a goal](convert-an-activity-into-an-aligned-goal-for-goal-creation.md)
