@@ -14,7 +14,7 @@ level: Beginner
   + [Set up groups and users](part-1-system-setup/system-setup-groups-and-users.md)
   + [System settings](part-1-system-setup/system-setup-system-settings.md)
   + [Customize [!DNL Workfront DAM]](part-1-system-setup/system-setup-customize-workfront-dam.md)  
-  + [Analyze and plan a [!DNL Workfront DAM] strategy](part-1-system-setup/system-setup-customize-workfront-dam.md)
+  + [Analyze and plan a [!DNL Workfront DAM] strategy](part-1-system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
   + [Configure the integration in Workfront](part-1-system-setup/configure-the-integration-in-workfront.md)  
 
 + Metadata and keywords {#metadata-and-keywords}
