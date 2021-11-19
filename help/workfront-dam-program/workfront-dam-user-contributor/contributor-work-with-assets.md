@@ -2,7 +2,6 @@
 title: How to Work with Assets in [!UICONTROL Workfront DAM]
 description: Learn how to work with assets in [!UICONTROL Workfront DAM].
 activity: use
-type: feature video
 team: Technical Marketing
 kt: 8995
 ---

@@ -13,7 +13,7 @@ level: Beginner
   + [Workfront Goals in your work cycle](establish-a-vision-and-strategy/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
   + [Establish a vision and strategy](establish-a-vision-and-strategy/establish-a-vision-and-strategy.md)
   + [Define and express the objective](establish-a-vision-and-strategy/define-and-express-the-objective.md)
-  + [Collaborate around goals]100(establish-a-vision-and-strategy/collaborate-around-enterprise-and-organizational-goals.md)  
+  + [Collaborate around goals](establish-a-vision-and-strategy/collaborate-around-enterprise-and-organizational-goals.md)  
   + [Align groups and teams to the strategy](establish-a-vision-and-strategy/align-groups-and-teams-to-the-strategy.md)
   
 

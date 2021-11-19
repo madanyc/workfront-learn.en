@@ -6,10 +6,8 @@ level: Beginner
 
 # [!DNL Workfront DAM] tutorials {#tutorials-workfront-dam}
 
-<!-- Part 1 -->
 + [[!DNL Workfront DAM] tutorials](home.md)
-+ System setup
- {#system-setup}
++ System setup {#system-setup}
   + [System setup introduction](part-1-system-setup/system-setup-introduction.md)
   + [[!DNL Workfront DAM] introduction](part-1-system-setup/introduction-to-workfront-dam.md)
   + [Brand Portal introduction](part-1-system-setup/brand-connect-brand-portal-introduction.md)
@@ -19,9 +17,7 @@ level: Beginner
   + [Analyze and plan a [!DNL Workfront DAM] strategy](part-1-system-setup/system-setup-customize-workfront-dam.md)
   + [Configure the integration in Workfront](part-1-system-setup/configure-the-integration-in-workfront.md)  
 
-<!-- Part 2 -->
-+ Metadata and keywords
- {#metadata-and-keywords}
++ Metadata and keywords {#metadata-and-keywords}
   + [Metadata introduction](part-2-metadata-and-keywords/metadata-introduction.md)
   + [Review the terminology](part-2-metadata-and-keywords/review-the-terminology.md)
   + [Metadata setup](part-2-metadata-and-keywords/metadata-setup.md)
@@ -31,9 +27,7 @@ level: Beginner
   + [Search for assets](part-2-metadata-and-keywords/search-for-assets.md)
   + [Metadata mapping](part-2-metadata-and-keywords/metadata-mapping.md)  
 
-<!-- Part 3 -->
-+ Brand Connect customization
- {#brand-connect-customization}
++ Brand Connect customization {#brand-connect-customization}
   + [Brand Connect introduction](part-3-brand-connect-customization/brand-connect-course-introduction.md)
   + [Customize Brand Connect](part-3-brand-connect-customization/brand-connect-customize-brand-connect.md)
   + [System settings](part-3-brand-connect-customization/brand-connect-establish-system-settings.md)
@@ -41,9 +35,7 @@ level: Beginner
   + [Custom pages](part-3-brand-connect-customization/brand-connect-custom-pages.md)
   + [Brand guidelines](part-3-brand-connect-customization/brand-connect-brand-guidelines.md)  
 
-<!-- Part 4 -->
-+ Workfront DAM user: Contributor
- {#workfront-dam-contributor}
++ Workfront DAM user: Contributor {#workfront-dam-contributor}
   + [Contributor: Welcome](workfront-dam-user-contributor/contributor-welcome-to-workfront-dam.md)
   + [Getting started](workfront-dam-user-contributor/contributor-getting-started.md)
   + [Find assets](workfront-dam-user-contributor/contributor-find-assets.md)
@@ -55,17 +47,13 @@ level: Beginner
   + [Asset management](workfront-dam-user-contributor/contributor-asset-management.md)
   + [Publish assets](workfront-dam-user-contributor/contributor-publish-assets.md)
 
-
-<!-- Part 5 -->
-+ Brand Connect
- {#brand-connect}
++ Brand Connect {#brand-connect}
   + [Brand Connect introduction](workfront-dam-user-brand-connect/brand-connect-introduction.md)
   + [Getting started](workfront-dam-user-brand-connect/brand-connect-getting-started.md)
   + [Work with assets](workfront-dam-user-brand-connect/brand-connect-working-with-assets.md)
   + [Lightboxes](workfront-dam-user-brand-connect/brand-connect-lightboxes.md)
   + [Downloading and sharing](workfront-dam-user-brand-connect/brand-connect-downloading-and-sharing.md)  
   + [Notifications](workfront-dam-user-brand-connect/brand-connect-notifications.md)
-
 
 <!--
 Articles must be added to this TOC file in order to render.
