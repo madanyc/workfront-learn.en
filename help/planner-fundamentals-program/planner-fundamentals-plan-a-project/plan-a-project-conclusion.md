@@ -1,6 +1,6 @@
 ---
 title: Review the Basic Steps for Planning a Project
-description: Review the five fields of an Adobe Workfront project to focus on when planning a project: tasks, duration, planned hours, predecessors, and assignments.
+description: Review the five fields of an Adobe Workfront project to focus on when planning a project—tasks, duration, planned hours, predecessors, and assignments.
 ---
 # Conclusion: Plan a project
 

@@ -8,12 +8,12 @@ level: Beginner
 
 + [Workfront tutorials for planners](home.md)
 + Make a request {#make-a-request}
-  + [Make a request](requests-in-the-new-workfront-experience/planner-make-a-request.md)
-  + [Update a request](requests-in-the-new-workfront-experience/planner-update-a-request.md)
-  + [Manage requests](requests-in-the-new-workfront-experience/planner-manage-incoming-requests.md)
-  + [Review digital work](requests-in-the-new-workfront-experience/planner-review-and-approve-digital-work.md)
-  + [Updates and notifications](requests-in-the-new-workfront-experience/planner-updates-and-notifications.md)
-  + [Delegate approvals](requests-in-the-new-workfront-experience/planner-delegate-approvals.md)
+  + [Make a request](/help/requests-in-the-new-workfront-experience/planner-make-a-request.md)
+  + [Update a request](/help/requests-in-the-new-workfront-experience/planner-update-a-request.md)
+  + [Manage requests](/help/requests-in-the-new-workfront-experience/planner-manage-incoming-requests.md)
+  + [Review digital work](/help/requests-in-the-new-workfront-experience/planner-review-and-approve-digital-work.md)
+  + [Updates and notifications](/help/requests-in-the-new-workfront-experience/planner-updates-and-notifications.md)
+  + [Delegate approvals](/help/planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-delegate-approvals.md)
 + Create a project {#create-a-project}
   + [Introduction](planner-fundamentals-create-a-project/introduction-to-project-creation.md)
   + [Find requests](planner-fundamentals-create-a-project/where-to-find-requests.md)
@@ -61,10 +61,3 @@ level: Beginner
   + [Log hours](planner-fundamentals-close-a-project/log-and-review-hours.md)
   + [Review finances](planner-fundamentals-close-a-project/update-and-review-finances.md)
   + [Change status](planner-fundamentals-close-a-project/change-the-project-status.md)
-
-<!--
-Articles must be added to this TOC file in order to render.
-The first item in the list should be a link to an article. This is your guide's home page.
-Use this list format to specify links to articles and section headings that expand and collapse in the left rail of the user guide.
-An article link CANNOT be used as a section heading.
--->

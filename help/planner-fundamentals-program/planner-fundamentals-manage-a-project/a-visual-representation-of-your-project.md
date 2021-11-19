@@ -1,6 +1,6 @@
 ---
 title: How to View a Project with the Gantt Chart
-description:
+description: Learn how to view a project with the Gantt chart in [!DNL Adobe Workfront].
 ---
 # Gantt chart: A visual representation of your project
 
