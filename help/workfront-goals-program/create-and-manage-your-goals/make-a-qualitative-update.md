@@ -1,0 +1,17 @@
+---
+title: Make a Qualitative Update in [!DNL Workfront Goals]
+description: Learn how to make a qualitative, or written, update in [!DNL Adobe Workfront Goals].
+activity: use
+type: Tutorial
+team: Technical Marketing
+kt: 8925
+---
+# Make a qualitative update
+
+Qualitative, or written, updates can be made in multiple areas of [!DNL Workfront Goals]. You can add comments to goals in the [!UICONTROL Goal Details] panel, the [!UICONTROL Check-in] section, or the [!UICONTROL Pulse] section. Although the process for adding comments to goals is similar in these areas, there are differences in being able to edit, delete, or react to a comment when using one area versus another. When you enter a comment in any of these areas, the comment is visible in all areas where goal comments display.
+
+In this video, you will learn how to:
+
+* Make a qualitative, or written, update
+
+>[!VIDEO](https://video.tv.adobe.com/v/335197/?quality=12)
