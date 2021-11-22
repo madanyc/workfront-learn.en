@@ -1,10 +1,10 @@
 ---
 title: Use the Project Finance Page
-description:  Learn how to create a simple report using an existing filter, view, and grouping in [!DNL Adobe Workfront].
+description:  Learn how to find financial information about a project and understand where it came from.
 activity: use
 type: Tutorial
 team: Technical Marketing
-
+kt: 8948 
 ---
 # Use the project finance page
 

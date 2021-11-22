@@ -1,6 +1,6 @@
 ---
 title: Setup Exchange Rates in [!DNL Workfront]
-description: Exchange Rates in [!DNL Workfront]
+description: Exchange rates can be used on projects and reports to reflect financial information in different currencies from around the world.
 ---
 # Setup exchange rates in [!DNL Workfront]
 
@@ -29,8 +29,3 @@ Exchange rates are managed by system administrators. Additional currencies can b
 >[!NOTE]
 >
 >[!DNL Workfront] does not update or track current market values for exchange rates. Updates, if needed, must be done manually.
-
-Learn More Icon
-<!--
-Set up exchange rates
--->

@@ -1,6 +1,6 @@
 ---
 title: Understand Financial Access
-description: Understanding Financial Access
+description: Financial access rights allow administrators to control who can see and edit the financial information tracked in Workfront.
 ---
 # Understand financial access
 
@@ -65,8 +65,3 @@ Those two options are available under the [!UICONTROL Edit] option, along with:
 >[!NOTE]
 >
 >A user with access to add expenses can also view the expenses they add, as well as expenses added by their direct reports.
-
-Learn More Icon
-<!--
-Share financial permissions on an object
--->

@@ -1,6 +1,6 @@
 ---
 title: Understand Performance Metrics
-description: Performance Metrics overview
+description: The performance metrics are the [!UICONTROL Performance Index Method] ([!UICONTROL PIM]) and the [!UICONTROL Estimate at Completion] ([!UICONTROL EAC]).
 ---
 # Understand performance metrics
 
@@ -48,8 +48,3 @@ To set [!UICONTROL PIM] and [!UICONTROL EAC] system defaults:
 ![An image of the [!UICONTROL Project Details] screen](assets/setting-up-finances-2.png)
 
 [!UICONTROL PIM] can be set on a project template, in the [!UICONTROL Finance] section of the template details.
-
-Learn More Icon
-<!--
-Calculate Estimate At Completion (EAC)
--->

@@ -1,14 +1,14 @@
 ---
-title: Dig Deeper using Timeframes and more Charts
+title: Flight Plan Overview - Dig Deeper using Timeframes and more Charts
 description:  Learn to drill down on a project in the Flight plan chart to make the Burndown chart and the Tasks in flight chart appear in [!DNL Adobe Workfront].
 topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: 8730 
 
 ---
-# Digging deeper using timeframes and additional charts
+# Flight plan overview - Digging deeper using timeframes and additional charts
 
 In this video, you will learn:
 
