@@ -1,0 +1,16 @@
+---
+title: How to Prioritize Work in [!UICONTROL Home]
+description: Learn how to mark items in the [!UICONTROL Work List] as priority assignments on the Home page. Then filter the list to see your prioritized work in [!DNL Adobe Workfront].
+activity: use
+type: Tutorial
+team: Technical Marketing
+kt: 8799
+---
+# Prioritize your work in [!DNL Workfront] [!UICONTROL Home]
+
+In this video, you will learn how to:
+
+* Mark work as priority assignments
+* Filter the [!UICONTROL Work List] to see only priority work
+
+>[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12)
