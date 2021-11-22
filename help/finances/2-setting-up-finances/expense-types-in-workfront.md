@@ -1,6 +1,6 @@
 ---
 title: Setup Expense Types in [!DNL Workfront]
-description: Expense Types in [!DNL Workfront]
+description: [!DNL Workfront] has pre-built expense types that can be used when entering expenses, and new ones can be added.
 ---
 # Setup expense types in [!DNL Workfront]
 
@@ -38,8 +38,3 @@ Project managers, executives, and others can generate expense reports — groupi
 The expense options show up in the **[!UICONTROL Expense Type]** dropdown when users create an expense on a project or task in [!DNL Workfront].
 
 ![An image of adding a new expense](assets/setting-up-finances-7.png)
-
-Learn More Icon
-<!--
-Create custom expense types
--->

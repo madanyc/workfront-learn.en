@@ -1,6 +1,6 @@
 ---
 title: Understand Multiple Billing Rates
-description: Multiple Billing Rates
+description: Within [!DNL Workfront], a project manager has the ability to override system billing rates within a specific project. 
 ---
 # Understand multiple billing rates
 
@@ -41,10 +41,3 @@ With [!DNL Workfront]’s new multiple billing rate capability, the project mana
    * All Billing Rates will show in the [!UICONTROL Billing Rates] tab on the project.
 
    ![An image of creating new billing rates that apply to the different time periods in [!DNL Workfront]](assets/project-finances-7.png)
-
-Learn More Icon
-
-Learn more
-<!--
-Override Job Role Billing Rates and Calculate Revenue on a project
--->

@@ -4,7 +4,7 @@ description:  Learn how to use a project's budget, track costs and revenue, and 
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: Jira ticket 
+kt: 8947 
 
 ---
 # Course introduction

@@ -1,6 +1,6 @@
 ---
 title: Setup Task Revenue & Cost Defaults
-description: Setting up Task, Revenue, & Cost Defaults
+description: The revenue type and cost type are used to calculate the planned and actual financial information for a task.
 ---
 # Setup task revenue & cost defaults
 
@@ -35,9 +35,3 @@ Select **[!UICONTROL Setup]** from the main menu.
 1. Click Save when done.
 
 ![An image of setting up revenue and cost defaults](assets/setting-up-finances-3.png)
-
-Learn More Icon
-<!--
-* Overview of Billing and Revenue
-* Track costs
--->
