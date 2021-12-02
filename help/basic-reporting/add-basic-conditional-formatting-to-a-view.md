@@ -15,7 +15,7 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12)
 
-# Activity: Add conditional formatting to a view
+## Activity: Add conditional formatting to a view
 
 Create a task view named “Standard + Progress” by using the existing Standard view and adding this conditional formatting on the [!UICONTROL Name] column.
 
@@ -24,7 +24,7 @@ Create a task view named “Standard + Progress” by using the existing Standar
 
 This will help you spot troubled tasks without including the column for progress status as part of your view.
 
-# Answer
+## Answer
 
 ![An image of the screen to create a new column rule](assets/conditional-formatting-exercise.png)
 
