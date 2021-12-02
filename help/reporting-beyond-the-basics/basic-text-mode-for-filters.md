@@ -1,12 +1,10 @@
 ---
 title: Basic Text Mode for Filters
 description:  Learn what text mode is, what camel case is, and some basic “plug and play” text mode you can use in your report filters in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
-
+kt: 9086
 ---
 # Basic text mode for filters
 

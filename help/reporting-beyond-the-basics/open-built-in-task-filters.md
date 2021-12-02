@@ -1,12 +1,10 @@
 ---
 title: Open Built-in Task Filters
 description:  Learn how to review built-in task filters to see how they’re built and create your own task filter in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
-
+kt: 9084
 ---
 # Open built-in task filters
 

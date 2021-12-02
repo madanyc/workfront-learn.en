@@ -1,12 +1,10 @@
 ---
 title: Create a Basic Filter
 description:  In this video, you will learn what a filter is, how to create a filter, and how to share a filter with other users in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
-
+kt: 8857
 ---
 # Create a basic filter
 
