@@ -72,103 +72,22 @@ As you can see, this filter setup gives you slightly different results than the 
 
 You may not use OR statements frequently when creating filters. But doing so might help you reduce the number of filters you need to create. Just make sure that your filters don’t return too many results—a long list can make finding the exact information needed more difficult for users. 
 
- 
-
- 
-
+## OR filter activity
 
 You want to find incomplete tasks that are assigned to you or that aren’t assigned to anyone. You set up a filter to look like the one below. Will this filter give you the results you want? Why or why not? 
 
+![An image of an improperly created OR statement in [!DNL Workfront]](assets/or-statement-your-turn-1.png)
 
- 
+### Answers 
 
-Answers 
 No, this filter will not provide the results you’re hoping for—tasks that aren’t finished that are either assigned to you or assigned to no one—because the filter rule for the task status is only on one side of the OR. 
-
 
 Instead, this filter will generate a list that shows: 
 
-
-
-Tasks assigned to you that have a status of In Progress or New. 
-
-PLUS (OR) 
-
-All unassigned tasks, no matter what the status is. 
-
-
+* Tasks assigned to you that have a status of In Progress or New. 
+* **PLUS (OR)** 
+* All unassigned tasks, no matter what the status is. 
 
 The filter should look like the one below. Notice this filter has the filter rule for task status on both sides of the OR. 
 
-
-
-
-
-How to use the Learning Path 
-Follow the suggested sequence of topics below. Watch the videos, read the articles, and complete any practice activities. 
-Submit questions to our Customer Enablement Team. 
- 
-
- 
-
-Estimated Time: 51 minutes
-This course contains: 
-
-5 sections 
-7 videos 
-Additional product articles 
- 
-
- 
-
-Share your feedback on the Workfront Training Team discussion page on Adobe Workfront One. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Within [!DNL Workfront], a project manager has the ability to override system billing rates within a specific project. Previously, when the new billing rate was applied to the project, it not only affected future hours but hours already logged on the project.
-
-With [!DNL Workfront]’s new multiple billing rate capability, the project manager is able to decide what period of time a billing rate should be applied. This way, if a rate has been negotiated or changed, the project manager can determine when that rate should take effect.
-
-## Change the billing rate
-
-1. Go to the project’s landing page. Select **[!UICONTROL Billing Rates]** from the left panel.
-
-   ![An image of selecting [!UICONTROL Billing Rates] in [!DNL Workfront]](assets/project-finances-1.png)
-
-1. From the **[!UICONTROL Billing Rates]** tab, click the **[!UICONTROL Add Billing Rate]** button. Select **[!UICONTROL New Billing Rate]** from the dropdown.
-
-   ![An image of selecting [!UICONTROL New Billing Rate] in [!DNL Workfront]](assets/project-finances-2.png)
-
-1. The [!UICONTROL New Billing Rate] dialogue box appears. From the **[!UICONTROL Job Role]** dropdown, select the job role to which the new billing rate will be applied.
-
-   ![An image of selecting job roles in a new billing rate in [!DNL Workfront]](assets/project-finances-3.png)
-
-1. Once the job role is selected, the [!UICONTROL Default Billing Rate] and the [!UICONTROL Billing Rate 1] field appear. Enter the new billing rate in the [!UICONTROL Billing Rate 1] field. If that billing rate applies to the whole project (past, present, and future hours logged), click the **[!UICONTROL Save]** button.
-
-   ![An image of saving a new billing rate that applies to the whole project in [!DNL Workfront]](assets/project-finances-5.png)
-
-1. If the new billing rate only applies for a certain period of time, click the **[!UICONTROL Add Rate]** button. The [!UICONTROL Billing Rate 1 End Date] and the [!UICONTROL Billing Rate 2] fields appear. Enter the End Date for [!UICONTROL Billing Rate 1]. You cannot enter a Start Date for [!UICONTROL Billing Rate 1] because the system assumes it started at the beginning of the project.
-
-   ![An image of creating a new billing rate that applies to a certain period of time, starting at the beginning of the project in [!DNL Workfront]](assets/project-finances-6.png)
-
-1. If this is not the case:
-
-   * Enter the default billing rate for [!UICONTROL Billing Rate 1].
-   * Select the End Date for [!UICONTROL Billing Rate 1] ([!UICONTROL Default Billing Rate]).
-   * The Start Date for [!UICONTROL Billing Rate 2] will automatically be set to the day after [!UICONTROL Billing Rate 1] ends.
-   * Enter the desired billing rate in the [!UICONTROL Billing Rate 2] section.
-   * Continue to add billing rates, as needed, by clicking the **[!UICONTROL Add Rate]** button.
-   * When done, click **[!UICONTROL Save]**.
-   * All Billing Rates will show in the [!UICONTROL Billing Rates] tab on the project.
-
-   ![An image of creating new billing rates that apply to the different time periods in [!DNL Workfront]](assets/project-finances-7.png)
+![An image of a properly created OR statement in [!DNL Workfront]](assets/or-statement-your-turn-2.png)

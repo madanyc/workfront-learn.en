@@ -1,6 +1,6 @@
 ---
 title: Creating Custom Calendars
-Description: Creating Custom Calendars
+description: Creating Custom Calendars
 ---
 # Creating custom calendars
 

@@ -1,6 +1,6 @@
 ---
 title: Tour of the Calendar Interface
-Description: Tour of the calendar interface
+description: Tour of the calendar interface
 ---
 # Tour of the calendar interface
 

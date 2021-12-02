@@ -76,7 +76,7 @@ level: Beginner
   + Tasks {#tasks}
     + [Parent-child tasks](planner-fundamentals-program/planner-fundamentals-plan-a-project/parent-child-task-structure-in-workfront.md)
     + [Work with tasks](planner-fundamentals-program/planner-fundamentals-plan-a-project/work-with-tasks-in-a-project.md)
-    + [Create tasks](planner-fundamentals-plan-a-project/other-ways-to-create-tasks.md)
+    + [Create tasks](planner-fundamentals-program/planner-fundamentals-plan-a-project/other-ways-to-create-tasks.md)
     + [Task durations](planner-fundamentals-program/planner-fundamentals-plan-a-project/task-durations.md)
     + [Planned hours](planner-fundamentals-program/planner-fundamentals-plan-a-project/planned-hours.md)
     + [Work effort](planner-fundamentals-program/planner-fundamentals-plan-a-project/work-effort.md)

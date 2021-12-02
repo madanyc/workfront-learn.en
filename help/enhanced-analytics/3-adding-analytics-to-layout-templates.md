@@ -1,12 +1,10 @@
 ---
 title: Adding Analytics to Layout Templates
 description:  Learn how system and group administrators grant access to Analytics in the New Workfront Experience, and in [!DNL Adobe Workfront] Classic.
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8726
-
 ---
 # Adding analytics to layout templates
 
