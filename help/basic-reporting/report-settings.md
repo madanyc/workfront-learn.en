@@ -8,7 +8,7 @@ team: Technical Marketing
 kt: Jira ticket 
 
 ---
-# Report Settings
+# Report settings
 
 In this video, you will learn:
 
