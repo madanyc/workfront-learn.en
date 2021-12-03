@@ -1,7 +1,6 @@
 ---
 title: Project Treemap Overview - Navigation and Digging Deeper
 description:  In this video, you will learn how to quickly see how much time workers are dedicating to each project in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing

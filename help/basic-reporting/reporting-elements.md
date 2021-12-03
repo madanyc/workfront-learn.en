@@ -1,12 +1,10 @@
 ---
 title: Reporting Elements
 description:  In this video, you will learn how to use existing reporting elements—filters, views, and groupings—to access information being tracked in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
-
+kt: 8849
 ---
 # Reporting elements
 

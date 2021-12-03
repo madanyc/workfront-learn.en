@@ -1,12 +1,10 @@
 ---
 title: Open Built-in Project Filters
 description:  Learn how to review built-in project filters to see how they’re built and create your own project filter in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
-
+kt: 9083
 ---
 # Open built-in project filters
 
