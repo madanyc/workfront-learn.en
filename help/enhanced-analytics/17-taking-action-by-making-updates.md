@@ -1,7 +1,6 @@
 ---
 title: Taking Action by Making Updates
 description:  In this video, you will learn how to make updates from within the Tasks in flight chart in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing

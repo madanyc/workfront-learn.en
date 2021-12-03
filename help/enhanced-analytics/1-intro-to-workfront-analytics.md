@@ -1,7 +1,6 @@
 ---
 title: Into to Workftont Analytics
 description:  Learn how analytics came about and the exciting capabilities it makes possible with Joel Pettigrew, product manager for [!DNL Enhanced analytics]. 
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -1,7 +1,6 @@
 ---
 title: KPIs Overview
 description:  In this video, you will learn how to get value from the KPI data in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing

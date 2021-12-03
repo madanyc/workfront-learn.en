@@ -1,7 +1,6 @@
 ---
 title: Use case - KPI Comparisons
 description:  Learn how to compare KPIs from the current date range to a prior date range, and how to compare KPIs with two different filters in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
