@@ -49,8 +49,7 @@ level: Beginner
     + [Brand Connect Lightboxes](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-lightboxes.md)
     + [Brand Connect Downloading and sharing](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-downloading-and-sharing.md)  
     + [Brand Connect Notifications](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-notifications.md)
-  + Projects {#projects}
-    + [Upload assets](planner-fundamentals-program/planner-fundamentals-close-a-project/upload-documents-and-proofs.md)
+
 + Manage work {#manage-work}
   + Projects {#projects}
     + [Introduction to project creation](planner-fundamentals-program/planner-fundamentals-create-a-project/introduction-to-project-creation.md)
@@ -102,7 +101,7 @@ level: Beginner
     + [Lessons learned](planner-fundamentals-program/planner-fundamentals-close-a-project/lessons-learned.md)
     + [Log and review hours](planner-fundamentals-program/planner-fundamentals-close-a-project/log-and-review-hours.md)
   + Project finances {#project-finances}
-    + [Review finances](planner-fundamentals-close-a-project/update-and-review-finances.md)
+    + [Review finances](planner-fundamentals-program/planner-fundamentals-close-a-project/update-and-review-finances.md)
     + [Use the project finance page](finances/1-project-finances/project-finance-page.md)
     + [Understand multiple billing rates](finances/1-project-finances/multiple-billing-rates.md)
     + [Understand performance metrics](finances/2-setting-up-finances/performance-metrics-overview.md)
@@ -151,25 +150,24 @@ level: Beginner
     + [Filters overview](enhanced-analytics/6-filters-overview.md)  
     + [Date ranges vs. timeframes](enhanced-analytics/7-date-ranges-vs-timeframes.md)  
     + [Planned hours and duration views](enhanced-analytics/8-planned-hours-and-duration-views.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
-    + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
+    + [Actions: hover, click and drag, and click in](enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)  
+    + [KPIs overview](enhanced-analytics/10-kpis-overview.md)  
+    + [Navigating and reviewing projects](enhanced-analytics/11-navigating-and-reviewing-projects.md)  
+    + [Digging deeper using timeframes and additional charts](enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)  
+    + [Navigating and reviewing project activity](enhanced-analytics/13-navigating-and-reviewing-project-activity.md)  
+    + [Navigation and digging deeper](enhanced-analytics/14-navigation-and-digging-deeper.md)  
+    + [Accessing and reviewing the burndown](enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)  
+    + [Navigating to and reviewing the tasks in flight](enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)  
+    + [Taking action by making updates](enhanced-analytics/17-taking-action-by-making-updates.md)  
+    + [Activity by team chart](enhanced-analytics/18-activity-by-team-chart.md)  
+    + [Resource capacity chart](enhanced-analytics/19-resource-capacity-chart.md)  
+    + [Team capacity overview](enhanced-analytics/20-team-capacity-overview.md)  
+    + [Use case: KPI comparisons](enhanced-analytics/21-kpi-comparisons.md)  
+    + [Use case: End user use](enhanced-analytics/22-end-user-use.md)  
+    + [Use case: Consulting guidance](enhanced-analytics/23-consulting-guidance.md)  
 
 + Manage resources {#manage-resources}
 + Review and approve work {#review-and-approve-work}
-  + [Complete project, task, and issue approvals](planner-fundamentals-close-a-project/complete-approvals.md)
 
 + Adobe Workfront Goals {#adobe-workfront-goals}
 + Adobe Workfront Integrations {#adobe-workfront-integrations}
