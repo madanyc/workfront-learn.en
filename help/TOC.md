@@ -170,6 +170,59 @@ level: Beginner
 + Review and approve work {#review-and-approve-work}
 
 + Adobe Workfront Goals {#adobe-workfront-goals}
+  + Establish a vision {#establish-a-vision-and-strategy}
+    + [A moment with product](workfront-goals-program/establish-a-vision-and-strategy/a-moment-with-product.md)
+    + [Introduction](workfront-goals-program/establish-a-vision-and-strategy/introduction-to-workfront-goals.md)
+    + [Workfront Goals in your work cycle](workfront-goals-program/establish-a-vision-and-strategy/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
+    + [Establish a vision and strategy](workfront-goals-program/establish-a-vision-and-strategy/establish-a-vision-and-strategy.md)
+    + [Define and express the objective](workfront-goals-program/establish-a-vision-and-strategy/define-and-express-the-objective.md)
+    + [Collaborate around goals](workfront-goals-program/establish-a-vision-and-strategy/collaborate-around-enterprise-and-organizational-goals.md)  
+    + [Align groups and teams to the strategy](workfront-goals-program/establish-a-vision-and-strategy/align-groups-and-teams-to-the-strategy.md)
+  
+  + Create and manage your goals {#create-and-manage-goals}
+    + [Workfront Goals overview](workfront-goals-program/create-and-manage-your-goals/workfront-goals-overview.md)
+    + [Set up Workfront Goals](workfront-goals-program/create-and-manage-your-goals/set-up-workfront-goals-for-your-company.md)
+    + [Edit access levels](workfront-goals-program/create-and-manage-your-goals/edit-access-levels.md)
+    + [Create a layout template with Workfront Goals](workfront-goals-program/create-and-manage-your-goals/create-a-layout-template-with-workfront-goals.md)
+    + [Create goals in Workfront](workfront-goals-program/create-and-manage-your-goals/create-goals-in-workfront.md)
+    + [Add a goal to Workfront Goals](workfront-goals-program/create-and-manage-your-goals/add-a-goal-to-workfront-goals.md)
+    + [Copy an existing goal](workfront-goals-program/create-and-manage-your-goals/copy-an-existing-goal.md)  
+    + [Convert an activity into an aligned goal for goal creation](workfront-goals-program/create-and-manage-your-goals/convert-an-activity-into-an-aligned-goal-for-goal-creation.md)
+    + [Activate goals in Workfront](workfront-goals-program/create-and-manage-your-goals/activate-goals-in-workfront.md)
+    + [Add an activity to a goal](workfront-goals-program/create-and-manage-your-goals/add-an-activity-to-a-goal.md)
+    + [Add a result to a goal](workfront-goals-program/create-and-manage-your-goals/add-a-result-to-a-goal.md)
+    + [Activate by aligning a goal to another](workfront-goals-program/create-and-manage-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
+    + [Goal alignment](workfront-goals-program/create-and-manage-your-goals/goal-alignment.md)  
+    + [Manually connect goals to one another](workfront-goals-program/create-and-manage-your-goals/manually-connect-goals-to-one-another.md)
+    + [Convert an activity to an aligned goal](workfront-goals-program/create-and-manage-your-goals/convert-an-activity-into-an-aligned-goal-for-goal-alignment.md)
+    + [Remove goal alignment](workfront-goals-program/create-and-manage-your-goals/remove-goal-alignment.md)
+    + [Track and update goals using Check-ins](workfront-goals-program/create-and-manage-your-goals/track-and-update-goals-using-check-ins.md)
+    + [Make a quantitative update](workfront-goals-program/create-and-manage-your-goals/make-a-quantitative-update.md)
+    + [Make a qualitative update](workfront-goals-program/create-and-manage-your-goals/make-a-qualitative-update.md)
+    + [Close a goal once complete](workfront-goals-program/create-and-manage-your-goals/close-a-goal-once-complete.md)
+    + [Calculate goal progress](workfront-goals-program/create-and-manage-your-goals/calculate-goal-progress.md)
+    + [Communication and goal health](workfront-goals-program/create-and-manage-your-goals/communication-and-goal-health.md)  
+    + [Navigate the Pulse update stream](workfront-goals-program/create-and-manage-your-goals/navigate-the-pulse-update-stream.md)
+    + [View individual goal updates](workfront-goals-program/create-and-manage-your-goals/view-individual-goal-updates.md)
+    + [Understand the Graphs section](workfront-goals-program/create-and-manage-your-goals/understand-the-graphs-section.md)  
+
 + Adobe Workfront Integrations {#adobe-workfront-integrations}
+  + Adobe Creative Cloud {#adobe-creative-cloud}
+    + [Use Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
+    + [Upload proofs with Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
+  + G Suite {#g-suite-integrations}
+    + [Use Workfront for Adobe Creative Cloud](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
+  + Jira {#jira}
+    + [Use Workfront for Adobe Creative Cloud](integrations/jira/jira.md)
+  + Microsoft Outlook {#outlook}
+    + [Workfront for Outlook](integrations/outlook/integrations-microsoft-outlook.md)
+  + Workfront for Slack {#slack}
+    + [Introduction to Workfront for Slack](integrations/slack/introduction-to-workfront-for-slack.md)
+    + [Assign tasks through Slack](integrations/slack/assign-tasks-through-slack.md)
+    + [Access your to-do list through Slack](integrations/slack/access-your-to-do-list-through-slack.md)
+    + [Make approvals through Slack](integrations/slack/make-approvals-through-slack.md)
+    + [View Recent Work through Slack](integrations/slack/view-recent-work-through-slack.md)
+    + [Search Workfront through Slack](integrations/slack/search-workfront-through-slack.md)
+
 + Workfront Proof {#workfront-proof}
 + Home {#home}
