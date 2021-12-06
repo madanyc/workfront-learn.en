@@ -1,8 +1,8 @@
 ---
-title: Proofing Terminology Explained
-description: Get familiar with the proofing terminology used in [!DNL Adobe Workfront].
+title:  Explained
+description: Get familiar with the  used in [!DNL Adobe Workfront].
 ---
-# Proofing terminology
+# 
 
 Before you dive into reviewing and approving proofs, it might be helpful to get familiar with the proof-specific terminology used. You’ll see these terms used frequently throughout this course:
 
