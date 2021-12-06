@@ -16,7 +16,7 @@ level: Beginner
     + [Teams](administrator-fundamentals-program/user-organization/user-organization-teams.md)
     + [Log in as](administrator-fundamentals-program/user-organization/log-in-as.md)
   + Group Administration {#group-administration}
-    + [Introduction to group administrators](administrator-fundamentals-program/user-organization/introduction-to-group-administrators.md)
+    + [Introduction to group administrators](administrator-fundamentals-program/user-organization/introduction-to-group-administators.md)
   + Manage deleted items {#manage-deleted-items}
     + [Recycle bin](administrator-fundamentals-program/project-setup/recycle-bin.md)
   + Configure system defaults {#conifgure-system-defaults}
