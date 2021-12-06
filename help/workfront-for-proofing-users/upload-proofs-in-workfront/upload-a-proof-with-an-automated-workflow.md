@@ -8,9 +8,7 @@ team: Technical Marketing
 kt: 8833
 
 role: User
-level: Beginner
-exl-id: ?????????
----
+level: Beginner---
 # Upload a proof with an automated workflow
 
 In this video, you will learn:

@@ -5,8 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8841
-
-exl-id: ?????????
 ---
 
 # Review and approve a digital proof

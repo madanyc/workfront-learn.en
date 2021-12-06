@@ -5,8 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8838
-
-exl-id: ?????????
 ---
 # Edit a proof workflow
 

@@ -8,9 +8,7 @@ team: Technical Marketing
 kt: 8825
 
 role: User
-level: Beginner
-exl-id: ?????????
----
+level: Beginner---
 # Proof workflows as part of project timelines
 
 In this video, you will learn:

@@ -5,8 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8847
-
-exl-id: ?????????
 ---
 # Review a video with proofing
 

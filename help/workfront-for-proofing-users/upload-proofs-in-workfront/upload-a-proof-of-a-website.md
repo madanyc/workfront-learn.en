@@ -5,8 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8835
-
-exl-id: ?????????
 ---
 # Upload a proof of a website
 

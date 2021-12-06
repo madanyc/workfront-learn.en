@@ -8,9 +8,7 @@ team: Technical Marketing
 kt: 8824
 
 role: User
-level: Beginner
-exl-id: ?????????
----
+level: Beginner---
 # Introduction to proof workflows
 
 In this video, you will learn:

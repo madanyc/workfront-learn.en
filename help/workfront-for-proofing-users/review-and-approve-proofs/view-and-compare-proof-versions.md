@@ -5,8 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8845
-
-exl-id: ?????????
 ---
 # View and compare proof versions
 

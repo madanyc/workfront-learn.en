@@ -8,9 +8,7 @@ team: Technical Marketing
 kt: 8823
 
 role: User
-level: Beginner
-exl-id: ?????????
----
+level: Beginner---
 # Document vs. proof
 
 In this video, you will learn:

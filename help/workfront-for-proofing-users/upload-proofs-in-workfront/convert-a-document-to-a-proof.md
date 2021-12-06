@@ -5,8 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8834
-
-exl-id: ?????????
 ---
 # Convert a document to a proof
 
