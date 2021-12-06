@@ -1,12 +1,10 @@
 ---
 title: Basic Navigation
 description:  In this video, you will learn how to navigate to the [!UICONTROL Analytics] area and see an overview of the work charts and the people charts in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8724 
-
 ---
 # Basic navigation
 

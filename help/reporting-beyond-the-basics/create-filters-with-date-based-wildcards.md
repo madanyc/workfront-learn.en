@@ -1,12 +1,10 @@
 ---
 title: Create Filters with Date-Based Wildcards
 description:  Learn how and when to use date-based wildcards and build a filter with a date-based wildcard in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
-
+kt: 9082
 ---
 # Create filters with date-based wildcards
 

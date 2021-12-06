@@ -1,12 +1,10 @@
 ---
 title: Custom Prompts
 description:  Learn what a custom prompt is, how to create a custom prompt using text mode, and some examples that you can use in reporting in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
-
+kt: 9087
 ---
 # Custom prompts
 

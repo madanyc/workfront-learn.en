@@ -1,7 +1,6 @@
 ---
 title: Actions - Hover, Click and Drag, and Click In
 description:  Learn how to get more information by hovering over a chart, create a timeframe on a chart, and how to make additional charts appear, all in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing

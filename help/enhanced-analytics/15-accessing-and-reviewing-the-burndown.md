@@ -1,7 +1,6 @@
 ---
 title: Burndown Overview - Accessing and Reviewing the Burndown
 description:  Learn how to access the Burndown chart and understand the relationship between remaining hours, project condition, and project velocity in [!DNL Adobe Workfront].
-topic: 
 activity: use
 doc-type: feature video
 team: Technical Marketing

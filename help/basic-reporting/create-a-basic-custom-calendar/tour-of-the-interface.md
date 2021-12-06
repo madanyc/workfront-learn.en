@@ -1,8 +1,8 @@
 ---
-title: Tour of the Interface
-Description:
+title: Tour of the Calendar Interface
+description: Tour of the calendar interface
 ---
-# Tour of the interface
+# Tour of the calendar interface
 
 In this section you will learn about:
 

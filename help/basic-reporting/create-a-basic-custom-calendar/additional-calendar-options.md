@@ -1,6 +1,6 @@
 ---
 title: Additional Calendar Options
-Description:
+description: Additional Calendar Options
 ---
 # Additional calendar options
 
