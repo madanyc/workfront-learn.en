@@ -15,14 +15,16 @@ level: Beginner
     + [Groups](administrator-fundamentals-program/user-organization/user-organization-groups.md)
     + [Teams](administrator-fundamentals-program/user-organization/user-organization-teams.md)
     + [Log in as](administrator-fundamentals-program/user-organization/log-in-as.md)
+
   + Group Administration {#group-administration}
     + [Introduction to group administrators](administrator-fundamentals-program/user-organization/introduction-to-group-administators.md)
+
   + Manage deleted items {#manage-deleted-items}
     + [Recycle bin](administrator-fundamentals-program/project-setup/recycle-bin.md)
+
   + Configure system defaults {#conifgure-system-defaults}
-    + [Project setup](administrator-fundamentals-program/project-setup/project-setup.md)
-    + [Global and group projects, task, and issue settings](administrator-fundamentals-program/project-setup/project-setup.md)
-    + [Set group and subgroup preferences](administrator-fundamentals-program/project-setup/project-setup.md)
+    + [Configure system defaults](administrator-fundamentals-program/project-setup/project-setup.md)
+
   + Layout templates {#layout-templates}
     + [Find layout templates](administrator-fundamentals-program/control-and-interface/find-layout-templates.md)
     + [Customize the Main Menu with layout templates](administrator-fundamentals-program/control-and-interface/customize-the-main-menu-with-layout-templates.md)
@@ -32,6 +34,7 @@ level: Beginner
     + [Customize Workfront Home with layout templates](administrator-fundamentals-program/control-and-interface/customize-workfront-home-with-layout-templates.md)
     + [Customize Workfront terminology](administrator-fundamentals-program/control-and-interface/customize-workfront-terminology.md)
     + [Assign and manage access to layout templates](administrator-fundamentals-program/control-and-interface/assign-and-manage-access-to-layout-templates.md)
+
   + Emails {#emails}
     + [Set up event notifications](administrator-fundamentals-program/email-and-in-app-notifications/admin-set-up-event-notifications.md)
     + [Use the announcement center](administrator-fundamentals-program/email-and-in-app-notifications/admin-use-the-announcement-center.md)
@@ -41,33 +44,36 @@ level: Beginner
     + [Subscribe to work items](administrator-fundamentals-program/email-and-in-app-notifications/user-subscribe-to-work-items.md)
     + [Manage user event notifications](administrator-fundamentals-program/email-and-in-app-notifications/user-manage-user-event-notifications.md)
     + [Attach reminder notifications](administrator-fundamentals-program/email-and-in-app-notifications/user-attach-reminder-notifications.md)
+
   + Create and manage users {#create-and-manage-users}
     + [Getting started with adding users](administrator-fundamentals-program/add-users-to-workfront/getting-started-with-adding-users-to-workfront.md)
     + [Create an individual user](administrator-fundamentals-program/add-users-to-workfront/create-an-individual-user.md)
-    + [Add users in bulk](administrator-fundamentals-program/add-users-to-workfront/add-users-in-bulk.md)
-    + [Modify user information](administrator-fundamentals-program/add-users-to-workfront/add-users-in-bulk.md)
+    + [Add users in bulk and modify user information](administrator-fundamentals-program/add-users-to-workfront/add-users-in-bulk.md)
     + [Deactivating vs. deleting users](administrator-fundamentals-program/add-users-to-workfront/deactivate-or-delete-users.md)
     + [System audit log](administrator-fundamentals-program/project-setup/system-audit-log.md)
+
   + Approval processes and milestone paths {#approval-processes-and-mileston-paths}
     + [Creating milestones](administrator-fundamentals-program/milestones/creating-milestones.md)
     + [Use global approval processes](issue-management-program/managing-issues/manage-issue-assignments.md)
+
   + Configure system defaults  {#configure-system-defaults}
     + [Issue overivew and preferences](issue-management-program/setting-up-issues/issue-overview-and-preferences.md)
     + [Create an issue status](issue-management-program/setting-up-issues/create-an-issue-status.md)
+
   + Statuses and priority lables {#statuses-and-priority-labels}
     + [Create systemwide issues status](issue-management-program/setting-up-issues/create-systemwide-issue-status.md)
     + [Customize issue types and terminology](issue-management-program/setting-up-issues/customize-issue-types-and-terminology.md)
     + [Default issue types](issue-management-program/setting-up-issues/default-issue-types.md)
     + [Manage issue severities](issue-management-program/setting-up-issues/manage-issue-severities.md)
     + [Issue status and group administrators](issue-management-program/setting-up-issues/issue-status-and-group-administrators.md)
+
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
     + [Creating and sharing a custom form](administrator-fundamentals-program/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
-    + [Custom field options](administrator-fundamentals-program/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
-    + [Using a custom Form]
-    + [Edit a custom form](administrator-fundamentals-program/custom-forms/custom-forms-using-a-custom-form.md)
+    + [Use and edit a custom form](administrator-fundamentals-program/custom-forms/custom-forms-using-a-custom-form.md)
     + [Share custom fields](administrator-fundamentals-program/custom-forms/share-custom-fields.md)
     + [Export a custom form as a PDF](administrator-fundamentals-program/custom-forms/export-a-custom-form-as-a-pdf.md)
+    
   + Calculated expressions {#calculated-expressions}
     + [Getting started with calculated fields and expressions](custom-data/get-started-with-calculated-fields-and-expressions/get-started-with-calculated-fields-and-expressions.md)
     + [Data expression structure](custom-data/data-expression-structure.md)
@@ -81,6 +87,7 @@ level: Beginner
     + [Create LEFT/RIGHT expressions](custom-data/create-left-right-expressions.md)
     + [Create an IF text expression](custom-data/create-an-if-text-expression.md)
     + [Things to know about expressions](custom-data/things-to-know-about-expressions.md)
+
 + Documents {#documents}
   + Adobe Workfront DAM {#workfront-dam-program}
     + [System setup introduction](workfront-dam-program/part-1-system-setup/system-setup-introduction.md)
@@ -153,6 +160,7 @@ level: Beginner
     + [Work effort](planner-fundamentals-program/planner-fundamentals-plan-a-project/work-effort.md)
     + [Sequence tasks](planner-fundamentals-program/planner-fundamentals-plan-a-project/sequence-the-tasks-in-your-project.md)
     + [Assign tasks](planner-fundamentals-program/planner-fundamentals-plan-a-project/assigning-tasks-from-the-project-plan.md)
+    
   + Issues/requests {#issues-requests}
     + [Create project from a request](planner-fundamentals-program/planner-fundamentals-create-a-project/convert-a-request-to-a-project.md)
     + [Find requests](planner-fundamentals-program/planner-fundamentals-create-a-project/where-to-find-requests.md)
@@ -162,27 +170,33 @@ level: Beginner
     + [Review digital work](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-review-and-approve-digital-work.md)
     + [Updates and notifications](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-updates-and-notifications.md)
     + [Delegate approvals](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-delegate-approvals.md)
+
   + Request queues {#request-queues}
-    + [Introduction to request queues](queue-management/introduction-to-request-queues.md)
-    + [Create a request queue](queue-management/queue-creation.md)
-    + [Settings for a flow request](queue-management/setting-request-flow.md)
-    + [How to create a request flow](queue-management/show-to-create-a-request-flow.md)
+    + [Introduction to request queues](administrator-fundamentals-program/queue-management/introduction-to-request-queues.md)
+    + [Create a request queue](administrator-fundamentals-program/queue-management/queue-creation.md)
+    + [Settings for a flow request](administrator-fundamentals-program/queue-management/setting-request-flow.md)
+    + [How to create a request flow](administrator-fundamentals-program/queue-management/show-to-create-a-request-flow.md)
+
   + Approval processes and milestone paths {#approval-processes-and-milestone paths}
     + [Applying milestones](administrator-fundamentals-program/milestones/applying-milestones.md)
     + [Viewing milestones](administrator-fundamentals-program/milestones/viewing-milestones.md)
     + [Creating a single-use approval process](administrator-fundamentals-program/approval-processes/creating-a-single-use-approval-process.md)
     + [How to attach and edit existing approval processes](administrator-fundamentals-program/approval-processes/how-to-attach-and-edit-existing-approval-processes.md)
     + [Group-specific approval processes](administrator-fundamentals-program/approval-processes/group-specific-approval-processes.md)
+
   + Create and manage project templates {#create-and-manage-project-templates}
     + [Creating a template](administrator-fundamentals-program/project-templates/creating-a-template.md)
     + [Create a template with Blueprints](administrator-fundamentals-program/project-templates/create-a-template-with-blueprints.md)
     + [Create a project directly from a template](administrator-fundamentals-program/project-templates/create-a-project-directly-from-a-template.md)
     + [Sharing a template](administrator-fundamentals-program/project-templates/sharing-a-template.md)
+
   + Manage projects {#manage-projects}
     + [Copy an existing project](administrator-fundamentals-program/project-templates/copy-an-existing-project.md)
+
   + Project timelines {#project-timelines}
     + [Track progress from the roject timeline](planner-fundamentals-program/planner-fundamentals-manage-a-project/track-work-progress-from-the-project-timeline.md) 
     + [Progress status](planner-fundamentals-program/planner-fundamentals-manage-a-project/task-dates-and-progress-status.md) 
+
   + Close a project {#close-a-project}
     + [Get started on closing a project](planner-fundamentals-program/planner-fundamentals-close-a-project/close-a-project-in-workfront.md)
     + [Complete tasks](planner-fundamentals-program/planner-fundamentals-close-a-project/close-tasks-and-issues.md)
@@ -190,6 +204,7 @@ level: Beginner
     + [Upload assets](planner-fundamentals-program/planner-fundamentals-close-a-project/upload-documents-and-proofs.md)
     + [Lessons learned](planner-fundamentals-program/planner-fundamentals-close-a-project/lessons-learned.md)
     + [Log and review hours](planner-fundamentals-program/planner-fundamentals-close-a-project/log-and-review-hours.md)
+
   + Project finances {#project-finances}
     + [Review finances](planner-fundamentals-program/planner-fundamentals-close-a-project/update-and-review-finances.md)
     + [Use the project finance page](finances/1-project-finances/project-finance-page.md)
@@ -231,7 +246,8 @@ level: Beginner
     + [Open built-in task filters](reporting-beyond-the-basics/open-built-in-task-filters.md)    
     + [Open built-in issue filters](reporting-beyond-the-basics/open-built-in-issue-filters.md)
     + [Basic text mode for filters](reporting-beyond-the-basics/basic-text-mode-for-filters.md)    
-    + [Custom prompts](reporting-beyond-the-basics/custom-prompts.md)    
+    + [Custom prompts](reporting-beyond-the-basics/custom-prompts.md)  
+
   + Enhanced Analytics {#enhanced-analytics}
     + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
     + [Adding analytics to layout templates](enhanced-analytics/3-adding-analytics-to-layout-templates.md)  
@@ -259,19 +275,23 @@ level: Beginner
 + Manage resources {#manage-resources}
   + Resource management {#resource-management}
     + [Resource management maturity](resource-management/maturity-model-and-setup/rm-maturity/resource-management-maturity.md)
-    + [Settings for Workfront's resource management tools](resource-management/maturity-model-and-setup/rm-maturity/settings-for-projects.md)
+    + [Settings for Workfront's resource management tools](resource-management/maturity-model-and-setup/settings-for-projects/settings-for-projects.md)
+
   + Workload Balancer {#workload-balancer}
-    + [Find the Workload Balancer and view user allocations](resource-management/find-the-workload-balancer/find-the-workload-balancer.md)
-    + [Filter, view, and assign work in the Workload Balancer](resource-management/filter-unassigned-and-assigned-work-areas/filter-unassigned-and-assigned-work-areas.md)
+    + [Find the Workload Balancer and view user allocations](resource-management/workload-balancer/find-the-workload-balancer/find-the-workload-balancer.md)
+    + [Filter, view, and assign work in the Workload Balancer](resource-management/workload-balancer/filter-unassigned-and-assigned-work-areas/filter-unassigned-and-assigned-work-areas.md)
+
   + Resource planning {#resource-planning}
     + [What is the Resource Planner?](resource-management/resource-planner/what-is-the-resource-planner/what-is-the-resource-planner.md)
     + [View utiltization](resource-management/resource-planner/view-utlization-intro-filter-the-resource-planner/view-utlization-intro-filter-the-resource-planner.md)
+
   + Personal Time Off Calendar {#personal-time-off-calendar}
     + [Why use the time off calendar?](resource-management/pto/why-use-time-off-calendar/why-use-time-off-calendar.md)
     + [Manage other users time off](resource-management/pto/manage-other-users-time-off/manage-other-users-time-off.md)
     + [See time off when assigning tasks](resource-management/pto/see-time-off-when-assigning-tasks/see-time-off-when-assigning-tasks.md)
-    + [How time off affects project timelines](resource-management/pto/how-time-off-affects-project-timelines/show-time-off-affects-project-timelines.md)
+    + [How time off affects project timelines](resource-management/pto/how-time-off-affects-project-timelines/how-time-off-affects-project-timelines.md)
     + [Visibility in resource management tools](resource-management/pto/visibility-in-resource-management-tools/visibility-in-resource-management-tools.md)
+
   + Scenario Planner {#scenario-planner}
     + [A moment with product about the Scenario Planner](scenario-planner-program/a-moment-with-product-workfront-scenario-planner.md)
     + [What is the Scenario Planner](scenario-planner-program/what-is-scenario-planner.md)
@@ -281,8 +301,8 @@ level: Beginner
     + [Adjust job role, budget, and cost information in the Scenario Planner](scenario-planner-program/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
     + [Update and copy plans](scenario-planner-program/update-and-copy-plans.md)
     + [Publish a scenario](scenario-planner-program/publishing-a-scenario.md)
-+ Review and approve work {#review-and-approve-work}
 
++ Review and approve work {#review-and-approve-work}
 + Adobe Workfront Goals {#adobe-workfront-goals}
   + Establish a vision {#establish-a-vision-and-strategy}
     + [A moment with product](workfront-goals-program/establish-a-vision-and-strategy/a-moment-with-product.md)
@@ -324,12 +344,16 @@ level: Beginner
   + Adobe Creative Cloud {#adobe-creative-cloud}
     + [Use Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
     + [Upload proofs with Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
+
   + G Suite {#g-suite-integrations}
     + [Use Workfront for Adobe Creative Cloud](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
+
   + Jira {#jira}
     + [Use Workfront for Adobe Creative Cloud](integrations/jira/jira.md)
+
   + Microsoft Outlook {#outlook}
     + [Workfront for Outlook](integrations/outlook/integrations-microsoft-outlook.md)
+
   + Workfront for Slack {#slack}
     + [Introduction to Workfront for Slack](integrations/slack/introduction-to-workfront-for-slack.md)
     + [Assign tasks through Slack](integrations/slack/assign-tasks-through-slack.md)
@@ -340,7 +364,8 @@ level: Beginner
 
 + Workfront Proof {#workfront-proof}
   + Administration and setup {#adinistration-and-setup-for-proof}
-    + [Settings for proof users](proof-system-setups-part-one-system-and-user-settings/proof-system-setups-part-one-system-and-user-settings/settings-for-proof-users.md)
+    + [Settings for proof users](setups-for-proofing-in-workfront-program/proof-system-setups-part-one-system-and-user-settings/settings-for-proof-users.md)
+
   + Review and approve work {#review-and-approve-work-for-proof}
     + [Introduction to proofing](workfront-for-proofing-users/review-and-approve-proofs/introduction-to-proofing.md)
     + [Benefits of proofing](setups-for-proofing-in-workfront-program/setups-overview-proofing-with-workfront/benefits-of-proofing-in-workfront.md)
@@ -370,6 +395,7 @@ level: Beginner
     + [Manage proof comments](workfront-for-proofing-users/review-and-approve-proofs/manage-proof-comments.md)
     + [View and compare proof versions](workfront-for-proofing-users/review-and-approve-proofs/view-and-compare-proof-versions.md)
     + [Who uploads the proof versions?](workfront-for-proofing-users/review-and-approve-proofs/who-uploads-the-proof-versions.md)
+
 + Home {#home}
   + [Find your work](worker-fundamentals-program/find-your-work-in-workfront-home.md)
   + [Indicate work status](worker-fundamentals-program/indicate-work-status-in-workfront-home.md)

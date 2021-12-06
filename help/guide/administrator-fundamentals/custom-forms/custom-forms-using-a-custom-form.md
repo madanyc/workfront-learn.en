@@ -1,5 +1,5 @@
 ---
-title: Custom forms: Using a custom form
+title: Custom forms: 
 description:  In this video, learn how to attach a custom form to an object in Adobe Workfront and add custom fields to reports.
 topic:
 activity: use
@@ -8,7 +8,7 @@ team: Technical Marketing
 kt: Jira ticket
 role: User
 ---
-# Custom forms: Using a custom form
+# Custom forms: 
 
 In this video, you will learn how to:
 
