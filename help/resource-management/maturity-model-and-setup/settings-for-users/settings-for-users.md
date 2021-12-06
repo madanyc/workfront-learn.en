@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8873
-
 ---
 # Resource management settings for users
 

@@ -5,7 +5,6 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8739
-
 ---
 # Use case - KPI comparisons
 

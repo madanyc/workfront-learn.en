@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8886
-
 ---
 # Create an IF text expression
 

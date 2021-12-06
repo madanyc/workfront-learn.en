@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8906
-
 ---
 # View by job role in the [!DNL Resource Planner]
 

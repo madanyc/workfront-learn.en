@@ -1,12 +1,10 @@
 ---
 title: Documents and Proofs Explained
 description:  Learn the difference between a document and a proof in [!DNL Adobe Workfront].
-feature: Workfront
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8823
-
 role: User
 level: Beginner
 ---

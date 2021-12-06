@@ -6,7 +6,6 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket 
-
 ---
 # Introduction to iterators walkthrough
 

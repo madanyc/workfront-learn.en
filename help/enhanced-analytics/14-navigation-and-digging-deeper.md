@@ -5,7 +5,6 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8733 
-
 ---
 # Project treemap overview - navigation and digging deeper
 

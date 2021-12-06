@@ -1,12 +1,10 @@
 ---
 title: Benefits of Proofing in [!DNL Workfront]
 description:  Learn what proofing is and the benefits of using digital proofing in [!DNL Adobe Workfront].
-feature: Workfront
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8822
-
 role: User
 level: Beginner
 ---

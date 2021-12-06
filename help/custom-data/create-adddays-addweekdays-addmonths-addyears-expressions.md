@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8912
-
 ---
 # Create ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS expressions
 

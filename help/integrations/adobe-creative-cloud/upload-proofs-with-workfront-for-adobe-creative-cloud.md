@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8812
-
 ---
 # Upload Proofs with [!DNL Workfront] for Adobe Creative Cloud
 

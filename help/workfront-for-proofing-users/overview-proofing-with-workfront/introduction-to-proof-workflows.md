@@ -1,12 +1,10 @@
 ---
 title: Proof Workflows Explained
 description:  Learn what information to gather to create a proof workflow and the difference between basic and advanced proof workflows in [!DNL Adobe Workfront].
-feature: Workfront
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8824
-
 role: User
 level: Beginner
 ---

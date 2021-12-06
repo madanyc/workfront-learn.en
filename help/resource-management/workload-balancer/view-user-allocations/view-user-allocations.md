@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8876
-
 ---
 # View user allocations in the [!DNL Workload Balancer]
 
