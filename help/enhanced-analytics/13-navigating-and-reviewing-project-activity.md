@@ -5,7 +5,6 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8731
-
 ---
 # Project activity overview - Navigating and reviewing project activity
 

@@ -5,7 +5,6 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8730 
-
 ---
 # Flight plan overview - Digging deeper using timeframes and additional charts
 

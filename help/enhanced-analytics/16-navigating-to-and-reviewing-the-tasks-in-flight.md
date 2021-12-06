@@ -5,7 +5,6 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8735
-
 ---
 # Navigating to and reviewing the tasks in flight
 

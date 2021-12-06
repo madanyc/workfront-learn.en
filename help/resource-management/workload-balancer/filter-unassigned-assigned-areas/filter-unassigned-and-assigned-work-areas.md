@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8875
-
 ---
 # Filter the Unassigned and Assigned Work areas
 

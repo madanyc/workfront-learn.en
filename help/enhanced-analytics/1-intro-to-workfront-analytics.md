@@ -5,7 +5,6 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8870 
-
 ---
 # Into to Workftont Analytics
 

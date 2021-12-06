@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8913
-
 ---
 # Create DATEDIFF and WEEKDAYDIFF expressions
 

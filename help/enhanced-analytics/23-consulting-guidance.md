@@ -5,7 +5,6 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8723 
-
 ---
 # Use case - Consulting guidance
 

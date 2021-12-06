@@ -6,7 +6,6 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket 
-
 ---
 # Become familiar with additional apps and common modules
 

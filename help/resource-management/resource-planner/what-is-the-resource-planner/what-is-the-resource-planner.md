@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8879
-
 ---
 # What is the [!DNL Resource Planner]?
 

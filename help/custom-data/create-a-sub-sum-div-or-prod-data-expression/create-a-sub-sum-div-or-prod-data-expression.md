@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8914
-
 ---
 # Create a SUB, SUM, DIV, or PROD data expression
 

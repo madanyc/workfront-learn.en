@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8877
-
 ---
 # Adjust daily allocations in the [!DNL Workload Balancer]
 

@@ -5,7 +5,6 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8729
-
 ---
 # Flight plan overview - Navigating and reviewing projects
 

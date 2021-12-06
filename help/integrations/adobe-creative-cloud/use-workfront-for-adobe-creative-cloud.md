@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8811
-
 ---
 # Use [!DNL Workfront] for Adobe Creative Cloud
 
