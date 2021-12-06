@@ -8,7 +8,8 @@ team: Technical Marketing
 kt: 8822
 
 role: User
-level: Beginner---
+level: Beginner
+---
 # Benefits of proofing in [!DNL Workfront]
 
 In this video, you will learn:

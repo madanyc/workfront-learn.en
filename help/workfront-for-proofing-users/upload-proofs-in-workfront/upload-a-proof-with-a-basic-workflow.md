@@ -6,9 +6,9 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8832
-
 role: User
-level: Beginner---
+level: Beginner
+---
 # Upload a proof with a basic workflow
 
 In this video, you will learn how to:

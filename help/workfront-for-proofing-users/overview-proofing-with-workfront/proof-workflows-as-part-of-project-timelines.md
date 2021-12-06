@@ -8,7 +8,8 @@ team: Technical Marketing
 kt: 8825
 
 role: User
-level: Beginner---
+level: Beginner
+---
 # Proof workflows as part of project timelines
 
 In this video, you will learn:

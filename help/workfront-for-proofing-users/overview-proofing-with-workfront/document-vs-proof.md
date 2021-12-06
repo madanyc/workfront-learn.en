@@ -8,7 +8,8 @@ team: Technical Marketing
 kt: 8823
 
 role: User
-level: Beginner---
+level: Beginner
+---
 # Document vs. proof
 
 In this video, you will learn:
