@@ -9,15 +9,12 @@ level: Beginner
 + [Workfront](home.md)
 + Administration and Setup {#administrator-fundamentals-program}
   + Organizational setup {#organizational-setup}
-    + [Introduction to user organization](administrator-fundamentals-program/user-organization/introduction-to-group-administators.md)
+    + [Introduction to user organization and group administration](administrator-fundamentals-program/user-organization/introduction-to-group-administrators.md)
     + [Users setup](administrator-fundamentals-program/user-organization/user-setup.md)
     + [Companies](administrator-fundamentals-program/user-organization/user-organization-companies.md)
     + [Groups](administrator-fundamentals-program/user-organization/user-organization-groups.md)
     + [Teams](administrator-fundamentals-program/user-organization/user-organization-teams.md)
     + [Log in as](administrator-fundamentals-program/user-organization/log-in-as.md)
-
-  + Group Administration {#group-administration}
-    + [Introduction to group administrators](administrator-fundamentals-program/user-organization/introduction-to-group-administators.md)
 
   + Manage deleted items {#manage-deleted-items}
     + [Recycle bin](administrator-fundamentals-program/project-setup/recycle-bin.md)
@@ -52,7 +49,7 @@ level: Beginner
     + [Deactivating vs. deleting users](administrator-fundamentals-program/add-users-to-workfront/deactivate-or-delete-users.md)
     + [System audit log](administrator-fundamentals-program/project-setup/system-audit-log.md)
 
-  + Approval processes and milestone paths {#approval-processes-and-mileston-paths}
+  + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Creating milestones](administrator-fundamentals-program/milestones/creating-milestones.md)
     + [Use global approval processes](issue-management-program/managing-issues/manage-issue-assignments.md)
 
@@ -175,9 +172,9 @@ level: Beginner
     + [Introduction to request queues](administrator-fundamentals-program/queue-management/introduction-to-request-queues.md)
     + [Create a request queue](administrator-fundamentals-program/queue-management/queue-creation.md)
     + [Settings for a flow request](administrator-fundamentals-program/queue-management/setting-request-flow.md)
-    + [How to create a request flow](administrator-fundamentals-program/queue-management/show-to-create-a-request-flow.md)
+    + [How to create a request flow](administrator-fundamentals-program/queue-management/how-to-create-a-request-flow.md)
 
-  + Approval processes and milestone paths {#approval-processes-and-milestone paths}
+  + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Applying milestones](administrator-fundamentals-program/milestones/applying-milestones.md)
     + [Viewing milestones](administrator-fundamentals-program/milestones/viewing-milestones.md)
     + [Creating a single-use approval process](administrator-fundamentals-program/approval-processes/creating-a-single-use-approval-process.md)
@@ -279,7 +276,7 @@ level: Beginner
 
   + Workload Balancer {#workload-balancer}
     + [Find the Workload Balancer and view user allocations](resource-management/workload-balancer/find-the-workload-balancer/find-the-workload-balancer.md)
-    + [Filter, view, and assign work in the Workload Balancer](resource-management/workload-balancer/filter-unassigned-and-assigned-work-areas/filter-unassigned-and-assigned-work-areas.md)
+    + [Filter, view, and assign work in the Workload Balancer](resource-management/workload-balancer/filter-unassigned-assigned-areas/filter-unassigned-and-assigned-work-areas.md)
 
   + Resource planning {#resource-planning}
     + [What is the Resource Planner?](resource-management/resource-planner/what-is-the-resource-planner/what-is-the-resource-planner.md)
