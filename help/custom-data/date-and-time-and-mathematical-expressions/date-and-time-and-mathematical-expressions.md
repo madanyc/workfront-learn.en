@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 
-exl-id: 
 ---
 # Date & Time and Mathematical expressions
 

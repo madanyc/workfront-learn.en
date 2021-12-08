@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 
-exl-id: 
 ---
 # Get started with calculated fields and expressions
 

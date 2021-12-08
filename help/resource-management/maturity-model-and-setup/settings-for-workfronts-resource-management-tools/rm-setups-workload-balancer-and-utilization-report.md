@@ -5,7 +5,6 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 
-exl-id: 
 ---
 # Resource management setups, Workload Balancer, and Utilization Report
 
