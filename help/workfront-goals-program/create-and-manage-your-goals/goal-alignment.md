@@ -8,7 +8,7 @@ kt: 8923
 ---
 # Goal alignment
 
-## Align goals between between individuals, teams, and the company
+## Align goals between individuals, teams, and the company
 
 Now that you've created and activated your goals in [!DNL Workfront Goals], let's make sure they are aligned to one another. Goal alignment is an important part of goal management. If you haven't completed the learning path Workfront Goals, Part 1: Establish a vision and strategy, we recommend you take that first before continuing.
 
