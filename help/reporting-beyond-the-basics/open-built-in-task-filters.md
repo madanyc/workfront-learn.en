@@ -15,3 +15,21 @@ In this video, you will:
 * Learn how to create your own task filter 
 
 >[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12)
+
+## Activity
+
+You want to make sure you are aware of tasks assigned to one of your teams that no one has agreed to work on it yet. Create a task report named “Unassigned Tasks on any of my teams.”  
+
+## Answer
+
+Here is what the filter should look like:
+
+![An image of the screen to create a task filter](assets/opening-built-in-task-filters-1.png)
+
+Set up your column view to include the fields you’re interested in or would like to be able to in-line edit. For example, you could include an Assignments column so you could assign a team member to a task directly from the report. 
+
+You might want to group the list based on the name of the team assigned to each task.
+
+Here is what the report should look like:
+
+![An image of a task report](assets/opening-built-in-task-filters-2.png)
