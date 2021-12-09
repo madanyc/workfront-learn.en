@@ -216,8 +216,8 @@ level: Beginner
 
 + Reporting {#reporting}
   + Basic reporting {#basic-reporting}
-    + [Reporting elements](basic-reporting/reporting-elements.md)
-    + [Reporting components](basic-reporting/reporting-components.md)
+    + [Understand reporting elements](basic-reporting/reporting-elements.md)
+    + [Understand reporting components](basic-reporting/reporting-components.md)
     + [Create a basic grouping](basic-reporting/create-a-basic-grouping.md)
     + [Create a basic view](basic-reporting/create-a-basic-view.md)
     + [Add basic conditional formatting](basic-reporting/add-basic-conditional-formatting-to-a-view.md)
@@ -227,23 +227,23 @@ level: Beginner
     + [Create a task report](basic-reporting/create-a-task-report.md)
     + [Create reports with charts](basic-reporting/create-reports-with-charts.md)
     + [Create a matrix report](basic-reporting/create-a-matrix-report.md)
-    + [Tour of the calendar interface](basic-reporting/create-a-basic-custom-calendar/tour-of-the-interface.md)
+    + [Understand the calendar interface](basic-reporting/create-a-basic-custom-calendar/tour-of-the-interface.md)
     + [Creating custom calendars](basic-reporting/create-a-basic-custom-calendar/creating-custom-calendars.md)
     + [Additional calendar options](basic-reporting/create-a-basic-custom-calendar/additional-calendar-options.md)
     + [Your turn to create a calendar](basic-reporting/create-a-basic-custom-calendar/your-turn-to-create-a-calendar.md)
     + [Create dashboards](basic-reporting/create-dashboards.md)
     + [Send and share reports](basic-reporting/how-to-send-and-share-reports.md)
-    + [Report settings](basic-reporting/report-settings.md)
+    + [Understand report settings](basic-reporting/report-settings.md)
 
   + Intermediate reporting {#intermediate-reporting}
     + [Create filters with user-based wildcards](reporting-beyond-the-basics/create-filters-with-user-based-wildcards.md)    
     + [Create filters with date-based wildcards](reporting-beyond-the-basics/create-filters-with-date-based-wildcards.md)
-    + [OR statements in filters](reporting-beyond-the-basics/or-statements-in-filters.md)    
-    + [Open built-in project filters](reporting-beyond-the-basics/open-built-in-project-filters.md)
-    + [Open built-in task filters](reporting-beyond-the-basics/open-built-in-task-filters.md)    
-    + [Open built-in issue filters](reporting-beyond-the-basics/open-built-in-issue-filters.md)
-    + [Basic text mode for filters](reporting-beyond-the-basics/basic-text-mode-for-filters.md)    
-    + [Custom prompts](reporting-beyond-the-basics/custom-prompts.md)  
+    + [Create OR statements in filters](reporting-beyond-the-basics/or-statements-in-filters.md)    
+    + [Understand built-in project filters](reporting-beyond-the-basics/open-built-in-project-filters.md)
+    + [Understand built-in task filters](reporting-beyond-the-basics/open-built-in-task-filters.md)    
+    + [Understand built-in issue filters](reporting-beyond-the-basics/open-built-in-issue-filters.md)
+    + [Understand basic text mode for filters](reporting-beyond-the-basics/basic-text-mode-for-filters.md)    
+    + [Create custom prompts](reporting-beyond-the-basics/custom-prompts.md)    
 
   + Enhanced Analytics {#enhanced-analytics}
     + [Getting started with Enhanced analytics](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
@@ -300,30 +300,33 @@ level: Beginner
     + [Publish a scenario](scenario-planner-program/publishing-a-scenario.md)
 
 + Review and approve work {#review-and-approve-work}
+
 + Adobe Workfront Goals {#adobe-workfront-goals}
-  + Establish a vision {#establish-a-vision-and-strategy}
-    + [A moment with product](workfront-goals-program/establish-a-vision-and-strategy/a-moment-with-product.md)
-    + [Introduction](workfront-goals-program/establish-a-vision-and-strategy/introduction-to-workfront-goals.md)
-    + [Workfront Goals in your work cycle](workfront-goals-program/establish-a-vision-and-strategy/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
-    + [Establish a vision and strategy](workfront-goals-program/establish-a-vision-and-strategy/establish-a-vision-and-strategy.md)
-    + [Define and express the objective](workfront-goals-program/establish-a-vision-and-strategy/define-and-express-the-objective.md)
-    + [Collaborate around goals](workfront-goals-program/establish-a-vision-and-strategy/collaborate-around-enterprise-and-organizational-goals.md)  
-    + [Align groups and teams to the strategy](workfront-goals-program/establish-a-vision-and-strategy/align-groups-and-teams-to-the-strategy.md)
+  + Establish a vision for your org {#establish-a-vision-and-strategy}
+    + [Understand the vision behind Workfront Goals](workfront-goals-program/establish-a-vision-and-strategy/a-moment-with-product.md)
+    + [Understand how Workfront Goals works](workfront-goals-program/establish-a-vision-and-strategy/introduction-to-workfront-goals.md)
+    + [Understand how Workfront Goals fits in your work cycle](workfront-goals-program/establish-a-vision-and-strategy/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
+    + [Establish a vision and strategy for your org](workfront-goals-program/establish-a-vision-and-strategy/establish-a-vision-and-strategy.md)
+    + [Create a clear objective statement](workfront-goals-program/establish-a-vision-and-strategy/define-and-express-the-objective.md)
+    + [Collaborate around enterprise and organizational goals](workfront-goals-program/establish-a-vision-and-strategy/collaborate-around-enterprise-and-organizational-goals.md)  
+    + [Align groups and teams to your strategy](workfront-goals-program/establish-a-vision-and-strategy/align-groups-and-teams-to-the-strategy.md)
   
-  + Create and manage your goals {#create-and-manage-goals}
-    + [Workfront Goals overview](workfront-goals-program/create-and-manage-your-goals/workfront-goals-overview.md)
-    + [Set up Workfront Goals](workfront-goals-program/create-and-manage-your-goals/set-up-workfront-goals-for-your-company.md)
-    + [Edit access levels](workfront-goals-program/create-and-manage-your-goals/edit-access-levels.md)
-    + [Create a layout template with Workfront Goals](workfront-goals-program/create-and-manage-your-goals/create-a-layout-template-with-workfront-goals.md)
+  + Create your goals {#create-goals}
+    + [Understand how to use Workfront Goals](workfront-goals-program/create-and-manage-your-goals/workfront-goals-overview.md)
+    + [Set up Workfront Goals for your org](workfront-goals-program/create-and-manage-your-goals/set-up-workfront-goals-for-your-company.md)
+    + [Grant Goals access to selected users](workfront-goals-program/create-and-manage-your-goals/edit-access-levels.md)
+    + [Create a layout template for Goals users](workfront-goals-program/create-and-manage-your-goals/create-a-layout-template-with-workfront-goals.md)
     + [Create goals in Workfront](workfront-goals-program/create-and-manage-your-goals/create-goals-in-workfront.md)
-    + [Add a goal to Workfront Goals](workfront-goals-program/create-and-manage-your-goals/add-a-goal-to-workfront-goals.md)
-    + [Copy an existing goal](workfront-goals-program/create-and-manage-your-goals/copy-an-existing-goal.md)  
-    + [Convert an activity into an aligned goal for goal creation](workfront-goals-program/create-and-manage-your-goals/convert-an-activity-into-an-aligned-goal-for-goal-creation.md)
+
+
+  + Activate your goals {#activate-goals}
     + [Activate goals in Workfront](workfront-goals-program/create-and-manage-your-goals/activate-goals-in-workfront.md)
     + [Add an activity to a goal](workfront-goals-program/create-and-manage-your-goals/add-an-activity-to-a-goal.md)
     + [Add a result to a goal](workfront-goals-program/create-and-manage-your-goals/add-a-result-to-a-goal.md)
     + [Activate by aligning a goal to another](workfront-goals-program/create-and-manage-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
-    + [Goal alignment](workfront-goals-program/create-and-manage-your-goals/goal-alignment.md)  
+
+  + Manage your goals {#manage-goals}
+    + [Align your goals](workfront-goals-program/create-and-manage-your-goals/goal-alignment.md)  
     + [Manually connect goals to one another](workfront-goals-program/create-and-manage-your-goals/manually-connect-goals-to-one-another.md)
     + [Convert an activity to an aligned goal](workfront-goals-program/create-and-manage-your-goals/convert-an-activity-into-an-aligned-goal-for-goal-alignment.md)
     + [Remove goal alignment](workfront-goals-program/create-and-manage-your-goals/remove-goal-alignment.md)
@@ -331,11 +334,14 @@ level: Beginner
     + [Make a quantitative update](workfront-goals-program/create-and-manage-your-goals/make-a-quantitative-update.md)
     + [Make a qualitative update](workfront-goals-program/create-and-manage-your-goals/make-a-qualitative-update.md)
     + [Close a goal once complete](workfront-goals-program/create-and-manage-your-goals/close-a-goal-once-complete.md)
+
+  + Monitor your goals {#monitor-goals}
     + [Calculate goal progress](workfront-goals-program/create-and-manage-your-goals/calculate-goal-progress.md)
-    + [Communication and goal health](workfront-goals-program/create-and-manage-your-goals/communication-and-goal-health.md)  
-    + [Navigate the Pulse update stream](workfront-goals-program/create-and-manage-your-goals/navigate-the-pulse-update-stream.md)
+    + [Communicate goal status](workfront-goals-program/create-and-manage-your-goals/communication-and-goal-health.md)  
+    + [Navigate the [!UICONTROL Pulse] update stream](workfront-goals-program/create-and-manage-your-goals/navigate-the-pulse-update-stream.md)
     + [View individual goal updates](workfront-goals-program/create-and-manage-your-goals/view-individual-goal-updates.md)
     + [Understand the Graphs section](workfront-goals-program/create-and-manage-your-goals/understand-the-graphs-section.md)  
+
 
 + Adobe Workfront Integrations {#adobe-workfront-integrations}
   + Adobe Creative Cloud {#adobe-creative-cloud}
