@@ -9,12 +9,12 @@ level: Beginner
 + [Workfront](home.md)
 + Administration and Setup {#administrator-fundamentals-program}
   + Organizational setup {#organizational-setup}
-    + [Understanding user organization and group administration](administrator-fundamentals-program/user-organization/introduction-to-group-administrators.md)
+    + [Understand user organization and group administration](administrator-fundamentals-program/user-organization/introduction-to-group-administrators.md)
     + [Learn to set up users](administrator-fundamentals-program/user-organization/user-setup.md)
-    + [Understand and creating companies](administrator-fundamentals-program/user-organization/user-organization-companies.md)
-    + [Understand and creating groups](administrator-fundamentals-program/user-organization/user-organization-groups.md)
-    + [Understand and creating teams](administrator-fundamentals-program/user-organization/user-organization-teams.md)
-    + [Learn about Log in as](administrator-fundamentals-program/user-organization/log-in-as.md)
+    + [Create companies](administrator-fundamentals-program/user-organization/user-organization-companies.md)
+    + [Create groups](administrator-fundamentals-program/user-organization/user-organization-groups.md)
+    + [Create teams](administrator-fundamentals-program/user-organization/user-organization-teams.md)
+    + [Learn to Log in as users](administrator-fundamentals-program/user-organization/log-in-as.md)
 
   + Manage deleted items {#manage-deleted-items}
     + [Understand the recycle bin](administrator-fundamentals-program/project-setup/recycle-bin.md)
@@ -43,14 +43,14 @@ level: Beginner
     + [Attach reminder notifications](administrator-fundamentals-program/email-and-in-app-notifications/user-attach-reminder-notifications.md)
 
   + Create and manage users {#create-and-manage-users}
-    + [Add individual users](administrator-fundamentals-program/add-users-to-workfront/getting-started-with-adding-users-to-workfront.md)
+    + [Understand how to add users](administrator-fundamentals-program/add-users-to-workfront/getting-started-with-adding-users-to-workfront.md)
     + [Create an individual user](administrator-fundamentals-program/add-users-to-workfront/create-an-individual-user.md)
     + [Add users in bulk and modify user information](administrator-fundamentals-program/add-users-to-workfront/add-users-in-bulk.md)
-    + [Understand the differenve between Deactivate vs. delete users](administrator-fundamentals-program/add-users-to-workfront/deactivate-or-delete-users.md)
-    + [Learn the system audit log](administrator-fundamentals-program/project-setup/system-audit-log.md)
+    + [Understand the differenve between deactivating and deleting users](administrator-fundamentals-program/add-users-to-workfront/deactivate-or-delete-users.md)
+    + [Understand the system audit log](administrator-fundamentals-program/project-setup/system-audit-log.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
-    + [Creating milestones](administrator-fundamentals-program/milestones/creating-milestones.md)
+    + [Create milestones](administrator-fundamentals-program/milestones/creating-milestones.md)
     + [Use global approval processes](issue-management-program/managing-issues/manage-issue-assignments.md)
 
   + Configure system defaults  {#configure-system-defaults}
