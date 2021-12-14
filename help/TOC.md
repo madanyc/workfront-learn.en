@@ -9,15 +9,15 @@ level: Beginner
 + [Workfront](home.md)
 + Administration and Setup {#administrator-fundamentals-program}
   + Organizational setup {#organizational-setup}
-    + [Introduction to user organization and group administration](administrator-fundamentals-program/user-organization/introduction-to-group-administrators.md)
-    + [Users setup](administrator-fundamentals-program/user-organization/user-setup.md)
-    + [Companies](administrator-fundamentals-program/user-organization/user-organization-companies.md)
-    + [Groups](administrator-fundamentals-program/user-organization/user-organization-groups.md)
-    + [Teams](administrator-fundamentals-program/user-organization/user-organization-teams.md)
-    + [Log in as](administrator-fundamentals-program/user-organization/log-in-as.md)
+    + [Understand user organization and group administration](administrator-fundamentals-program/user-organization/introduction-to-group-administrators.md)
+    + [Learn to set up users](administrator-fundamentals-program/user-organization/user-setup.md)
+    + [Create companies](administrator-fundamentals-program/user-organization/user-organization-companies.md)
+    + [Create groups](administrator-fundamentals-program/user-organization/user-organization-groups.md)
+    + [Create teams](administrator-fundamentals-program/user-organization/user-organization-teams.md)
+    + [Learn to Log in as users](administrator-fundamentals-program/user-organization/log-in-as.md)
 
   + Manage deleted items {#manage-deleted-items}
-    + [Recycle bin](administrator-fundamentals-program/project-setup/recycle-bin.md)
+    + [Understand the recycle bin](administrator-fundamentals-program/project-setup/recycle-bin.md)
 
   + Configure system defaults {#conifgure-system-defaults}
     + [Configure system defaults](administrator-fundamentals-program/project-setup/project-setup.md)
@@ -37,20 +37,20 @@ level: Beginner
     + [Use the announcement center](administrator-fundamentals-program/email-and-in-app-notifications/admin-use-the-announcement-center.md)
     + [Create reminder notifications](administrator-fundamentals-program/email-and-in-app-notifications/admin-create-reminder-notifications.md)
     + [Set up automatic reminders](administrator-fundamentals-program/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
-    + [User notification management](administrator-fundamentals-program/email-and-in-app-notifications/get-started-user-notification-management.md)
+    + [Manage user notifications](administrator-fundamentals-program/email-and-in-app-notifications/get-started-user-notification-management.md)
     + [Subscribe to work items](administrator-fundamentals-program/email-and-in-app-notifications/user-subscribe-to-work-items.md)
     + [Manage user event notifications](administrator-fundamentals-program/email-and-in-app-notifications/user-manage-user-event-notifications.md)
     + [Attach reminder notifications](administrator-fundamentals-program/email-and-in-app-notifications/user-attach-reminder-notifications.md)
 
   + Create and manage users {#create-and-manage-users}
-    + [Getting started with adding users](administrator-fundamentals-program/add-users-to-workfront/getting-started-with-adding-users-to-workfront.md)
+    + [Understand how to add users](administrator-fundamentals-program/add-users-to-workfront/getting-started-with-adding-users-to-workfront.md)
     + [Create an individual user](administrator-fundamentals-program/add-users-to-workfront/create-an-individual-user.md)
     + [Add users in bulk and modify user information](administrator-fundamentals-program/add-users-to-workfront/add-users-in-bulk.md)
-    + [Deactivating vs. deleting users](administrator-fundamentals-program/add-users-to-workfront/deactivate-or-delete-users.md)
-    + [System audit log](administrator-fundamentals-program/project-setup/system-audit-log.md)
+    + [Understand the differenve between deactivating and deleting users](administrator-fundamentals-program/add-users-to-workfront/deactivate-or-delete-users.md)
+    + [Understand the system audit log](administrator-fundamentals-program/project-setup/system-audit-log.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
-    + [Creating milestones](administrator-fundamentals-program/milestones/creating-milestones.md)
+    + [Create milestones](administrator-fundamentals-program/milestones/creating-milestones.md)
     + [Use global approval processes](issue-management-program/managing-issues/manage-issue-assignments.md)
 
   + Configure system defaults  {#configure-system-defaults}
@@ -60,26 +60,26 @@ level: Beginner
   + Statuses and priority lables {#statuses-and-priority-labels}
     + [Create systemwide issues status](issue-management-program/setting-up-issues/create-systemwide-issue-status.md)
     + [Customize issue types and terminology](issue-management-program/setting-up-issues/customize-issue-types-and-terminology.md)
-    + [Default issue types](issue-management-program/setting-up-issues/default-issue-types.md)
+    + [Understand default issue types](issue-management-program/setting-up-issues/default-issue-types.md)
     + [Manage issue severities](issue-management-program/setting-up-issues/manage-issue-severities.md)
-    + [Issue status and group administrators](issue-management-program/setting-up-issues/issue-status-and-group-administrators.md)
+    + [Learn about issue statuses and group administrators](issue-management-program/setting-up-issues/issue-status-and-group-administrators.md)
 
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
-    + [Creating and sharing a custom form](administrator-fundamentals-program/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
+    + [Create and share a custom form](administrator-fundamentals-program/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
     + [Use and edit a custom form](administrator-fundamentals-program/custom-forms/custom-forms-using-a-custom-form.md)
     + [Share custom fields](administrator-fundamentals-program/custom-forms/share-custom-fields.md)
     + [Export a custom form as a PDF](administrator-fundamentals-program/custom-forms/export-a-custom-form-as-a-pdf.md)
     
   + Calculated expressions {#calculated-expressions}
-    + [Getting started with calculated fields and expressions](custom-data/get-started-with-calculated-fields-and-expressions/get-started-with-calculated-fields-and-expressions.md)
-    + [Data expression structure](custom-data/data-expression-structure.md)
-    + [Date & Time and Mathematical expressions](custom-data/date-and-time-and-mathematical-expressions/date-and-time-and-mathematical-expressions.md)
+    + [Overview of calculated fields and expressions](custom-data/get-started-with-calculated-fields-and-expressions/get-started-with-calculated-fields-and-expressions.md)
+    + [Learn the data expression structure](custom-data/data-expression-structure.md)
+    + [Understand Date & Time and Mathematical expressions](custom-data/date-and-time-and-mathematical-expressions/date-and-time-and-mathematical-expressions.md)
     + [Create ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS  expressions](custom-data/create-adddays-addweekdays-addmonths-addyears-expressions.md)
     + [Create DATEDIFF and WEEKDAYDIFF expressions](custom-data/create-datediff-and-weekdaydiff-expressions.md)
     + [Create a SUB, SUM, DIV, or PROD data expression](custom-data/create-a-sub-sum-div-or-prod-data-expression/create-a-sub-sum-div-or-prod-data-expression.md)
-    + [Text expressions](custom-data/text-expressions/text-expressions.md)
-    + [ISBLANK and CONTAINS](custom-data/isblank-and-contains/isblank-and-contains.md)
+    + [Understand Text expressions](custom-data/text-expressions/text-expressions.md)
+    + [Understand ISBLANK and CONTAINS](custom-data/isblank-and-contains/isblank-and-contains.md)
     + [Use the CONCAT expression in a calculated field](custom-data/use-the-concat-expression-in-a-calculated-field.md)
     + [Create LEFT/RIGHT expressions](custom-data/create-left-right-expressions.md)
     + [Create an IF text expression](custom-data/create-an-if-text-expression.md)
@@ -325,22 +325,19 @@ level: Beginner
     + [Search Workfront through Slack](integrations/slack/search-workfront-through-slack.md)
 
 + Workfront Proof {#workfront-proof}
+  + [Understand proofing](workfront-for-proofing-users/review-and-approve-proofs/introduction-to-proofing.md)
+  + [Learn the benefits of proofing](setups-for-proofing-in-workfront-program/setups-overview-proofing-with-workfront/benefits-of-proofing-in-workfront.md)
+  + [Understand the difference between a document and a proof](setups-for-proofing-in-workfront-program/setups-overview-proofing-with-workfront/document-vs-proof.md)
+  + [Learn proofing terminology](workfront-for-proofing-users/overview-proofing-with-workfront/proofing-terminology.md)
   + Administration and setup {#adinistration-and-setup-for-proof}
     + [Settings for proof users](setups-for-proofing-in-workfront-program/proof-system-setups-part-one-system-and-user-settings/settings-for-proof-users.md)
-
-  + Review and approve work {#review-and-approve-work-for-proof}
-    + [Introduction to proofing](workfront-for-proofing-users/review-and-approve-proofs/introduction-to-proofing.md)
-    + [Benefits of proofing](setups-for-proofing-in-workfront-program/setups-overview-proofing-with-workfront/benefits-of-proofing-in-workfront.md)
-    + [Document vs. proof](setups-for-proofing-in-workfront-program/setups-overview-proofing-with-workfront/document-vs-proof.md)
-    + [Proofing terminology](workfront-for-proofing-users/overview-proofing-with-workfront/proofing-terminology.md)
-    + [Introduction to proof workflows](workfront-for-proofing-users/overview-proofing-with-workfront/introduction-to-proof-workflows.md)
-    + [Proof workflows as part of project timelines](workfront-for-proofing-users/overview-proofing-with-workfront/proof-workflows-as-part-of-project-timelines.md)
-    + [Get started with uploading proofs](workfront-for-proofing-users/upload-proofs-in-workfront/get-started-with-uploading-proofs.md)
+    + [Email alert vs. proof notification](workfront-for-proofing-users/upload-proofs-in-workfront/email-alert-vs-proof-notification.md)
+    + [Proof roles and email alerts](workfront-for-proofing-users/upload-proofs-in-workfront/proof-roles-and-email-alerts.md)
+  + Upload proofs {#upload-proofs}
+    + [Who uploads the proof versions?](workfront-for-proofing-users/review-and-approve-proofs/who-uploads-the-proof-versions.md)
+    + [Upload proofs overview](workfront-for-proofing-users/upload-proofs-in-workfront/get-started-with-uploading-proofs.md)
     + [Upload a proof with a basic workflow](workfront-for-proofing-users/upload-proofs-in-workfront/upload-a-proof-with-a-basic-workflow.md)
     + [Upload with a drag and drop](workfront-for-proofing-users/upload-proofs-in-workfront/upload-with-a-drag-and-drop.md)
-    + [Proof roles and email alerts](workfront-for-proofing-users/upload-proofs-in-workfront/proof-roles-and-email-alerts.md)
-    + [Email alert vs. proof notification](workfront-for-proofing-users/upload-proofs-in-workfront/email-alert-vs-proof-notification.md)
-    + [Create multi-stage proof workflows](workfront-for-proofing-users/upload-proofs-in-workfront/create-multi-stage-proof-workflows.md)
     + [Upload a proof with an automated workflow](workfront-for-proofing-users/upload-proofs-in-workfront/upload-a-proof-with-an-automated-workflow.md)
     + [Convert a document to a proof](workfront-for-proofing-users/upload-proofs-in-workfront/convert-a-document-to-a-proof.md)
     + [Combine multiple files into a single proof](workfront-for-proofing-users/upload-proofs-in-workfront/combine-multiple-files-into-a-single-proof.md)
@@ -349,14 +346,18 @@ level: Beginner
     + [What is a proof version?](workfront-for-proofing-users/manage-proofs-and-versions-in-workfront/what-is-a-proof-version.md)
     + [Upload a proof version](workfront-for-proofing-users/manage-proofs-and-versions-in-workfront/upload-a-proof-version.md)
     + [Manage proof versions](workfront-for-proofing-users/manage-proofs-and-versions-in-workfront/manage-proof-versions.md)
+    + [View and compare proof versions](workfront-for-proofing-users/review-and-approve-proofs/view-and-compare-proof-versions.md)
+  + Proof workflows {#proof-workflows}
+    + [Understand and create proof workflows](workfront-for-proofing-users/overview-proofing-with-workfront/introduction-to-proof-workflows.md)
+    + [Understand proof workflows as part of project timelines](workfront-for-proofing-users/overview-proofing-with-workfront/proof-workflows-as-part-of-project-timelines.md)
+    + [Create multi-stage proof workflows](workfront-for-proofing-users/upload-proofs-in-workfront/create-multi-stage-proof-workflows.md)
     + [Edit a proof workflow](workfront-for-proofing-users/manage-proofs-and-versions-in-workfront/edit-a-proof-workflow.md)
+  + Review and approve work {#review-and-approve-work-for-proof}
     + [Track proof progress](workfront-for-proofing-users/manage-proofs-and-versions-in-workfront/track-proof-progress.md)
     + [Proof details overview](workfront-for-proofing-users/manage-proofs-and-versions-in-workfront/proof-details-overview.md)
     + [Proof viewer navigation](workfront-for-proofing-users/review-and-approve-proofs/proof-viewer-navigation.md)
     + [Review and approve a proof](workfront-for-proofing-users/review-and-approve-proofs/review-and-approve-a-proof.md)
     + [Manage proof comments](workfront-for-proofing-users/review-and-approve-proofs/manage-proof-comments.md)
-    + [View and compare proof versions](workfront-for-proofing-users/review-and-approve-proofs/view-and-compare-proof-versions.md)
-    + [Who uploads the proof versions?](workfront-for-proofing-users/review-and-approve-proofs/who-uploads-the-proof-versions.md)
 
 + Adobe Workfront DAM {#workfront-dam-program}
   + System setup {#system-setup}
