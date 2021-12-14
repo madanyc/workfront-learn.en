@@ -85,44 +85,6 @@ level: Beginner
     + [Create an IF text expression](custom-data/create-an-if-text-expression.md)
     + [Things to know about expressions](custom-data/things-to-know-about-expressions.md)
 
-+ Documents {#documents}
-  + Adobe Workfront DAM {#workfront-dam-program}
-    + [Understand [!DNL Workfront DAM]](workfront-dam-program/part-1-system-setup/introduction-to-workfront-dam.md)
-    + [Understand [!UICONTROL Brand Portal]](workfront-dam-program/part-1-system-setup/brand-connect-brand-portal-introduction.md)
-    + [Set up groups and users](workfront-dam-program/part-1-system-setup/system-setup-groups-and-users.md)
-    + [Understand system settings](workfront-dam-program/part-1-system-setup/system-setup-system-settings.md)
-    + [Customize [!DNL Workfront DAM]](workfront-dam-program/part-1-system-setup/system-setup-customize-workfront-dam.md)  
-    + [Analyze and plan a [!DNL Workfront DAM] strategy](workfront-dam-program/part-1-system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
-    + [Configure the integration in Workfront](workfront-dam-program/part-1-system-setup/configure-the-integration-in-workfront.md)  
-    + [Understand metadata](workfront-dam-program/part-2-metadata-and-keywords/metadata-introduction.md)
-    + [Review the metadata terminology](workfront-dam-program/part-2-metadata-and-keywords/review-the-terminology.md)
-    + [Set up the metadata](workfront-dam-program/part-2-metadata-and-keywords/metadata-setup.md)
-    + [Set up the metadata keywords](workfront-dam-program/part-2-metadata-and-keywords/keyword-setup.md)
-    + [Enable and enforce keyword taxonomy](workfront-dam-program/part-2-metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
-    + [Set up a metadata template](workfront-dam-program/part-2-metadata-and-keywords/metadata-templates.md)
-    + [Search for assets using metadata and keywords](workfront-dam-program/part-2-metadata-and-keywords/search-for-assets.md)
-    + [Set up metadata mapping](workfront-dam-program/part-2-metadata-and-keywords/metadata-mapping.md)  
-    + [Customize [!UICONTROL Brand Connect]](workfront-dam-program/part-3-brand-connect-customization/brand-connect-customize-brand-connect.md)
-    + [Establish [!UICONTROL Brand Connect]](workfront-dam-program/part-3-brand-connect-customization/brand-connect-establish-system-settings.md)
-    + [Understand [!UICONTROL Brand Connect] appearance settings](workfront-dam-program/part-3-brand-connect-customization/brand-connect-appearance.md)
-    + [Understand [!UICONTROL Brand Connect] custom pages](workfront-dam-program/part-3-brand-connect-customization/brand-connect-custom-pages.md)
-    + [Understand brand guidelines](workfront-dam-program/part-3-brand-connect-customization/brand-connect-brand-guidelines.md)  
-    + [Understand [!UICONTROL Workfront DAM] as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-getting-started.md)
-    + [Understand finding assets as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-find-assets.md)
-    + [Add a [!UICONTROL Workfront DAM] link](workfront-dam-program/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
-    + [Understand lightboxes as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-lightboxes.md)
-    + [Work with assets as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-work-with-assets.md)
-    + [Send a file as a contributor](workfront-dam-program/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)  
-    + [Understand metadata and keyword best practices as a contributor](workfront-dam-program/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
-    + [Understand asset management as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-asset-management.md)
-    + [Publish assets as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-publish-assets.md)
-    + [Understand [!UICONTROL Brand Connect] as a user](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-introduction.md)
-    + [Understand navigation and searching as a user](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-getting-started.md)
-    + [Work with assets as a user](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-working-with-assets.md)
-    + [Understand lightboxes as a user](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-lightboxes.md)
-    + [Understand downloading and sharing as a user](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-downloading-and-sharing.md)  
-    + [Understand [!UICONTROL Brand Connect] notifications](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-notifications.md)
-
 + Manage work {#manage-work}
   + Projects {#projects}
     + [Understand basic project creation](planner-fundamentals-program/planner-fundamentals-create-a-project/introduction-to-project-creation.md)
@@ -395,6 +357,52 @@ level: Beginner
     + [Manage proof comments](workfront-for-proofing-users/review-and-approve-proofs/manage-proof-comments.md)
     + [View and compare proof versions](workfront-for-proofing-users/review-and-approve-proofs/view-and-compare-proof-versions.md)
     + [Who uploads the proof versions?](workfront-for-proofing-users/review-and-approve-proofs/who-uploads-the-proof-versions.md)
+
++ Adobe Workfront DAM {#workfront-dam-program}
+  + System setup {#system-setup}
+    + [Understand [!DNL Workfront DAM]](workfront-dam-program/part-1-system-setup/introduction-to-workfront-dam.md)
+    + [Understand [!UICONTROL Brand Portal]](workfront-dam-program/part-1-system-setup/brand-connect-brand-portal-introduction.md)
+    + [Set up groups and users](workfront-dam-program/part-1-system-setup/system-setup-groups-and-users.md)
+    + [Understand system settings](workfront-dam-program/part-1-system-setup/system-setup-system-settings.md)
+    + [Customize [!DNL Workfront DAM]](workfront-dam-program/part-1-system-setup/system-setup-customize-workfront-dam.md)  
+    + [Analyze and plan a [!DNL Workfront DAM] strategy](workfront-dam-program/part-1-system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+    + [Configure the integration in Workfront](workfront-dam-program/part-1-system-setup/configure-the-integration-in-workfront.md) 
+
+  + Metadata and keywords {#metadata-and-keywords}
+    + [Understand metadata](workfront-dam-program/part-2-metadata-and-keywords/metadata-introduction.md)
+    + [Review the metadata terminology](workfront-dam-program/part-2-metadata-and-keywords/review-the-terminology.md)
+    + [Set up the metadata](workfront-dam-program/part-2-metadata-and-keywords/metadata-setup.md)
+    + [Set up the metadata keywords](workfront-dam-program/part-2-metadata-and-keywords/keyword-setup.md)
+    + [Enable and enforce keyword taxonomy](workfront-dam-program/part-2-metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
+    + [Set up a metadata template](workfront-dam-program/part-2-metadata-and-keywords/metadata-templates.md)
+    + [Search for assets using metadata and keywords](workfront-dam-program/part-2-metadata-and-keywords/search-for-assets.md)
+    + [Set up metadata mapping](workfront-dam-program/part-2-metadata-and-keywords/metadata-mapping.md)  
+
+  + Brand Connect customization {#brand-connect-customization}  
+    + [Customize [!UICONTROL Brand Connect]](workfront-dam-program/part-3-brand-connect-customization/brand-connect-customize-brand-connect.md)
+    + [Establish [!UICONTROL Brand Connect]](workfront-dam-program/part-3-brand-connect-customization/brand-connect-establish-system-settings.md)
+    + [Understand [!UICONTROL Brand Connect] appearance settings](workfront-dam-program/part-3-brand-connect-customization/brand-connect-appearance.md)
+    + [Understand [!UICONTROL Brand Connect] custom pages](workfront-dam-program/part-3-brand-connect-customization/brand-connect-custom-pages.md)
+    + [Understand brand guidelines](workfront-dam-program/part-3-brand-connect-customization/brand-connect-brand-guidelines.md) 
+
+  + Workfront DAM user: Contributor {#workfront-dam-contributor} 
+    + [Understand [!UICONTROL Workfront DAM] as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-getting-started.md)
+    + [Understand finding assets as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-find-assets.md)
+    + [Add a [!UICONTROL Workfront DAM] link](workfront-dam-program/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
+    + [Understand lightboxes as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-lightboxes.md)
+    + [Work with assets as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-work-with-assets.md)
+    + [Send a file as a contributor](workfront-dam-program/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)  
+    + [Understand metadata and keyword best practices as a contributor](workfront-dam-program/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+    + [Understand asset management as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-asset-management.md)
+    + [Publish assets as a contributor](workfront-dam-program/workfront-dam-user-contributor/contributor-publish-assets.md)
+
+  + Brand Connect user {#brand-connect}  
+    + [Understand [!UICONTROL Brand Connect] as a user](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-introduction.md)
+    + [Understand navigation and searching as a user](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-getting-started.md)
+    + [Work with assets as a user](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-working-with-assets.md)
+    + [Understand lightboxes as a user](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-lightboxes.md)
+    + [Understand downloading and sharing as a user](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-downloading-and-sharing.md)  
+    + [Understand [!UICONTROL Brand Connect] notifications](workfront-dam-program/workfront-dam-user-brand-connect/brand-connect-notifications.md)
 
 + Home {#home}
   + [Find your work](worker-fundamentals-program/find-your-work-in-workfront-home.md)
