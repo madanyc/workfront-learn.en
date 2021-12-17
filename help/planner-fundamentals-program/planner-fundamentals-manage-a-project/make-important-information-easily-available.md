@@ -1,8 +1,8 @@
 ---
-title: How to Make Project Information Viewable
+title: View project information
 description: Learn how Filters, Views, and Groupings can make project information easily viewable to help you manage projects in Adobe Workfront.
 ---
-# Make important information easily viewable
+# View project information
 
 Whether you’re looking at the main [!UICONTROL Projects] page or at an individual project, fine-tune your list to see the information you need with [!UICONTROL Filters], [!UICONTROL Views], and [!UICONTROL Groupings].
 

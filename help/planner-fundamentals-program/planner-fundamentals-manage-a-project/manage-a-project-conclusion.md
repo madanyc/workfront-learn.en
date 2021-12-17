@@ -1,8 +1,8 @@
 ---
-title: Review the Steps for Managing a Project
+title: Manage a project - review
 description: Review how [!DNL Adobe Workfront] can help project managers mangage the work, anticipate problems, and communicate with stakeholders.
 ---
-# Conclusion: Manage a project
+# Manage a project - review
 
 With each project you manage, you’ll settle into a routine of when to review projects and what you want to review each time. Staying on top of your projects and driving them to success is what being a project manager is all about.
 

@@ -1,8 +1,8 @@
 ---
-title: How to Communicate on a Project
+title: Understand project communication
 description: Learn how to communicate about project work using updates on projects, tasks, issues, or documents. Then review existing updates in [!DNL Adobe Workfront].
 ---
-# Project communication
+# Understand project communication
 
 As the saying goes, 90 percent of managing a project is communication. Communication with the project team, your managers, and project stakeholders.
 

@@ -1,5 +1,5 @@
 ---
-title: How to Track Overall Project Progress
+title: Track overall project progress
 description: Learn how the information displayed in the project header can help you track overall project progress and health in Adobe Workfront.
 ---
 # Track overall project progress

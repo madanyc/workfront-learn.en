@@ -1,8 +1,8 @@
 ---
-title: How to Find Your Projects
+title: Find projects
 description: Learn how you can find and access projects in [!DNL Adobe Workfront] using dashboards, the [!UICONTROL Projects] area, search, and other ways.
 ---
-# Find your projects
+# Find projects
 
 As someone who plans and manages projects, it’s important to easily find those projects in [!DNL Adobe Workfront] so you can keep track of how the projects are progressing.
 

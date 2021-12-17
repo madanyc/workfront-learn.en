@@ -1,5 +1,5 @@
 ---
-title: How to Take a Project Live
+title: Take a project live
 description: Learn how to take your [!DNL Adobe Workfront] project live using the project status.
 activity: use
 type: Tutorial

@@ -89,14 +89,14 @@ level: Beginner
   + Projects {#projects}
     + [Understand basic project creation](planner-fundamentals-program/planner-fundamentals-create-a-project/introduction-to-project-creation.md)
     + [Understand other ways to create projects](planner-fundamentals-program/planner-fundamentals-create-a-project/4-ways-to-create-a-project.md)
-    + [Understand Project details](planner-fundamentals-program/planner-fundamentals-create-a-project/fill-in-the-project-details.md)
-    + [Understand Project navigation](planner-fundamentals-program/planner-fundamentals-create-a-project/navigate-the-project-page.md)
+    + [Understand project details](planner-fundamentals-program/planner-fundamentals-create-a-project/fill-in-the-project-details.md)
+    + [Understand project navigation](planner-fundamentals-program/planner-fundamentals-create-a-project/navigate-the-project-page.md)
     + [Understand the project page](planner-fundamentals-program/planner-fundamentals-create-a-project/project-page-overview.md)
     + [Find projects](planner-fundamentals-program/planner-fundamentals-create-a-project/find-your-projects.md)
-    + [Launch a project](planner-fundamentals-program/planner-fundamentals-plan-a-project/take-a-project-live.md)
-    + [Plan a project conclusion](planner-fundamentals-program/planner-fundamentals-plan-a-project/plan-a-project-conclusion.md)
-    + [Create a project conclusion](planner-fundamentals-program/planner-fundamentals-create-a-project/create-a-project-conclusion.md)
-    + [Manage a project conclusion](planner-fundamentals-program/planner-fundamentals-manage-a-project/manage-a-project-conclusion.md)
+    + [Take a project live](planner-fundamentals-program/planner-fundamentals-plan-a-project/take-a-project-live.md)
+    + [Plan a project - review](planner-fundamentals-program/planner-fundamentals-plan-a-project/plan-a-project-conclusion.md)
+    + [Create a project - review](planner-fundamentals-program/planner-fundamentals-create-a-project/create-a-project-conclusion.md)
+    + [Manage a project - review](planner-fundamentals-program/planner-fundamentals-manage-a-project/manage-a-project-conclusion.md)
     + [Get started planning a project](planner-fundamentals-program/planner-fundamentals-plan-a-project/getting-started-plan-a-project.md)
     + [Get started managing a project](planner-fundamentals-program/planner-fundamentals-manage-a-project/getting-started-manage-a-project-with-workfront.md) 
     + [Share a project](planner-fundamentals-program/planner-fundamentals-manage-a-project/project-visibility.md) 
@@ -205,12 +205,12 @@ level: Beginner
     + [Create custom prompts](reporting-beyond-the-basics/custom-prompts.md)    
 
   + Enhanced Analytics {#enhanced-analytics}
-    + [Get started with [!UICONTROL Enhanced analytics]](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
+    + [Get started with [!UICONTROL Enhanced Analytics]](enhanced-analytics/2-getting-started-with-enhanced-analytics.md)  
     + [Add [!UICONTROL analytics] to layout templates](enhanced-analytics/3-adding-analytics-to-layout-templates.md)  
-    + [Understand Basic navigation](enhanced-analytics/4-basic-navigation.md)  
+    + [Understand basic navigation](enhanced-analytics/4-basic-navigation.md)  
     + [Understand work and people charts](enhanced-analytics/5-work-and-people-charts.md)  
-    + [Understand Filters](enhanced-analytics/6-filters-overview.md)  
-    + [Understand Date ranges and timeframes](enhanced-analytics/7-date-ranges-vs-timeframes.md)  
+    + [Understand filters](enhanced-analytics/6-filters-overview.md)  
+    + [Understand date ranges and timeframes](enhanced-analytics/7-date-ranges-vs-timeframes.md)  
     + [Understand planned hours and duration views](enhanced-analytics/8-planned-hours-and-duration-views.md)  
     + [Understand actions: hover, click and drag, and click in](enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)  
     + [Understand KPIs](enhanced-analytics/10-kpis-overview.md)  
@@ -262,19 +262,19 @@ level: Beginner
 
 + Adobe Workfront Goals {#adobe-workfront-goals}
   + Establish a vision for your org {#establish-a-vision-and-strategy}
-    + [Understand the vision behind Workfront Goals](workfront-goals-program/establish-a-vision-and-strategy/a-moment-with-product.md)
-    + [Understand how Workfront Goals works](workfront-goals-program/establish-a-vision-and-strategy/introduction-to-workfront-goals.md)
-    + [Understand how Workfront Goals fits in your work cycle](workfront-goals-program/establish-a-vision-and-strategy/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
+    + [Understand the vision behind [!UICONTROL Workfront Goals]](workfront-goals-program/establish-a-vision-and-strategy/a-moment-with-product.md)
+    + [Understand how [!UICONTROL Workfront Goals] works](workfront-goals-program/establish-a-vision-and-strategy/introduction-to-workfront-goals.md)
+    + [Understand how [!UICONTROL Workfront Goals] fits in your work cycle](workfront-goals-program/establish-a-vision-and-strategy/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
     + [Establish a vision and strategy for your org](workfront-goals-program/establish-a-vision-and-strategy/establish-a-vision-and-strategy.md)
     + [Create a clear objective statement](workfront-goals-program/establish-a-vision-and-strategy/define-and-express-the-objective.md)
     + [Collaborate around enterprise and organizational goals](workfront-goals-program/establish-a-vision-and-strategy/collaborate-around-enterprise-and-organizational-goals.md)  
     + [Align groups and teams to your strategy](workfront-goals-program/establish-a-vision-and-strategy/align-groups-and-teams-to-the-strategy.md)
   
   + Create your goals {#create-goals}
-    + [Understand how to use Workfront Goals](workfront-goals-program/create-and-manage-your-goals/workfront-goals-overview.md)
-    + [Set up Workfront Goals for your org](workfront-goals-program/create-and-manage-your-goals/set-up-workfront-goals-for-your-company.md)
-    + [Grant Goals access to selected users](workfront-goals-program/create-and-manage-your-goals/edit-access-levels.md)
-    + [Create a layout template for Goals users](workfront-goals-program/create-and-manage-your-goals/create-a-layout-template-with-workfront-goals.md)
+    + [Understand how to use [!UICONTROL Workfront Goals]](workfront-goals-program/create-and-manage-your-goals/workfront-goals-overview.md)
+    + [Set up [!UICONTROL Workfront Goals] for your org](workfront-goals-program/create-and-manage-your-goals/set-up-workfront-goals-for-your-company.md)
+    + [Grant [!UICONTROL Goals] access to selected users](workfront-goals-program/create-and-manage-your-goals/edit-access-levels.md)
+    + [Create a layout template for [!UICONTROL Goals] users](workfront-goals-program/create-and-manage-your-goals/create-a-layout-template-with-workfront-goals.md)
     + [Create goals in Workfront](workfront-goals-program/create-and-manage-your-goals/create-goals-in-workfront.md)
 
 
@@ -289,7 +289,7 @@ level: Beginner
     + [Manually connect goals to one another](workfront-goals-program/create-and-manage-your-goals/manually-connect-goals-to-one-another.md)
     + [Convert an activity to an aligned goal](workfront-goals-program/create-and-manage-your-goals/convert-an-activity-into-an-aligned-goal-for-goal-alignment.md)
     + [Remove goal alignment](workfront-goals-program/create-and-manage-your-goals/remove-goal-alignment.md)
-    + [Track and update goals using Check-ins](workfront-goals-program/create-and-manage-your-goals/track-and-update-goals-using-check-ins.md)
+    + [Track and update goals using check-ins](workfront-goals-program/create-and-manage-your-goals/track-and-update-goals-using-check-ins.md)
     + [Make a quantitative update](workfront-goals-program/create-and-manage-your-goals/make-a-quantitative-update.md)
     + [Make a qualitative update](workfront-goals-program/create-and-manage-your-goals/make-a-qualitative-update.md)
     + [Close a goal once complete](workfront-goals-program/create-and-manage-your-goals/close-a-goal-once-complete.md)
@@ -299,7 +299,7 @@ level: Beginner
     + [Communicate goal status](workfront-goals-program/create-and-manage-your-goals/communication-and-goal-health.md)  
     + [Navigate the [!UICONTROL Pulse] update stream](workfront-goals-program/create-and-manage-your-goals/navigate-the-pulse-update-stream.md)
     + [View individual goal updates](workfront-goals-program/create-and-manage-your-goals/view-individual-goal-updates.md)
-    + [Understand the Graphs section](workfront-goals-program/create-and-manage-your-goals/understand-the-graphs-section.md)  
+    + [Understand the graphs section](workfront-goals-program/create-and-manage-your-goals/understand-the-graphs-section.md)  
 
 
 + Adobe Workfront Integrations {#adobe-workfront-integrations}
@@ -314,15 +314,15 @@ level: Beginner
     + [Use Workfront for Adobe Creative Cloud](integrations/jira/jira.md)
 
   + Microsoft Outlook {#outlook}
-    + [Install the Microsoft Outlook Add-in](integrations/outlook/integrations-microsoft-outlook.md)
+    + [Install the Microsoft Outlook add-in](integrations/outlook/integrations-microsoft-outlook.md)
 
   + Workfront for Slack {#slack}
-    + [Understand Workfront for Slack](integrations/slack/introduction-to-workfront-for-slack.md)
-    + [Assign tasks through Slack](integrations/slack/assign-tasks-through-slack.md)
-    + [Access your to-do list through Slack](integrations/slack/access-your-to-do-list-through-slack.md)
-    + [Make approvals through Slack](integrations/slack/make-approvals-through-slack.md)
-    + [View Recent Work through Slack](integrations/slack/view-recent-work-through-slack.md)
-    + [Search Workfront through Slack](integrations/slack/search-workfront-through-slack.md)
+    + [Understand Workfront for [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
+    + [Assign tasks through [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
+    + [Access your to-do list through [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
+    + [Make approvals through [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
+    + [View Recent Work through [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+    + [Search Workfront through [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
 
 + Workfront Proof {#workfront-proof}
   + [Understand proofing](workfront-for-proofing-users/review-and-approve-proofs/introduction-to-proofing.md)

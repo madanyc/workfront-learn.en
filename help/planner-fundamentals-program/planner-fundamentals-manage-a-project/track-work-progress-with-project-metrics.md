@@ -1,12 +1,12 @@
 ---
-title: How to Use Project Metrics
+title: Understand project metrics
 description: Learn how to use project metrics charts to track progress on project work in [!DNL Adobe Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8796
 ---
-# Track work progress with project metrics
+# Understand project metrics
 
 In this video, you will learn how to:
 

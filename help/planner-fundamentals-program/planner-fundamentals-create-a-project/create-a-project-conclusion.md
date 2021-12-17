@@ -1,8 +1,8 @@
 ---
-title: Review the Basic Steps for Creating a Project
+title: Create a project - review
 description: Review the four basic steps for creating a project in [!DNL Adobe Workfront].
 ---
-# Conclusion: Create a project
+# Create a project - review
 
 Regardless of which project creation method you choose in [!DNL Adobe Workfront], the basic steps are the same:
 

@@ -1,8 +1,8 @@
 ---
-title: How to Provide Visibility into a Project
+title: Share a project
 description: Learn how to share a project so stakeholders and others interested in the project can have visibility into the work being done using [!DNL Adobe Workfront].
 ---
-# Project visibility
+# Share a project
 
 Providing stakeholder and collaborator visibility into the project is an important part of managing a project.
 

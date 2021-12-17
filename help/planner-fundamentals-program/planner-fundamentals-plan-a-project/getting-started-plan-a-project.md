@@ -1,12 +1,12 @@
 ---
-title: How to Plan a Project Explained
+title: Get started planning a project
 description: Learn the five main components of a project, what the status signifies, how a [!UICONTROL View] can help you see relevant information, and how to set the start or due date.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8772
 ---
-# Getting started: Plan your project
+# Get started planning a project
 
 In this video, you will learn:
 

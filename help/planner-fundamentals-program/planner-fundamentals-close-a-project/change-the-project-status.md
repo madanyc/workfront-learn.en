@@ -1,8 +1,8 @@
 ---
-title: How to Close a Project with a Status
+title: Change project status
 description: Learn how to change the status of a project in [!UICONTROL Adobe Workfront] to indicate that work is complete.
 ---
-# Change the project status to close a project
+# Change project status
 
 One of the final [!DNL Workfront] steps for closing out a project is changing the status to Complete. Status does two main things in [!DNL Workfront]:
 

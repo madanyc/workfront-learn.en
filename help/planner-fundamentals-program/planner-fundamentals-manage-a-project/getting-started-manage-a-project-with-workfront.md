@@ -1,12 +1,12 @@
 ---
-title: Managing a Project Explained
+title: Get started managing a project
 description: Learn what your role is as a project manager and what to look at when monitoring project work in Adobe Workfront.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8781
 ---
-# Getting started: Manage a project in [!DNL Workfront]
+# Get started managing a project
 
 In this video, you will learn how to:
 

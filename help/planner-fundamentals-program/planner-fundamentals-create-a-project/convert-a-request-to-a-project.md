@@ -1,5 +1,5 @@
 ---
-title: How to Convert a Request to a Project
+title: Convert a request to a project
 description: Learn how to review request information, select the right project template, and convert the request into a project.
 activity: use
 type: Tutorial
