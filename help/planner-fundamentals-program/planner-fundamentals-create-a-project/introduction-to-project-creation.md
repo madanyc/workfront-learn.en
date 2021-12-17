@@ -1,12 +1,12 @@
 ---
-title: Introduction to Project Creation
+title: Understand basic project creation
 description: Learn the four steps to get a project up and running, the definition of a project in [!DNL Adobe Workfront], and the three most common ways of creating a project.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8768
 ---
-# Introduction to project creation
+# Understand basic project creation
 
 In this video, you will learn:
 

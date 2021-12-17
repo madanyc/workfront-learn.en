@@ -1,8 +1,8 @@
 ---
-title: Project Page Explained
+title: Understand the project page
 description: Learn about key features of the project page in [!DNL Adobe Workfront] to help you plan and manage your projects.
 ---
-# Project page overview
+# Understand the project page
 
 The project page is filled with many features to help you manage your work. Work with your system administrator if there is an option you need but don't see in your instance of [!DNL Workfront]. Here are a few of the main project page features to make note of.
 

@@ -1,12 +1,12 @@
 ---
-title: How to Create a Project Using Four Methods
+title: Understand other ways to create projects
 description: Learn how to create a project from a template, create a project from scratch, copy an existing project, or import a [!DNL Microsoft Project] file.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8770
 ---
-# Four ways to create a project
+# Understand other ways to create projects
 
 In this video, you will learn how to:
 

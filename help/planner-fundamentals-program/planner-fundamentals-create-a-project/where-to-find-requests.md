@@ -1,8 +1,8 @@
 ---
-title: How to Find Requests
+title: Find requests
 description: Learn how you can use dashboards, [!UICONTROL Home], the [!UICONTROL Requests] area, and the [!UICONTROL Teams] page to find incoming requests made through a request queue.
 ---
-# Where to find requests
+# Find requests
 
 Where you find requests can vary, so talk with your internal [!DNL Adobe Workfront] team to find out how you’ll be managing request intake. Some places in [!DNL Workfront] where you can find requests include:
 
