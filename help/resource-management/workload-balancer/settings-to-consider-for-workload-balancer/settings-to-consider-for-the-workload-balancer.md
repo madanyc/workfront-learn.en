@@ -16,7 +16,7 @@ There are a couple of Workload Balancer settings to consider as you dive into th
 
 These can be turned on or off through the Workload Balancer Settings icon.
 
-![Workload Balancer settings icon](assets/wlbsettings_01.png)
+![Workload Balancer settings icon](assets/STC_01.png)
 
 ## Include hours from issues
 
@@ -26,11 +26,11 @@ To get a better understanding of the full workload a user has, Workfront recomme
 
 Just check the Include hours from issues option in the Workload Balancer Settings area.
 
-![include hours from issues](assets/wlbsettings_02.png)
+![include hours from issues](assets/STC_02.png)
 
 In the Assigned Work area, issues appear as light maroon bars.
 
-![issues highlight](assets/wlbsettings_03.png)
+![issues highlight](assets/STC_03.png)
 
 ### Project dates
 
@@ -38,15 +38,15 @@ Another option available through the Workload Balancer settings is to show workl
 
 The default setting shows assigned work based on the planned dates entered in the project.
 
-![assigned work with time frame](assets/wlbsettings_04.png)
+![assigned work with time frame](assets/STC_04.png)
 
 Because projected dates are based on the progress and completion of prior tasks in the project, you’re able to get a “real time” view of when a task will start or finish, which is especially useful when looking at workloads.
 
-![real time time frame](assets/wlbsettings_05.png)
+![real time time frame](assets/STC_05.png)
 
 You can switch between viewing planned and projected dates with the Show Projected Dates option in the Workload Balancer settings.
 
-![show projected dates](assets/wlbsettings_06.png)
+![show projected dates](assets/STC_06.png)
 
 ### Completed tasks
 
@@ -54,4 +54,4 @@ Completed tasks are shown in the Workload Balancer along with those currently in
 
 Uncheck the Show completed work option in the Workload Balancer settings.
 
-![show completed work](assets/wlbsettings_07.png)
+![show completed work](assets/STC_07.png)

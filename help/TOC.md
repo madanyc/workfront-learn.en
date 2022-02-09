@@ -234,8 +234,12 @@ level: Beginner
     + [Settings for Workfront's resource management tools](resource-management/maturity-model-and-setup/settings-for-projects/settings-for-projects.md)
 
   + Workload Balancer {#workload-balancer}
-    + [Find the Workload Balancer and view user allocations](resource-management/workload-balancer/find-the-workload-balancer/find-the-workload-balancer.md)
-    + [Filter, view, and assign work in the Workload Balancer](resource-management/workload-balancer/filter-unassigned-assigned-areas/filter-unassigned-and-assigned-work-areas.md)
+    + [Find the Workload Balancer](resource-management/workload-balancer/find-the-workload-balancer/find-the-workload-balancer.md)
+    + [Filter the Workload Balancer](resource-management/workload-balancer/filter-unassigned-assigned-areas/filter-unassigned-and-assigned-work-areas.md)
+    + [View user allocations in the Workload Balancer](resource-management/workload-balancer/view-user-allocations/view-user-allocations.md)
+    + [Adjust daily allocations in the Workload Balancer](resource-management/adjust-daily-allocations/adjust-daily-allocations.md)
+    + [Assign work in the Workload Balancer](resource-management/assign-work-in-workload-balancer/assign-work-in-the-workload-balancer.md)
+    + [Settings to consider for the Workload Balancer](resource-management/settings-to-consider-for-workload-balancer/settings-to-consider-for-the-workload-balancer.md)
 
   + Resource planning {#resource-planning}
     + [What is the Resource Planner?](resource-management/resource-planner/what-is-the-resource-planner/what-is-the-resource-planner.md)
