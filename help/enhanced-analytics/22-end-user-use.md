@@ -1,12 +1,12 @@
 ---
-title: Use case - End User Use
+title: Understand an end user use case
 description:  In this video, you will learn how end users might use Flight plan, Burndown, and Tasks in flight charts in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8712
 ---
-# Use case - End user use
+# Understand an end user use case
 
 In this video, you will learn:
 

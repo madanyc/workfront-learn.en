@@ -1,8 +1,8 @@
 ---
-title: Close Tasks and Issues Before Closing a Project
+title: Complete tasks
 description: Learn how to make sure tasks and issues are closed before you close out a project in [!DNL Adobe Workfront].
 ---
-# Close tasks and issues before closing a project
+# Complete tasks
 
 One of the first steps in closing out a [!DNL Workfront] project is making sure all of the tasks and issues have a status of Complete, or a status that’s an equivalent.
 

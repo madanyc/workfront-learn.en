@@ -1,12 +1,12 @@
 ---
-title: Open Built-in Issue Filters
+title: Understand built-in issue filters
 description:  Learn how to review built-in issue filters to see how they’re built and create your own issue filter in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9085
 ---
-# Open built-in issue filters
+# Understand built-in issue filters
 
 In this video, you will:
 
@@ -16,7 +16,7 @@ In this video, you will:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12)
 
-## Activity
+## Activity: Create an issue report
 
 You want to see all the issues that still need to be resolved on all the active projects you own, including issues with a resolving object. Create an issue report and name it “Unresolved issues on projects I own.”  
 

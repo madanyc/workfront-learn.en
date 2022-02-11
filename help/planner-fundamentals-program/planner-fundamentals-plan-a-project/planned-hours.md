@@ -1,12 +1,12 @@
 ---
-title: How to Add Planned Hours to a Project
+title: Understand planned hours
 description: Learn what planned hours are in [!DNL Adobe Workfront], why planned hours are important to your project, and how to add planned hours to tasks.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8777
 ---
-# Add planned hours to tasks in a project
+# Understand planned hours
 
 In this video, you will learn how to:
 

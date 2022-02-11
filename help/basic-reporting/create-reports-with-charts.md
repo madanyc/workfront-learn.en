@@ -1,5 +1,5 @@
 ---
-title: Create Reports with Charts
+title: Create reports with charts
 description:  In this video, you will learn how charts can improve the visualization of data and how to use chart tools in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video

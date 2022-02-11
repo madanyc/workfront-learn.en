@@ -1,8 +1,8 @@
 ---
-title: How to Create Tasks in a Project
+title: Create tasks
 description: Learn other methods for creating tasks in a project in [!DNL Adobe Workfront].
 ---
-# Other ways to create tasks
+# Create tasks
 
 <!---
 should this go with the work with tasks in a project video?

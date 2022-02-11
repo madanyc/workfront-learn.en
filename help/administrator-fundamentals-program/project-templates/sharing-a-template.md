@@ -1,12 +1,12 @@
 ---
-title: How to Share a Project Template
+title: Share a template
 description: Learn how share a project template with other [!DNL Adobe Workfront] users and share projects that were created with a template.
 activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8951
 ---
-# Share a project template
+# Share a template
 
 In this video, you will learn how to:
 

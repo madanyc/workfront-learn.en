@@ -1,12 +1,12 @@
 ---
-title: Create Queue Topics and Routing Rules
+title: Understand settings for a flow request
 description: Learn how the request flow process in [!DNL Adobe Workfront] works. Then create routing rules, topic groups, and queue topics.
 activity: delpoy
 type: Tutorial
 team: Technical Marketing
 kt: 8959
 ---
-# Create a request flow with routing rules, queue topics, and topic groups
+# Understand settings for a flow request
 
 In this video, you will learn:
 

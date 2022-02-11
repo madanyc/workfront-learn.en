@@ -1,12 +1,12 @@
 ---
-title: How to Apply Milestones to Projects and Tasks
+title: Understand applying milestones
 description: Learn how to apply milestone paths to an [!DNL Adobe Workfront] project and associate key tasks as milestone steps within the project.
 activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8933
 ---
-# Apply milestones to projects and tasks
+# Understand applying milestones
 
 In this video, you will learn how to:
 

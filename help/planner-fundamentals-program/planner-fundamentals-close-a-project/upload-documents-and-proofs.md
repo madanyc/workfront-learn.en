@@ -1,8 +1,8 @@
 ---
-title: Upload Files before Closing a Project
+title: Upload assets
 description: Upload documents, proofs, and other assets to the project before closing it to ensure all relevant data is associated with the project.
 ---
-# Upload documents and proofs before closing a project
+# Upload assets
 
 Before you close out a [!DNL Workfront] project, make sure that all relevant files are attached in the [!UICONTROL Documents] section. Upload these as a document or a proof, as determined by your organization’s guidelines.
 

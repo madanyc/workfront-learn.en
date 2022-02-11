@@ -1,8 +1,8 @@
 ---
-title: Team Capacity Overview
+title: Understand team capacity
 description: The Team capacity chart shows when a home team was over-allocated or under-allocated.
 ---
-# Team capacity overview
+# Understand team capacity
 
 The Team capacity chart shows when a home team was over-allocated or under-allocated. The chart displays the volume of work assigned to the home team on a given day and assigns a darker blue color when they are approaching burnout or aren't being challenged. A lighter, more transparent color indicates the workload is more balanced.
 

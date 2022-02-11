@@ -150,7 +150,7 @@ level: Beginner
     + [Copy an existing project](administrator-fundamentals-program/project-templates/copy-an-existing-project.md)
 
   + Project timelines {#project-timelines}
-    + [Track progress from the roject timeline](planner-fundamentals-program/planner-fundamentals-manage-a-project/track-work-progress-from-the-project-timeline.md) 
+    + [Track progress from the project timeline](planner-fundamentals-program/planner-fundamentals-manage-a-project/track-work-progress-from-the-project-timeline.md) 
     + [Understand progress status](planner-fundamentals-program/planner-fundamentals-manage-a-project/task-dates-and-progress-status.md) 
 
   + Close a project {#close-a-project}
@@ -187,8 +187,8 @@ level: Beginner
     + [Create reports with charts](basic-reporting/create-reports-with-charts.md)
     + [Create a matrix report](basic-reporting/create-a-matrix-report.md)
     + [Understand the calendar interface](basic-reporting/create-a-basic-custom-calendar/tour-of-the-interface.md)
-    + [Creating custom calendars](basic-reporting/create-a-basic-custom-calendar/creating-custom-calendars.md)
-    + [Additional calendar options](basic-reporting/create-a-basic-custom-calendar/additional-calendar-options.md)
+    + [Create a custom calendar](basic-reporting/create-a-basic-custom-calendar/creating-custom-calendars.md)
+    + [Understand additional calendar options](basic-reporting/create-a-basic-custom-calendar/additional-calendar-options.md)
     + [Your turn to create a calendar](basic-reporting/create-a-basic-custom-calendar/your-turn-to-create-a-calendar.md)
     + [Create dashboards](basic-reporting/create-dashboards.md)
     + [Send and share reports](basic-reporting/how-to-send-and-share-reports.md)

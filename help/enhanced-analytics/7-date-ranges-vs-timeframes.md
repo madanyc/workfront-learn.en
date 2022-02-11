@@ -1,8 +1,8 @@
 ---
-title: Date Ranges vs. Timeframes
+title: Understand date ranges and timeframes
 description: Date ranges are specified using the calendar widget. Timeframes are created within a chart.
 ---
-# Date ranges vs. timeframes
+# Understand date ranges and timeframes
 
 When viewing the [!DNL Enhanced analytics] charts, date ranges are specified using the calendar widget. Timeframes are created within a chart when you click and drag to define a specific region, so you can zoom in and get a more detailed look at the information during that timeframe.
 

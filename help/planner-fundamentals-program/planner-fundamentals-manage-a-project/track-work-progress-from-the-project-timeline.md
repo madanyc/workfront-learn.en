@@ -1,8 +1,8 @@
 ---
-title: Track Progress with the Project Timeline
+title: Track progress from the project timeline
 description: Learn how to track progress of work from the project timeline in [!DNL Adobe Workfront] using percent complete, status, assignments, or constraints.
 ---
-# Track work progress from the project timeline
+# Track progress from the project timeline
 
 Make sure tasks are progressing the way they should to hit project deadlines. As you scan through the [!UICONTROL Task] list, there are several features in [!DNL Adobe Workfront] that help you monitor the progress and status of work.
 

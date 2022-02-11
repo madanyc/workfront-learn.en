@@ -1,5 +1,5 @@
 ---
-title: Use the Project Finance Page
+title: Use the project finance page
 description:  Learn how to find financial information about a project and understand where it came from.
 activity: use
 type: Tutorial

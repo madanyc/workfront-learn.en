@@ -1,5 +1,5 @@
 ---
-title: Create Filters with User-Based Wildcards
+title: Create filters with user-based wildcards
 description:  Learn how to use wildcards and build a filter with a user-based wildcard in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
@@ -35,10 +35,10 @@ You have a bit of extra time this week, so you want to see if there’s anyone o
 
 You’re awesome for helping out your teammates! With the filter set up like the image below, you’ll find tasks: 
 
-That haven’t been completed (meaning they don’t have a Complete status or status that equates to Complete); 
-That are in projects with a Current status (after all, you don’t want to find tasks for projects that haven’t launched yet); 
-That are assigned to someone on your home team, as defined by Workfront team settings; 
-And that have a completion date of sometime this week (this rule used the pre-built date filter to define “this week”). 
+* That haven’t been completed (meaning they don’t have a [!UICONTROL Complete] status or status that equates to [!UICONTROL Complete]); 
+* That are in projects with a [!UICONTROL Current] status (after all, you don’t want to find tasks for projects that haven’t launched yet); 
+* That are assigned to someone on your home team, as defined by Workfront team settings; 
+* And that have a completion date of sometime this week (this rule used the pre-built date filter to define “this week”). 
 
 ![An image of the screen to create a task filter with a user-based wildcard](assets/user-wildcard-exercise-answer.png)
 

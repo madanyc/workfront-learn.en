@@ -1,5 +1,5 @@
 ---
-title: How to Copy an Existing Project
+title: Copy an existing project
 description: Learn how to create a new project by copying an existing project in [!DNL Adobe Workfront].
 ---
 

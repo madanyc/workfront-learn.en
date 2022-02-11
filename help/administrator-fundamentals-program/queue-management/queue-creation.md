@@ -1,12 +1,12 @@
 ---
-title: How to Create a Request Queue
+title: Create a request queue
 description: Learn how to set up a request queue and establish queue details in [!DNL Adobe Workfront]. Follow these steps to help help your organization manage work intake.
 activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8958
 ---
-# Create request queues
+# Create a request queue
 
 In this video, you will learn how to:
 

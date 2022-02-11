@@ -1,5 +1,5 @@
 ---
-title: Understand Financial Access
+title: Understand financial access
 description: Financial access rights allow administrators to control who can see and edit the financial information tracked in Workfront.
 ---
 # Understand financial access
@@ -27,7 +27,7 @@ Overall access to financial data is granted first by [!DNL Workfront] license ty
 * Manage expenses
 * View and edit finances
 
-**W[!UICONTROL ]ork licenses can:**
+**[!UICONTROL Work] licenses can:**
 
 * Manage expenses
 * View finances

@@ -1,8 +1,8 @@
 ---
-title: Complete Approvals before Closing a Project
+title: Complete approvals
 description: Learn how to identify incomplete approvals and resolve them so you can close your project in [!DNL Adobe Workfront].
 ---
-# Complete approvals before closing a project
+# Complete approvals
 
 Task and issue approvals are a part of many workflows. But unresolved approvals can prevent you from setting the project status to Complete.
 
