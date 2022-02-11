@@ -1,5 +1,5 @@
 ---
-title: Create a Basic Grouping
+title: Create a basic grouping
 description:  In this video, you will learn what a grouping is, how to create a grouping, and how to share a grouping with other users in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video

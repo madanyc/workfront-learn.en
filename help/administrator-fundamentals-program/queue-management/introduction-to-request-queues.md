@@ -1,12 +1,12 @@
 ---
-title: Introduction to Request Queues
+title: Understand request queues
 description: Learn how request queues are structured in [!DNL Adobe Workfront] and how to submit a request.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8957
 ---
-# Introduction to request queues
+# Understand request queues
 
 In this video, you will learn:
 

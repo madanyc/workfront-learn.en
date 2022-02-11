@@ -1,8 +1,8 @@
 ---
-title: Planned Hours and Duration Views
+title: Understand planned hours and duration views
 description: In the Burndown and Project treemap charts, you can view the information by planned hours or duration.
 ---
-# Planned hours and duration views
+# Understand planned hours and duration views
 
 In the Burndown and Project treemap charts, you can view the information by planned hours or duration, depending on what you consider more accurate for your Workfront environment.
 

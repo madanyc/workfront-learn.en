@@ -1,5 +1,5 @@
 ---
-title: Create a Single-Use Approval Process
+title: Creating a single-use approval process
 description: Learn how to create a single-use approval process on an object in [!DNL Adobe Workfront].
 activity: use
 type: Tutorial

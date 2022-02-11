@@ -1,8 +1,8 @@
 ---
-title: Activity by Team Chart
+title: Understand the activity by team chart
 description: The Activity by team chart allows you to understand how your organization’s home teams spend their time in Workfront.
 ---
-# Activity by team chart
+# Understand the activity by team chart
 
 The Activity by team chart allows you to understand how your organization’s home teams spend their time in Workfront. Workfront users can be on multiple teams, but they can only be on one home team. The teams used in the People charts are made up of only those users who have that team designated as their home team. 
 

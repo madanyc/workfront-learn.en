@@ -1,23 +1,23 @@
 ---
-title: Burndown Overview - Accessing and Reviewing the Burndown
-description:  Learn how to access the Burndown chart and understand the relationship between remaining hours, project condition, and project velocity in [!DNL Adobe Workfront].
+title: Understand accessing and reviewing the burndown
+description:  Learn how to access the burndown chart and understand the relationship between remaining hours, project condition, and project velocity in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8734 
 ---
-# Burndown overview - accessing and reviewing the burndown
+# Understand accessing and reviewing the burndown
 
 In this video, you will learn:
 
-* How to access the Burndown chart
+* How to access the burndown chart
 * How to understand the relationship between remaining hours, the project condition, and velocity on a project
 
 >[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12)
 
 ## Track project velocity
 
-The Burndown chart allows you to understand the relationship between remaining hours, the project condition, and velocity. The solid line shows the hours spent on the project over time, as well as the condition of the project each day. The dashed line—which shows the planned velocity from the start date to the planned completion date—adjusts as dates on tasks are changed.
+The burndown chart allows you to understand the relationship between remaining hours, the project condition, and velocity. The solid line shows the hours spent on the project over time, as well as the condition of the project each day. The dashed line—which shows the planned velocity from the start date to the planned completion date—adjusts as dates on tasks are changed.
 
 Seeing this information helps you determine:
 

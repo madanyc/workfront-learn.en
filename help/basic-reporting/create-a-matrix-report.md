@@ -1,12 +1,12 @@
 ---
-title: Create a Matrix Report
+title: Create a matrix report
 description:  In this video, you will learn when a matrix report can be useful and how to create a matrix report in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8861
 ---
-# Create a Matrix Report
+# Create a matrix report
 
 In this video, you will learn:
 

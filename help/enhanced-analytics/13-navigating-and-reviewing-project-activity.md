@@ -1,12 +1,12 @@
 ---
-title: Project activity overview - Navigating and Reviewing Project Activity
+title: Understand navigating and reviewing project activity
 description:  In this video, you will learn how to compare projects based on users logged in, task status changes, and tasks completed in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8731
 ---
-# Project activity overview - Navigating and reviewing project activity
+# Understand navigating and reviewing project activity
 
 In this video, you will learn:
 

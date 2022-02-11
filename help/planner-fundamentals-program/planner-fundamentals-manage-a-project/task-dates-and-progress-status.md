@@ -1,12 +1,12 @@
 ---
-title: How to Use Task Dates and Progress Status
+title: Understand progress status
 description: Learn how to view the different date types in [!DNL Adobe Workfront] and use progress status to help you track work progress.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8782
 ---
-# Task dates and progress status
+# Understand progress status
 
 In this video, you will learn how to:
 

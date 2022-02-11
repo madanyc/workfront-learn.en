@@ -1,12 +1,12 @@
 ---
-title: Parent&8211Child Task Structure Explained
+title: Understand parent-child tasks
 description: Learn how tasks are structured using a parent-child relationship in a [!DNL Adobe Workfront] project.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8774
 ---
-# Parent-child task structure in [!DNL Adobe Workfront]
+# Understand parent-child tasks
 
 In this video, you will learn:
 

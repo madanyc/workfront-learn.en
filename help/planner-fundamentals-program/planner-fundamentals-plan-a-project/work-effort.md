@@ -1,8 +1,8 @@
 ---
-title: How to Use [!UICONTROL Work Effort] for Project Planning
+title: Understand [!UICONTROL Work Effort]
 description: Learn how you can use [!UICONTROL Work Effort] instead of planned hours in your project timeline.
 ---
-# Use [!UICONTROL Work Effort] in project planning
+# Understand [!UICONTROL Work Effort]
 
 [!DNL Workfront] understands that some organizations don’t use planned hours when creating projects. However, to get the full benefits of [!DNL Workfront's] resource management tools and a better understanding of the amount of work users are assigned, planned hours in projects is a must.
 

@@ -1,5 +1,5 @@
 ---
-title: Create Dashboards
+title: Create dashboards
 description:  In this video, you will learn all about dashboard in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
@@ -18,7 +18,7 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12)
 
-## Activity: Create a [!UICONTROL dashboard]
+## Activity: Create a dashboard
 
 Create a [!UICONTROL dashboard] with only one report in it—“Search Notes in This Project.” This is useful for quickly finding any update made on a project, even if there are thousands of updates to search through. This will search into update threads to quickly extract any updates that meet the criteria you specify in the prompts.
 

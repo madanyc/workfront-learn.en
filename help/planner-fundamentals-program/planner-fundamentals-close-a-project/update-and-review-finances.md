@@ -1,8 +1,8 @@
 ---
-title: Review Finances before Closing a Project
+title: Review finances
 description: Learn how to review the financial information associated with a project in [!DNL Adobe Workfront].
 ---
-# Update and review finances before closing a project
+# Review finances
 
 If your organization uses [!DNL Workfront] to keep track of project-related financial information, reviewing expenses and creating billing records may be part of your process for closing out a project.
 

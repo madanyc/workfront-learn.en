@@ -1,9 +1,9 @@
 ---
-title: How to Manage Group-Specific Approvals
+title: Understand group-specific approval processes
 description: Learn what information you'll need to gather about users before creating user profiles in [!DNL Adobe Workfront].
 ---
 
-# Group-specific approval processes
+# Understand group-specific approval processes
 
 Both system and group administrators can create approval processes in [!DNL Workfront]. System administrators can create processes for use throughout the [!DNL Workfront] system or ones just for a specific group. Group administrators can create or edit processes only for the group they manage.
 

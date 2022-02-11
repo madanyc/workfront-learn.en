@@ -1,8 +1,8 @@
 ---
-title: Identify Lessons Learned after a Project
+title: Record lessons learned
 description: Learn how you can include a "lessons learned" task to identify what went well and what can improve the next time.
 ---
-# Identify lessons learned when closing a project
+# Record lessons learned
 
 As part of closing a project, some Workfront customers include a “lessons learned” task. This task could be used in different ways.
 

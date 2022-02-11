@@ -1,8 +1,8 @@
 ---
-title: Additional Calendar Options
-description: Additional Calendar Options
+title: Understand additional calendar options
+description: Learn how to edit and delete a calendar grouping, and how to share a calendar.
 ---
-# Additional calendar options
+# Understand additional calendar options
 
 In this section you will learn how to:
 

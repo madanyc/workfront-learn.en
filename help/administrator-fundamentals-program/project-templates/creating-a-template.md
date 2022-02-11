@@ -1,12 +1,12 @@
 ---
-title: How to Create a Project Template
+title: Create a template
 description: Learn how to create an [!DNL Adobe Workfront] project template from scratch and from an existing project. Learn about using Blueprints to create templates.
 activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8950
 ---
-# Create a project template
+# Create a template
 
 In this video, you will learn how to:
 

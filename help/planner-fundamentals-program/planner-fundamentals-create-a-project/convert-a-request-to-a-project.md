@@ -1,12 +1,12 @@
 ---
-title: Convert a request to a project
+title: Create a project from a request
 description: Learn how to review request information, select the right project template, and convert the request into a project.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8969
 ---
-# Convert a request to a project
+# Create a project from a request
 
 In this video, you will learn how to:
 

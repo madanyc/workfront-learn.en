@@ -1,5 +1,5 @@
 ---
-title: How to Create a Request Flow for Work Intake
+title: Create a request flow
 description: Learn how to configure [!DNL Adobe Workfront] queue topics, topic groups, and routing rules to help manage request and work intake.
 activity: deploy
 type: Tutorial

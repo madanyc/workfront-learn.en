@@ -1,5 +1,5 @@
 ---
-title: How to Log and Review Hours on a Project
+title: Log and review hours
 description: Record outstanding hours and review logged hours before closing a project in [!DNL Adobe Workfront].
 ---
 # Log and review hours

@@ -1,12 +1,12 @@
 ---
-title: How to Send and Share Reports
+title: Send and share reports
 description:  In this video, you will learn how to send reports to users, teams, or any email address, and how to share reports with anyone in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8863
 ---
-# How to send and share reports
+# Send and share reports
 
 In this video, you will learn:
 

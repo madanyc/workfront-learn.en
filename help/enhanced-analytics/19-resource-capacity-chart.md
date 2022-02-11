@@ -1,8 +1,8 @@
 ---
-title: Resource Capacity Chart
+title: Understand the resource capacity chart
 description: The Resource capacity chart shows the number of planned hours assigned to a home team within the filtered time period compared to the team's total available hours.
 ---
-# Resource capacity chart
+# Understand the resource capacity chart
 
 The Resource capacity chart shows the number of planned hours assigned to a home team within the filtered time period compared to the team's total available hours.
 

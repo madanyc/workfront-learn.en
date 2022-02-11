@@ -1,5 +1,5 @@
 ---
-title: Create a Basic Filter Activity
+title: Create a basic filter activity
 description:  In this video, you will do an activity to create your own filter in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video

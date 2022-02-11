@@ -1,12 +1,12 @@
 ---
-title: Open Built-in Task Filters
+title: Understand built-in task filters
 description:  Learn how to review built-in task filters to see how they’re built and create your own task filter in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9084
 ---
-# Open built-in task filters
+# Understand built-in task filters
 
 In this video, you will:
 
@@ -16,7 +16,7 @@ In this video, you will:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12)
 
-## Activity
+## Activity: Create a task report
 
 You want to make sure you are aware of tasks assigned to one of your teams that no one has agreed to work on it yet. Create a task report named “Unassigned Tasks on any of my teams.”  
 

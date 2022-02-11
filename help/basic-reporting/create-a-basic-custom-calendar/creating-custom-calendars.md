@@ -1,8 +1,8 @@
 ---
-title: Creating Custom Calendars
-description: Creating Custom Calendars
+title: Create a custom calendar
+description: How to create your own custom calendar
 ---
-# Creating custom calendars
+# Create a custom calendar
 
 In this section you will learn how to:
 

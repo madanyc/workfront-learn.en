@@ -1,8 +1,8 @@
 ---
-title: Getting Started with Enhanced Analytics
+title: Get started with [!UICONTROL Enhanced Analytics]
 description: Learn the most important fields to update in order to get the most out of Enahnced analytics.
 ---
-# Getting started with Enhanced analytics
+# Get started with [!UICONTROL Enhanced Analytics]
 
 ## Analytics prerequisites
 

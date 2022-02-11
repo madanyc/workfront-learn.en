@@ -1,12 +1,12 @@
 ---
-title: Basic Text Mode for Filters
+title: Understand basic text mode for filters
 description:  Learn what text mode is, what camel case is, and some basic “plug and play” text mode you can use in your report filters in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9086
 ---
-# Basic text mode for filters
+# Understand basic text mode for filters
 
 In this video, you will learn:
 
@@ -26,7 +26,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Activity questions:
+## Activity: Text mode questions
 
 1. How would you write the camel case for the field titled “Entered By ID”? 
 1. In an Issue report, create a filter to show issues that have been marked as closed but are pending approval. 

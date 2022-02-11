@@ -1,8 +1,8 @@
 ---
-title: Work and People charts
+title: Understand work and people charts
 description: Work charts show you activity from the project and task perspective, while People charts show you activity from the perspective of a home team.
 ---
-# Work and people charts
+# Understand work and people charts
 
 Work charts show you activity from the project and task perspective, while People charts show you activity from the perspective of a home team.
 

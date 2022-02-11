@@ -1,5 +1,5 @@
 ---
-title: How to Create a Project from a Template
+title: Create a project directly from a template
 description: Learn how to create a project directly from a project template in [!DNL Adobe Workfront].
 ---
 # Create a project directly from a template

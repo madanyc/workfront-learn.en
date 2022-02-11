@@ -1,6 +1,6 @@
 ---
-title: Your Turn to Create a Calendar
-description: Your Turn to Create a Calendar
+title: Your turn to create a calendar
+description: Learn how to create a customer calendar in this hands-on activity.
 ---
 # Your turn to create a calendar
 

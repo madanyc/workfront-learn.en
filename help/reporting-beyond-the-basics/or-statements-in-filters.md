@@ -1,8 +1,8 @@
 ---
-title: OR Statements in Filters
+title: Create OR statements in filters
 description: With an OR statement, you’re telling the filter that you want to see this OR that.
 ---
-# OR statements in filters
+# Create OR statements in filters
 
 When you build a filter with multiple lines of criteria, Adobe Workfront by default puts an AND between each line. This means each result in the list when you use this filter meets all the filter rules. 
 

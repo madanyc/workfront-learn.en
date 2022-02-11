@@ -1,9 +1,9 @@
 ---
-title: How to Use Blueprints to Create a Template
+title: Create a template with [!UICONTROL Blueprints]
 description: Learn how to create an Adobe Workfront template using Blueprints, pre-built, ready-to-use templates targeted to specific departments and maturity levels.
 ---
 
-# Create a project template with [!UICONTROL Blueprints]
+# Create a template with [!UICONTROL Blueprints]
 
 [!DNL Adobe Workfront] system administrators can use [!UICONTROL Blueprints] to help build project templates. This feature, located in the [!UICONTROL Main Menu], allows you to access pre-built, ready-to-use templates that are targeted to a department and specific maturity level. These templates give users a head start to repeatable project creation and help maintain consistency across projects similar in scope. 
 

@@ -1,9 +1,9 @@
 ---
-title: How to Make Updates and Find Notifications
+title: Understand updates and notifications
 description: Learn how to make updates on approval requests and find your notifications in [!DNL Adobe Workfront].
 activity: use
 type: Tutorial
-team: Technical Marketing
+team: Understand updates and notifications
 kt: 8809
 ---
 # Updates and notifications

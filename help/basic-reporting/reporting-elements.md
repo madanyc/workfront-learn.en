@@ -1,12 +1,12 @@
 ---
-title: Reporting Elements
+title: Understand reporting elements
 description:  In this video, you will learn how to use existing reporting elements—filters, views, and groupings—to access information being tracked in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8849
 ---
-# Reporting elements
+# Understand reporting elements
 
 In this video, you will learn how to:
 

@@ -1,12 +1,12 @@
 ---
-title: Flight Plan Overview - Navigating and Reviewing Projects
+title: Understand navigating and reviewing projects
 description:  In this video, you will learn how to read the Flight plan chart in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8729
 ---
-# Flight plan overview - Navigating and reviewing projects
+# Understand navigating and reviewing projects
 
 In this video, you will learn:
 

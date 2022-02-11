@@ -1,12 +1,12 @@
 ---
-title: Navigating to and Reviewing Tasks In Flight
+title: Review the tasks in flight
 description:  Learn how to access the Tasks in flight chart and how to quickly see which tasks have not been completed in a project, all in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8735
 ---
-# Navigating to and reviewing the tasks in flight
+# Review the tasks in flight
 
 In this video, you will learn:
 

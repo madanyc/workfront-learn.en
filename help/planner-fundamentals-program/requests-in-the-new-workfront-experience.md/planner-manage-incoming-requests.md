@@ -1,8 +1,8 @@
 ---
-title: How to Manage Incoming Requests
+title: Manage requests
 description: Learn how to find requests that have been submitted using dashboards, [!UICONTROL Home], the [!UICONTROL Requests] area, or the [!UICONTROL Teams] page in [!DNL Adobe Workfront].
 ---
-# Manage incoming requests
+# Manage requests
 
 If you're responsible for reviewing or managing incoming requests, where you find requests can vary, so talk with your internal [!DNL Workfront] team to find out how you’ll be managing request intake. Some places in [!DNL Workfront] where you can find requests include:
 

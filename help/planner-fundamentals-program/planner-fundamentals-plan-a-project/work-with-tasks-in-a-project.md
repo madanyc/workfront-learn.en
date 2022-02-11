@@ -1,12 +1,12 @@
 ---
-title: How to Work with Tasks in a Project
+title: Work with tasks
 description: Learn how to edit existing tasks, add and delete tasks, and change the task order on a project in [!DNL Adobe Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8775
 ---
-# Work with tasks in a project
+# Work with tasks
 
 In this video, you will learn:
 

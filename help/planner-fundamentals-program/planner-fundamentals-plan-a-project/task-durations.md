@@ -1,12 +1,12 @@
 ---
-title: How to Manage Task Durations in a Project
+title: Understand task durations
 description: Learn how durations affect start and completion dates of tasks, how durations factor into project timelines, and some best practices for using task durations.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8776
 ---
-# Add task durations in a project
+# Understand task durations
 
 In this video, you will learn:
 

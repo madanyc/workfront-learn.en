@@ -1,8 +1,8 @@
 ---
-title: How to View a Project with the Gantt Chart
+title: Understand the [!UICONTROL Gantt] view
 description: Learn how to view a project with the Gantt chart in [!DNL Adobe Workfront].
 ---
-# Gantt chart: A visual representation of your project
+# Understand the [!UICONTROL Gantt] view
 
 Sometimes, just looking at the task doesn’t give you a good idea of how everything is linked together. Some project managers need to see the information in chart format. If that’s your preference, [!DNL Workfront] recommends the [!UICONTROL Gantt] chart to give you a visual sense of the entire timeline of your project.
 
