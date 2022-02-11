@@ -76,6 +76,7 @@ level: Beginner
     + [Learn the data expression structure](custom-data/data-expression-structure.md)
     + [Understand Date & Time and Mathematical expressions](custom-data/date-and-time-and-mathematical-expressions/date-and-time-and-mathematical-expressions.md)
     + [Create ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS  expressions](custom-data/create-adddays-addweekdays-addmonths-addyears-expressions.md)
+    + [Use the Calculation Editor](custom-data/use-the-calculation-editor.md)
     + [Create DATEDIFF and WEEKDAYDIFF expressions](custom-data/create-datediff-and-weekdaydiff-expressions.md)
     + [Create a SUB, SUM, DIV, or PROD data expression](custom-data/create-a-sub-sum-div-or-prod-data-expression/create-a-sub-sum-div-or-prod-data-expression.md)
     + [Understand Text expressions](custom-data/text-expressions/text-expressions.md)
