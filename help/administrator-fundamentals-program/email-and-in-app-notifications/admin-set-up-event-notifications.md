@@ -43,19 +43,36 @@ Once an event notification is turned on, messages are sent instantly when the ev
 
 Group administrators can be given permission, by system administrators, to customize the notification list further based on how their groups and subgroups function and what their workflows are.
 
-To give group admins the ability to manage notifications for their groups and subgroups, the system-level notifications need to be unlocked. To do this, make sure the search bar says [!UICONTROL System Event Notifications]. Find the notification and click the toggle button so it’s blue. This will unlock the notification option and allow top-level group administrators to determine if that notification is needed for their groups and subgroups. Subgroups inherit the notification configurations from their top parent group.
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page](assets/ganotifications_01.png)
 
-![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page](assets/admin-fund-notifications-5.png)
+To give group admins the ability to manage notifications for their groups and subgroups, the system-level notifications need to be unlocked.
 
-### Manage group notifications
+* Navigate to the Events Notification tab of the Email Notifications page. 
 
-Once the system administrator has unlocked notification options, the group administrators can manage a group’s notifications from the individual [!UICONTROL Group] page, by clicking [!UICONTROL Event Notifications] in the left panel menu. Then you can activate or deactivate notification options.
+* Make sure the search bar says System Event Notifications. 
 
-![Group page with Event Notifications section selected](assets/admin-fund-notifications-4.png)
+* Unlock a single notification for all group administrators by clicking the toggle in the Group Access column so the blue appears. 
 
-If needed, system administrators can manage a group’s notifications from the [!UICONTROL Notifications] page by entering the group name in the search bar at the top of the window.
+* Unlock multiple notifications at one time by checking the box to the left of each notification and clicking the unlock icon in the toolbar above the list. 
 
-![Event Notifications page](assets/admin-fund-notifications-3.png)
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page](assets/ganotifications_02.png)
+
+Lock an unlocked notification by clicking the toggle so the gray appears. Lock multiple notifications at the same time by selecting the checkboxes and clicking the unlock icon in the toolbar. 
+
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page](assets/ganotifications_03.png)
+
+Unlocked notifications appear for top-level group administrators to determine if that notification is needed for their groups and subgroups. Subgroups inherit the notification configurations from their top parent group. ﻿
+
+
+## Manage group notifications
+
+Once the system administrator has unlocked notification options, the group administrators can manage a group’s notifications from the individual Group page, by clicking Event Notifications in the left panel menu. Then you can activate or deactivate notification options.
+
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page](assets/managegroupnotifications_01.png)
+
+If needed, system administrators can manage a group’s notifications from the Notifications page by entering the group name in the search bar at the top of the window.
+
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page](assets/managegroupnotifications_02.png)
 
 ## Pro tips
 

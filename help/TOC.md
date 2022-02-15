@@ -63,6 +63,7 @@ level: Beginner
     + [Understand default issue types](issue-management-program/setting-up-issues/default-issue-types.md)
     + [Manage issue severities](issue-management-program/setting-up-issues/manage-issue-severities.md)
     + [Learn about issue statuses and group administrators](issue-management-program/setting-up-issues/issue-status-and-group-administrators.md)
+  + Group Administration {#group-administration}
 
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
