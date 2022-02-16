@@ -1,5 +1,5 @@
 ---
-title: How to Filter and Sort the Work List in [!UICONTROL Home]
+title: Oganize your to-do list in [!DNL Workfront] [!UICONTROL Home]
 description: Learn how to filter and sort assigned work, identify work that's ready to start, and accept work assignments in [!DNL Adobe Workfront].
 activity: use
 type: Tutorial
@@ -7,6 +7,10 @@ team: Technical Marketing
 kt: 8798
 ---
 # Oganize your to-do list in [!DNL Workfront] [!UICONTROL Home]
+
+>[!NOTE]
+>
+>The [!UICONTROL [!DNL Sort by]] option in the [!UICONTROL Work List] has been renamed to [!UICONTROL Group by], and tasks and issues can also be grouped by their [!UICONTROL Planned Start Date]. 
 
 In this video, you will learn how to:
 
@@ -16,3 +20,9 @@ In this video, you will learn how to:
 * Accept work assignments
 
 >[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12)
+
+>[!NOTE]
+>
+>By default, earliest due items appear at the top of the [!UICONTROL Work List]. If you would like to have your work items appear in descending order, click the arrows to the right of the Group by area.
+
+![Image of a screen showing your work list grouped by due date.](assets/work-list-arrows.png)
