@@ -33,6 +33,25 @@ As you type in keywords, [!DNL Workfront] brings up matches so you can find the 
 
 Select the option you want, fill out the request form, and submit the request. 
 
+## Copy a submitted request to make a new request
+
+When you submit the same type of request frequently, it’s time consuming to create each new request and fill out the same information again and again. Speed up the process by copying an existing request, changing just the information that needs to be updated, and submitting it as a new request. 
+
+![Image of a screen showing how to select and copy a request.](assets/copy-a-request-icon.png)
+
+1. Click Requests in the Main Menu. 
+1. Make sure you’re in the Submitted section by checking the left panel menu. 
+1. Find and select the request you want to copy. You can copy only one request at a time. 
+1. Click the Copy and submit as new icon at the top-left of the request list. 
+1. The New request window opens, with the Subject field highlighted so you can name the new request. 
+1. Update other information in the request, as needed. 
+1. Click Submit to finish. 
+1. The copied request is submitted as a new request and appears in your Submitted list. 
+
+![Image of a screen showing how to select and copy a request.](assets/copy-of-a-request.png)
+
+You can copy a request that you previously submitted, but you cannot copy a draft of a request. You can copy a request submitted by someone else as long as you have View access to the request.  
+
 <!---
 Learn more
 Requests area overview
