@@ -1,5 +1,5 @@
 ---
-title: Manage Issue Assignments in [!DNL Workfront]
+title: Manage issue assignments
 description: Learn how to assign out an issue to an individual user, multiple users, or a team so the issue will get resolved in [!DNL Adobe Workfront]. 
 ---
 

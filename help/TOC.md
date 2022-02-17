@@ -51,7 +51,7 @@ level: Beginner
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create milestones](administrator-fundamentals-program/milestones/creating-milestones.md)
-    + [Use global approval processes](issue-management-program/managing-issues/manage-issue-assignments.md)
+    + [Understand group-specific approval processes](administrator-fundamentals-program/approval-processes/group-specific-approval-processes.md)
 
   + Configure system defaults  {#configure-system-defaults}
     + [Issue overivew and preferences](issue-management-program/setting-up-issues/issue-overview-and-preferences.md)
@@ -121,13 +121,14 @@ level: Beginner
     
   + Issues/requests {#issues-requests}
     + [Create a project from a request](planner-fundamentals-program/planner-fundamentals-create-a-project/convert-a-request-to-a-project.md)
+    + [Convert Issues to Other Work Items](issue-management-program/managing-issues/convert-issues-to-other-work-items.md)
     + [Find requests](planner-fundamentals-program/planner-fundamentals-create-a-project/where-to-find-requests.md)
     + [Make a request](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-make-a-request.md)
     + [Update a request](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-update-a-request.md)
     + [Manage requests](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-manage-incoming-requests.md)
     + [Review digital work](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-review-and-approve-digital-work.md)
     + [Understand updates and notifications](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-updates-and-notifications.md)
-    + [Delegate approvals](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-delegate-approvals.md)
+    + [Manage issue assignments](issue-management-program/managing-issues/manage-issue-assignments.md)
 
   + Request queues {#request-queues}
     + [Understand request queues](administrator-fundamentals-program/queue-management/introduction-to-request-queues.md)
@@ -136,11 +137,11 @@ level: Beginner
     + [Create a request flow](administrator-fundamentals-program/queue-management/how-to-create-a-request-flow.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
-    + [Understand applying milestones](administrator-fundamentals-program/milestones/applying-milestones.md)
-    + [Understand viewing milestones](administrator-fundamentals-program/milestones/viewing-milestones.md)
-    + [Creating a single-use approval process](administrator-fundamentals-program/approval-processes/creating-a-single-use-approval-process.md)
+    + [View milestones](administrator-fundamentals-program/milestones/viewing-milestones.md)
+    + [Apply milestones](administrator-fundamentals-program/milestones/applying-milestones.md)
+    + [Create a single-use approval process](administrator-fundamentals-program/approval-processes/creating-a-single-use-approval-process.md)
     + [Attach and edit existing approval processes](administrator-fundamentals-program/approval-processes/how-to-attach-and-edit-existing-approval-processes.md)
-    + [Understand group-specific approval processes](administrator-fundamentals-program/approval-processes/group-specific-approval-processes.md)
+    + [Delegate approvals](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-delegate-approvals.md)
 
   + Create and manage project templates {#create-and-manage-project-templates}
     + [Create a template](administrator-fundamentals-program/project-templates/creating-a-template.md)
