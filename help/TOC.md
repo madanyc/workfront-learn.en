@@ -27,26 +27,25 @@ level: Beginner
     + [Customize the Main Menu with layout templates](administrator-fundamentals-program/layout-templates/customize-the-main-menu-with-layout-templates.md)
     + [Customize object areas with a layout template](administrator-fundamentals-program/layout-templates/customize-object-areas-with-a-layout-template.md)
     + [Customize project details with layout templates](administrator-fundamentals-program/layout-templates/customize-project-details-with-layout-templates.md)
-    + [Customize reporting lists with layout templates](administrator-fundamentals-program/control-and-interface/customize-reporting-lists-with-layout-templates.md)
+    + [Customize reporting lists with layout templates](administrator-fundamentals-program/layout-templates/customize-reporting-lists-with-layout-templates.md)
     + [Customize Workfront Home with layout templates](administrator-fundamentals-program/layout-templates/customize-workfront-home-with-layout-templates.md)
     + [Customize Workfront terminology](administrator-fundamentals-program/layout-templates/customize-workfront-terminology.md)
     + [Assign and manage access to layout templates](administrator-fundamentals-program/layout-templates/assign-and-manage-access-to-layout-templates.md)
 
   + Emails {#emails}
+    + [Manage inapp and email notifications](administrator-fundamentals-program/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
     + [Set up event notifications](administrator-fundamentals-program/email-and-in-app-notifications/admin-set-up-event-notifications.md)
     + [Use the announcement center](administrator-fundamentals-program/email-and-in-app-notifications/admin-use-the-announcement-center.md)
     + [Create reminder notifications](administrator-fundamentals-program/email-and-in-app-notifications/admin-create-reminder-notifications.md)
     + [Set up automatic reminders](administrator-fundamentals-program/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
-    + [Manage user notifications](administrator-fundamentals-program/email-and-in-app-notifications/get-started-user-notification-management.md)
     + [Subscribe to work items](administrator-fundamentals-program/email-and-in-app-notifications/user-subscribe-to-work-items.md)
-    + [Manage user event notifications](administrator-fundamentals-program/email-and-in-app-notifications/user-manage-user-event-notifications.md)
     + [Attach reminder notifications](administrator-fundamentals-program/email-and-in-app-notifications/user-attach-reminder-notifications.md)
 
   + Create and manage users {#create-and-manage-users}
-    + [Understand how to add users](administrator-fundamentals-program/add-users-to-workfront/getting-started-with-adding-users-to-workfront.md)
-    + [Create an individual user](administrator-fundamentals-program/add-users-to-workfront/create-an-individual-user.md)
-    + [Add users in bulk and modify user information](administrator-fundamentals-program/add-users-to-workfront/add-users-in-bulk.md)
-    + [Understand the differenve between deactivating and deleting users](administrator-fundamentals-program/add-users-to-workfront/deactivate-or-delete-users.md)
+    + [Add users to Adobe Workfront](administrator-fundamentals-program/create-and-manage-users/add-users-in-bulk.md)
+    + [Create an individual user](administrator-fundamentals-program/create-and-manage-users/create-an-individual-user-profile.md)
+    + [Add users in bulk and modify user information](administrator-fundamentals-program/create-and-manage-users/add-users-in-bulk.md)
+    + [Understand the differenve between deactivating and deleting users](administrator-fundamentals-program/create-and-manage-users/deactivate-or-delete-users.md)
     + [Understand the system audit log](administrator-fundamentals-program/project-setup/system-audit-log.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
