@@ -10,27 +10,27 @@ level: Beginner
 + Administration and Setup {#administrator-fundamentals-program}
   + Organizational setup {#organizational-setup}
     + [Understand user organization and group administration](administrator-fundamentals-program/user-organization/introduction-to-group-administrators.md)
-    + [Learn to set up users](administrator-fundamentals-program/user-organization/user-setup.md)
+    + [Learn to set up users](administrator-fundamentals-program/user-organization/create-licenses-access-levels-and-job-roles.md)
     + [Create companies](administrator-fundamentals-program/user-organization/user-organization-companies.md)
     + [Create groups](administrator-fundamentals-program/user-organization/user-organization-groups.md)
     + [Create teams](administrator-fundamentals-program/user-organization/user-organization-teams.md)
-    + [Learn to Log in as users](administrator-fundamentals-program/user-organization/log-in-as.md)
+    + [Log in as another Workfront user](administrator-fundamentals-program/user-organization/log-in-as-another-workfront-user.md)
 
   + Manage deleted items {#manage-deleted-items}
-    + [Understand the recycle bin](administrator-fundamentals-program/project-setup/recycle-bin.md)
+    + [Restore objects from the recycle bin](administrator-fundamentals-program/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
   + Configure system defaults {#conifgure-system-defaults}
     + [Configure system defaults](administrator-fundamentals-program/project-setup/project-setup.md)
 
   + Layout templates {#layout-templates}
-    + [Find layout templates](administrator-fundamentals-program/control-and-interface/find-layout-templates.md)
-    + [Customize the Main Menu with layout templates](administrator-fundamentals-program/control-and-interface/customize-the-main-menu-with-layout-templates.md)
-    + [Customize object areas with a layout template](administrator-fundamentals-program/control-and-interface/customize-object-areas-with-a-layout-template.md)
-    + [Customize project details with layout templates](administrator-fundamentals-program/control-and-interface/customize-project-details-with-layout-templates.md)
+    + [Find layout templates](administrator-fundamentals-program/layout-templates/find-layout-templates.md)
+    + [Customize the Main Menu with layout templates](administrator-fundamentals-program/layout-templates/customize-the-main-menu-with-layout-templates.md)
+    + [Customize object areas with a layout template](administrator-fundamentals-program/layout-templates/customize-object-areas-with-a-layout-template.md)
+    + [Customize project details with layout templates](administrator-fundamentals-program/layout-templates/customize-project-details-with-layout-templates.md)
     + [Customize reporting lists with layout templates](administrator-fundamentals-program/control-and-interface/customize-reporting-lists-with-layout-templates.md)
-    + [Customize Workfront Home with layout templates](administrator-fundamentals-program/control-and-interface/customize-workfront-home-with-layout-templates.md)
-    + [Customize Workfront terminology](administrator-fundamentals-program/control-and-interface/customize-workfront-terminology.md)
-    + [Assign and manage access to layout templates](administrator-fundamentals-program/control-and-interface/assign-and-manage-access-to-layout-templates.md)
+    + [Customize Workfront Home with layout templates](administrator-fundamentals-program/layout-templates/customize-workfront-home-with-layout-templates.md)
+    + [Customize Workfront terminology](administrator-fundamentals-program/layout-templates/customize-workfront-terminology.md)
+    + [Assign and manage access to layout templates](administrator-fundamentals-program/layout-templates/assign-and-manage-access-to-layout-templates.md)
 
   + Emails {#emails}
     + [Set up event notifications](administrator-fundamentals-program/email-and-in-app-notifications/admin-set-up-event-notifications.md)

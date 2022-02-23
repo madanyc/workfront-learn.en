@@ -1,9 +1,9 @@
 ---
-title: How to Restore Objects from the Recycle Bin
+title: Restore Objects from the Recycle Bin
 description: Learn how to find and restore deleted projects, tasks, or issues from the Recycle Bin in Adobe Workfront.
 ---
 
-# How to restore objects from the Recycle Bin
+# Restore objects from the Recycle Bin
 
 Project work goes through many changes. You might delete something, only to realize 30 minutes later that the task was needed or the document was vital to the issue you're trying to resolve.
 

@@ -1,5 +1,5 @@
 ---
-title: How to Create an Individual User Profile
+title: Create an Individual User Profile
 description: Learn to add users to [!DNL Adobe Workfront] by creating a single user profile from scratch or by copying an existing user.
 ---
 # Create an individual user profile in [!DNL Adobe Workfront]

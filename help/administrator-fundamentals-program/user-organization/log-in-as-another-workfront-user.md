@@ -1,5 +1,5 @@
 ---
-title: How to Log In as Other Users
+title: Log In as another Workfront user
 description: Learn how system or group administrators can log in as other Adobe Workfront users to test system settings, layout templates, reports, etc.
 ---
 

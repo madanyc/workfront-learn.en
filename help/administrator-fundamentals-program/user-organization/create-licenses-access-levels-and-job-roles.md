@@ -1,12 +1,12 @@
 ---
-title: Get Started with Licenses, Access Levels, and Job Roles
-description: Learn about how licenses and access levels control what access users have in [!DNL Adobe Workfront]. Learn how job roles are used in the system.
+title: Create licenses, access levels, and job roles
+description: Learn about how licenses and access levels control what access users have in Adobe Workfront. Learn how job roles are used in the system.
 activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8754
 ---
-# User permission structure: Licenses, access levels, and job roles
+# Create licenses, access levels, and job roles
 
 In this video, you will learn about [!DNL Adobe Workfront]:
 

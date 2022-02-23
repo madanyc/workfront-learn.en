@@ -1,5 +1,5 @@
 ---
-title: How to Add User Profiles in Bulk
+title: Add User Profiles in Bulk
 description: Learn how to add multiple users at a time to Adobe Workfront, using a spreadsheet for a kick-start template.
 ---
 # Add users in bulk to [!DNL Adobe Workfront]

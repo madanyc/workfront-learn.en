@@ -1,5 +1,5 @@
 ---
-title: How to Set Up Event Notifications
+title: Set Up Event Notifications
 description: Learn how to control which email and in-app notifications [!DNL Adobe Workfront] users receive by managing event notifications.
 ---
 
