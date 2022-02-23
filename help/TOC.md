@@ -42,7 +42,7 @@ level: Beginner
     + [Attach reminder notifications](administrator-fundamentals-program/email-and-in-app-notifications/user-attach-reminder-notifications.md)
 
   + Create and manage users {#create-and-manage-users}
-    + [Add users to Adobe Workfront](administrator-fundamentals-program/create-and-manage-users/add-users-in-bulk.md)
+    + [Add users to Adobe Workfront](administrator-fundamentals-program/create-and-manage-users/add-users-to-adobe-workfront.md)
     + [Create an individual user](administrator-fundamentals-program/create-and-manage-users/create-an-individual-user-profile.md)
     + [Add users in bulk and modify user information](administrator-fundamentals-program/create-and-manage-users/add-users-in-bulk.md)
     + [Understand the differenve between deactivating and deleting users](administrator-fundamentals-program/create-and-manage-users/deactivate-or-delete-users.md)
