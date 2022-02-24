@@ -27,7 +27,7 @@ level: Beginner
     + [Customize the Main Menu with layout templates](administrator-fundamentals-program/layout-templates/customize-the-main-menu-with-layout-templates.md)
     + [Customize object areas with a layout template](administrator-fundamentals-program/layout-templates/customize-object-areas-with-a-layout-template.md)
     + [Customize project details with layout templates](administrator-fundamentals-program/layout-templates/customize-project-details-with-layout-templates.md)
-    + [Customize reporting lists with layout templates](administrator-fundamentals-program/layout-templates/customize-reporting-lists.md)
+    + [Customize reporting lists with layout templates](administrator-fundamentals-program/layout-templates/customize-reporting-lists-with-layout-templates.md)
     + [Customize Workfront Home with layout templates](administrator-fundamentals-program/layout-templates/customize-workfront-home-with-layout-templates.md)
     + [Customize Workfront terminology](administrator-fundamentals-program/layout-templates/customize-workfront-terminology.md)
     + [Assign and manage access to layout templates](administrator-fundamentals-program/layout-templates/assign-and-manage-access-to-layout-templates.md)
