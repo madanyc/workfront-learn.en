@@ -1,5 +1,5 @@
 ---
-title: [!DNL Workfront] Portfolio Tutorials
+title: "[!DNL Workfront] Portfolio Tutorials"
 description: Use [!DNL Adobe Workfront's] portfolios and programs to organize your projects, justify initiatives, mitigate risks, and optimize resource allocation.
 ---
 

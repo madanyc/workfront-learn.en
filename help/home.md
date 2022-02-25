@@ -1,5 +1,5 @@
 ---
-title: [!DNL Adobe Workfront] Tutorials
+title: "[!DNL Adobe Workfront] Tutorials"
 description: All things [!DNL Adobe Workfront].
 ---
 # [!DNL Workfront] tutorials

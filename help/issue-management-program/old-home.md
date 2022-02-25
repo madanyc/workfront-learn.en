@@ -1,5 +1,5 @@
 ---
-title: [!DNL Workfront] Issue Management Tutorials
+title: "[!DNL Workfront] Issue Management Tutorials"
 description: Learn how to manage unplanned work using issues and customized issue statuses that support your organization's workflow.
 ---
 

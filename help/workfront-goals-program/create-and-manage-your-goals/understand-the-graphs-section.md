@@ -1,5 +1,5 @@
 ---
-title: [!UICONTROL Graphs] Section in [!DNL Workfront Goals] Explained
+title: "[!UICONTROL Graphs] Section in [!DNL Workfront Goals] Explained"
 description:  Learn how to read and interpret the Goal Health chart and Goal Progress chart in [!DNL Adobe Workfront Goals].
 activity: use
 type: Tutorial

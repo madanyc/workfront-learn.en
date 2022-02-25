@@ -1,5 +1,5 @@
 ---
-title: [!DNL orkfront] Project Timelines Tutorials
+title: "[!DNL orkfront] Project Timelines Tutorials"
 description: Get a better understanding of how to create and manage project timelines by learning about task constraints, date types, and progress statuses in [!DNL Adobe Workfront].
 ---
 # [!DNL Workfront] project timelines tutorials

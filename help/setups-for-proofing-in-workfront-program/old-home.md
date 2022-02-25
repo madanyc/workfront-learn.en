@@ -1,5 +1,5 @@
 ---
-title: [!DNL Workfront] setups for proofing tutorials
+title: "[!DNL Workfront] setups for proofing tutorials"
 description: Get started with [!DNL Adobe Workfront’s] digital proofing by exploring the benefits and setting up proofing to fit your project workflows.
 ---
 # [!DNL Workfront] setups for proofing tutorials

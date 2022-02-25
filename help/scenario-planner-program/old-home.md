@@ -1,5 +1,5 @@
 ---
-title: [!DNL Workfront] [!DNL Scenario Planner] Tutorials
+title: "[!DNL Workfront] [!DNL Scenario Planner] Tutorials"
 description: Get strategic with resource planning using the [!DNL Scenario Planner] in [!DNL Adobe Workfront].
 ---
 # [!DNL Workfront] [!DNL Scenario Planner] tutorials

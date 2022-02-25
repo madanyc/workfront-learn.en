@@ -1,5 +1,5 @@
 ---
-title: [!DNL Workfront] Tutorials for Collaborators
+title: "[!DNL Workfront] Tutorials for Collaborators"
 description: Learn how to request, review, and collaborate on work using [!DNL Adobe Workfront].
 ---
 # [!DNL Workfront] tutorials for collaborators

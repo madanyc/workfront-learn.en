@@ -1,5 +1,5 @@
 ---
-title: [!DNL Workfront] Finances Tutorials
+title: "[!DNL Workfront] Finances Tutorials"
 description: Financial stability is crucial to any business. Learn how to leverage [!DNL Workfront] to establish consistent, reportable billing practices and realize the cost associated with the work you do.
 ---
 

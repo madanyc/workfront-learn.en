@@ -1,5 +1,5 @@
 ---
-title: [!DNL Scenario Planner] Explained
+title: "[!DNL Scenario Planner] Explained"
 description: Learn how [!DNL Scenario Planner] fits with other [!DNL Adobe Workfront] resource planning tools. Then learn how to set up [!DNL Scenario Planner].
 activity: use
 type: Tutorial

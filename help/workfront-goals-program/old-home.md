@@ -1,5 +1,5 @@
 ---
-title: [!DNL Workfront Goals] tutorials
+title: "[!DNL Workfront Goals] tutorials"
 description: Learn how you can use [!DNL Workfront Goals] to focus everyone’s efforts on what truly matters and to accomplish amazing results.
 ---
 

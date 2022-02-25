@@ -1,5 +1,5 @@
 ---
-title: [!DNL Workfront DAM] tutorials
+title: "[!DNL Workfront DAM] tutorials"
 description: Learn how to use [!DNL Workfront DAM] in conjunction with [!DNL Workfront] to manage the creation, review, and approval of assets.
 
 ---

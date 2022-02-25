@@ -1,5 +1,5 @@
 ---
-title: [!UICONTROL Brand Connect] Course Introduction
+title: "[!UICONTROL Brand Connect] Course Introduction"
 description: Learn about what will be covered in the [!UICONTROL Workfront DAM] Administrator, Part 3 Brand Connect Customization course.
 activity: use
 type: Tutorial

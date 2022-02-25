@@ -1,6 +1,6 @@
 ---
 title: Review work in [!DNL My Updates] or [!DNL Workfront Home]
-description: [!DNL Adobe Workfront] provides two places to access work assigned to you for review and approval - [!DNL My Updates] and [!DNL Workfront Home] 
+description: "[!DNL Adobe Workfront] provides two places to access work assigned to you for review and approval - [!DNL My Updates] and [!DNL Workfront Home] "
 ---
 # Review work in [!DNL My Updates] or [!DNL Workfront Home]
 

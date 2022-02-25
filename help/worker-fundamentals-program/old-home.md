@@ -1,6 +1,6 @@
 ---
-title: [!DNL Workfront] tutorials for workers
-description: [!DNL Adobe Workfront] helps you receive, update, and manage work requests or assignments through [!UICONTROL Home].
+title: "[!DNL Workfront] tutorials for workers"
+description: "[!DNL Adobe Workfront] helps you receive, update, and manage work requests or assignments through [!UICONTROL Home]."
 ---
 # [!DNL Workfront] tutorials for workers
 

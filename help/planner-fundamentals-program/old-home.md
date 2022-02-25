@@ -1,5 +1,5 @@
 ---
-title: [!DNL Workfront] Tutorials for Planners
+title: "[!DNL Workfront] Tutorials for Planners"
 description: Learn how to create, plan, manage, and close projects in [!DNL Adobe Workfront].
 ---
 # [!DNL Workfront] tutorials for planners

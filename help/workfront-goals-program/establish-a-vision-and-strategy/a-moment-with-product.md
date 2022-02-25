@@ -1,5 +1,5 @@
 ---
-title: [!DNL Workfront Goals] Explained by Product
+title: "[!DNL Workfront Goals] Explained by Product"
 description: Learn about [!DNL Workfront Goals] in [!DNL Adobe Workfront] from the Product team.
 activity: use
 type: Tutorial
