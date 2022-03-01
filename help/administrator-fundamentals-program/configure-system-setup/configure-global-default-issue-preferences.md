@@ -1,8 +1,8 @@
 ---
-title: Issue Preferences Explained
+title: Configure Global Default Issue Preferences
 description: Learn how to set issue preferences for converted issues, actual dates, and issue access in [!DNL Adobe Workfront].
 ---
-# Introduction to issue preferences
+# Configure global default issue preferences
 
 Several system-wide settings establish defaults for how issues behave in certain circumstances in [!DNL Workfront].
 

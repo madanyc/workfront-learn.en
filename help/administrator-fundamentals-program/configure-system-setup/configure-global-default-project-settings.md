@@ -1,12 +1,12 @@
 ---
-title: How to Set Up Global Project Preferences
+title: Configure Global Default Project Settings
 description: Learn how to change a custom status, set global project preferences, and create schedules that are global default settings in [!DNL Adobe Workfront].
 activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8753
 ---
-# Set up global default project settings
+# Configure global default project settings
 
 <!---
 21.4 updates have been made

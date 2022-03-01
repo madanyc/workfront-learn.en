@@ -20,9 +20,13 @@ level: Beginner
     + [Restore objects from the recycle bin](administrator-fundamentals-program/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
   + Configure system defaults {#conifgure-system-defaults}
-    + [Configure global default project settings](administrator-fundamentals-program/project-setup/project-setup.md)
-    + [Issue overivew and preferences](issue-management-program/setting-up-issues/issue-overview-and-preferences.md)
-    + [Create an issue status](issue-management-program/setting-up-issues/create-an-issue-status.md)
+    + [Configure global default project settings](administrator-fundamentals-program/configure-system-setup/configure-global-default-project-settings.md)
+    + [Configure global default issue preferences](issue-management-program/configure-system-setup/configure-global-default-issue-preferences.md)
+    + [Create an issue status](issue-management-program/configure-system-setup/create-an-issue-status.md)
+    + [Create systemwide issues status](issue-management-program/configure-system-setup/customize-systemwide-issue-status.md)
+    + [Customize issue types and terminology](issue-management-program/configure-system-setup/customize-issue-types-and-terminology.md)
+    + [Understand default issue types](issue-management-program/configure-system-setup/default-issue-types.md)
+    + [Create and manage issue severities](issue-management-program/configure-system-setup/manage-issue-severities.md)
 
   + Layout templates {#layout-templates}
     + [Find layout templates](administrator-fundamentals-program/layout-templates/find-layout-templates.md)
@@ -48,19 +52,13 @@ level: Beginner
     + [Create an individual user](administrator-fundamentals-program/create-and-manage-users/create-an-individual-user-profile.md)
     + [Add users in bulk and modify user information](administrator-fundamentals-program/create-and-manage-users/add-users-in-bulk.md)
     + [Understand the differenve between deactivating and deleting users](administrator-fundamentals-program/create-and-manage-users/deactivate-or-delete-users.md)
-    + [Understand the system audit log](administrator-fundamentals-program/project-setup/system-audit-log.md)
+    + [Understand the system audit log](administrator-fundamentals-program/create-and-manage-users/system-audit-log.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create milestones](administrator-fundamentals-program/milestones/creating-milestones.md)
     + [Understand group-specific approval processes](administrator-fundamentals-program/approval-processes/group-specific-approval-processes.md)
 
-  + Statuses and priority lables {#statuses-and-priority-labels}
-    + [Create systemwide issues status](issue-management-program/setting-up-issues/create-systemwide-issue-status.md)
-    + [Customize issue types and terminology](issue-management-program/setting-up-issues/customize-issue-types-and-terminology.md)
-    + [Understand default issue types](issue-management-program/setting-up-issues/default-issue-types.md)
-    + [Manage issue severities](issue-management-program/setting-up-issues/manage-issue-severities.md)
-    + [Learn about issue statuses and group administrators](issue-management-program/setting-up-issues/issue-status-and-group-administrators.md)
-  + Group Administration {#group-administration}
+  
 
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
