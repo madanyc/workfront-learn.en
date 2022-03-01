@@ -21,12 +21,12 @@ level: Beginner
 
   + Configure system defaults {#conifgure-system-defaults}
     + [Configure global default project settings](administrator-fundamentals-program/configure-system-setup/configure-global-default-project-settings.md)
-    + [Configure global default issue preferences](issue-management-program/configure-system-setup/configure-global-default-issue-preferences.md)
-    + [Create an issue status](issue-management-program/configure-system-setup/create-an-issue-status.md)
-    + [Create systemwide issues status](issue-management-program/configure-system-setup/customize-systemwide-issue-status.md)
-    + [Customize issue types and terminology](issue-management-program/configure-system-setup/customize-issue-types-and-terminology.md)
-    + [Understand default issue types](issue-management-program/configure-system-setup/default-issue-types.md)
-    + [Create and manage issue severities](issue-management-program/configure-system-setup/manage-issue-severities.md)
+    + [Configure global default issue preferences](administrator-fundamentals-program/configure-system-setup/configure-global-default-issue-preferences.md)
+    + [Create an issue status](administrator-fundamentals-program/configure-system-setup/create-an-issue-status.md)
+    + [Create systemwide issues status](administrator-fundamentals-program/configure-system-setup/customize-systemwide-issue-status.md)
+    + [Customize issue types and terminology](administrator-fundamentals-program/configure-system-setup/customize-issue-types-and-terminology.md)
+    + [Understand default issue types](administrator-fundamentals-program/configure-system-setup/default-issue-types.md)
+    + [Create and manage issue severities](administrator-fundamentals-program/configure-system-setup/manage-issue-severities.md)
 
   + Layout templates {#layout-templates}
     + [Find layout templates](administrator-fundamentals-program/layout-templates/find-layout-templates.md)
@@ -57,8 +57,6 @@ level: Beginner
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create milestones](administrator-fundamentals-program/milestones/creating-milestones.md)
     + [Understand group-specific approval processes](administrator-fundamentals-program/approval-processes/group-specific-approval-processes.md)
-
-  
 
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
@@ -139,13 +137,12 @@ level: Beginner
     + [Delegate approvals](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-delegate-approvals.md)
 
   + Create and manage project templates {#create-and-manage-project-templates}
-    + [Create a template](administrator-fundamentals-program/project-templates/creating-a-template.md)
-    + [Create a template with [!UICONTROL Blueprints]](administrator-fundamentals-program/project-templates/create-a-template-with-blueprints.md)
-    + [Create a project directly from a template](administrator-fundamentals-program/project-templates/create-a-project-directly-from-a-template.md)
-    + [Share a template](administrator-fundamentals-program/project-templates/sharing-a-template.md)
+    + [Create a project template](manage-work/create-a-project-template.md)
+    + [Create a project directly from a template](manage-work/create-a-project-directly-from-a-template.md)
+    + [Share a project template](manage-work/share-a-project-template.md)
 
   + Manage projects {#manage-projects}
-    + [Copy an existing project](administrator-fundamentals-program/project-templates/copy-an-existing-project.md)
+    + [Copy an existing project](manage-work/copy-an-existing-project.md)
 
   + Project timelines {#project-timelines}
     + [Track progress from the project timeline](planner-fundamentals-program/planner-fundamentals-manage-a-project/track-work-progress-from-the-project-timeline.md) 
