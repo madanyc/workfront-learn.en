@@ -20,7 +20,9 @@ level: Beginner
     + [Restore objects from the recycle bin](administrator-fundamentals-program/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
   + Configure system defaults {#conifgure-system-defaults}
-    + [Configure system defaults](administrator-fundamentals-program/project-setup/project-setup.md)
+    + [Configure global default project settings](administrator-fundamentals-program/project-setup/project-setup.md)
+    + [Issue overivew and preferences](issue-management-program/setting-up-issues/issue-overview-and-preferences.md)
+    + [Create an issue status](issue-management-program/setting-up-issues/create-an-issue-status.md)
 
   + Layout templates {#layout-templates}
     + [Find layout templates](administrator-fundamentals-program/layout-templates/find-layout-templates.md)
@@ -51,10 +53,6 @@ level: Beginner
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create milestones](administrator-fundamentals-program/milestones/creating-milestones.md)
     + [Understand group-specific approval processes](administrator-fundamentals-program/approval-processes/group-specific-approval-processes.md)
-
-  + Configure system defaults  {#configure-system-defaults}
-    + [Issue overivew and preferences](issue-management-program/setting-up-issues/issue-overview-and-preferences.md)
-    + [Create an issue status](issue-management-program/setting-up-issues/create-an-issue-status.md)
 
   + Statuses and priority lables {#statuses-and-priority-labels}
     + [Create systemwide issues status](issue-management-program/setting-up-issues/create-systemwide-issue-status.md)
