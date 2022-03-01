@@ -26,7 +26,7 @@ level: Beginner
     + [Create systemwide issues status](administrator-fundamentals-program/configure-system-setup/customize-systemwide-issue-status.md)
     + [Customize issue types and terminology](administrator-fundamentals-program/configure-system-setup/customize-issue-types-and-terminology.md)
     + [Understand default issue types](administrator-fundamentals-program/configure-system-setup/default-issue-types.md)
-    + [Create and manage issue severities](administrator-fundamentals-program/configure-system-setup/manage-issue-severities.md)
+    + [Create and manage issue severities](administrator-fundamentals-program/configure-system-setup/create-and-manage-issue-severities.md)
 
   + Layout templates {#layout-templates}
     + [Find layout templates](administrator-fundamentals-program/layout-templates/find-layout-templates.md)
