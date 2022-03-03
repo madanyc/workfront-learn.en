@@ -6,7 +6,7 @@ type: Tutorial
 team: Understand updates and notifications
 kt: 8809
 ---
-# Updates and notifications
+# Understand updates and notifications
 
 In this video, you will learn how to:
 

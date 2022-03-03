@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Workfront] for Reviewers Explained"
+title: Introduction to [!DNL Workfront] for Reviewers
 description: Learn how users with a Review license can use [!DNL Adobe Workfront].
 activity: use
 type: Tutorial

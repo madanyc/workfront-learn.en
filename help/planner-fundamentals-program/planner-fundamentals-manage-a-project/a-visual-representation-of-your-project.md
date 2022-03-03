@@ -16,7 +16,7 @@ Then you can see if you forgot to put a predecessor on a new task. You also chec
 this paragraph needs an article URL
 --->
 
-The [!UICONTROL Gantt] is easy to explore and helpful at various times during the project’s lifespan. Try it out and see how it works for you. You can learn more online with the article, Getting started with the Gantt chart.
+The [!UICONTROL Gantt] is easy to explore and helpful at various times during the project’s lifespan. Try it out and see how it works for you. You can learn more online with the article, Get started with the Gantt chart.
 
 <!---
 Getting started with the Gantt chart

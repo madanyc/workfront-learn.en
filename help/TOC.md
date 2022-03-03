@@ -108,13 +108,13 @@ level: Beginner
     + [Create tasks](planner-fundamentals-program/planner-fundamentals-plan-a-project/other-ways-to-create-tasks.md)
     + [Understand task durations](planner-fundamentals-program/planner-fundamentals-plan-a-project/task-durations.md)
     + [Understand planned hours](planner-fundamentals-program/planner-fundamentals-plan-a-project/planned-hours.md)
-    + [Understand work effort](planner-fundamentals-program/planner-fundamentals-plan-a-project/work-effort.md)
+    + [Understand [!UICONTROL Work Effort]](planner-fundamentals-program/planner-fundamentals-plan-a-project/work-effort.md)
     + [Sequence tasks](planner-fundamentals-program/planner-fundamentals-plan-a-project/sequence-the-tasks-in-your-project.md)
     + [Assign tasks](planner-fundamentals-program/planner-fundamentals-plan-a-project/assigning-tasks-from-the-project-plan.md)
     
   + Issues/requests {#issues-requests}
     + [Create a project from a request](planner-fundamentals-program/planner-fundamentals-create-a-project/convert-a-request-to-a-project.md)
-    + [Convert Issues to Other Work Items](issue-management-program/managing-issues/convert-issues-to-other-work-items.md)
+    + [Convert issues to other work items](issue-management-program/managing-issues/convert-issues-to-other-work-items.md)
     + [Find requests](planner-fundamentals-program/planner-fundamentals-create-a-project/where-to-find-requests.md)
     + [Make a request](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-make-a-request.md)
     + [Update a request](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-update-a-request.md)
@@ -150,7 +150,7 @@ level: Beginner
 
   + Close a project {#close-a-project}
     + [Get started on closing a project](planner-fundamentals-program/planner-fundamentals-close-a-project/close-a-project-in-workfront.md)
-    + [Complete tasks](planner-fundamentals-program/planner-fundamentals-close-a-project/close-tasks-and-issues.md)
+    + [Close tasks and issues](planner-fundamentals-program/planner-fundamentals-close-a-project/close-tasks-and-issues.md)
     + [Complete approvals](planner-fundamentals-program/planner-fundamentals-close-a-project/complete-approvals.md)
     + [Upload assets](planner-fundamentals-program/planner-fundamentals-close-a-project/upload-documents-and-proofs.md)
     + [Record lessons learned](planner-fundamentals-program/planner-fundamentals-close-a-project/lessons-learned.md)
