@@ -5,6 +5,7 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8754
+exl-id: 49cb518a-f3ae-4fdd-b617-2c19006c7552
 ---
 # Create licenses, access levels, and job roles
 

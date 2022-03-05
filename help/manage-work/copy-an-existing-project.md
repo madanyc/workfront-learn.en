@@ -1,6 +1,7 @@
 ---
 title: Copy of an existing project
 description: Learn how to make a copy of an existing project in Adobe Workfront.
+exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 ---
 # Copy of an existing project
 

@@ -1,12 +1,12 @@
 ---
 title: How to Review and Approve a Proof
-description:  Learn how to access and comment on a proof, use markup to indicate necessary changes, reply to proof comments, and make a decision on a proof in [!DNL Workfront].
+description: Learn how to access and comment on a proof, use markup to indicate necessary changes, reply to proof comments, and make a decision on a proof in [!DNL Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8841
+exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 ---
-
 # Review and approve a digital proof
 
 Before you start reviewing a proof, make sure you know what’s expected of you. What is your role in the proofing workflow? Review the proof, approve it, or both?

@@ -1,8 +1,8 @@
 ---
 title: How to Share Custom Fields
 description: Learn how to adjust the permissions on a custom field to determine whether [!DNL Adobe Workfront] users can manage or only view the custom field.
+exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
 ---
-
 # Share custom fields
 
 By default, a custom field in [!DNL Workfront] is editable by everyone who has a Plan license with rights to edit custom forms. You can limit these permissions and determine whether users can manage or only view the custom field. 

@@ -1,8 +1,8 @@
 ---
 title: Convert Issues to Other Work Items
 description: Learn how to convert issues to other work items [!DNL Adobe Workfront].
+exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
 ---
-
 # Convert issues to other work items
 
 ## Convert an issue to a task

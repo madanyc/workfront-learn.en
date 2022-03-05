@@ -1,10 +1,11 @@
 ---
 title: How to Upload a Proof of a Website
-description:  Learn how to upload a website as a static proof and interactive proof in [!DNL Adobe Workfront].
+description: Learn how to upload a website as a static proof and interactive proof in [!DNL Adobe Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8835
+exl-id: 7e75e409-f87e-46f6-8ff1-f55bbdd892f6
 ---
 # Upload a proof of a website
 

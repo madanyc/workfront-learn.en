@@ -1,10 +1,11 @@
 ---
 title: Create a basic view
-description:  In this video, you will learn what a view is, how to create a view, and how to share a view with other users in [!DNL Adobe Workfront].
+description: In this video, you will learn what a view is, how to create a view, and how to share a view with other users in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8854
+exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 ---
 # Create a basic view
 

@@ -1,8 +1,8 @@
 ---
 title: Add a [!UICONTROL Workfront DAM] Link in [!DNL Workfront]
 description: Learn how to add a [!UICONTROL Workfront DAM] link in [!DNL Workfront] so that you can link [!UICONTROL DAM] to your project, task, or issue in [!DNL Workfront].
+exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
 ---
-
 # Add a [!UICONTROL Workfront DAM] link in [!DNL Workfront]
 
 Start by setting up the connection between the two systems.

@@ -4,6 +4,7 @@ description: Learn how to work with assets in [!UICONTROL Workfront DAM].
 activity: use
 team: Technical Marketing
 kt: 8995
+exl-id: ae0f3a7f-ca79-451f-851c-6792f44d218f
 ---
 # Contributor: work with assets
 

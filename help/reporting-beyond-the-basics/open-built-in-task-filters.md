@@ -1,10 +1,11 @@
 ---
 title: Understand built-in task filters
-description:  Learn how to review built-in task filters to see how they’re built and create your own task filter in [!DNL Adobe Workfront].
+description: Learn how to review built-in task filters to see how they’re built and create your own task filter in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9084
+exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 ---
 # Understand built-in task filters
 

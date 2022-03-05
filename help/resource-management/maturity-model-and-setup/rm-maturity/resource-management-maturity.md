@@ -1,10 +1,11 @@
 ---
 title: Resource Management Maturity
-description:  Learn how to install the Microsoft Outlook Add-in
+description: Learn how to install the Microsoft Outlook Add-in
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8814
+exl-id: f9043748-116f-4d89-9330-bd74a762e684
 ---
 # Resource management maturity
 

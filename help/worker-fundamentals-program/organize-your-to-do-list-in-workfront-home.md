@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8798
+exl-id: fd941683-5866-453a-8e15-70b35f183730
 ---
 # Oganize your to-do list in [!DNL Workfront] [!UICONTROL Home]
 

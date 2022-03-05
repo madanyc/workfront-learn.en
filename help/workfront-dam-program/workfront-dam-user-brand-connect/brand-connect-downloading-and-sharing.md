@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8987
+exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
 ---
 # Brand Connect: downloading and sharing
 

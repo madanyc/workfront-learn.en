@@ -1,8 +1,8 @@
 ---
 title: How to Use the System Audit Log
 description: Learn how to use the system aduit log to review when changes were made and when to items in Adobe Workfront.
+exl-id: 9de6fd40-10fb-47a6-b186-3a38c411f1ac
 ---
-
 # System audit log
 
 The system audit log is the system administrator’s best way to keep an eye on what’s going on in [!DNL Workfront]. Think of the log as your source of truth for who made what changes and when.

@@ -1,8 +1,8 @@
 ---
 title: Log In as another Workfront user
 description: Learn how system or group administrators can log in as other Adobe Workfront users to test system settings, layout templates, reports, etc.
+exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
 ---
-
 # Log in as another [!DNL Workfront] user
 
 One feature system administrators and group administrators find helpful as they set up the user experience in [!DNL Workfront] is the Log In As feature. This function, in the [!UICONTROL Setup] area, allows you to log in as another user without having to log out of your own account.

@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8926
+exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 ---
 # Close a goal once complete
 

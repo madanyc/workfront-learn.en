@@ -1,6 +1,7 @@
 ---
 title: Set up [!DNL Workfront Goals] for your company
-description: Learn how to set up [!DNL Workfront Goals] for your company so that you can ensure that work execution is aligned with your company strategy. 
+description: Learn how to set up [!DNL Workfront Goals] for your company so that you can ensure that work execution is aligned with your company strategy.
+exl-id: 7890db2c-21a7-4549-8d46-34f1d334e3d2
 ---
 # Set up [!DNL Workfront Goals] for your company
 

@@ -5,6 +5,7 @@ activity: delpoy
 type: Tutorial
 team: Technical Marketing
 kt: 8959
+exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 ---
 # Understand settings for a flow request
 

@@ -1,10 +1,11 @@
 ---
 title: Use the CONCAT expression in a calculated field
-description:  Learn how to use the CONCAT expression in a calculated field in Adobe [!DNL Workfront].
+description: Learn how to use the CONCAT expression in a calculated field in Adobe [!DNL Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8915
+exl-id: 25223b40-1fef-4ae1-8a9b-3235f88ec30f
 ---
 # Use the CONCAT expression in a calculated field
 

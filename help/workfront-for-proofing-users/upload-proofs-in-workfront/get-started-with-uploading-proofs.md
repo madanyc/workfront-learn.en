@@ -1,6 +1,7 @@
 ---
 title: Get Started with Uploading Proofs
-description: Get familiar with documents and proofs and how they function differently in [!DNL Adobe Workfront]. 
+description: Get familiar with documents and proofs and how they function differently in [!DNL Adobe Workfront].
+exl-id: 85558240-ed8e-4884-928e-7bdeb0ad0283
 ---
 # Get started with uploading proofs
 

@@ -1,6 +1,7 @@
 ---
 title: Uploading Other Types of Digital Assets
 description: Learn how to upload interactive file types, like video, for proofing in [!DNL Adobe Workfront].
+exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
 ---
 # Other types of digital assets
 

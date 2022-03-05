@@ -1,6 +1,7 @@
 ---
 title: Get Started with Proofing
 description: Learn what [!DNL Adobe Workfront's] digital review and approval features are at a high level.
+exl-id: 5c5f3cc6-23b4-4a1d-bfab-da476819f45a
 ---
 # Introduction to proofing
 

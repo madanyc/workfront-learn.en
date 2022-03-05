@@ -1,6 +1,7 @@
 ---
 title: How to Follow Work Items by Subscribing
 description: Learn how to subscribe to [!DNL Adobe Workfront] projects, tasks, or issues to receive notifications when comments are made on the item.
+exl-id: afc02878-e72e-4707-9a9b-94f1dc4694aa
 ---
 # Subscribe to work items
 

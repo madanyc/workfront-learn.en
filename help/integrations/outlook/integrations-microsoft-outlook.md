@@ -1,10 +1,11 @@
 ---
 title: Integrations for Microsoft Outlook
-description:  Learn how to install the Microsoft Outlook Add-in
+description: Learn how to install the Microsoft Outlook Add-in
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8814
+exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 ---
 # Integrations for [!DNL Microsoft Outlook]
 

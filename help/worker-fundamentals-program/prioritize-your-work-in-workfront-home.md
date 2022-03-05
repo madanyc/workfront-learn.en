@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8799
+exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 ---
 # Prioritize your work in [!DNL Workfront] [!UICONTROL Home]
 

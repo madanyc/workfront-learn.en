@@ -5,6 +5,7 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8960
+exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 ---
 # Create a request flow
 

@@ -5,6 +5,7 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8753
+exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 ---
 # Configure global default project settings
 

@@ -6,6 +6,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 kt: 8766
+exl-id: 9f250af7-0da4-4e50-80de-52136dc350fa
 ---
 # Assign and manage access to layout templates
 

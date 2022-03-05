@@ -1,10 +1,11 @@
 ---
-title: "[!DNL Scenario Planner] Explained"
+title: '[!DNL Scenario Planner] Explained'
 description: Learn how [!DNL Scenario Planner] fits with other [!DNL Adobe Workfront] resource planning tools. Then learn how to set up [!DNL Scenario Planner].
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 9075
+exl-id: 8df4cf3b-c6fc-4515-b475-efb8442b5962
 ---
 # What is [!DNL Scenario Planner]?
 

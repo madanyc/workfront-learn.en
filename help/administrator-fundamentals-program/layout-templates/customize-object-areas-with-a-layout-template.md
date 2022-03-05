@@ -5,6 +5,7 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8763
+exl-id: 5f4845ec-3107-4519-aac6-d5ec868202fa
 ---
 # Customize object areas with a layout template
 

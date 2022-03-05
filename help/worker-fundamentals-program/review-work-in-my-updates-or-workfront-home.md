@@ -1,6 +1,7 @@
 ---
 title: Review work in [!DNL My Updates] or [!DNL Workfront Home]
-description: "[!DNL Adobe Workfront] provides two places to access work assigned to you for review and approval - [!DNL My Updates] and [!DNL Workfront Home] "
+description: '[!DNL Adobe Workfront] provides two places to access work assigned to you for review and approval - [!DNL My Updates] and [!DNL Workfront Home] '
+exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 ---
 # Review work in [!DNL My Updates] or [!DNL Workfront Home]
 
@@ -17,5 +18,4 @@ The [!DNL My Updates] page keeps things simple by showing any approval requests 
 
 ![An image of the [!DNL Workfront Home] page](assets/home-overview.png)
 
-Which section you use to manage your approval requests depends on your organization’s processes for reviewing and approving work. Check with your manager, system administrator, or internal Workfront team to determine which you should be using to best support your workflow. 
-
+Which section you use to manage your approval requests depends on your organization’s processes for reviewing and approving work. Check with your manager, system administrator, or internal Workfront team to determine which you should be using to best support your workflow.

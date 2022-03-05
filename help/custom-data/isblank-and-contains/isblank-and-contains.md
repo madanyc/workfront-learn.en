@@ -1,10 +1,10 @@
 ---
 title: Use the ISBLANK and CONTAINS expressions
-description:  Learn how to use and create the ISBLANK and CONTAINS expressions in the a calculated field in Adobe [!DNL Workfront].
+description: Learn how to use and create the ISBLANK and CONTAINS expressions in the a calculated field in Adobe [!DNL Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
-
+exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
 ---
 # Use the ISBLANK and CONTAINS expressions
 

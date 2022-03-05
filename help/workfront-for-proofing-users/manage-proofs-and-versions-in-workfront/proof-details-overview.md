@@ -1,6 +1,7 @@
 ---
 title: Proof Details Explained
 description: Dig deeper into the details behind a proof in [!DNL Adobe Workfront] through the summary panel and [!UICONTROL Document Details] page.
+exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
 ---
 # Proof details overview
 

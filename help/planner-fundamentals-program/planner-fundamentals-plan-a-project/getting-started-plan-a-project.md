@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8772
+exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 ---
 # Get started planning a project
 

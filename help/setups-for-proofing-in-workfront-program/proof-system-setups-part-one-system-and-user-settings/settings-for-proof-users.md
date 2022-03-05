@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8826
+exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 ---
 # Settings for proofing users
 

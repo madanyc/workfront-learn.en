@@ -1,8 +1,8 @@
 ---
 title: Group Administrators Explained
 description: Learn how system administrators can use group administrators to help maintain [!DNL Workfront] settings while giving groups more control over their work.
+exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 ---
-
 # Introduction to group administrators
 
 <!---

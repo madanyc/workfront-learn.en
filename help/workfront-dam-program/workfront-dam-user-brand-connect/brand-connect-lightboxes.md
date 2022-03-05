@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8986
+exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 ---
 # Brand Connect: lightboxes
 

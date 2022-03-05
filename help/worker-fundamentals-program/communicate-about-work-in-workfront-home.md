@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8801
+exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 ---
 # Communicate about work with updates in [!DNL Workfront] [!UICONTROL Home]
 

@@ -1,10 +1,11 @@
 ---
 title: How to View and Compare Proof Versions
-description:  Learn how to open, identify, markup, comment on, and compare proof versions in [!DNL Adobe Workfront].
+description: Learn how to open, identify, markup, comment on, and compare proof versions in [!DNL Adobe Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8845
+exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
 ---
 # View and compare proof versions
 

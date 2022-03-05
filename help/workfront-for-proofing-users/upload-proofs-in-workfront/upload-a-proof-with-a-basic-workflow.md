@@ -1,12 +1,13 @@
 ---
 title: How to Upload a Proof with a Basic Workflow
-description:  Learn how to upload files as proofs, add a basic proofing workflow for stakeholder review and approval, and set deadlines for proofing review in [!DNL Workfront].
+description: Learn how to upload files as proofs, add a basic proofing workflow for stakeholder review and approval, and set deadlines for proofing review in [!DNL Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8832
 role: User
 level: Beginner
+exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
 ---
 # Upload a proof with a basic workflow
 

@@ -1,12 +1,13 @@
 ---
 title: How to Upload Using Automated Workflows
-description:  Learn when to use an automated proof workflow, how to apply a workflow using a proof template, and how to set up an automated workflow from scratch.
+description: Learn when to use an automated proof workflow, how to apply a workflow using a proof template, and how to set up an automated workflow from scratch.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8833
 role: User
 level: Beginner
+exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 ---
 # Upload a proof with an automated workflow
 

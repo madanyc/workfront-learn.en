@@ -5,8 +5,8 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8951
+exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 ---
-
 # Share a project template
 
 You will learn how to:

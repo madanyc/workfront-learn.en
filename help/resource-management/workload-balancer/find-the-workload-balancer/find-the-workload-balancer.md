@@ -1,9 +1,10 @@
 ---
 title: Find the Workload Balancer
-description:  Learn how to find the workload balancer in Workfront and get acquianted with some of the areas avilable.
+description: Learn how to find the workload balancer in Workfront and get acquianted with some of the areas avilable.
 activity: use
 type: Tutorial
 team: Technical Marketing
+exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
 ---
 # Find the [!DNL Workload Balancer]
 

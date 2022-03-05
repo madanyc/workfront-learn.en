@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8768
+exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 ---
 # Understand basic project creation
 

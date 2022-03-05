@@ -1,10 +1,11 @@
 ---
 title: What is the Resource Planner?
-description:  Learn what the resource planner is.
+description: Learn what the resource planner is.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8879
+exl-id: f4d97236-7652-4877-bca3-d935760b6dbc
 ---
 # What is the [!DNL Resource Planner]?
 

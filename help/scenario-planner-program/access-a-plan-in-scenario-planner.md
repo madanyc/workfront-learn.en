@@ -1,6 +1,7 @@
 ---
 title: Access a Plan in [!DNL Scenario Planner]
 description: Learn what [!DNL Adobe Workfront] permissions are needed for users to access plans in the [!DNL Scenario Planner].
+exl-id: e81cad9d-4699-4130-b172-a2969dce1dde
 ---
 # Access a plan in the [!DNL Scenario Planner] 
 

@@ -1,9 +1,10 @@
 ---
 title: Visibility in resource management tools
-description:  Find out what a primary assignee is and how it affects managing your resources.
+description: Find out what a primary assignee is and how it affects managing your resources.
 activity: use
 type: Tutorial
 team: Technical Marketing
+exl-id: 3818c7fb-b820-4002-bf49-9c79c9f0afb2
 ---
 # Visibility in resource management tools
 

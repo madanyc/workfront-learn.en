@@ -5,6 +5,7 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8767
+exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 ---
 # Customize [!DNL Workfront] [!UICONTROL Home] with layout templates
 

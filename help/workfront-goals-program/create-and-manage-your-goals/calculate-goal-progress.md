@@ -1,6 +1,7 @@
 ---
 title: Calculate Goal Progress in [!DNL Workfront Goals]
 description: Learn how goal progress is calculated in [!DNL Workfront Goals].
+exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
 ---
 # Calculate goal progress
 

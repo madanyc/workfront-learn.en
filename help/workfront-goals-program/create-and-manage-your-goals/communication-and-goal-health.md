@@ -1,6 +1,7 @@
 ---
 title: Communication and Goal Health in [!DNL Workfront Goals]
 description: Learn how to communicate with others on the progress and status of your goals in [!DNL Workfront Goals].
+exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
 ---
 # Communication and goal health in [!DNL Workfront Goals]
 
@@ -43,9 +44,3 @@ You can build Goal reports or Project reports that include information about ass
   * **Goal Hierarchy**—Displays all parent goals and how they connect to each other.
   * **Goals**—This is a collection field that displays all goals associated with a project.
   * **Number of linked goals**—The number of goals associated with the project.
-
-
-
-
-
-

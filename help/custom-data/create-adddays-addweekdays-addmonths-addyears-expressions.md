@@ -1,10 +1,11 @@
 ---
 title: Create ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS expressions
-description:  Learn how to use and create the ADD expressions in a calculated field in Adobe [!DNL Workfront].
+description: Learn how to use and create the ADD expressions in a calculated field in Adobe [!DNL Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8912
+exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 ---
 # Create ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS expressions
 

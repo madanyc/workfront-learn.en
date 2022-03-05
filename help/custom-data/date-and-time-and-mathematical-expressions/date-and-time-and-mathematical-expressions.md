@@ -4,7 +4,7 @@ description: Learn what date, time, and mathematical expressions are and which o
 activity: use
 type: Tutorial
 team: Technical Marketing
-
+exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
 ---
 # Date & Time and Mathematical expressions
 

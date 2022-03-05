@@ -1,6 +1,7 @@
 ---
 title: Track progress from the project timeline
 description: Learn how to track progress of work from the project timeline in [!DNL Adobe Workfront] using percent complete, status, assignments, or constraints.
+exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 ---
 # Track progress from the project timeline
 

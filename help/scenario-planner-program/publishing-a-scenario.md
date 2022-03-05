@@ -1,6 +1,7 @@
 ---
 title: How to Publish a Scenario
 description: Determine which scenario works best for your organization using [!DNL Scenario Planner]. Learn how to publish the scenario and turn the plan into a [!DNL Workfront] project.
+exl-id: 987fc7a0-9b5a-4321-b831-bb59dcffdadf
 ---
 # Publishing a scenario
 

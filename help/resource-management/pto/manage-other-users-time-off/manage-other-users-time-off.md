@@ -1,9 +1,10 @@
 ---
 title: Manage other user's time off
-description:  See how managers and other leaders can manager their team's time off calendars.
+description: See how managers and other leaders can manager their team's time off calendars.
 activity: use
 type: Tutorial
 team: Technical Marketing
+exl-id: f2f0f897-939c-45d1-8a3d-037d92d86b79
 ---
 # Manage other user's time off
 

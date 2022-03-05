@@ -1,8 +1,8 @@
 ---
 title: Metadata and Keyword Best Practices in [!UICONTROL Workfront DAM]
 description: Learn how to use metadata and keywords in [!UICONTROL Workfront DAM] to describe an asset to increase the searchability of your organization's assets.
+exl-id: ad5a19a7-556a-4b38-9cc4-7e29e5afe1de
 ---
-
 # Metadata and keyword best practices
 
 ## Metadata best practices 

@@ -1,8 +1,8 @@
 ---
 title: Send [!UICONTROL Announcement Center] Messages
 description: Learn how to send in-application messages to [!DNL Adobe Workfront] users through the [!UICONTROL announcement center].
+exl-id: 7372516e-47e0-44a9-a756-ddc17824da84
 ---
-
 <!---
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
 --->

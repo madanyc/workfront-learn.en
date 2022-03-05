@@ -1,10 +1,11 @@
 ---
 title: Align Groups and Teams to the Strategy
-description:  Learn how to review and activate proposed goals, and cascade and align quarterly goals using [!DNL Adobe Workfront Goals].
+description: Learn how to review and activate proposed goals, and cascade and align quarterly goals using [!DNL Adobe Workfront Goals].
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8894
+exl-id: 2f3ef8e3-f667-4efa-9cf0-44f8835d1671
 ---
 # Align groups and teams to the strategy
 

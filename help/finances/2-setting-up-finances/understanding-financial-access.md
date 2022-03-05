@@ -1,6 +1,7 @@
 ---
 title: Understand financial access
 description: Financial access rights allow administrators to control who can see and edit the financial information tracked in Workfront.
+exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
 ---
 # Understand financial access
 

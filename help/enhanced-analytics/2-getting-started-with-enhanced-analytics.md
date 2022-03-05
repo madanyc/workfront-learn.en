@@ -1,6 +1,7 @@
 ---
 title: Get started with [!UICONTROL Enhanced Analytics]
 description: Learn the most important fields to update in order to get the most out of Enahnced analytics.
+exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 ---
 # Get started with [!UICONTROL Enhanced Analytics]
 

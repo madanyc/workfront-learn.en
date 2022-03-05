@@ -1,6 +1,7 @@
 ---
 title: Plan a project - review
 description: Review the five fields of an Adobe Workfront project to focus on when planning a project—tasks, duration, planned hours, predecessors, and assignments.
+exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
 ---
 # Plan a project - review
 

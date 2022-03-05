@@ -1,8 +1,8 @@
 ---
 title: Create an Issue Status
 description: Learn how to create an issue status in [!DNL Adobe Workfront ]to meet the needs of your organization's workflows.
+exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
 ---
-
 # Create an issue status
 
 [!DNL Workfront] recommends you modify existing issue statues in your system before you start creating new statuses. This helps limit the number of statuses that need to be maintained.

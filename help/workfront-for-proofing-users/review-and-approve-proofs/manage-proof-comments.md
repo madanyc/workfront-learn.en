@@ -1,8 +1,8 @@
 ---
 title: How to Manage Proof Comments
-description: Learn how to manage proof comments in [!DNL Adobe Workfront] by applying comment actions, resolving comments, and filtering the comments column. 
+description: Learn how to manage proof comments in [!DNL Adobe Workfront] by applying comment actions, resolving comments, and filtering the comments column.
+exl-id: 603023f3-f79e-414c-a6da-1f42c234c63d
 ---
-
 # Manage proof comments
 
 [!DNL Workfront] helps you track and manage work related to each comment on a proof—such as making corrections on the asset—with comment actions or by resolving comments.

@@ -1,8 +1,8 @@
 ---
 title: Customize System-Wide Issue Statuses
 description: Learn how to change issue status names, control the issue types a status is used for, and lock/unlock statuses for group-level customization.
+exl-id: c8f5677f-8d9d-4d1a-a1e3-d1a438878213
 ---
-
 # Customize system-wide statuses
 
 [!DNL Workfront] provides a variety of default statues to accommodate your organization’s issue management workflows. These statuses can be renamed to match your organization’s terminology. And statuses can be assigned to specific issue types. 

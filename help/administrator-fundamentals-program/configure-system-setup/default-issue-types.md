@@ -1,6 +1,7 @@
 ---
 title: Default Issue Statuses Explained
 description: Learn about the default issue statues in Adobe Workfront and why you might want to customize them to match your organization's workflow.
+exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
 ---
 # Default issue statuses in [!DNL Workfront]
 

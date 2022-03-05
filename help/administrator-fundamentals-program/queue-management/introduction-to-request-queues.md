@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8957
+exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 ---
 # Understand request queues
 

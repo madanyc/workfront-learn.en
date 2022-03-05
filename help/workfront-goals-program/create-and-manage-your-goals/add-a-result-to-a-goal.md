@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8922
+exl-id: e54aa547-97d1-4603-bb63-503e605be408
 ---
 # Add a result to a goal
 

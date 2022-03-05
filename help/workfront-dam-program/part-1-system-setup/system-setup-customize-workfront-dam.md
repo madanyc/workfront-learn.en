@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8969
+exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 ---
 # System setup: Customize [!UICONTROL Workfront DAM]
 

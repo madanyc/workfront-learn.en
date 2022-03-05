@@ -1,6 +1,7 @@
 ---
 title: How to Customize Issue Types and Terminology
 description: Learn how to customize and rename the four default issue types in Adobe Workfront to suit your organization's needs.
+exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
 ---
 # Customize issue types and terminology
 

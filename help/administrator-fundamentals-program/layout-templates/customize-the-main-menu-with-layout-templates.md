@@ -5,6 +5,7 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8760
+exl-id: 5fa4e251-fcf3-41a4-be50-f0302a481358
 ---
 # Customize the [!UICONTROL Main Menu] with layout templates
 

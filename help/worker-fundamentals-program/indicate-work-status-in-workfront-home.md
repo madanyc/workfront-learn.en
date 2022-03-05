@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8800
+exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 ---
 # Change the status of work assignments in [!DNL Workfront] [!UICONTROL Home]
 

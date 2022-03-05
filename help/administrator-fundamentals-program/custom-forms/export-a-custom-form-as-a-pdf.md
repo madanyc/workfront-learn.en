@@ -1,8 +1,8 @@
 ---
 title: How to Export a Custom Form
 description: Learn how to export an [!DNL Adobe Workfront] custom form as a PDF to easily share the information with others.
+exl-id: aeef197e-1d8c-43a9-8580-0c83d8027a3f
 ---
-
 # Export a custom form as a PDF
 
 Capturing an organization’s unique data is an essential part of work management. Custom forms are commonly used for this purpose. Being able to export custom forms allows them to be easily circulated and shared. You can export custom forms from projects, tasks, or issues when you access the form in the [!UICONTROL Details] section of the objects.

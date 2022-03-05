@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8889
+exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 ---
 # Introduction to [!DNL Workfront Goals]
 

@@ -1,6 +1,7 @@
 ---
 title: Add User Profiles in Bulk
 description: Learn how to add multiple users at a time to Adobe Workfront, using a spreadsheet for a kick-start template.
+exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
 ---
 # Add users in bulk to [!DNL Adobe Workfront]
 

@@ -5,8 +5,8 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8950
+exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 ---
-
 # Create a project template
 
 In this video, you will learn how to:
@@ -25,4 +25,4 @@ Although project templates made with blueprints can be used when creating projec
 
 ![Blueprints in Main Menu](assets/pt-blueprints-01.png)
 
-To install a blueprint to your production or sandbox environments, select Blueprints in the Main Menu. Browse through the catalog or use the Filter by type option found in the filtering menu on the right to locate and install the blueprint that fits your project needs the best. Configure details of the project template—such as mapping the blueprint’s job roles to your organization's job roles—before installing the blueprint, if needed. After installing the blueprint, you can make changes to the new template to suit your organization’s needs. 
+To install a blueprint to your production or sandbox environments, select Blueprints in the Main Menu. Browse through the catalog or use the Filter by type option found in the filtering menu on the right to locate and install the blueprint that fits your project needs the best. Configure details of the project template—such as mapping the blueprint’s job roles to your organization's job roles—before installing the blueprint, if needed. After installing the blueprint, you can make changes to the new template to suit your organization’s needs.

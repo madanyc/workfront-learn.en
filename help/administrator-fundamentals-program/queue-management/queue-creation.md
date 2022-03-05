@@ -5,6 +5,7 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8958
+exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 ---
 # Create a request queue
 

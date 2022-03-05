@@ -5,6 +5,7 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8764
+exl-id: af6ff5c1-a2c4-4440-b31d-c33726a7fee1
 ---
 # Customize project details with layout templates
 

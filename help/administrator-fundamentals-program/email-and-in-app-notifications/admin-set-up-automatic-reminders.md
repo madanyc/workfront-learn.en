@@ -1,8 +1,8 @@
 ---
 title: How to Set Up Automatic Reminders
 description: Learn how to create automatic reminders to notify Adobe Workfront users that work assignment planned completion dates are approaching or have passed.
+exl-id: 69d5b383-af3a-4414-92fe-32c8cf869d25
 ---
-
 <!---
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
 --->

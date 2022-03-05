@@ -1,6 +1,7 @@
 ---
 title: Create OR statements in filters
 description: With an OR statement, you’re telling the filter that you want to see this OR that.
+exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 ---
 # Create OR statements in filters
 

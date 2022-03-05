@@ -1,10 +1,11 @@
 ---
 title: What is [!DNL Workfront Goals]?
-description:  The system administrator will learn about who can access [!DNL Workfront Goals], what permissions a system administrator has in [!DNL Workfront Goals], and how to enable [!DNL Workfront Goals] through a layout template.
+description: The system administrator will learn about who can access [!DNL Workfront Goals], what permissions a system administrator has in [!DNL Workfront Goals], and how to enable [!DNL Workfront Goals] through a layout template.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8888
+exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
 ---
 # [!DNL Workfront Goals] overview
 

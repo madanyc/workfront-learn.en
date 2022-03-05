@@ -4,7 +4,7 @@ description: Get a glimps at a list of concepts that are good to know when worki
 activity: use
 type: Tutorial
 team: Technical Marketing
-
+exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
 ---
 # Things to know about calculated field exprsesions
 

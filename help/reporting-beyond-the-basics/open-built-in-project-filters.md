@@ -1,10 +1,11 @@
 ---
 title: Understand built-in project filters
-description:  Learn how to review built-in project filters to see how they’re built and create your own project filter in [!DNL Adobe Workfront].
+description: Learn how to review built-in project filters to see how they’re built and create your own project filter in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9083
+exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 ---
 # Understand built-in project filters
 
@@ -26,4 +27,4 @@ Your filter should look like this:
 
 ![An image of the screen to create a project filter](assets/opening-built-in-project-filters-1.png)
 
-You can include additional filter rules, such as looking for looking for projects in a certain program or portfolio. When you do that, Workfront recommends you rename the filter to something appropriately descriptive, like “Active Projects I Own in the Marketing Portfolio.” 
+You can include additional filter rules, such as looking for looking for projects in a certain program or portfolio. When you do that, Workfront recommends you rename the filter to something appropriately descriptive, like “Active Projects I Own in the Marketing Portfolio.”

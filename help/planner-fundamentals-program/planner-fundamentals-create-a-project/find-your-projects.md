@@ -1,6 +1,7 @@
 ---
 title: Find projects
 description: Learn how you can find and access projects in [!DNL Adobe Workfront] using dashboards, the [!UICONTROL Projects] area, search, and other ways.
+exl-id: d28d4956-cf17-435d-b128-849690faba38
 ---
 # Find projects
 

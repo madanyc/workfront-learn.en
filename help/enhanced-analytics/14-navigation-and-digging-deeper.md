@@ -1,10 +1,11 @@
 ---
 title: Dig deeper into navigation
-description:  In this video, you will learn how to quickly see how much time workers are dedicating to each project in [!DNL Adobe Workfront].
+description: In this video, you will learn how to quickly see how much time workers are dedicating to each project in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 8733 
+kt: 8733
+exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 ---
 # Dig deeper into navigation
 

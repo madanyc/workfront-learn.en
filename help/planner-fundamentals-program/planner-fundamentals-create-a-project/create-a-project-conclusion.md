@@ -1,6 +1,7 @@
 ---
 title: Create a project - review
 description: Review the four basic steps for creating a project in [!DNL Adobe Workfront].
+exl-id: 5ed92cb2-be1b-4e1f-9641-8ab9cd393475
 ---
 # Create a project - review
 

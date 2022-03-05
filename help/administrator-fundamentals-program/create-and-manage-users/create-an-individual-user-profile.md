@@ -1,6 +1,7 @@
 ---
 title: Create an Individual User Profile
 description: Learn to add users to [!DNL Adobe Workfront] by creating a single user profile from scratch or by copying an existing user.
+exl-id: 91ac3283-c2ad-493e-869c-9cfccfae35dd
 ---
 # Create an individual user profile in [!DNL Adobe Workfront]
 

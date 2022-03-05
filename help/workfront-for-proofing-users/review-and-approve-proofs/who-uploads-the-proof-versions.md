@@ -1,8 +1,8 @@
 ---
 title: Who Uploads the Proof Versions?
 description: The person responsible for uploading proof versions in [!DNL Adobe Workfront] can vary. Learn from common use cases to identify the ideal setup at your organization.
+exl-id: e49ce586-ff9e-459c-967f-f974791612cb
 ---
-
 # Who uploads the proof versions?
 
 The person responsible for uploading versions of a proof can vary from department to department or team to team. It may even depend on the type of proof itself.

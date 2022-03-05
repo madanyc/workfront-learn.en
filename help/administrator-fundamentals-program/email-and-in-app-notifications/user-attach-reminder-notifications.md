@@ -1,8 +1,8 @@
 ---
 title: How to Attach Reminder Notifications
 description: Learn how to attach reminder notifications to projects, tasks, issues, or timesheets to let people know when work is due or overdue.
+exl-id: 5d49108e-1795-4833-a374-3b598c90b345
 ---
-
 # Attach reminder notifications to work items
 
 Event and subscription notifications are not the only type of notifications you can receive through Workfront. Reminder notifications can be attached to specific projects, tasks, issues, and/or timesheets to let people know when things are due or overdue.

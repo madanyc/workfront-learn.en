@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 9077
+exl-id: 8c5971e6-1c6e-4357-9e7b-685b2ae558c4
 ---
 # Creating initiatives within a plan
 

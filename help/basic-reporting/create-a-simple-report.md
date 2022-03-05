@@ -1,10 +1,11 @@
 ---
 title: Create a simple report
-description:  In this video, you will learn how to create a simple report using an existing filter, view, and grouping in [!DNL Adobe Workfront].
+description: In this video, you will learn how to create a simple report using an existing filter, view, and grouping in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8858
+exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 ---
 # Create a simple report
 

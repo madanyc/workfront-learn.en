@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8771
+exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 ---
 # Understand project navigation
 

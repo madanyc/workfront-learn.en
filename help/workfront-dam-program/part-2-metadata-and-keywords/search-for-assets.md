@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8976
+exl-id: fffb4ab8-acec-4d7b-a786-f6be538bc7ee
 ---
 # Metadata and keywords: search for assets
 

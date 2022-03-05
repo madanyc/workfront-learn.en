@@ -1,8 +1,8 @@
 ---
 title: Set Up Metadata Mapping for Workfront DAM
-description: Learn how to set up metadata mapping for [!UICONTROL Workfront DAM]. 
+description: Learn how to set up metadata mapping for [!UICONTROL Workfront DAM].
+exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
 ---
-
 # Metadata mapping
 
 [!DNL Workfront]-related information about an asset can be transferred from [!DNL Workfront] into [!UICONTROL Workfront DAM] with the asset. The metadata mapping option in the [!DNL Workfront] [!UICONTROL Setup] area allows for this transfer of information.

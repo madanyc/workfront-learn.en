@@ -1,6 +1,7 @@
 ---
 title: Configure Global Default Issue Preferences
 description: Learn how to set issue preferences for converted issues, actual dates, and issue access in [!DNL Adobe Workfront].
+exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
 ---
 # Configure global default issue preferences
 

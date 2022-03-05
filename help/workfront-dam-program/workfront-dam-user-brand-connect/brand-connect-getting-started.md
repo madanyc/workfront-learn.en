@@ -1,10 +1,11 @@
 ---
-title: Brand Connect in [!UICONTROL Workfront DAM] Explained 
+title: Brand Connect in [!UICONTROL Workfront DAM] Explained
 description: Learn about what the Brand Connect in [!UICONTROL Workfront DAM] is and how to navigate it.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8984
+exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 ---
 # Brand Connect: getting started
 

@@ -1,6 +1,7 @@
 ---
 title: How to Create and Manage Issue Severities
 description: Learn how to set up and manage issue severities in [!DNL Adobe Workfront].
+exl-id: a5a9280b-0d48-413d-92de-f6a949e6b210
 ---
 # Create and manage issue severities
 

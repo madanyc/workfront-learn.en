@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8962
+exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 ---
 # Creating a single-use approval process
 

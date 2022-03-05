@@ -1,8 +1,8 @@
 ---
 title: How to Create Reminder Notifications
 description: Learn how to set up object-specific reminder notifications to let [!DNL Adobe Workfront] users know when work is due soon or overdue.
+exl-id: f1ba58d7-3226-4c62-8aa4-40f88495b833
 ---
-
 <!---
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
 --->

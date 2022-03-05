@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Understand updates and notifications
 kt: 8809
+exl-id: 40296ba0-32c1-4fe7-8060-f71991872c37
 ---
 # Understand updates and notifications
 

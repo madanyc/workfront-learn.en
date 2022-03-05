@@ -1,6 +1,7 @@
 ---
 title: Find requests
 description: Learn how you can use dashboards, [!UICONTROL Home], the [!UICONTROL Requests] area, and the [!UICONTROL Teams] page to find incoming requests made through a request queue.
+exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 ---
 # Find requests
 

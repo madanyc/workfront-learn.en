@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8972
+exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 ---
 # Metadata and keywords: metadata setup
 

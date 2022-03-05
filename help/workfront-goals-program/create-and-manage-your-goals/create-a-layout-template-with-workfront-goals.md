@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8896
+exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 ---
 # Create a layout template with [!DNL Workfront Goals]
 

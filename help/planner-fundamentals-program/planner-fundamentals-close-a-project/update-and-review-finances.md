@@ -1,6 +1,7 @@
 ---
 title: Review finances
 description: Learn how to review the financial information associated with a project in [!DNL Adobe Workfront].
+exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 ---
 # Review finances
 

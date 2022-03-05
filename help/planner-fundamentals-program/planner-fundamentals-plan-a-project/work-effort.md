@@ -1,6 +1,7 @@
 ---
 title: Understand [!UICONTROL Work Effort]
 description: Learn how you can use [!UICONTROL Work Effort] instead of planned hours in your project timeline.
+exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 ---
 # Understand [!UICONTROL Work Effort]
 

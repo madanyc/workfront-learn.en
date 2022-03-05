@@ -1,10 +1,11 @@
 ---
 title: Use the Calculation Editor
-description:  Use the new Calculation Editor to make creating calculated custom fields easier than ever.
+description: Use the new Calculation Editor to make creating calculated custom fields easier than ever.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 9506
+exl-id: f569e8a7-f26d-4a11-b602-e51cdfe97350
 ---
 # Use the Calculation Editor
 

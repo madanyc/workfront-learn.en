@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8777
+exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 ---
 # Understand planned hours
 

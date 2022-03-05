@@ -1,10 +1,11 @@
 ---
 title: Create a task report
-description:  In this video, you will learn how to create a task report with a complex filter and find the reports you create in [!DNL Adobe Workfront].
+description: In this video, you will learn how to create a task report with a complex filter and find the reports you create in [!DNL Adobe Workfront].
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 8859
+exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 ---
 # Create a task report
 

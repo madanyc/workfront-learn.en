@@ -1,6 +1,7 @@
 ---
 title: Guide to Proofing Terminology
 description: Get familiar with the terminology used in [!DNL Adobe Workfront] when talking about proof setups.
+exl-id: 17ede9f7-1481-4e07-9626-a94a28f0248a
 ---
 # Proofing terminology
 

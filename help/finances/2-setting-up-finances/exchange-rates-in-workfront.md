@@ -1,6 +1,7 @@
 ---
 title: Set up exchange rates
 description: Exchange rates can be used on projects and reports to reflect financial information in different currencies from around the world.
+exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 ---
 # Set up exchange rates
 
@@ -29,4 +30,3 @@ Exchange rates are managed by system administrators. Additional currencies can b
 >[!NOTE]
 >
 >Workfront does not update or track current market values for exchange rates. Updates, if needed, must be done manually.
-
