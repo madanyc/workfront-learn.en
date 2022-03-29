@@ -1,6 +1,9 @@
 ---
 title: Understand group-specific approval processes
-description: Learn what information you'll need to gather about users before creating user profiles in [!DNL Adobe Workfront].
+description: Learn what information you'll need to gather about users before creating user profiles in Adobe Workfront.
+role: Admin
+level: Beginner
+kt: 10017
 exl-id: 138989b2-32d7-43e5-9660-d7b4172f232a
 ---
 # Understand group-specific approval processes

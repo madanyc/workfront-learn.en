@@ -1,6 +1,9 @@
 ---
 title: How to Edit User Profile Information
 description: Learn how to edit a single user profile in [!DNL Adobe Workfront]. Then learn how to edit multiple user profiles at one time.
+role: Admin
+level: Beginner
+kt: 10038
 ---
 # Modify user profile information
 

@@ -1,6 +1,9 @@
 ---
 title: Issues Explained
 description: Learn how issues are used in [!DNL Adobe Workfront].
+role: Admin
+level: Intermediate, Experienced
+kt: 10032
 ---
 # Overview of issues in [!DNL Workfront]
 

@@ -1,6 +1,9 @@
 ---
 title: Add users to Adobe Workfront
 description: Learn what information you'll need to gather about users before creating user profiles in [!DNL Adobe Workfront].
+role: Admin
+level: Beginner
+kt: 10035
 exl-id: 5e9e252c-c434-47ea-9b55-5caa09029505
 ---
 # Add users to [!DNL Adobe Workfront]

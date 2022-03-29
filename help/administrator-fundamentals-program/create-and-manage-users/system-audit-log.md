@@ -1,6 +1,9 @@
 ---
 title: How to Use the System Audit Log
-description: Learn how to use the system aduit log to review when changes were made and when to items in Adobe Workfront.
+description: Learn how to use the system audit log to review when changes were made and when to items in Adobe Workfront.
+role: Admin
+level: Beginner, Intermediate
+kt: 10040
 exl-id: 9de6fd40-10fb-47a6-b186-3a38c411f1ac
 ---
 # System audit log

@@ -1,6 +1,9 @@
 ---
 title: Modify User Information
 description: Learn how to modify/edit a users information within Adobe Workfront.
+role: Admin
+level: Beginner
+kt: 10039
 ---
 # Modify user information
 
