@@ -1,6 +1,9 @@
 ---
 title: How to Edit Custom Forms
 description: Learn how to edit the information on a custom form after it's attaching to an object in [!DNL Adobe Workfront].
+role: Admin
+level: Beginner, Intermediate
+kt: 10057
 ---
 # Edit a custom form
 
