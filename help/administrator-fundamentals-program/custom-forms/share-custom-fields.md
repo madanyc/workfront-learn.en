@@ -1,6 +1,9 @@
 ---
 title: How to Share Custom Fields
 description: Learn how to adjust the permissions on a custom field to determine whether [!DNL Adobe Workfront] users can manage or only view the custom field.
+role: Admin
+level: Intermediate, Experienced
+kt: 10090
 exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
 ---
 # Share custom fields

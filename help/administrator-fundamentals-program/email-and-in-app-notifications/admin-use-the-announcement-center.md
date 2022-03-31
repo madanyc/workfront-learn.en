@@ -1,6 +1,9 @@
 ---
 title: Send [!UICONTROL Announcement Center] Messages
 description: Learn how to send in-application messages to [!DNL Adobe Workfront] users through the [!UICONTROL announcement center].
+role: Admin
+level: Beginner
+kt: 10094
 exl-id: 7372516e-47e0-44a9-a756-ddc17824da84
 ---
 <!---

@@ -1,6 +1,9 @@
 ---
 title: Manage User Event Notifications
 description: Learn how users can control which in-app and email notifications they receive so they're getting receive relevant, helpful emails regarding their work.
+role: Admin
+level: Beginner
+kt: 10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 ---
 # User notifications

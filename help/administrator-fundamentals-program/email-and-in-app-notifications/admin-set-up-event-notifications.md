@@ -1,6 +1,9 @@
 ---
 title: Set Up Event Notifications
 description: Learn how to control which email and in-app notifications [!DNL Adobe Workfront] users receive by managing event notifications.
+role: Admin
+level: Intermediate
+kt: 10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
 ---
 <!---
