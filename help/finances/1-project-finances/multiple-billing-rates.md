@@ -1,6 +1,7 @@
 ---
 title: Understand multiple billing rates
-description: Within [!DNL Workfront], a project manager has the ability to override system billing rates within a specific project.
+description: Within Workfront, a project manager has the ability to override system billing rates within a specific project.
+kt: 10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 ---
 # Understand multiple billing rates

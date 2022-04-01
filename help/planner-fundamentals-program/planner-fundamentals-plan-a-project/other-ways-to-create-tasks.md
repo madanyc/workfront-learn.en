@@ -1,6 +1,7 @@
 ---
 title: Create tasks
 description: Learn other methods for creating tasks in a project in [!DNL Adobe Workfront].
+kt: 10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
 ---
 # Create tasks

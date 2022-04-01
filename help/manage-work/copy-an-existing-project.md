@@ -1,9 +1,10 @@
 ---
-title: Copy of an existing project
+title: Copy an existing project
 description: Learn how to make a copy of an existing project in Adobe Workfront.
+kt: 10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 ---
-# Copy of an existing project
+# Copy an existing project
 
 Sometimes, instead of using a template to create a project, you just need to copy a project for another one-time use. To do this, you must have a Plan license, with Edit and Create access to projects. 
 

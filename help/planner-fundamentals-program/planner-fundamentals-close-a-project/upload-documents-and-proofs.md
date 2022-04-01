@@ -1,6 +1,7 @@
 ---
 title: Upload assets
 description: Upload documents, proofs, and other assets to the project before closing it to ensure all relevant data is associated with the project.
+kt: 10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 ---
 # Upload assets

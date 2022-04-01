@@ -1,6 +1,7 @@
 ---
 title: Set up task revenue & cost defaults
 description: The revenue type and cost type are used to calculate the planned and actual financial information for a task.
+kt: 10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
 ---
 # Set up task revenue & cost defaults

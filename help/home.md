@@ -5,9 +5,7 @@ exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 ---
 # [!DNL Workfront] tutorials
 
-**Success. One step at a time.**
-
-No matter where you are in your Workfront journey, we have the resources you need to be successful.
+Adobe Workfront is a unified work management application for sharing ideas, creating content, managing complex processes, and doing your best work.
 
 <!-- 
 

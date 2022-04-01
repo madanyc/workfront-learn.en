@@ -1,6 +1,7 @@
 ---
 title: Manage a project - review
-description: Review how [!DNL Adobe Workfront] can help project managers mangage the work, anticipate problems, and communicate with stakeholders.
+description: Review how [!DNL Adobe Workfront] can help project managers manage the work, anticipate problems, and communicate with stakeholders.
+kt: 10146
 exl-id: 786df77e-06d5-4dc0-910e-6322edf8d525
 ---
 # Manage a project - review

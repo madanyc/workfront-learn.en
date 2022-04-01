@@ -1,6 +1,7 @@
 ---
-title: Track and Update Goals Using Check-ins
-description: Learn how to track, update, and caculate progress on goals in [!DNL Workfront Goals].
+title: Track and update goals using Check-ins
+description: Learn how to track, update, and calculate progress on goals in [!DNL Workfront Goals].
+kt: 10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
 ---
 # Track and update goals using [!UICONTROL Check-ins]

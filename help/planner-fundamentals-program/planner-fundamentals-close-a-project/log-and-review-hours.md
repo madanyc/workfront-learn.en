@@ -1,6 +1,7 @@
 ---
 title: Log and review hours
 description: Record outstanding hours and review logged hours before closing a project in [!DNL Adobe Workfront].
+kt: 10136
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 ---
 # Log and review hours

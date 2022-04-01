@@ -113,6 +113,7 @@ level: Beginner
     + [Assign tasks](planner-fundamentals-program/planner-fundamentals-plan-a-project/assigning-tasks-from-the-project-plan.md)
     
   + Issues/requests {#issues-requests}
+    + [Handle Unplanned Work with Workfront Issues](issue-management-program/managing-issues/handle-unplanned-work-with-workfront-issues.md)
     + [Create a project from a request](planner-fundamentals-program/planner-fundamentals-create-a-project/convert-a-request-to-a-project.md)
     + [Convert issues to other work items](issue-management-program/managing-issues/convert-issues-to-other-work-items.md)
     + [Find requests](planner-fundamentals-program/planner-fundamentals-create-a-project/where-to-find-requests.md)
@@ -122,6 +123,8 @@ level: Beginner
     + [Review digital work](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-review-and-approve-digital-work.md)
     + [Understand updates and notifications](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-updates-and-notifications.md)
     + [Manage issue assignments](issue-management-program/managing-issues/manage-issue-assignments.md)
+    + [Report on Issues in Workfront](issue-management-program/managing-issues/report-on-issues.md)
+
 
   + Request queues {#request-queues}
     + [Understand request queues](administrator-fundamentals-program/queue-management/introduction-to-request-queues.md)
@@ -275,7 +278,7 @@ level: Beginner
     + [Grant [!UICONTROL Goals] access to selected users](workfront-goals-program/create-and-manage-your-goals/edit-access-levels.md)
     + [Create a layout template for [!UICONTROL Goals] users](workfront-goals-program/create-and-manage-your-goals/create-a-layout-template-with-workfront-goals.md)
     + [Create goals in Workfront](workfront-goals-program/create-and-manage-your-goals/create-goals-in-workfront.md)
-
+    + [Copy an Existing Goal](workfront-goals-program/create-and-manage-your-goals/copy-an-existing-goal.md)
 
   + Activate your goals {#activate-goals}
     + [Activate goals in Workfront](workfront-goals-program/create-and-manage-your-goals/activate-goals-in-workfront.md)
@@ -288,7 +291,7 @@ level: Beginner
     + [Manually connect goals to one another](workfront-goals-program/create-and-manage-your-goals/manually-connect-goals-to-one-another.md)
     + [Convert an activity to an aligned goal](workfront-goals-program/create-and-manage-your-goals/convert-an-activity-into-an-aligned-goal-for-goal-alignment.md)
     + [Remove goal alignment](workfront-goals-program/create-and-manage-your-goals/remove-goal-alignment.md)
-    + [Track and update goals using check-ins](workfront-goals-program/create-and-manage-your-goals/track-and-update-goals-using-check-ins.md)
+    + [Track and update goals using [!UICONTROL Check-ins]](workfront-goals-program/create-and-manage-your-goals/track-and-update-goals-using-check-ins.md)
     + [Make a quantitative update](workfront-goals-program/create-and-manage-your-goals/make-a-quantitative-update.md)
     + [Make a qualitative update](workfront-goals-program/create-and-manage-your-goals/make-a-qualitative-update.md)
     + [Close a goal once complete](workfront-goals-program/create-and-manage-your-goals/close-a-goal-once-complete.md)

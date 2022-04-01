@@ -1,6 +1,7 @@
 ---
-title: Activate by Aligning a Goal to Another Goal in [!DNL Workfront Goals]
+title: Activate by aligning a goal to another
 description: Learn how to activate a goal in [!DNL Workfront Goals] by aligning it to another goal.
+kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
 ---
 # Activate by aligning a goal to another in [!DNL Workfront Goals]
