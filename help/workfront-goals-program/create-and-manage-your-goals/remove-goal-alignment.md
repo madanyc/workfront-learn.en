@@ -1,6 +1,7 @@
 ---
-title: Manually Connect Goals to One Another in [!DNL Workfront Goals]
-description: Learn how to manually connect goals to one another in [!DNL Workfront Goals].
+title: Remove goal alignment
+description: Learn how to remove goal alignment in [!DNL Workfront Goals].
+kt: 10124
 exl-id: 3e5751b8-2547-42c5-bcb7-d312d31271d5
 ---
 # Remove goal alignment

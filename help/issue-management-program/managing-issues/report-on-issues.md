@@ -1,6 +1,7 @@
 ---
-title: Report on Issues in [!DNL Workfront]
-description: Learn how to centralize issues by creating a report in [!DNL Adobe Workfront]. 
+title: Report on Issues in Workfront
+description: Learn how to centralize issues by creating a report in Adobe Workfront. 
+kt: 10072
 ---
 
 # Report on issues

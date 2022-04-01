@@ -1,9 +1,10 @@
 ---
-title: Communication and Goal Health in [!DNL Workfront Goals]
+title: Communicate goal status
 description: Learn how to communicate with others on the progress and status of your goals in [!DNL Workfront Goals].
+kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
 ---
-# Communication and goal health in [!DNL Workfront Goals]
+# Communicate goal status
 
 Now that you've updated your goals using [!UICONTROL Check-ins], take a moment to step back and get a bird's-eye view of the goals you're working on and how they relate to the team, group, and company goals. Communicating with others on the progress and status of your goals is an important part of staying aligned.
 

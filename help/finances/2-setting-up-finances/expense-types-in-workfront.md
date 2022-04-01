@@ -1,6 +1,7 @@
 ---
 title: Set up exchange types
-description: '[!DNL Workfront] has pre-built expense types that can be used when entering expenses, and new ones can be added.'
+description: Workfront has pre-built expense types that can be used when entering expenses, and new ones can be added.
+kt: 10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
 ---
 # Set up exchange types

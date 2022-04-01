@@ -1,6 +1,7 @@
 ---
 title: Establish System Settings in [!UICONTROL Brand Connect]
 description: Learn how to establish system settings in [!UICONTROL Brand Connect] of [!UICONTROL Workfront DAM].
+kt: 10089
 exl-id: e056a9fc-31a2-4e96-9874-dcdd23377d53
 ---
 # [!UICONTROL Brand Connect]: establish [!UICONTROL Brand Connect]

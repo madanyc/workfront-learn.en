@@ -1,6 +1,7 @@
 ---
 title: Create a custom calendar
-description: How to create your own custom calendar
+description: Learn how to create your own custom calendar
+kt: 10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
 ---
 # Create a custom calendar

@@ -1,6 +1,7 @@
 ---
-title: Handle Unplanned Work with [!DNL Workfront] Issues
-description: Learn how to handle unplanned work in your organization with [!DNL Adobe Workfront].
+title: Handle Unplanned Work with Workfront Issues
+description: Learn how to handle unplanned work in your organization with Adobe Workfront.
+kt: 10070
 ---
 
 # Handle unplanned work with [!DNL Workfront] issues

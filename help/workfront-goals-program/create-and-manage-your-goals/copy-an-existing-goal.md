@@ -1,8 +1,9 @@
 ---
-title: Copy an Existing Goal in [!DNL Workfront Goals]
+title: Copy an Existing Goal
 description: Learn how to copy an existing goal in [!DNL Workfront Goals].
+kt: 10121
 ---
-# Copy an existing goal in [!DNL Workfront]
+# Copy an Existing Goal
 
 Let's say it's the end of a quarter and you want to recreate an existing goal for the next period. Or maybe you didn't complete the goal and need to extend into the next time period. What is the best option to create that goal? You'll want to copy and modify an existing goal.
 

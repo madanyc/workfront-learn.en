@@ -1,6 +1,7 @@
 ---
 title: Understand additional calendar options
 description: Learn how to edit and delete a calendar grouping, and how to share a calendar.
+kt: 10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
 ---
 # Understand additional calendar options

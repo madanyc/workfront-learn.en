@@ -1,6 +1,7 @@
 ---
 title: Create a project directly from a template
 description: Learn how to create a project by starting with a template already built in Adobe Workfront.
+kt: 10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 ---
 # Create a project directly from a template

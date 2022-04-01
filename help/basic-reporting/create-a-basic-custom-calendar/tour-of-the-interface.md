@@ -1,6 +1,7 @@
 ---
 title: Understand the calendar interface
 description: Tour of the calendar interface
+kt: 10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
 ---
 # Understand the calendar interface
