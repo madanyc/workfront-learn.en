@@ -2,6 +2,7 @@
 title: Copy an Existing Goal
 description: Learn how to copy an existing goal in [!DNL Workfront Goals].
 kt: 10121
+exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
 ---
 # Copy an Existing Goal
 

@@ -2,8 +2,8 @@
 title: Handle Unplanned Work with Workfront Issues
 description: Learn how to handle unplanned work in your organization with Adobe Workfront.
 kt: 10070
+exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
 ---
-
 # Handle unplanned work with [!DNL Workfront] issues
 
 ## Introduction to issues in [!DNL Workfront]

@@ -1,9 +1,9 @@
 ---
 title: Report on Issues in Workfront
-description: Learn how to centralize issues by creating a report in Adobe Workfront. 
+description: Learn how to centralize issues by creating a report in Adobe Workfront.
 kt: 10072
+exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 ---
-
 # Report on issues
 
 ## Centralize issues by creating a report
