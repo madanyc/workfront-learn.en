@@ -330,7 +330,7 @@ level: Beginner
   + [Understand proofing](workfront-for-proofing-users/review-and-approve-proofs/introduction-to-proofing.md)
   + [Learn the benefits of proofing](setups-for-proofing-in-workfront-program/setups-overview-proofing-with-workfront/benefits-of-proofing-in-workfront.md)
   + [Understand the difference between a document and a proof](setups-for-proofing-in-workfront-program/setups-overview-proofing-with-workfront/document-vs-proof.md)
-  + [Learn proofing terminology](workfront-for-proofing-users/overview-proofing-with-workfront/proofing-terminology.md)
+
   + Administration and setup {#adinistration-and-setup-for-proof}
     + [Settings for proof users](setups-for-proofing-in-workfront-program/proof-system-setups-part-one-system-and-user-settings/settings-for-proof-users.md)
     + [Email alert vs. proof notification](workfront-for-proofing-users/upload-proofs-in-workfront/email-alert-vs-proof-notification.md)
