@@ -76,7 +76,7 @@ level: Beginner
     + [Create DATEDIFF and WEEKDAYDIFF expressions](custom-data/calculated-expressions/create-datediff-and-weekdaydiff-expressions.md)
     + [Create a SUB, SUM, DIV, or PROD data expression](custom-data/calculated-expressions/create-a-sub-sum-div-or-prod-data-expression.md)
     + [Understand ISBLANK and CONTAINS](custom-data/calculated-expressions/isblank-and-contains.md)
-    + [Use the CONCAT expression in a calculated field](ccustom-data/calculated-expressions/use-the-concat-expression-in-a-calculated-field.md)
+    + [Use the CONCAT expression in a calculated field](custom-data/calculated-expressions/use-the-concat-expression-in-a-calculated-field.md)
     + [Create LEFT/RIGHT expressions](custom-data/calculated-expressions/create-left-right-expressions.md)
     + [Create an IF text expression](custom-data/calculated-expressions/create-an-if-text-expression.md)
     + [Things to know about expressions](custom-data/calculated-expressions/things-to-know-about-expressions.md)
