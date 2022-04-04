@@ -61,25 +61,25 @@ level: Beginner
 
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
-    + [Create and share a custom form](administrator-fundamentals-program/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
-    + [Use and edit a custom form](administrator-fundamentals-program/custom-forms/custom-forms-using-a-custom-form.md)
-    + [Share custom fields](administrator-fundamentals-program/custom-forms/share-custom-fields.md)
-    + [Export a custom form as a PDF](administrator-fundamentals-program/custom-forms/export-a-custom-form-as-a-pdf.md)
+    + [Create and share a custom form](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
+    + [Edit a custom form](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
+    + [Attach a custom form to an object](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+    + [Share custom fields](custom-data/custom-forms/share-custom-fields.md)
+    + [Export a custom form as a PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
     
   + Calculated expressions {#calculated-expressions}
-    + [Overview of calculated fields and expressions](custom-data/get-started-with-calculated-fields-and-expressions/get-started-with-calculated-fields-and-expressions.md)
-    + [Learn the data expression structure](custom-data/data-expression-structure.md)
-    + [Understand Date & Time and Mathematical expressions](custom-data/date-and-time-and-mathematical-expressions/date-and-time-and-mathematical-expressions.md)
-    + [Create ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS  expressions](custom-data/create-adddays-addweekdays-addmonths-addyears-expressions.md)
-    + [Use the Calculation Editor](custom-data/use-the-calculation-editor.md)
-    + [Create DATEDIFF and WEEKDAYDIFF expressions](custom-data/create-datediff-and-weekdaydiff-expressions.md)
-    + [Create a SUB, SUM, DIV, or PROD data expression](custom-data/create-a-sub-sum-div-or-prod-data-expression/create-a-sub-sum-div-or-prod-data-expression.md)
-    + [Understand Text expressions](custom-data/text-expressions/text-expressions.md)
-    + [Understand ISBLANK and CONTAINS](custom-data/isblank-and-contains/isblank-and-contains.md)
-    + [Use the CONCAT expression in a calculated field](custom-data/use-the-concat-expression-in-a-calculated-field.md)
-    + [Create LEFT/RIGHT expressions](custom-data/create-left-right-expressions.md)
-    + [Create an IF text expression](custom-data/create-an-if-text-expression.md)
-    + [Things to know about expressions](custom-data/things-to-know-about-expressions.md)
+    + [Overview of calculated fields and expressions](custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
+    + [Learn the data expression structure](custom-data/calculated-expressions/data-expression-structure.md)
+    + [Understand Date & Time and Mathematical expressions](custom-data/calculated-expressions/date-and-time-and-mathematical-expressions.md)
+    + [Create ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS  expressions](custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.md)
+    + [Use the Calculation Editor](custom-data/calculated-expressions/use-the-calculation-editor.md)
+    + [Create DATEDIFF and WEEKDAYDIFF expressions](custom-data/calculated-expressions/create-datediff-and-weekdaydiff-expressions.md)
+    + [Create a SUB, SUM, DIV, or PROD data expression](custom-data/calculated-expressions/create-a-sub-sum-div-or-prod-data-expression.md)
+    + [Understand ISBLANK and CONTAINS](custom-data/calculated-expressions/isblank-and-contains.md)
+    + [Use the CONCAT expression in a calculated field](ccustom-data/calculated-expressions/use-the-concat-expression-in-a-calculated-field.md)
+    + [Create LEFT/RIGHT expressions](custom-data/calculated-expressions/create-left-right-expressions.md)
+    + [Create an IF text expression](custom-data/calculated-expressions/create-an-if-text-expression.md)
+    + [Things to know about expressions](custom-data/calculated-expressions/things-to-know-about-expressions.md)
 
 + Manage work {#manage-work}
   + Projects {#projects}
