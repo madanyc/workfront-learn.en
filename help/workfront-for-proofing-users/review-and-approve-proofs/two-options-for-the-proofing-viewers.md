@@ -1,6 +1,9 @@
 ---
 title: Proofing Viewers Explained
 description: Learn about [!DNL Workfront]'s web-based proofing viewer and desktop proofing viewer, the difference between the two, and how to access each. 
+role: User
+level: Beginner
+kt: 10160
 ---
 
 # Two options for the proofing viewers

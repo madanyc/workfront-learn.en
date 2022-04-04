@@ -1,6 +1,9 @@
 ---
 title: How to Manage Proof Comments
 description: Learn how to manage proof comments in [!DNL Adobe Workfront] by applying comment actions, resolving comments, and filtering the comments column. 
+role: User
+level: Beginner
+kt: 10109
 ---
 
 # Manage proof comments

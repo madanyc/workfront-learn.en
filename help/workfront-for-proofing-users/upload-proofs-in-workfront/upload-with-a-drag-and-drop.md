@@ -1,6 +1,9 @@
 ---
 title: How to Upload with a Drag and Drop
 description: Learn about the benefits and limitations of uploading files into [!DNL Adobe Workfront] using a drag and drop.
+role: User
+level: Beginner
+kt: 10178
 exl-id: b092b7cd-34e0-4fb5-9c69-db5709279460
 ---
 # Upload with a drag and drop

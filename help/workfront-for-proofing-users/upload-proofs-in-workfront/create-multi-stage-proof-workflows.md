@@ -1,6 +1,9 @@
 ---
 title: Get Started with Automated Workflows
 description: Learn what an automated proof workflow is in [!DNL Adobe Workfront] and how it is different from a basic workflow.
+role: User
+level: Beginner
+kt: 10164
 exl-id: f480db0a-0b78-41d1-bf99-634c6845f277
 ---
 # Create multi-stage proof workflows

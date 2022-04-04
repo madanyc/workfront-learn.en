@@ -1,6 +1,9 @@
 ---
 title: Work with Proof Versions
 description: Discover how versions can help you manage the review and approval process across multiple iterations of a file using [!DNL Adobe Workfront's] proofing features.
+role: User
+level: Beginner
+kt: 10112
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
 ---
 # What is a proof version?

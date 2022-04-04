@@ -1,6 +1,9 @@
 ---
 title: Log In as another Workfront user
 description: Learn how system or group administrators can log in as other Adobe Workfront users to test system settings, layout templates, reports, etc.
+role: Admin
+level: Beginner
+kt: 10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
 ---
 # Log in as another [!DNL Workfront] user

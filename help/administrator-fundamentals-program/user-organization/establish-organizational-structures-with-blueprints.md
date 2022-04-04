@@ -1,3 +1,12 @@
+---
+title: Establish organizational structures with Blueprints
+description: Learn how to locate and install Blueprints in Adobe Workfront as well as add it to the Main Menu.
+role: Admin
+level: Beginner, Intermediate
+kt: 10102
+---
+
+
 # Establish organizational structures with Blueprints
 
 Adobe Workfront system administrators can use Blueprints to help build out organizational structures in Workfront. This feature, located in the Main Menu, allows you to streamline the creation of companies, groups, roles, and teams in your environment.  

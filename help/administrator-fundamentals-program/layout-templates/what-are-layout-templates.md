@@ -1,6 +1,9 @@
 ---
 title: Layout Templates Explained
 description: Learn how layout templates are used in [!DNL Adobe Workfront] to customize what users see in the interface.
+role: Admin
+level: Intermediate, Experienced
+kt: 10099
 ---
 # What are layout templates?
 
