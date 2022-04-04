@@ -1,3 +1,5 @@
+TOC
+
 ---
 user-guide-description: Workfront tutorials
 role: User
@@ -7,57 +9,56 @@ level: Beginner
 # [!DNL Workfront] tutorials {#tutorials-workfront}
 
 + [Workfront](home.md)
-+ Administration and Setup {#administration-and-setup}
++ Administration and Setup {#administrator-fundamentals-program}
   + Organizational setup {#organizational-setup}
-    + [Understand user organization and group administration](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
-    + [Learn to set up users](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
-    + [Create companies](administration-and-setup/organizational-setup/user-organization-companies.md)
-    + [Create groups](administration-and-setup/organizational-setup/user-organization-groups.md)
-    + [Create teams](administration-and-setup/organizational-setup/user-organization-teams.md)
-    + [Log in as another Workfront user](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
+    + [Understand user organization and group administration](administrator-and-setup/organizational-setup/introduction-to-group-administrators.md)
+    + [Learn to set up users](administrator-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+    + [Create companies](administrator-and-setup/organizational-setup/user-organization-companies.md)
+    + [Create groups](administrator-and-setup/organizational-setup/user-organization-groups.md)
+    + [Create teams](administrator-and-setup/organizational-setup/user-organization-teams.md)
+    + [Log in as another Workfront user](administrator-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
 
   + Manage deleted items {#manage-deleted-items}
-    + [Restore objects from the recycle bin](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
+    + [Restore objects from the recycle bin](administrator-fundamentals-program/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
   + Configure system defaults {#conifgure-system-defaults}
-    + [Configure global default project settings](aadministration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
-    + [Configure global default issue preferences](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
-    + [Create an issue status](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
-    + [Create systemwide issues status](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
-    + [Customize issue types and terminology](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
-    + [Understand default issue types](administration-and-setup/configure-system-defaults/default-issue-types.md)
-    + [Create and manage issue severities](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
+    + [Configure global default project settings](administrator-fundamentals-program/configure-system-setup/configure-global-default-project-settings.md)
+    + [Configure global default issue preferences](administrator-fundamentals-program/configure-system-setup/configure-global-default-issue-preferences.md)
+    + [Create an issue status](administrator-fundamentals-program/configure-system-setup/create-an-issue-status.md)
+    + [Create systemwide issues status](administrator-fundamentals-program/configure-system-setup/customize-systemwide-issue-status.md)
+    + [Customize issue types and terminology](administrator-fundamentals-program/configure-system-setup/customize-issue-types-and-terminology.md)
+    + [Understand default issue types](administrator-fundamentals-program/configure-system-setup/default-issue-types.md)
+    + [Create and manage issue severities](administrator-fundamentals-program/configure-system-setup/create-and-manage-issue-severities.md)
 
   + Layout templates {#layout-templates}
-    + [Find layout templates](administration-and-setup/layout-templates/find-layout-templates.md)
-    + [Customize the Main Menu with layout templates](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
-    + [Customize object areas with a layout template](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
-    + [Customize project details with layout templates](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
-    + [Customize reporting lists with layout templates](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
-    + [Customize Workfront Home with layout templates](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
-    + [Customize Workfront terminology](administration-and-setup/layout-templates/customize-workfront-terminology.md)
-    + [Assign and manage access to layout templates](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
+    + [Find layout templates](administrator-fundamentals-program/layout-templates/find-layout-templates.md)
+    + [Customize the Main Menu with layout templates](administrator-fundamentals-program/layout-templates/customize-the-main-menu-with-layout-templates.md)
+    + [Customize object areas with a layout template](administrator-fundamentals-program/layout-templates/customize-object-areas-with-a-layout-template.md)
+    + [Customize project details with layout templates](administrator-fundamentals-program/layout-templates/customize-project-details-with-layout-templates.md)
+    + [Customize reporting lists with layout templates](administrator-fundamentals-program/layout-templates/customize-reporting-lists-with-layout-templates.md)
+    + [Customize Workfront Home with layout templates](administrator-fundamentals-program/layout-templates/customize-workfront-home-with-layout-templates.md)
+    + [Customize Workfront terminology](administrator-fundamentals-program/layout-templates/customize-workfront-terminology.md)
+    + [Assign and manage access to layout templates](administrator-fundamentals-program/layout-templates/assign-and-manage-access-to-layout-templates.md)
 
-  +  Email and In App Notifications {#email-and-in-app-notifications}
-     + [Manage inapp and email notifications](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
-     + [Set up event notifications](administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-     + [Use the announcement center](administration-and-setup/email-and-in-app-notifications/admin-use-the-announcement-center.md)
-     + [Create reminder notifications](administration-and-setup/email-and-in-app-notifications/admin-create-reminder-notifications.md)
-     + [Set up automatic reminders](administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
-     + [Subscribe to work items](administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
-     + [Attach reminder notifications](administration-and-setup/email-and-in-app-notifications/user-attach-reminder-notifications.md)
+  + Emails {#emails}
+    + [Manage inapp and email notifications](administrator-fundamentals-program/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
+    + [Set up event notifications](administrator-fundamentals-program/email-and-in-app-notifications/admin-set-up-event-notifications.md)
+    + [Use the announcement center](administrator-fundamentals-program/email-and-in-app-notifications/admin-use-the-announcement-center.md)
+    + [Create reminder notifications](administrator-fundamentals-program/email-and-in-app-notifications/admin-create-reminder-notifications.md)
+    + [Set up automatic reminders](administrator-fundamentals-program/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
+    + [Subscribe to work items](administrator-fundamentals-program/email-and-in-app-notifications/user-subscribe-to-work-items.md)
+    + [Attach reminder notifications](administrator-fundamentals-program/email-and-in-app-notifications/user-attach-reminder-notifications.md)
 
   + Create and manage users {#create-and-manage-users}
-    + [Add users to Adobe Workfront](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
-    + [Create an individual user](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
-    + [Add users in bulk and modify user information](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
-    + [Modify user information](administration-and-setup/create-and-manage-users/modify-user-information.md)
-    + [Understand the differenve between deactivating and deleting users](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
-    + [Understand the system audit log](administration-and-setup/create-and-manage-users/system-audit-log.md)
+    + [Add users to Adobe Workfront](administrator-fundamentals-program/create-and-manage-users/add-users-to-adobe-workfront.md)
+    + [Create an individual user](administrator-fundamentals-program/create-and-manage-users/create-an-individual-user-profile.md)
+    + [Add users in bulk and modify user information](administrator-fundamentals-program/create-and-manage-users/add-users-in-bulk.md)
+    + [Understand the differenve between deactivating and deleting users](administrator-fundamentals-program/create-and-manage-users/deactivate-or-delete-users.md)
+    + [Understand the system audit log](administrator-fundamentals-program/create-and-manage-users/system-audit-log.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
-    + [Create milestones](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-    + [Understand group-specific approval processes](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+    + [Create milestones](administrator-fundamentals-program/milestones/creating-milestones.md)
+    + [Understand group-specific approval processes](administrator-fundamentals-program/approval-processes/group-specific-approval-processes.md)
 
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
@@ -417,3 +418,4 @@ level: Beginner
   + [Approve work in Workfront Home](worker-fundamentals-program/approve-work-in-workfront-home.md)
   + [Collaborate on work with My Updates](worker-fundamentals-program/collaborate-on-work-with-my-updates.md)
   + [Review work in My Updates or Workfront Home](worker-fundamentals-program/review-work-in-my-updates-or-workfront-home.md)
+
