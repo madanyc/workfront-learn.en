@@ -327,7 +327,6 @@ level: Beginner
     + [Search Workfront through [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
 
 + Workfront Proof {#workfront-proof}
-  + [Understand proofing](workfront-for-proofing-users/review-and-approve-proofs/introduction-to-proofing.md)
   + [Learn the benefits of proofing](setups-for-proofing-in-workfront-program/setups-overview-proofing-with-workfront/benefits-of-proofing-in-workfront.md)
   + [Understand the difference between a document and a proof](setups-for-proofing-in-workfront-program/setups-overview-proofing-with-workfront/document-vs-proof.md)
 
@@ -359,7 +358,7 @@ level: Beginner
     + [Proof details overview](workfront-for-proofing-users/manage-proofs-and-versions-in-workfront/proof-details-overview.md)
     + [Proof viewer navigation](workfront-for-proofing-users/review-and-approve-proofs/proof-viewer-navigation.md)
     + [Review and approve a proof](workfront-for-proofing-users/review-and-approve-proofs/review-and-approve-a-proof.md)
-    + [Manage proof comments](workfront-for-proofing-users/review-and-approve-proofs/manage-proof-comments.md)
+    + [Manage proof comments](workfront-for-proofing-users/manage-proofs-and-versions-in-workfront/manage-proof-comments.md)
 
 + Adobe Workfront DAM {#workfront-dam-program}
   + System setup {#system-setup}
