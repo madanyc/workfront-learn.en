@@ -1,9 +1,9 @@
 ---
 title: Why use the time off calendar?
 description: Get a glimpse into how to see which team members are available to complete assigned work and who isn't.
-activity: use
-type: Tutorial
-team: Technical Marketing
+role: Leader, User
+level: Intermediate, Experienced
+kt: 10186
 exl-id: 00b1ce6c-80a1-47b0-9b4c-33f5348994ec
 ---
 # Why use the time off calendar?

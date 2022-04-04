@@ -1,16 +1,16 @@
 ---
 title: Show time off affects project timelines
 description: See what happens to a project timeline when the time off setting is on and off.
-activity: use
-type: Tutorial
-team: Technical Marketing
+role: Leader, User
+level: Intermediate, Experienced
+kt: 10180
 exl-id: 0f79dd8d-b7ce-4ee9-b211-23c8ed5d497c
 ---
 # How time off affects project timelines
 
-Whether an assigned user’s time off factors into the project timeline depends on a project setting called User Time Off. This setting determines if the time off for the primary assignee of the task adjusts the planned dates for that task on the project.
+Whether an assigned user’s time off factors into the project timeline depends on a project setting called [!UICONTROL User Time Off]. This setting determines if the time off for the primary assignee of the task adjusts the planned dates for that task on the project.
 
-Let’s look at what happens with a project timeline when each of the settings is selected—Consider user time off in task durations or Ignore user time off in task durations.
+Let’s look at what happens with a project timeline when each of the settings is selected—C[!UICONTROL onsider user time off in task durations] or [!UICONTROL Ignore user time off in task durations].
 
 ![User time off setting](assets/toapt_01.png)
 
@@ -30,7 +30,7 @@ When this user is assigned to the task, the planned dates adjust automatically. 
 
 ![project task with due date](assets/toapt_04.png)
 
-## Ignore user time off in task durations
+## [!UICONTROL Ignore user time off in task durations]
 
 With this option, the planned dates of the task remain as originally planned, even if the primary assignee has time off during the duration of that task.
 
@@ -54,16 +54,16 @@ To change the User Time Off setting on a project:
 
 * Scroll to the [!UICONTROL Project Settings] section and find the [!UICONTROL User Time Off] field.
 
-* Select the option you want to apply to this project — Consider user time off in task durations or Ignore user time off in task durations.
+* Select the option you want to apply to this project — [!UICONTROL Consider user time off in task durations] or I[!UICONTROL gnore user time off in task durations].
 
 * Click the [!UICONTROL Save] button in the upper-right corner of the window.
 
 ![Consider user time off in task durations](assets/toapt_07.png)
 
 
-**Note**: This setting is not available when you select Project Details from the left panel menu of the project page.
+**Note**: This setting is not available when you select [!UICONTROL Project Details] from the left panel menu of the project page.
 
-A global setting for this exists in the project preferences in the Setup menu. This setting is managed by your system administrator. Group administrators may be able to adjust this setting for the groups they manage.
+A global setting for this exists in the project preferences in the [!UICONTROL Setup] menu. This setting is managed by your system administrator. Group administrators may be able to adjust this setting for the groups they manage.
 
 Workfront recommends the setting be set the way you want the majority of your projects to handle time off at your organization.
 

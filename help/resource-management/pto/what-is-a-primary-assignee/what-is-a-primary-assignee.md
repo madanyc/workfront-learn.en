@@ -1,9 +1,9 @@
 ---
 title: What is a primary assignee?
-description:  Find out what a primary assignee is and how it affects managing your resources.
-activity: use
-type: Tutorial
-team: Technical Marketing
+description: Find out what a primary assignee is and how it affects managing your resources.
+role: Leader, User
+level: Intermediate, Experienced
+kt: 10185
 ---
 # What is a primary assignee?
 

@@ -1,9 +1,9 @@
 ---
-title: View utillization and filter the Resource Planner
+title: View utilization and filter the Resource Planner
 description: Learn how to view user utilization and filter the Resource Planner.
-activity: use
-type: Tutorial
-team: Technical Marketing
+role: Leader, User
+level: Intermediate, Experienced
+kt: 10187
 exl-id: b54b9ae2-e0b0-4118-9302-9a6e2b613e36
 ---
 # View utillization and filter the Resource Planner
