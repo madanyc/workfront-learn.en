@@ -20,7 +20,7 @@ level: Beginner
     + [Restore objects from the recycle bin](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
   + Configure system defaults {#conifgure-system-defaults}
-    + [Configure global default project settings](aadministration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
+    + [Configure global default project settings](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
     + [Configure global default issue preferences](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
     + [Create an issue status](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
     + [Create systemwide issues status](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
