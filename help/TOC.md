@@ -100,7 +100,7 @@ level: Beginner
     + [Understand the [!UICONTROL Gantt] view](manage-work/projects/understand-the-gantt-view.md) 
      
   + Tasks {#tasks}
-    + [Understand parent-child tasks](manage-work/tasks/understand-parent-child-tasks.md
+    + [Understand parent-child tasks](manage-work/tasks/understand-parent-child-tasks.md)
     + [Work with tasks](manage-work/tasks/work-with-tasks.md)
     + [How to create tasks](manage-work/tasks/how-to-create-tasks.md)
     + [Understand task durations](manage-work/tasks/understand-task-durations.md)
@@ -111,7 +111,7 @@ level: Beginner
     
   + Issues/requests {#issues-requests}
     + [Handle Unplanned Work](manage-work/issues-requests/handle-unplanned-work.md)
-    + [Create a project from a request](manage-work/issues-requests/create-a-project-from-a-request.mdd)
+    + [Create a project from a request](manage-work/issues-requests/create-a-project-from-a-request.md)
     + [Convert issues to other work items](manage-work/issues-requests/convert-issues-to-other-work-items.md)
     + [Find requests](manage-work/issues-requests/find-requests.md)
     + [Make a request](manage-work/issues-requests/make-a-request.md)
@@ -122,49 +122,48 @@ level: Beginner
     + [Manage issue assignments](manage-work/issues-requests/manage-issue-assignments.md)
     + [Report on Issues in Workfront](manage-work/issues-requests/report-on-issues.md)
 
-
   + Request queues {#request-queues}
-    + [Understand request queues](administrator-fundamentals-program/queue-management/introduction-to-request-queues.md)
-    + [Create a request queue](administrator-fundamentals-program/queue-management/queue-creation.md)
-    + [Understand settings for a flow request](administrator-fundamentals-program/queue-management/setting-request-flow.md)
-    + [Create a request flow](administrator-fundamentals-program/queue-management/how-to-create-a-request-flow.md)
+    + [Understand request queues](manage-work/request-queues/understand-request-queues.md)
+    + [Create a request queue](manage-work/request-queues/create-a-request-queue.md)
+    + [Understand settings for a flow request](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+    + [Create a request flow](manage-work/request-queues/create-a-request-flow.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
-    + [View milestones](administrator-fundamentals-program/milestones/viewing-milestones.md)
-    + [Apply milestones](administrator-fundamentals-program/milestones/applying-milestones.md)
-    + [Create a single-use approval process](administrator-fundamentals-program/approval-processes/creating-a-single-use-approval-process.md)
-    + [Attach and edit existing approval processes](administrator-fundamentals-program/approval-processes/how-to-attach-and-edit-existing-approval-processes.md)
-    + [Delegate approvals](planner-fundamentals-program/requests-in-the-new-workfront-experience.md/planner-delegate-approvals.md)
+    + [View milestones](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+    + [Apply milestones](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+    + [Create a single-use approval process](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+    + [Attach and edit existing approval processes](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+    + [Delegate approvals](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
   + Create and manage project templates {#create-and-manage-project-templates}
-    + [Create a project template](manage-work/create-a-project-template.md)
-    + [Create a project directly from a template](manage-work/create-a-project-directly-from-a-template.md)
-    + [Share a project template](manage-work/share-a-project-template.md)
+    + [Create a project template](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+    + [Create a project directly from a template](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+    + [Share a project template](manage-work/create-and-manage-project-templates/share-a-project-template.md)
 
   + Manage projects {#manage-projects}
-    + [Copy an existing project](manage-work/copy-an-existing-project.md)
+    + [Copy an existing project](manage-work/manage-projects/copy-an-existing-project.md)
 
   + Project timelines {#project-timelines}
-    + [Track progress from the project timeline](planner-fundamentals-program/planner-fundamentals-manage-a-project/track-work-progress-from-the-project-timeline.md) 
-    + [Understand progress status](planner-fundamentals-program/planner-fundamentals-manage-a-project/task-dates-and-progress-status.md) 
+    + [Track progress from the project timeline](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md) 
+    + [Understand date types and progress status](manage-work/project-timelines/understand-task-dates-and-progress-status.md) 
 
   + Close a project {#close-a-project}
-    + [Get started on closing a project](planner-fundamentals-program/planner-fundamentals-close-a-project/close-a-project-in-workfront.md)
-    + [Close tasks and issues](planner-fundamentals-program/planner-fundamentals-close-a-project/close-tasks-and-issues.md)
-    + [Complete approvals](planner-fundamentals-program/planner-fundamentals-close-a-project/complete-approvals.md)
-    + [Upload assets](planner-fundamentals-program/planner-fundamentals-close-a-project/upload-documents-and-proofs.md)
-    + [Record lessons learned](planner-fundamentals-program/planner-fundamentals-close-a-project/lessons-learned.md)
-    + [Log and review hours](planner-fundamentals-program/planner-fundamentals-close-a-project/log-and-review-hours.md)
+    + [Close a project](manage-work/close-a-project/close-a-project-in-workfront.md)
+    + [Close tasks and issues](manage-work/close-a-project/close-tasks-and-issues.md)
+    + [Complete approvals](manage-work/close-a-project/complete-approvals.md)
+    + [Upload assets](manage-work/close-a-project/upload-assets.md)
+    + [Lessons learned from closing a project](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+    + [Log and review hours](manage-work/close-a-project/log-and-review-hours.md)
 
   + Project finances {#project-finances}
-    + [Review finances](planner-fundamentals-program/planner-fundamentals-close-a-project/update-and-review-finances.md)
-    + [Use the project finance page](finances/1-project-finances/project-finance-page.md)
-    + [Understand multiple billing rates](finances/1-project-finances/multiple-billing-rates.md)
-    + [Understand performance metrics](finances/2-setting-up-finances/performance-metrics-overview.md)
-    + [Set up task revenue & cost defaults](finances/2-setting-up-finances/setting-up-task-revenue-and-cost-defaults.md)
-    + [Set up exchange rates](finances/2-setting-up-finances/exchange-rates-in-workfront.md)
-    + [Set up exchange types](finances/2-setting-up-finances/expense-types-in-workfront.md)
-    + [Understand financial access](finances/2-setting-up-finances/understanding-financial-access.md)
+    + [Update and review finances](manage-work/project-finances/update-and-review-finances.md)
+    + [Find financial information](manage-work/project-finances/find-financial-information.md)
+    + [Understand multiple billing rates](manage-work/project-finances/multiple-billing-rates.md)
+    + [Understand performance metrics](manage-work/project-finances/understand-performance-metrics.md)
+    + [Set up task revenue & cost defaults](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+    + [Set up exchange rates](manage-work/project-finances/set-up-exchange-rates.md)
+    + [Set up exchange types](manage-work/project-finances/set-up-expense-types.md)
+    + [Understand financial access](manage-work/project-finances/understand-financial-access.md)
 
 
 

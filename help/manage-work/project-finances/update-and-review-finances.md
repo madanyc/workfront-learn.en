@@ -1,10 +1,10 @@
 ---
-title: Review finances
+title: Update and review finances
 description: Learn how to review the financial information associated with a project in [!DNL Adobe Workfront].
 kt: 10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 ---
-# Review finances
+# Update and review finances
 
 If your organization uses [!DNL Workfront] to keep track of project-related financial information, reviewing expenses and creating billing records may be part of your process for closing out a project.
 
