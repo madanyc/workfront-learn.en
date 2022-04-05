@@ -4,6 +4,7 @@ description: Learn how to modify/edit a users information within Adobe Workfront
 role: Admin
 level: Beginner
 kt: 10039
+exl-id: 6df6ee45-ab59-4eb3-a1a0-adcb0911faac
 ---
 # Modify user information
 

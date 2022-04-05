@@ -4,6 +4,7 @@ description: Learn how to edit the information on a custom form after it's attac
 role: Admin
 level: Beginner, Intermediate
 kt: 10057
+exl-id: 7ce0c3c6-9a17-49fe-87a8-8ff1e628ea62
 ---
 # Edit a custom form
 
