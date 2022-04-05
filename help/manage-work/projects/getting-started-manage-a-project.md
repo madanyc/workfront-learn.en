@@ -1,10 +1,22 @@
 ---
-title: Manage a project - review
-description: Review how [!DNL Adobe Workfront] can help project managers manage the work, anticipate problems, and communicate with stakeholders.
-kt: 10146
-exl-id: 786df77e-06d5-4dc0-910e-6322edf8d525
+title: Get started managing a project
+description: Learn what your role is as a project manager and what to look at when monitoring project work in Adobe Workfront.
+activity: use
+type: Tutorial
+team: Technical Marketing
+kt: 8781
+exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 ---
-# Manage a project - review
+# Get started managing a project
+
+In this video, you will learn how to:
+
+* What to look at when monitoring project work
+* What your role is as a project manager
+
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12)
+
+## Manage a project - review
 
 With each project you manage, you’ll settle into a routine of when to review projects and what you want to review each time. Staying on top of your projects and driving them to success is what being a project manager is all about.
 
@@ -20,13 +32,10 @@ But no matter how you manage a project, you’ll want to:
 Ultimately, your main job is to drive the project toward successful completion. [!DNL Workfront] can help you monitor the work being done through the project timeline; filters, views, and groupings; updates; reports ... and more.
 
 <!---
-footer urls
-How to become a project manager: Two paths
-How to help your team meet project deadlines
-6 easy ways to collaborate using Workfront
-Workfront licenses overview
-Share a project
-Edit projects
-Milestones
-Managing issues
+learn more urls
+3 universal principles of project management
+What is a project manager?
+Project management knowledge areas
+9 best practices for effective project management
+10 work management problems and how to solve them
 --->

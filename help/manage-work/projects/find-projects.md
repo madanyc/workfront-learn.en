@@ -8,7 +8,7 @@ kt: 8716,8717,8718,8719
 ---
 # Find your projects
 
-[!DNL Workfront] can’t manage your projects for you, but it can give you the visibility you need into the work that’s being done. [!DNL Workfront] makes it easier for you to monitor work progress, communicate with your team, make timeline adjustments, and more.
+Workfront can’t manage your projects for you, but it can give you the visibility you need into the work that’s being done. [!DNL Workfront] makes it easier for you to monitor work progress, communicate with your team, make timeline adjustments, and more.
 
 <!---
 In this section, you will learn how to:

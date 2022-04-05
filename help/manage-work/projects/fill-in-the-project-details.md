@@ -1,10 +1,10 @@
 ---
-title: Understand project details
+title: Fill in the project details
 description: Learn which 12 project details fields [!DNL Adobe Workfront] recommends you fill in when creating a project.
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 ---
-# Understand project details
+# Fill in the project details
 
 Don’t worry … you don’t have to fill out every field and checkbox in the project details with each project you create in [!DNL Adobe Workfront]. Use templates to pre-fill information, then turn your attention to the 12 most important project details fields listed below. 
 

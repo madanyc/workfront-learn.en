@@ -16,3 +16,13 @@ In this video, you will learn:
 * The three most common ways of creating a project
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12)
+
+Get your [!DNL Adobe Workfront] projects up and running quickly by using a project template. Then plan your project by focusing first on these five fields:
+
+1. Tasks
+1. Duration
+1. Planned hours
+1. Predecessors
+1. Assignments
+
+Once everything is set, change the project status to Current to take the project live. As the project progresses, you’ll want to keep track of the work getting done, problems that arise, questions that need answered, and more. Just remember ... you can find and manage all of that information in [!DNL Workfront]!
