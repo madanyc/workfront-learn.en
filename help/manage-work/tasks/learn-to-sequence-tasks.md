@@ -1,5 +1,5 @@
 ---
-title: Sequence tasks
+title: Learn to sequence tasks
 description: Learn what a predecessor is and how they sequence tasks in a project. Then learn to use durations and predecessors to create a timeline.
 activity: use
 type: Tutorial
@@ -7,7 +7,7 @@ team: Technical Marketing
 kt: 8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 ---
-# Sequence tasks
+# Learn to sequence tasks
 
 In this video, you will learn:
 

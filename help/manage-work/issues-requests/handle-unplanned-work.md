@@ -1,12 +1,12 @@
 ---
-title: Handle Unplanned Work with Workfront Issues
+title: Handle Unplanned Work
 description: Learn how to handle unplanned work in your organization with Adobe Workfront.
 kt: 10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
 ---
-# Handle unplanned work with [!DNL Workfront] issues
+# Handle unplanned work
 
-## Introduction to issues in [!DNL Workfront]
+## Introduction to issues in Workfront
 
 Your project is live and moving along. All of a sudden, something happens that could affect the work—maybe it’s something small that delays a single task, or maybe it’s something bigger, with the potential to affect the overall project timeline.
 

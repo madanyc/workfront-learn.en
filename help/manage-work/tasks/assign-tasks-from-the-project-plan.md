@@ -1,5 +1,5 @@
 ---
-title: Assign tasks
+title: Assign tasks from the project plan
 description: Learn how to assign a user to a task using inline editing in an [!DNL Adobe Workfront] project.
 activity: use
 type: Tutorial
@@ -7,7 +7,7 @@ team: Technical Marketing
 kt: 8779
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 ---
-# Assign tasks
+# Assign tasks from the project plan
 
 In this video, you will learn how to:
 
