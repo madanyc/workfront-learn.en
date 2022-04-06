@@ -17,7 +17,7 @@ If your organization uses [!DNL Workfront] to keep track of project-related fina
 
 Expenses can be logged on individual tasks or the project itself. Regardless of what item the expense is logged on, you can view all expenses in the [!UICONTROL Expenses] section of the project itself.
 
-![[!UICONTROL Expenses] section of a project](assets/planner-fund-expenses.png)
+![[!UICONTROL Expenses] section of a project](assets/expense-section.png)
 
 ## Billing records
 
@@ -29,7 +29,7 @@ You must have access to financial data in [!DNL Workfront] in order to create an
 
 A glance at the [!UICONTROL Finance] information in the [!UICONTROL Project Details] lets you see actual numbers for benefit, revenue, and cost.
 
-![Finances section of [!UICONTROL Project Details] window on a project](assets/planner-fund-project-financial-details.png)
+![Finances section of [!UICONTROL Project Details] window on a project](assets/finance-section-project-details.png)
 
 Most of the financial information in the [!UICONTROL Project Details] is set up during the creation of the project, and the numbers you see here are based on that information. So as you’re closing a project, there really isn’t anything you need to update or add in the financial details.
 
