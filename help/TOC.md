@@ -185,12 +185,12 @@ level: Beginner
     + [Understand additional calendar options](reporting/basic-reporting/additional-calendar-options.md)
     + [Your turn to create a calendar](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
     + [Create dashboards](reporting/basic-reporting/create-dashboards.md)
-    + [Send and share reports](reporting/basic-reporting/how-to-send-and-share-reports.md
+    + [Send and share reports](reporting/basic-reporting/how-to-send-and-share-reports.md)
     + [Understand report settings](reporting/basic-reporting/report-settings.md)
 
   + Intermediate reporting {#intermediate-reporting}
     + [Create filters with user-based wildcards](reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)    
-    + [Create filters with date-based wildcards](rreporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
+    + [Create filters with date-based wildcards](reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
     + [Create OR statements in filters](reporting/intermediate-reporting/or-statements-in-filters.md)    
     + [Understand built-in project filters](reporting/intermediate-reporting/open-built-in-project-filters.md)
     + [Understand built-in task filters](reporting/intermediate-reporting/open-built-in-task-filters.md)    
