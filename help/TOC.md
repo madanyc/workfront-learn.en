@@ -224,39 +224,39 @@ level: Beginner
 
 + Manage resources {#manage-resources}
   + Resource management {#resource-management}
-    + [Resource management maturity](resource-management/maturity-model-and-setup/rm-maturity/resource-management-maturity.md)
-    + [Settings for Workfront's resource management tools](resource-management/maturity-model-and-setup/settings-for-projects/settings-for-projects.md)
+    + [Resource management maturity](manage-resources/resource-management/resource-management-maturity.md)
+    + [Resource management settings for projects](manage-resources/resource-management/settings-for-projects.md)
+    + [Resource management settings for users](manage-resources/resource-management/settings-for-users.md)
+    + [Resource management setups, Workload Balancer, and Utilization Report](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
   + Workload Balancer {#workload-balancer}
-    + [Find the Workload Balancer](resource-management/workload-balancer/find-the-workload-balancer/find-the-workload-balancer.md)
-    + [Filter the Workload Balancer](resource-management/workload-balancer/filter-unassigned-assigned-areas/filter-unassigned-and-assigned-work-areas.md)
-    + [View user allocations in the Workload Balancer](resource-management/workload-balancer/view-user-allocations/view-user-allocations.md)
-    + [Adjust daily allocations in the Workload Balancer](resource-management/workload-balancer/adjust-daily-allocations/adjust-daily-allocations.md)
-    + [Assign work in the Workload Balancer](resource-management/workload-balancer/assign-work-in-workload-balancer/assign-work-in-the-workload-balancer.md)
-    + [Settings to consider for the Workload Balancer](resource-management/workload-balancer/settings-to-consider-for-workload-balancer/settings-to-consider-for-the-workload-balancer.md)
+    + [Find the Workload Balancer](manage-resources/workload-balancer/find-the-workload-balancer.md)
+    + [Filter the Workload Balancer](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
+    + [View user allocations in the Workload Balancer](manage-resources/workload-balancer/view-user-allocations.md)
+    + [Adjust daily allocations in the Workload Balancer](manage-resources/workload-balancer/adjust-daily-allocations.md)
+    + [Assign work in the Workload Balancer](manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
+    + [Settings to consider for the Workload Balancer](manage-resources/workload-balancer/settings-to-consider-for-the-workload-balancer.md)
 
   + Resource planning {#resource-planning}
-    + [What is the Resource Planner?](resource-management/resource-planner/what-is-the-resource-planner/what-is-the-resource-planner.md)
-    + [View utiltization](resource-management/resource-planner/view-utlization-intro-filter-the-resource-planner/view-utlization-intro-filter-the-resource-planner.md)
+    + [What is the Resource Planner?](manage-resources/resource-planning/what-is-the-resource-planner.md)
+    + [View utiltization](manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
 
   + Personal Time Off Calendar {#personal-time-off-calendar}
-    + [Why use the time off calendar?](resource-management/pto/why-use-time-off-calendar/why-use-time-off-calendar.md)
-    + [Manage other users time off](resource-management/pto/manage-other-users-time-off/manage-other-users-time-off.md)
-    + [See time off when assigning tasks](resource-management/pto/see-time-off-when-assigning-tasks/see-time-off-when-assigning-tasks.md)
-    + [How time off affects project timelines](resource-management/pto/how-time-off-affects-project-timelines/how-time-off-affects-project-timelines.md)
-    + [Visibility in resource management tools](resource-management/pto/visibility-in-resource-management-tools/visibility-in-resource-management-tools.md)
+    + [Why use the time off calendar?](manage-resources/pto/why-use-time-off-calendar.md)
+    + [Manage other users time off](manage-resources/pto/manage-other-users-time-off.md)
+    + [See time off when assigning tasks](manage-resources/pto/see-time-off-when-assigning-tasks.md)
+    + [How time off affects project timelines](manage-resources/pto/how-time-off-affects-project-timelines.md)
+    + [Visibility in resource management tools](manage-resources/pto/visibility-in-resource-management-tools.md)
 
   + Scenario Planner {#scenario-planner}
-    + [A moment with product about the Scenario Planner](scenario-planner-program/a-moment-with-product-workfront-scenario-planner.md)
-    + [What is the Scenario Planner](scenario-planner-program/what-is-scenario-planner.md)
-    + [Access a plan in Scenario Planner](scenario-planner-program/access-a-plan-in-scenario-planner.md)
-    + [Create Plans in the Scenario Planner](scenario-planner-program/create-plans-in-the-scenario-planner.md)
-    + [Create Initiatives with a Plan](scenario-planner-program/creating-initiatives-within-a-plan.md)
-    + [Adjust job role, budget, and cost information in the Scenario Planner](scenario-planner-program/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
-    + [Update and copy plans](scenario-planner-program/update-and-copy-plans.md)
-    + [Publish a scenario](scenario-planner-program/publishing-a-scenario.md)
-
-+ Review and approve work {#review-and-approve-work}
+    + [A moment with product about the Scenario Planner](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+    + [What is the Scenario Planner](manage-resources/scenario-planner/what-is-scenario-planner.md)
+    + [Access a plan in Scenario Planner](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
+    + [Create Plans in the Scenario Planner](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
+    + [Create Initiatives with a Plan](manage-resources/scenario-planner/creating-initiatives-within-a-plan.md)
+    + [Adjust job role, budget, and cost information in the Scenario Planner](manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
+    + [Update and copy plans](manage-resources/scenario-planner/update-and-copy-plans.md)
+    + [Publish a scenario](manage-resources/scenario-planner/publish-a-scenario.md)
 
 + Adobe Workfront Goals {#adobe-workfront-goals}
   + Establish a vision for your org {#establish-a-vision-and-strategy}
