@@ -7,7 +7,7 @@ team: Technical Marketing
 kt: 8981
 exl-id: e6dc7c1d-200c-4cea-8dd1-bdc86ff96d25
 ---
-# Brand Connect: custom pages
+# Add custom pages in [!UICONTROL Brand Connect]
 
 In this video, you will learn how to:
 

@@ -1,12 +1,12 @@
 ---
-title: "[!UICONTROL Brand Connect] Course Introduction"
+title: What is [!UICONTROL Brand Connect]?
 description: Learn about what will be covered in the [!UICONTROL Workfront DAM] Administrator, Part 3 Brand Connect Customization course.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8977
 ---
-# [!UICONTROL Brand Connect]: course introduction
+# What is [!UICONTROL Brand Connect]
 
 [!UICONTROL Brand Connect] is the part of [!UICONTROL Workfront DAM] that your end-users will access to find and download approved company assets. These users are often internal users who have requested assets or are looking for something like a company logo.
 

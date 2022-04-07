@@ -7,11 +7,11 @@ team: Technical Marketing
 kt: 8982
 exl-id: 717952e8-e633-4d65-b76a-9afb29159f5a
 ---
-# Brand Connect: brand guidelines
+# Create brand guidelines in [!UICONTROL Brand Connect]
 
 In this video, you will learn:
 
 * What brand guidelines are
-* How to create a brand guidelines page in Brand Connect
+* How to create a brand guidelines page in [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12)
