@@ -7,7 +7,7 @@ team: Technical Marketing
 kt: 8921
 exl-id: 5ef96f4e-8bdb-402b-89e2-2940774359cc
 ---
-# Add an activity to a goal
+# How to add an activity to a goal
 
 In this video, you will learn how to:
 

@@ -260,44 +260,44 @@ level: Beginner
 
 + Adobe Workfront Goals {#adobe-workfront-goals}
   + Establish a vision for your org {#establish-a-vision-and-strategy}
-    + [Understand the vision behind [!UICONTROL Workfront Goals]](workfront-goals-program/establish-a-vision-and-strategy/a-moment-with-product.md)
-    + [Understand how [!UICONTROL Workfront Goals] works](workfront-goals-program/establish-a-vision-and-strategy/introduction-to-workfront-goals.md)
-    + [Understand how [!UICONTROL Workfront Goals] fits in your work cycle](workfront-goals-program/establish-a-vision-and-strategy/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
-    + [Establish a vision and strategy for your org](workfront-goals-program/establish-a-vision-and-strategy/establish-a-vision-and-strategy.md)
-    + [Create a clear objective statement](workfront-goals-program/establish-a-vision-and-strategy/define-and-express-the-objective.md)
-    + [Collaborate around enterprise and organizational goals](workfront-goals-program/establish-a-vision-and-strategy/collaborate-around-enterprise-and-organizational-goals.md)  
-    + [Align groups and teams to your strategy](workfront-goals-program/establish-a-vision-and-strategy/align-groups-and-teams-to-the-strategy.md)
+    + [Understand the vision behind [!UICONTROL Workfront Goals]](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
+    + [Understand how [!UICONTROL Workfront Goals] works](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
+    + [Understand how [!UICONTROL Workfront Goals] fits in your work cycle](workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
+    + [Establish a vision and strategy for your org](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
+    + [Create a clear objective statement](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
+    + [Collaborate around enterprise and organizational goals](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)  
+    + [Align groups and teams to your strategy](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
   
   + Create your goals {#create-goals}
-    + [Understand how to use [!UICONTROL Workfront Goals]](workfront-goals-program/create-and-manage-your-goals/workfront-goals-overview.md)
-    + [Set up [!UICONTROL Workfront Goals] for your org](workfront-goals-program/create-and-manage-your-goals/set-up-workfront-goals-for-your-company.md)
-    + [Grant [!UICONTROL Goals] access to selected users](workfront-goals-program/create-and-manage-your-goals/edit-access-levels.md)
-    + [Create a layout template for [!UICONTROL Goals] users](workfront-goals-program/create-and-manage-your-goals/create-a-layout-template-with-workfront-goals.md)
-    + [Create goals in Workfront](workfront-goals-program/create-and-manage-your-goals/create-goals-in-workfront.md)
-    + [Copy an Existing Goal](workfront-goals-program/create-and-manage-your-goals/copy-an-existing-goal.md)
+    + [Understand how to use [!UICONTROL Workfront Goals]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
+    + [Set up [!UICONTROL Workfront Goals] for your org](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
+    + [Grant [!UICONTROL Goals] access to selected users](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
+    + [Create a layout template for [!UICONTROL Goals] users](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
+    + [Create goals in Workfront](workfront-goals/create-your-goals/create-goals-in-workfront.md)
+    + [Copy an Existing Goal](workfront-goals/create-your-goals/copy-an-existing-goal.md)
 
   + Activate your goals {#activate-goals}
-    + [Activate goals in Workfront](workfront-goals-program/create-and-manage-your-goals/activate-goals-in-workfront.md)
-    + [Add an activity to a goal](workfront-goals-program/create-and-manage-your-goals/add-an-activity-to-a-goal.md)
-    + [Add a result to a goal](workfront-goals-program/create-and-manage-your-goals/add-a-result-to-a-goal.md)
-    + [Activate by aligning a goal to another](workfront-goals-program/create-and-manage-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
+    + [Activate goals in Workfront](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
+    + [Add an activity to a goal](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
+    + [Add a result to a goal](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
+    + [Activate by aligning a goal to another](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
 
   + Manage your goals {#manage-goals}
-    + [Align your goals](workfront-goals-program/create-and-manage-your-goals/goal-alignment.md)  
-    + [Manually connect goals to one another](workfront-goals-program/create-and-manage-your-goals/manually-connect-goals-to-one-another.md)
-    + [Convert an activity to an aligned goal](workfront-goals-program/create-and-manage-your-goals/convert-an-activity-into-an-aligned-goal-for-goal-alignment.md)
-    + [Remove goal alignment](workfront-goals-program/create-and-manage-your-goals/remove-goal-alignment.md)
-    + [Track and update goals using [!UICONTROL Check-ins]](workfront-goals-program/create-and-manage-your-goals/track-and-update-goals-using-check-ins.md)
-    + [Make a quantitative update](workfront-goals-program/create-and-manage-your-goals/make-a-quantitative-update.md)
-    + [Make a qualitative update](workfront-goals-program/create-and-manage-your-goals/make-a-qualitative-update.md)
-    + [Close a goal once complete](workfront-goals-program/create-and-manage-your-goals/close-a-goal-once-complete.md)
+    + [Align your goals](workfront-goals/manage-your-goals/align-your-goals.md)  
+    + [Manually connect goals to one another](workfront-goals/manage-your-goals/manually-connect-goals-to-one-another.md)
+    + [Convert an activity to an aligned goal](workfront-goals/manage-your-goals/convert-an-activity-to-an-aligned-goal.md)
+    + [Remove goal alignment](workfront-goals/manage-your-goals/remove-goal-alignment.md)
+    + [Track and update goals using [!UICONTROL Check-ins]](workfront-goals/manage-your-goals/track-and-update-goals-using-check-ins.md)
+    + [Make a quantitative update](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
+    + [Make a qualitative update](workfront-goals/manage-your-goals/make-a-qualitative-update.md)
+    + [Close a goal once complete](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
 
   + Monitor your goals {#monitor-goals}
-    + [Calculate goal progress](workfront-goals-program/create-and-manage-your-goals/calculate-goal-progress.md)
-    + [Communicate goal status](workfront-goals-program/create-and-manage-your-goals/communication-and-goal-health.md)  
-    + [Navigate the [!UICONTROL Pulse] update stream](workfront-goals-program/create-and-manage-your-goals/navigate-the-pulse-update-stream.md)
-    + [View individual goal updates](workfront-goals-program/create-and-manage-your-goals/view-individual-goal-updates.md)
-    + [Understand the graphs section](workfront-goals-program/create-and-manage-your-goals/understand-the-graphs-section.md)  
+    + [Calculate goal progress](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
+    + [Communicate goal status](workfront-goals/monitor-your-goals/communicate-goal-status.md)  
+    + [Navigate the [!UICONTROL Pulse] update stream](workfront-goals/monitor-your-goals/navigate-the-pulse-update-stream.md)
+    + [View individual goal updates](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)
+    + [Understand the graphs section](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)  
 
 
 + Adobe Workfront Integrations {#adobe-workfront-integrations}
