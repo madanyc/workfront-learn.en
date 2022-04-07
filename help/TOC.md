@@ -421,7 +421,7 @@ level: Beginner
   + [Communicate about work](workfront-home/communicate-about-work-in-workfront-home.md)
   + [Log hours on work](workfront-home/log-hours-on-work-in-workfront-home.md)
   + [Organize your to-do list](workfront-home/organize-your-to-do-list-in-workfront-home.md)
-  + [Prioritize your work](workfront-homeprioritize-your-work-in-workfront-home.md)
+  + [Prioritize your work](workfront-home/prioritize-your-work-in-workfront-home.md)
   + [Approve work in Workfront Home](workfront-home/approve-work-in-workfront-home.md)
   + [Collaborate on work with My Updates](workfront-home/collaborate-on-work-with-my-updates.md)
   + [Review work in My Updates or Workfront Home](workfront-home/review-work-in-my-updates-or-workfront-home.md)
