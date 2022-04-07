@@ -1,8 +1,8 @@
 ---
-title: How to Set Up Global Proofing Settings
+title: Set Up Global Proof Settings
 description: Learn to how to set up default proof roles for users; default proofing account settings; and default proof settings for proofing in [!DNL Adobe Workfront].
 ---
-# Global system settings for proofing in [!DNL Workfront]
+# Setup global proof settings
 
 Start the system setups for proofing in [!DNL Workfront] by establishing global default settings that affect users. Setting these defaults now ensures the users you create have the minimum setups needed to start using µ∂ proofing capabilities...plus it saves you time as you work through the proofing setups.
 

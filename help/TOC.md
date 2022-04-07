@@ -327,9 +327,20 @@ level: Beginner
   + [Understand the difference between a document and a proof](workfront-proof/document-vs-proof.md)
 
   + Administration and setup {#adinistration-and-setup-for-proof}
-    + [Settings for proof users](workfront-proof/administration-and-setup/settings-for-proof-users.md)
+    + [Create an automated workflow template](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
+    + [Create template groups to organize automated workflow templates](workfront-proof/administration-and-setup/create-template-groups.md)
+    + [Customize proof comment actions](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
+    + [Customize proof decision options](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
+    + [Edit an automated workflow template](workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
     + [Email alert vs. proof notification](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
     + [Proof roles and email alerts](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
+    + [Report on proofs](workfront-proof/administration-and-setup/report-on-proofs.md)
+    + [Set default at risk proof settings](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
+    + [Set default proof roles](workfront-proof/administration-and-setup/set-default-proof-roles.md)
+    + [Set up proof account default settings](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
+    + [Settings for proof users](workfront-proof/administration-and-setup/settings-for-proof-users.md)
+    + [Setup global proof settings](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
+    + [What is an automated workflow template](workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
   + Upload proofs {#upload-proofs}
     + [Who uploads the proof versions?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
     + [Upload a proof with a basic workflow](workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)

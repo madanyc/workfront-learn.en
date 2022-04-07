@@ -1,8 +1,8 @@
 ---
-title: How to Report on Proofs
+title: Report on Proofs
 description: Learn to how to use [!DNL Adobe Workfront]'s reporting capabilities to manage proof progress.
 ---
-# Reporting on proofs in [!DNL Adobe Workfront]
+# Report on proofs
 
 [!DNL Workfront]’s digital proofing features allow you to manage projects and related review workflows all in one place — [!DNL Workfront]. Gain valuable insight into the proofing work being done with report types, field sources, and field names that display review and approval information.
 

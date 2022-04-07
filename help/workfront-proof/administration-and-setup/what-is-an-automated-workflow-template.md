@@ -1,12 +1,12 @@
 ---
-title: Automated Workflow Templates Explained
+title: What is an Automated Workflow Template
 description: Learn what an automated proofing workflow template is and how proof users can benefit from templates. Start planning which templates to create.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8829
 ---
-# Introduction to automated workflow templates
+# What is an automated workflow template?
 
 In this video, you will learn:
 

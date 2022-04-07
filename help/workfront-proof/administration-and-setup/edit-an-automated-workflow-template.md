@@ -1,12 +1,12 @@
 ---
-title: How to Edit a Workflow Template
+title: Edit an Automated Workflow Template
 description: Learn how to make changes to an existing automated proofing workflow template in [!DNL Adobe Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8831
 ---
-# Make changes to automated proofing workflow template
+# Edit an automated workflow template
 
 As proof review and approval processes are refined or organizational changes are made, automated workflow templates should be updated to reflect current operations for your teams using Workfront.
 

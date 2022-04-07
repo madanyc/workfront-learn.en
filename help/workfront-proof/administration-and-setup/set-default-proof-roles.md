@@ -1,5 +1,5 @@
 ---
-title: How to Set Default Proof Roles for Proofing
+title: Set Default Proof Roles
 description: Learn how to set the default proof role that's assigned when new users are created or people open a proof in [!DNL Adobe Workfront].
 ---
 # Set default proof roles

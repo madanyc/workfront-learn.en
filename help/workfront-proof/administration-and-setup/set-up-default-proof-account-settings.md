@@ -1,9 +1,9 @@
 ---
-title: How to Set Up Proof Account Default Settings
+title: Set Up Proof Account Default Settings
 description: Learn how to set up default account settings that apply globally to all proofs and proofing users in [!DNL Adobe Workfront].
 ---
 
-# Default account settings for proofing in [!DNL Workfront]
+# Set up proof account default settings
 
 Establish default account settings that apply globally to all proofs and proofing users—country, language, and time zone. If you have users across multiple time zones or countries, you can adjust these settings on each individual’s user profile, if needed.
 

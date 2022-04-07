@@ -1,9 +1,9 @@
 ---
-title: How to Set Default At Risk Proof Settings
+title: Set Default At Risk Proof Settings
 description: Learn how to set the default settings for at risk proof notificiations as part of the proofing setups in [!DNL Adobe Workfront].
 ---
 
-# Default at risk proof settings
+# Set default at risk proof settings
 
 You’ll want to establish settings for at risk notifications that [!DNL Workfront] sends out. These are a gentle reminder about the upcoming proof deadline to the proof owner and approvers who haven’t made a decision yet.
 
