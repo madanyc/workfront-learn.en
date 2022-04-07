@@ -4,6 +4,7 @@ description: Learn how to set up resource managers with the right access and how
 role: Leader, User
 level: Intermediate, Experienced
 kt: 10179
+exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
 ---
 # Resource management setups, Workload Balancer, and Utilization Report
 
