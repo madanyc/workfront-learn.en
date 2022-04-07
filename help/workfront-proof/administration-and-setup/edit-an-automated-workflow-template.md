@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8831
+exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 ---
 # Edit an automated workflow template
 

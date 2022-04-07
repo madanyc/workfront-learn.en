@@ -1,6 +1,7 @@
 ---
 title: Report on Proofs
 description: Learn to how to use [!DNL Adobe Workfront]'s reporting capabilities to manage proof progress.
+exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
 ---
 # Report on proofs
 
