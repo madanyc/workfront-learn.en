@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8977
+exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 ---
 # What is [!UICONTROL Brand Connect]
 

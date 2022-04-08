@@ -1,6 +1,7 @@
 ---
 title: Set Up Global Proof Settings
 description: Learn to how to set up default proof roles for users; default proofing account settings; and default proof settings for proofing in [!DNL Adobe Workfront].
+exl-id: c10eb48d-2e05-4b82-8393-60c4b9196d40
 ---
 # Setup global proof settings
 
