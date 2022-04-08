@@ -4,6 +4,7 @@ description: Learn to how to set up default proof roles for users; default proof
 role: Admin
 level: Intermediate
 kt: 10237
+exl-id: c10eb48d-2e05-4b82-8393-60c4b9196d40
 ---
 # Setup global proof settings
 

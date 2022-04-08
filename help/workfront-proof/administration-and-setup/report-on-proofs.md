@@ -4,6 +4,7 @@ description: Learn to how to use Adobe Workfront's reporting capabilities to man
 role: Admin
 level: Intermediate
 kt: 10233
+exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
 ---
 # Report on proofs
 

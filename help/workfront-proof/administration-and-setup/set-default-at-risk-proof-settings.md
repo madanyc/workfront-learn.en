@@ -4,6 +4,7 @@ description: Learn how to set the default settings for at risk proof notificiati
 role: Admin
 level: Intermediate
 kt: 10234
+exl-id: 1e99e434-9aa5-44e3-8496-76dd57bd2f91
 ---
 # Set default at risk proof settings
 

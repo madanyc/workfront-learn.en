@@ -4,6 +4,7 @@ description: Learn how to set up default account settings that apply globally to
 role: Admin
 level: Intermediate
 kt: 10236
+exl-id: 6eda8bcd-ab0f-4e02-9080-64b6051b327f
 ---
 # Set up proof account default settings
 
