@@ -1,6 +1,9 @@
 ---
 title: Report on Proofs
-description: Learn to how to use [!DNL Adobe Workfront]'s reporting capabilities to manage proof progress.
+description: Learn to how to use Adobe Workfront's reporting capabilities to manage proof progress.
+role: Admin
+level: Intermediate
+kt: 10233
 ---
 # Report on proofs
 

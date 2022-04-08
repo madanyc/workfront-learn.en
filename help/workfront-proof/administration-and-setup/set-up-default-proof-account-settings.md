@@ -1,6 +1,9 @@
 ---
 title: Set Up Proof Account Default Settings
-description: Learn how to set up default account settings that apply globally to all proofs and proofing users in [!DNL Adobe Workfront].
+description: Learn how to set up default account settings that apply globally to all proofs and proofing users in Adobe Workfront.
+role: Admin
+level: Intermediate
+kt: 10236
 ---
 
 # Set up proof account default settings
