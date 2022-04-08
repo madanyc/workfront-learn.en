@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8829
+exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
 ---
 # What is an automated workflow template?
 

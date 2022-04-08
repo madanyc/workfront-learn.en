@@ -5,7 +5,6 @@ role: Admin
 level: Intermediate
 kt: 10234
 ---
-
 # Set default at risk proof settings
 
 You’ll want to establish settings for at risk notifications that [!DNL Workfront] sends out. These are a gentle reminder about the upcoming proof deadline to the proof owner and approvers who haven’t made a decision yet.

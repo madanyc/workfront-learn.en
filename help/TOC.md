@@ -144,6 +144,7 @@ level: Beginner
     + [Copy an existing project](manage-work/manage-projects/copy-an-existing-project.md)
 
   + Project timelines {#project-timelines}
+    + [Understand project timelines](manage-work/project-timelines/understand-project-timelines.md) 
     + [Track progress from the project timeline](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md) 
     + [Understand date types and progress status](manage-work/project-timelines/understand-task-dates-and-progress-status.md) 
 
