@@ -1,15 +1,16 @@
 ---
-title: Get Started with Project Timelines
+title: Understand project timelines
 description: Learn how to schedule projects from the start or completion date. Then learn how duration, predecessors, and task constraints affect the project plan.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8953
 ---
-# Project timeline basics
+# Understand project timelines
 
 In this video, you will learn about:
 
+* Basic project timeline management
 * Scheduling projects from the start or completion date
 * Task constraints
 
