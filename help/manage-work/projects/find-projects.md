@@ -22,7 +22,7 @@ Use [!DNL Workfront] features when reviewing the task list to monitor project pr
 
 ## Find a recent project
 
-You can quickly find a recent project--and other objects--by clicking the Recent icon.
+You can quickly find a recent project--and other objects--by clicking the [!UICONTROL Recents] icon.
 
 ![[!UICONTROL Status] field expanded in project header](assets/recents.png)
 
