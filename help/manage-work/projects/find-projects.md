@@ -20,25 +20,38 @@ Find project communications
 Use [!DNL Workfront] features when reviewing the task list to monitor project progress
 --->
 
+## Find a recent project
+
+You can quickly find a recent project--and other objects--by clicking the Recent icon.
+
+![[!UICONTROL Status] field expanded in project header](assets/recents.png)
+
+>[!NOTE]
+>
+>The following videos do not contain audio. They are a demonstration of the [!DNL Workfront] features mentioned.
+
+## Pin a project
+
 As you’re working on a project, make it easy to find by pinning it to the menu bar so you can open it with a single click.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12)
 
+## Favorite a project
 
 If you are managing multiple projects, you might want to make them “favorites” by clicking the star icon. Then you can find your list under the [!UICONTROL Favorites] icon in the main menu bar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12)
 
 
+## Open a project from a dashboard
+
 Many [!DNL Workfront] customers use reports compiled on a dashboard to find their work in progress.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12)
 
 
+## Open a project from the Projects page
+
 And, of course, your projects are always available in the main [!UICONTROL Projects] area. Just click the project name to open it.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12)
-
->[!NOTE]
->
->These videos do not contain audio. They are a demonstration of the [!DNL Workfront] features mentioned.

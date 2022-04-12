@@ -18,6 +18,18 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12)
 
+## Custom forms work with multiple object types
+
+Adobe Workfront has recently updated custom forms to support multiple object types. Now, when you click on the [!UICONTROL New Custom Form] button, you can select as many objects as you want to use with a single custom form. All the fields you add to this form will be available to any of the selected objects when the custom form is attached to them.
+
+![Custom form window showing the [!UICONTROL New Custom Form] object options](assets/create-custom-form.png)
+
+When you edit a custom form you can see all the object types selected. You can add or delete object types from this list.
+
+![Custom form window showing the selected object types during form edit](assets/edit-custom-form.png)
+
+You might want create a custom form of type project and issue. When attached to an issue, you can fill out any of the fields relating to the issue. Later, if you decide to convert the issue to a project, the custom form will automatically be loaded to the project and the data you put in the fields of the issue custom form will be available to view or edit in the project custom form.  
+
 ## Custom field options
 
 **[!UICONTROL Label] and [!UICONTROL Name] fields**
