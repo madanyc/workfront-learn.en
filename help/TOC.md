@@ -422,6 +422,7 @@ level: Beginner
   + [Indicate work status](workfront-home/indicate-work-status-in-workfront-home.md)
   + [Communicate about work](workfront-home/communicate-about-work-in-workfront-home.md)
   + [Log hours on work](workfront-home/log-hours-on-work-in-workfront-home.md)
+  + [Mark assigned work as complete](workfront-home/mark-assigned-work-as-complete.md)
   + [Organize your to-do list](workfront-home/organize-your-to-do-list-in-workfront-home.md)
   + [Prioritize your work](workfront-home/prioritize-your-work-in-workfront-home.md)
   + [Approve work in Workfront Home](workfront-home/approve-work-in-workfront-home.md)

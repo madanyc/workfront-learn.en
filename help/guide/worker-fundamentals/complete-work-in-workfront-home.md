@@ -1,5 +1,5 @@
 ---
-title: Complete work in Workfront Home
+title: workfront-dam/brand-connect-user in Workfront Home
 description:  In this video, learn how to communicate work progress with status and filter the Work List to see completed work in Adobe Workfront.
 topic:
 activity: use
@@ -7,7 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 ---
-# Complete work in Workfront Home
+# workfront-dam/brand-connect-user in Workfront Home
 
 In this video, you will learn:
 
