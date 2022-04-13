@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8803
+exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 ---
 # Use status to indicate work is complete in [!DNL Workfront] [!UICONTROL Home]
 
