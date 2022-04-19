@@ -9,8 +9,8 @@ level: Beginner
 + [Workfront](home.md)
 + Administration and Setup {#administration-and-setup}
   + Organizational setup {#organizational-setup}
-    + [Understand user organization and group administration](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
-    + [Learn to set up users](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+    + [Understand the need for group administration](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
+    + [Set up users with licesnes, access levels, and job roles](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
     + [Create companies](administration-and-setup/organizational-setup/user-organization-companies.md)
     + [Create groups](administration-and-setup/organizational-setup/user-organization-groups.md)
     + [Create teams](administration-and-setup/organizational-setup/user-organization-teams.md)
