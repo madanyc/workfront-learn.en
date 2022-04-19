@@ -50,7 +50,7 @@ level: Beginner
   + Create and manage users {#create-and-manage-users}
     + [Add users to Adobe Workfront](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
     + [Create an individual user](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
-    + [Add users in bulk and modify user information](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
+    + [Add users in bulk](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
     + [Modify user information](administration-and-setup/create-and-manage-users/modify-user-information.md)
     + [Understand the differenve between deactivating and deleting users](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
     + [Understand the system audit log](administration-and-setup/create-and-manage-users/system-audit-log.md)
