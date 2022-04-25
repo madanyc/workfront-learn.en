@@ -1,5 +1,5 @@
 ---
-title: Create milestones
+title: Create a milestone path and milestone steps
 description: Learn what milestone paths are, how to create milestone paths, and how to add milestone steps in [!DNL Adobe Workfront].
 activity: deploy
 type: Tutorial
@@ -7,7 +7,7 @@ team: Technical Marketing
 kt: 8932
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 ---
-# Create milestones
+# Create a milestone path and milestone steps
 
 In this video, you will learn:
 

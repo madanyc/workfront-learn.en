@@ -1,5 +1,5 @@
 ---
-title: Layout Templates&#58; Customize Reporting Lists
+title: Customize Reporting Lists through Layout Templates
 description: Learn how to use layout templates to add and remove filters, views, and groups from the reporting lists in [!DNL Adobe Workfront].
 activity: deploy
 type: Tutorial
