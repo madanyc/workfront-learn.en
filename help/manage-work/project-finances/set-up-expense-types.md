@@ -1,10 +1,10 @@
 ---
-title: Set up exchange types
+title: Set up expense types
 description: Workfront has pre-built expense types that can be used when entering expenses, and new ones can be added.
 kt: 10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
 ---
-# Set up exchange types
+# Set up expense types
 
 Expenses in [!DNL Workfront] represent non-labor costs associated with projects and other work. Expenses could be, for example, travel expenditures while visiting a client or the purchase of supplies needed to complete a photo shoot. These expenses should be logged within the project so planned costs and actual costs can be calculated and reported on for any project.
 
