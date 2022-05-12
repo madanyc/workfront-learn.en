@@ -163,7 +163,7 @@ level: Beginner
     + [Understand performance metrics](manage-work/project-finances/understand-performance-metrics.md)
     + [Set up task revenue & cost defaults](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
     + [Set up exchange rates](manage-work/project-finances/set-up-exchange-rates.md)
-    + [Set up exchange types](manage-work/project-finances/set-up-expense-types.md)
+    + [Set up expense types](manage-work/project-finances/set-up-expense-types.md)
     + [Understand financial access](manage-work/project-finances/understand-financial-access.md)
 
 

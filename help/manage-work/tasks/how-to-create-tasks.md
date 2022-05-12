@@ -11,7 +11,7 @@ should this go with the work with tasks in a project video?
 add hyperlink to video in first paragraph
 --->
 
-There are several ways to create tasks on a project in [!DNL Workfront]. The [!UICONTROL Insert Task Above]/[!UICONTROL Insert Task Below] options (which are detailed in the "Work with tasks in a project" video tutorial) allow you to add tasks exactly where you need them. But you may find another method works better for you.
+There are several ways to create tasks on a project in [!DNL Workfront]. The [!UICONTROL Insert Task Above]/[!UICONTROL Insert Task Below] options allow you to add tasks exactly where you need them. But you may find another method works better for you.
 
 1.Creating a new task with the [!DNL New Task] button opens an abbreviated form for quick task creation. From this [!UICONTROL New Task] box, you can fill in all the essential pieces of information — [!UICONTROL Task Name], [!UICONTROL Description], [!UICONTROL Assignments], [!UICONTROL Duration], and [!UICONTROL Planned Completion Date]. If your organization requires additional information, click the [!UICONTROL More Options] button to launch the [!UICONTROL Create Task] window for a comprehensive task creation form.
 
