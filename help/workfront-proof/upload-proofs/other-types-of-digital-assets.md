@@ -1,20 +1,18 @@
 ---
-title: Uploading Other Types of Digital Assets
-description: Learn how to upload interactive file types, like video, for proofing in [!DNL Adobe Workfront].
+title: Upload a proof of a video
+description: Learn how to upload a video for proofing in [!DNL Adobe Workfront].
 role: User
 level: Beginner
 kt: 10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
 ---
-# Other types of digital assets
+# Upload a proof of a video
 
 [!DNL Workfront’s] proofing features aren’t just for static files like PDFs, spreadsheets, or images. [!DNL Workfront] supports more than 150 file types, including video and web captures up to 4GB in size.
 
 Just remember that larger files take longer to upload. Make sure your internet connection is stable before starting a large upload, as a disruption could terminate the upload process.
 
 <!-- For a complete list of uploadable file types, see the article, Supported proofing file types. -->
-
-## Upload a proof of a video
 
 [!DNL Workfront’s] proof viewer is the ideal place to review and approve video files. Proof recipients can play the video right in the proof viewer. Comments are timestamped, so you know exactly what part of the video the comment is referring to. Proof recipients can even use the markup tools and draw directly on the paused video.
 
