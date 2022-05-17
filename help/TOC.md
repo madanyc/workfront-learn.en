@@ -356,8 +356,7 @@ level: Beginner
     + [Manage proof versions](workfront-proof/upload-proofs/manage-proof-versions.md)
     + [View and compare proof versions](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
   + Proof workflows {#proof-workflows}
-    + [Understand and create proof workflows](workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
-    + [Understand proof workflows as part of project timelines](workfront-proof/proof-workflows/understand-proof-workflows-as-part-of-project-timelines.md)
+    + [Understand proof workflows as part of project timelines](workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
     + [Create multi-stage proof workflows](workfront-proof/proof-workflows/create-multi-stage-proof-workflows.md)
     + [Edit a proof workflow](workfront-proof/proof-workflows/edit-a-proof-workflow.md)
   + Review and approve work {#review-and-approve-work-for-proof}
