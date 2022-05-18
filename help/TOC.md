@@ -343,7 +343,7 @@ level: Beginner
     + [Combine multiple files into a single proof](workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
     + [Convert a document to a proof](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
     + [Manage proof versions](workfront-proof/upload-proofs/manage-proof-versions.md)
-    + [Other types of digital assets](workfront-proof/upload-proofs/other-types-of-digital-assets.md)
+    + [Upload a proof of a video](workfront-proof/upload-proofs/other-types-of-digital-assets.md)
     + [Upload a proof of a website](workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
     + [Upload a proof version](workfront-proof/upload-proofs/upload-a-proof-version.md)
     + [Upload a proof with a basic workflow](workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
@@ -359,7 +359,7 @@ level: Beginner
   + Review and approve work {#review-and-approve-work-for-proof}
     + [Manage proof comments](workfront-proof/review-and-approve-work/manage-proof-comments.md)
     + [Navigate the proof viewer](workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
-    + [Proof details overview](workfront-proof/review-and-approve-work/proof-details-overview.md)
+    + [Understand proof details](workfront-proof/review-and-approve-work/proof-details-overview.md)
     + [Review a video with proof](workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
     + [Review a website with proof](workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
     + [Review and approve a proof](workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
