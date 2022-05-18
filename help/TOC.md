@@ -9,12 +9,12 @@ level: Beginner
 + [Workfront](home.md)
 + Administration and Setup {#administration-and-setup}
   + Organizational setup {#organizational-setup}
-    + [Understand the need for group administration](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
-    + [Set up users with licesnes, access levels, and job roles](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
     + [Create companies](administration-and-setup/organizational-setup/user-organization-companies.md)
     + [Create groups](administration-and-setup/organizational-setup/user-organization-groups.md)
     + [Create teams](administration-and-setup/organizational-setup/user-organization-teams.md)
     + [Log in as another Workfront user](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
+    + [Set up users with licesnes, access levels, and job roles](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+    + [Understand the need for group administration](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
 
   + Manage deleted items {#manage-deleted-items}
     + [Restore objects from the recycle bin](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
