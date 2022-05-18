@@ -1,11 +1,11 @@
 ---
 title: Adobe Workfront Turorials
-description: Adobe Workfront Tutorials is a library of training videos and articles. Here you can learn and understand the features and settings that are available within Workfront and how they benefit the work your organiztaion does.
+description: Adobe Workfront Tutorials is a library of training videos and articles. Here you can learn and understand the features and settings that are available within Workfront and how they benefit the work your organization does.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 ---
 # Adobe Workfront Tutorials {#overview}
 
-Adobe Workfront Tutorials is a library of training videos and articles. Here you can learn and understand the features and settings that are available within Workfront and how they benefit the work your organiztaion does.
+Adobe Workfront Tutorials is a library of training videos and articles. Here you can learn and understand the features and settings that are available within Workfront and how they benefit the work your organization does.
 
 In addition, you'll find tried and true best practices, curated exercises, and additional resources that will help you on your Workfront learning journey.
 
@@ -19,7 +19,7 @@ See other user landing pages to get ideas.
 ## What's New?
 
 Explore the latest updates made to the tutorials for each Wokfront product release. Here's what was updated with the latest release:
-* The favorits and recents icon were separated in the top navigation on Workfront. A brief summary of each can be found in the <a href="/help/manage-work/projects/find-projects.md">Find Projects</a> tutorial.
+* The favorites and recents icon were separated in the top navigation on Workfront. A brief summary of each can be found in the <a href="/help/manage-work/projects/find-projects.md">Find Projects</a> tutorial.
 
 
 
@@ -62,7 +62,7 @@ Explore the latest updates made to the tutorials for each Wokfront product relea
       </div>
       <p>
         <br/>
-         Start delving into the work being done for your organiation by learning how to create a simple report.
+         Start delving into the work being done for your organization by learning how to create a simple report.
       </p>
     </td>
   </tr>
