@@ -5,6 +5,8 @@ exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 ---
 # Adobe Workfront Tutorials {#overview}
 
+![Adobe Workfront Events title image](assets/red-tutorials.png)
+
 Adobe Workfront Tutorials is a library of training videos and articles. Here you can learn and understand the features and settings that are available within Workfront and how they benefit the work your organization does.
 
 In addition, you'll find tried and true best practices, curated exercises, and additional resources that will help you on your Workfront learning journey.
