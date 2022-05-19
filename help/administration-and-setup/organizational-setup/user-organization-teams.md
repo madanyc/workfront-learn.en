@@ -45,6 +45,7 @@ When the [!UICONTROL Start] button is clicked, the status of the task or issue c
 
 Be sure to save any changes when you’re done.
 
+
 >[!NOTE]
 >
 >You also can edit a team’s settings from the [!UICONTROL Teams] section of the [!UICONTROL Setup] page.
