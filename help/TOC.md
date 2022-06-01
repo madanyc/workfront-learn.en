@@ -428,4 +428,4 @@ level: Beginner
 
 
 
-+[What are layout templates?](help/administration-and-setup/layout-templates/what-are-layout-templates.md)
++ [What are layout templates?](administration-and-setup/layout-templates/what-are-layout-templates.md)
