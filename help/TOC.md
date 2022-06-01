@@ -37,6 +37,7 @@ level: Beginner
     + [Customize Workfront Home with layout templates](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
     + [Customize Workfront terminology](administration-and-setup/layout-templates/customize-workfront-terminology.md)
     + [Find layout templates](administration-and-setup/layout-templates/find-layout-templates.md)
+    + [What are layout templates?](administration-and-setup/layout-templates/what-are-layout-templates.md)
 
   + Email and In App Notifications {#email-and-in-app-notifications}
     + [Attach reminder notifications](administration-and-setup/email-and-in-app-notifications/user-attach-reminder-notifications.md)
@@ -425,7 +426,3 @@ level: Beginner
     + [Prioritize your work](workfront-home/prioritize-your-work-in-workfront-home.md)
     + [Review work in My Updates or Workfront Home](workfront-home/review-work-in-my-updates-or-workfront-home.md)
 
-
-
-
-+ [What are layout templates?](administration-and-setup/layout-templates/what-are-layout-templates.md)
