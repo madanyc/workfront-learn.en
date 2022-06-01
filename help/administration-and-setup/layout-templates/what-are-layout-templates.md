@@ -6,6 +6,7 @@ hidefromtoc: yes
 role: Admin
 level: Intermediate, Experienced
 kt: 10099
+exl-id: 163c3421-37c1-4160-92be-ec27e353ada4
 ---
 # What are layout templates?
 
