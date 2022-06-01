@@ -424,3 +424,8 @@ level: Beginner
     + [Organize your to-do list](workfront-home/organize-your-to-do-list-in-workfront-home.md)
     + [Prioritize your work](workfront-home/prioritize-your-work-in-workfront-home.md)
     + [Review work in My Updates or Workfront Home](workfront-home/review-work-in-my-updates-or-workfront-home.md)
+
+
+
+
++[What are layout templates?](help/administration-and-setup/layout-templates/what-are-layout-templates.md)
