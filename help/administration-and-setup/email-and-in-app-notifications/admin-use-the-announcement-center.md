@@ -10,7 +10,7 @@ exl-id: 7372516e-47e0-44a9-a756-ddc17824da84
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
 --->
 
-# Send messages with the [!UICONTROL announcement center]
+# Send [!UICONTROL Announcement Center] messages
 
 The [!UICONTROL announcement center] is a centralized location for system administrators to receive communications from [!DNL Workfront] or send announcements to your organization’s [!DNL Workfront] users.
 
