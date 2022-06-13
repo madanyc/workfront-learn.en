@@ -13,18 +13,18 @@ level: Beginner
     + [Create groups](administration-and-setup/organizational-setup/user-organization-groups.md)
     + [Create teams](administration-and-setup/organizational-setup/user-organization-teams.md)
     + [Log in as another Workfront user](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
-    + [Set up users with licesnes, access levels, and job roles](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+    + [Set up users with licenses, access levels, and job roles](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
     + [Understand the need for group administration](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
 
   + Manage deleted items {#manage-deleted-items}
     + [Restore objects from the recycle bin](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
-  + Configure system defaults {#conifgure-system-defaults}
+  + Configure system defaults {#configure-system-defaults}
     + [Configure global default issue preferences](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
     + [Configure global default project settings](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
     + [Create an issue status](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
     + [Create and manage issue severities](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
-    + [Create systemwide issues status](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+    + [Create system wide issues status](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
     + [Customize issue types and terminology](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
     + [Understand default issue types](administration-and-setup/configure-system-defaults/default-issue-types.md)
 
@@ -53,7 +53,7 @@ level: Beginner
     + [Add users to Adobe Workfront](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
     + [Create an individual user](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
     + [Modify user information](administration-and-setup/create-and-manage-users/modify-user-information.md)
-    + [Understand the differenve between deactivating and deleting users](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
+    + [Understand the difference between deactivating and deleting users](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
     + [Understand the system audit log](administration-and-setup/create-and-manage-users/system-audit-log.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
@@ -237,7 +237,7 @@ level: Beginner
     + [View user allocations in the Workload Balancer](manage-resources/workload-balancer/view-user-allocations.md)
 
   + Resource planning {#resource-planning}
-    + [View utiltization](manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
+    + [View utilization](manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
     + [What is the Resource Planner?](manage-resources/resource-planning/what-is-the-resource-planner.md)
 
   + Personal Time Off Calendar {#personal-time-off-calendar}
@@ -325,7 +325,7 @@ level: Beginner
   + [Learn the benefits of proofing](workfront-proof/benefits-of-proofing-in-workfront.md)
   + [Understand the difference between a document and a proof](workfront-proof/document-vs-proof.md)
 
-  + Administration and setup {#adinistration-and-setup-for-proof}
+  + Administration and setup {#administration-and-setup-for-proof}
     + [Create an automated workflow template](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
     + [Create template groups to organize automated workflow templates](workfront-proof/administration-and-setup/create-template-groups.md)
     + [Customize proof comment actions](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
