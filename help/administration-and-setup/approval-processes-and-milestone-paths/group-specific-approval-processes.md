@@ -1,6 +1,6 @@
 ---
 title: Understand group-specific approval processes
-description: Learn what information you'll need to gather about users before creating user profiles in Adobe Workfront.
+description: Learn how group administrators can create or edit approval processes for the groups they manage.
 role: Admin
 level: Beginner
 kt: 10017
