@@ -1,15 +1,13 @@
 ---
-title: Adobe Workfront Turorials
-description: Adobe Workfront Tutorials is a library of training videos and articles. Here you can learn and understand the features and settings that are available within Workfront and how they benefit the work your organization does.
+title: Adobe Workfront Tutorials
+description: A library of training videos and articles designed to help you better understand Workfront features and settings.  Included is a collection of best practices, curated exercises and other resources that will help both you and your organization be successful with Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 ---
 # Adobe Workfront Tutorials {#overview}
 
 ![Adobe Workfront Events title image](assets/red-tutorials.png)
 
-Adobe Workfront Tutorials is a library of training videos and articles. Here you can learn and understand the features and settings that are available within Workfront and how they benefit the work your organization does.
-
-In addition, you'll find tried and true best practices, curated exercises, and additional resources that will help you on your Workfront learning journey.
+A library of training videos and articles designed to help you better understand Workfront features and settings.  Included is a collection of best practices, curated exercises and other resources that will help both you and your organization be successful with Workfront.
 
 <!-- 
 
@@ -21,8 +19,9 @@ See other user landing pages to get ideas.
 ## What's New?
 
 Explore the latest updates made to the tutorials for each Wokfront product release. Here's what was updated with the latest release:
-* The favorites and recents icon were separated in the top navigation on Workfront. A brief summary of each can be found in the <a href="/help/manage-work/projects/find-projects.md">Find Projects</a> tutorial.
 
+* The favorites and recents icon were separated in the top navigation on Workfront. A brief summary of each can be found in the <a href="/help/manage-work/projects/find-projects.md">Find Projects</a> tutorial.
+* Configure a custom form to work with multiple object types. See how in the <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">Create and share a custom form</a> tutorial.
 
 
 ## Staff Picks

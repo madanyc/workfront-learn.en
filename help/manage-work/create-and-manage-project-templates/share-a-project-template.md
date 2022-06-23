@@ -1,6 +1,6 @@
 ---
 title: Share a project template
-description: Learn to create a project template from scratch and from an existing template.
+description: Learn to share a project template and projects created from a template.
 activity: use
 type: Tutorial
 team: Technical Marketing
