@@ -30,7 +30,7 @@ Explore the latest updates made to the tutorials for each Wokfront product relea
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
-      <img alt="Find and create layout templates" src="./assets/.png"/>
+      <img alt="Find and create layout templates" src="./assets/laytemp-01.png"/>
       </a>
       <div>
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Administrators: Find and create layout templates</strong></a>
@@ -43,7 +43,7 @@ Explore the latest updates made to the tutorials for each Wokfront product relea
     </td>
    <td>
       <a href="/help/manage-work/issues-requests/make-a-request.md">
-      <img alt="Make a request" src="./assets/.png"/>
+      <img alt="Make a request" src="./assets/reqque-01.png"/>
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Make a request</strong></a>
@@ -53,9 +53,10 @@ Explore the latest updates made to the tutorials for each Wokfront product relea
       <br/>
          Usually the first step in kicking off a new project, developing a new product, or creating a deliverable is making a request. Learn how to make, view, and edit those request in Workfront.
       </p>
+
    <td>
       <a href="/help/reporting/basic-reporting/create-a-simple-report.md">
-      <img alt="Create a simple report" src="./assets/.png"/>
+      <img alt="Create a simple report" src="./assets/simplerep-01.png"/>
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Create a simple report</strong></a>
