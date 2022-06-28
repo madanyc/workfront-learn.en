@@ -2,7 +2,10 @@
 title: How to Add Custom Pages in Brand Connect
 description: Learn how to add pages to the navigation bar, create custom pages, and customize options in the navigation bar in Brand Connect for [!UICONTROL Workfront DAM].
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8981
 exl-id: e6dc7c1d-200c-4cea-8dd1-bdc86ff96d25

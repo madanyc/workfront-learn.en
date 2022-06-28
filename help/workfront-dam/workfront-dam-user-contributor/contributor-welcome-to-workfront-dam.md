@@ -2,7 +2,10 @@
 title: Learn About the [!UICONTROL Workfront DAM], Contributor Course
 description: Learn about what will be covered in the [!UICONTROL Workfront DAM], Contributor course.
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8991
 ---

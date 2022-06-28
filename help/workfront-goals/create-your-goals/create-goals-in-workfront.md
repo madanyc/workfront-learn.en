@@ -2,7 +2,10 @@
 title: Create goals in Workfront
 description: Learn how to create goals in [!DNL Workfront Goals] using three different options.
 activity: use
+feature: Workfront Goals
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 10122
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4

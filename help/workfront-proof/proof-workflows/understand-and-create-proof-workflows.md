@@ -2,7 +2,10 @@
 title: Understand proof workflows as part of project timelines
 description: Learn what information to gather to create a proof workflow and the difference between basic and advanced proof workflows in [!DNL Adobe Workfront].
 activity: use
+feature: Workfront Proof
 type: Tutorial
+role: User, Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8824
 role: User

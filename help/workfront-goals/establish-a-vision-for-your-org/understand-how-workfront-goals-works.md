@@ -2,7 +2,10 @@
 title: Introduction to [!DNL Workfront Goals]
 description: Learn about articulating the "what" and the "why" during the planning phase, example goals, and scope of influence.
 activity: use
+feature: Workfront Goals
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98

@@ -1,6 +1,8 @@
 ---
 title: Email Alerts and Proof Notifications Explained
 description: Understand the difference between email alerts and proof notifications in [!DNL Adobe Workfront].
+feature: Workfront Proof
+type: Article
 role: User
 level: Beginner
 kt: 10174

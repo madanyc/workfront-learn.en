@@ -2,7 +2,10 @@
 title: How to Establish a Vision and Strategy
 description: Learn about articulating the "what" and the "why" during the planning phase, example goals, and scope of influence.
 activity: use
+feature: Workfront Goals
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a

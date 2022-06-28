@@ -1,6 +1,10 @@
 ---
 title: Understand date ranges and timeframes
 description: Date ranges are specified using the calendar widget. Timeframes are created within a chart.
+feature: Reports and Dashboards
+type: Article
+role: User
+level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 ---

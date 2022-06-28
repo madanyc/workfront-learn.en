@@ -2,7 +2,10 @@
 title: Make a Quantitative Update in [!DNL Workfront Goals]
 description: Learn how to make a quantitative update in [!DNL Adobe Workfront Goals].
 activity: use
+feature: Workfront Goals
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14

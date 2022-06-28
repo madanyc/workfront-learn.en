@@ -2,7 +2,10 @@
 title: Customize Proof Decision Options
 description: Learn what a proof decision is in Adobe Workfront. Then rename the proof decision options and hide unneeded options in the proofing system setups.
 activity: use
+feature: Workfront Proof
 type: Tutorial
+role: User, Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9

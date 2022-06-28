@@ -1,6 +1,10 @@
 ---
 title: Fill in the project details
 description: Learn which 12 project details fields [!DNL Adobe Workfront] recommends you fill in when creating a project.
+feature: Work Management
+type: Article
+role: User
+level: Intermediate
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 ---

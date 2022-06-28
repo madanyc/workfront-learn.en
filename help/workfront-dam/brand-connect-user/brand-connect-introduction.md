@@ -2,7 +2,10 @@
 title: Learn the [!UICONTROL Workfront DAM] and Brand Connect
 description: Learn about what [!UICONTROL Workfront DAM] and Brand Connect are and how they are used.
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051

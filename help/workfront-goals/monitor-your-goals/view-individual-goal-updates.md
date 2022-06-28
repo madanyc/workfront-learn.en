@@ -2,7 +2,10 @@
 title: Individual goal updates in [!DNL Workfront Goals]
 description: Learn how to view your individual goals in the [!UICONTROL Pulse] update stream in [!DNL Adobe Workfront Goals].
 activity: use
+feature: Workfront Goals
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9

@@ -2,7 +2,10 @@
 title: Edit an Automated Workflow Template
 description: Learn how to make changes to an existing automated proofing workflow template in [!DNL Adobe Workfront].
 activity: use
-type: Tutorial
+feature: Workfront Proof
+type: Article
+role: User, Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95

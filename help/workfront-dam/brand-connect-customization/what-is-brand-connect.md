@@ -2,7 +2,10 @@
 title: What is [!UICONTROL Brand Connect]?
 description: Learn about what will be covered in the [!UICONTROL Workfront DAM] Administrator, Part 3 Brand Connect Customization course.
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832

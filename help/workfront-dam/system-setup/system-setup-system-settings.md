@@ -2,7 +2,10 @@
 title: System Settings in [!UICONTROL Workfront DAM] Explained
 description: Learn how to establish global settings, set asset options, establish folder settings, make downloading rules, and view reports and audit logs in [!UICONTROL Workfront DAM].
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8968
 exl-id: 88b528a4-85be-44ed-b4d1-7acfdb2742d0

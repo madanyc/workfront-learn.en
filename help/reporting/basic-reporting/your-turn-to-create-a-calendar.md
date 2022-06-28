@@ -1,6 +1,10 @@
 ---
 title: Your turn to create a calendar
 description: Learn how to create a customer calendar in this hands-on activity.
+feature: Reports and Dashboards
+type: Article
+role: User
+level: Beginner
 kt: 10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
 ---

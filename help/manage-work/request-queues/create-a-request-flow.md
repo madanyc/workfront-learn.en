@@ -2,7 +2,10 @@
 title: Create a request flow
 description: Learn how to configure [!DNL Adobe Workfront] queue topics, topic groups, and routing rules to help manage request and work intake.
 activity: deploy
+feature: Work Management
 type: Tutorial
+role: Administrator, User
+level: Intermediate
 team: Technical Marketing
 kt: 8960
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4

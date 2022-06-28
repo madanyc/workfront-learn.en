@@ -1,6 +1,10 @@
 ---
 title: How to Use a [!UICONTROL Business Case] in [!DNL Adobe Workfront]
 description: Learn how to use a [!UICONTROL Business Case] in [!DNL Adobe Workfront] so that you get the information you need on projects to make informed decisions.
+feature: Strategic Planning
+type: Article
+role: User
+level: Intermediate
 ---
 
 # Introduction to the [!UICONTROL Business Case]

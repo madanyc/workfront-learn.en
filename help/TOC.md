@@ -327,11 +327,8 @@ feature-set: Workfront
   + [Understand the difference between a document and a proof](workfront-proof/document-vs-proof.md)
 
   + Administration and setup {#administration-and-setup-for-proof}
-    + [Create an automated workflow template](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
-    + [Create template groups to organize automated workflow templates](workfront-proof/administration-and-setup/create-template-groups.md)
     + [Customize proof comment actions](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
     + [Customize proof decision options](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-    + [Edit an automated workflow template](workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
     + [Email alert vs. proof notification](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
     + [Proof roles and email alerts](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
     + [Report on proofs](workfront-proof/administration-and-setup/report-on-proofs.md)
@@ -355,9 +352,11 @@ feature-set: Workfront
     + [What is a proof version?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
     + [Who uploads the proof versions?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
   + Proof workflows {#proof-workflows}
-    + [Create multi-stage proof workflows](workfront-proof/proof-workflows/create-multi-stage-proof-workflows.md)
-    + [Edit a proof workflow](workfront-proof/proof-workflows/edit-a-proof-workflow.md)
     + [Understand proof workflows as part of project timelines](workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
+    + [Edit a proof workflow](workfront-proof/proof-workflows/edit-a-proof-workflow.md)
+    + [Create an automated workflow template](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
+    + [Create template groups to organize automated workflow templates](workfront-proof/administration-and-setup/create-template-groups.md)
+    + [Edit an automated workflow template](workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
   + Review and approve work {#review-and-approve-work-for-proof}
     + [Manage proof comments](workfront-proof/review-and-approve-work/manage-proof-comments.md)
     + [Navigate the proof viewer](workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)

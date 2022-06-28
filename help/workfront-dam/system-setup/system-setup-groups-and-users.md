@@ -2,7 +2,10 @@
 title: Groups and Users in [!UICONTROL Workfront DAM]
 description: Learn how to create folders, groups, and users in [!UICONTROL Workfront DAM]. Understand the user role types and grant permissions to folders.
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15

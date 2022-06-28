@@ -2,7 +2,10 @@
 title: Metadata and Keywords in [!UICONTROL Workfront DAM]
 description: Learn about what will be covered in the [!UICONTROL Workfront DAM] Administrator, Part 2 Metadata and Keywords course.
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284

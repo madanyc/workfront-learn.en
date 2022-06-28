@@ -2,7 +2,10 @@
 title: Understand date types and progress status
 description: Learn how to view the different date types in [!DNL Adobe Workfront] and use progress status to help you track work progress.
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27

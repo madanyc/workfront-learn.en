@@ -2,7 +2,10 @@
 title: Approval Processes Course Introduction
 description: Learn how approval processes can simplify and automate the work review process in [!DNL Adobe Workfront].
 activity: deploy
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8961
 ---

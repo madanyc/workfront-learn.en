@@ -1,6 +1,10 @@
 ---
 title: Track overall project progress
 description: Learn how the information displayed in the project header can help you track overall project progress and health in Adobe Workfront.
+feature: Work Management
+type: Article
+role: User
+level: Intermediate
 kt: 10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 ---

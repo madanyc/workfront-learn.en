@@ -2,7 +2,10 @@
 title: Set Up Keywords in [!UICONTROL Workfront DAM]
 description: Learn about what keywords are, how to set up a keyword list, and how to create and import a list of keywords in [!UICONTROL Workfront DAM].
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8973
 exl-id: 7853a76c-02df-4f50-bb05-c03abfeafd05

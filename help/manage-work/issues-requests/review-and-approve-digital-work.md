@@ -2,7 +2,10 @@
 title: Review digital work
 description: Learn how to find and make approvals for projects, tasks, issues, documents, and proofs in [!DNL Adobe Workfront].
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b

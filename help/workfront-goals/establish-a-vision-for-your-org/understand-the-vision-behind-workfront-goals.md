@@ -2,7 +2,10 @@
 title: '[!DNL Workfront Goals] Explained by Product'
 description: Learn about [!DNL Workfront Goals] in [!DNL Adobe Workfront] from the Product team.
 activity: use
+feature: Workfront Goals
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8887
 exl-id: 42327448-227b-428f-93aa-6039db1291e5

@@ -2,7 +2,10 @@
 title: Milestones Course introduction
 description: Learn how milestones can help you keep [!DNL Adobe Workfront] projects moving forward.
 activity: deploy
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8931
 ---

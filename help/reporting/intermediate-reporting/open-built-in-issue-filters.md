@@ -2,7 +2,10 @@
 title: Understand built-in issue filters
 description: Learn how to review built-in issue filters to see how they’re built and create your own issue filter in [!DNL Adobe Workfront].
 activity: use
-doc-type: feature video
+feature: Reports and Dashboards
+type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21

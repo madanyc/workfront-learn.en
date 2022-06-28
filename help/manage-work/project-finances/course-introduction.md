@@ -2,7 +2,10 @@
 title: Course Introduction
 description:  Learn how to use a project's budget, track costs and revenue, and handle expenses in [!DNL Adobe Workfront].
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8947 
 ---

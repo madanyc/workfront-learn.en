@@ -1,6 +1,10 @@
 ---
 title: Activate by aligning a goal to another
 description: Learn how to activate a goal in [!DNL Workfront Goals] by aligning it to another goal.
+feature: Workfront Goals
+type: Article
+role: User
+level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
 ---

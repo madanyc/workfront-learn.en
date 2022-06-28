@@ -2,7 +2,10 @@
 title: How to Find Your Projects
 description: Learn how to find your projects in [!DNL Adobe Workfront] using pins, favorites, dashboards, and the [!UICONTROL Projects] page.
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8716,8717,8718,8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17

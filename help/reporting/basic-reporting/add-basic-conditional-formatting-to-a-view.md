@@ -2,7 +2,10 @@
 title: Add basic conditional formatting
 description: In this video, you will learn what conditional formatting is in a view and how to create and modify conditional formatting in [!DNL Adobe Workfront].
 activity: use
-doc-type: feature video
+feature: Reports and Dashboards
+type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f

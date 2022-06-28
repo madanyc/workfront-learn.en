@@ -2,7 +2,10 @@
 title: Create a project template
 description: Learn to create a project template from scratch and from an existing template.
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b

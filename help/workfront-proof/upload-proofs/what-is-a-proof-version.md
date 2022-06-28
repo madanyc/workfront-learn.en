@@ -1,6 +1,8 @@
 ---
 title: What is a Version of a Proof?
 description: Discover how versions can help you manage the review and approval process across multiple iterations of a file using [!DNL Adobe Workfront's] proofing features.
+feature: Workfront Proof
+type: Article
 role: User
 level: Beginner
 kt: 10161

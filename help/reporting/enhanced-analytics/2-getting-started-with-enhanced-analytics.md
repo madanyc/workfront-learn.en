@@ -1,6 +1,10 @@
 ---
 title: Get started with [!UICONTROL Enhanced Analytics]
 description: Learn the most important fields to update in order to get the most out of Enhanced analytics.
+feature: Reports and Dashboards
+type: Article
+role: User
+level: Beginner
 kt: 10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 ---

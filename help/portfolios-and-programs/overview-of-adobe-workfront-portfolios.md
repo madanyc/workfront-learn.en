@@ -1,6 +1,10 @@
 ---
 title: An Introduction to [!DNL Adobe Workfront] Portfolios
 description: Learn about what portfolios are in [!DNL Workfront] and how they can help you prioritize projects and compare projects against one another.
+feature: Strategic Planning
+type: Article
+role: User
+level: Intermediate
 ---
 
 # Overview of Adobe Workfront portfolios

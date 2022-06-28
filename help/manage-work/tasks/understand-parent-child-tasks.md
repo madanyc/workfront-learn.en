@@ -2,7 +2,10 @@
 title: Understand parent-child tasks
 description: Learn how tasks are structured using a parent-child relationship in a [!DNL Adobe Workfront] project.
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
