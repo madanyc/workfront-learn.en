@@ -1,6 +1,10 @@
 ---
 title: Close tasks and issues
 description: Learn how to make sure tasks and issues are closed before you close out a project in [!DNL Adobe Workfront].
+feature: Work Management
+type: Article
+role: User
+level: Intermediate
 kt: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
 ---

@@ -1,6 +1,10 @@
 ---
 title: Share a project
 description: Learn how to share a project so stakeholders and others interested in the project can have visibility into the work being done using [!DNL Adobe Workfront].
+feature: Work Management
+type: Article
+role: User
+level: Intermediate
 kt: 10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
 ---

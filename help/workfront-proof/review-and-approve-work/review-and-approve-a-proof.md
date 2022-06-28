@@ -2,7 +2,10 @@
 title: How to Review and Approve a Proof
 description: Learn how to access and comment on a proof, use markup to indicate necessary changes, reply to proof comments, and make a decision on a proof in [!DNL Workfront].
 activity: use
+feature: Workfront Proof
 type: Tutorial
+role: User, Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad

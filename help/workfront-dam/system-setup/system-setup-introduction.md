@@ -2,7 +2,10 @@
 title: Learn About the [!UICONTROL Workfront DAM] Course
 description: Learn about what will be covered in the [!UICONTROL Workfront DAM] Administrator, Part 1 System Setup course.
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8964
 ---

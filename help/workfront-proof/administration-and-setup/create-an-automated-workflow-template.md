@@ -2,7 +2,10 @@
 title: Create an Automated Workflow Template
 description: Learn how to create an automated workflow template by assigning proof recipients and setting proof deadlines. Then share the template with other users.
 activity: use
+feature: Workfront Proof
 type: Tutorial
+role: User, Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8830
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131

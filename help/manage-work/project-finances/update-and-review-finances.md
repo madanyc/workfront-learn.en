@@ -1,6 +1,10 @@
 ---
 title: Update and review finances
 description: Learn how to review the financial information associated with a project in [!DNL Adobe Workfront].
+feature: Work Management
+type: Article
+role: User
+level: Intermediate
 kt: 10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 ---

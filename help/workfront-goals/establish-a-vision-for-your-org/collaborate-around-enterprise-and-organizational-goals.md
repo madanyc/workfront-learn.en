@@ -2,7 +2,10 @@
 title: How to Collaborate Around Goals
 description: Learn how to collaborate with your team, define what you and your team must do to accomplish the top-level goal, and refine your goal hierarchy.
 activity: use
+feature: Workfront Goals
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8893
 exl-id: 777cd503-96a3-4fc6-b0a8-429f72bc9bb0

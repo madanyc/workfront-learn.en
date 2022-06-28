@@ -2,7 +2,10 @@
 title: How to Set Up Metadata in [!UICONTROL Workfront DAM]
 description: Learn how to create a metadata schema, understand the different types of metadata, use existing metadata fields, and more in [!UICONTROL Workfront DAM].
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b

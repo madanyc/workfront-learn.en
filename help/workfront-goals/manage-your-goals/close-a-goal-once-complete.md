@@ -2,7 +2,10 @@
 title: How to Close a Goal Once Complete
 description: Learn how to close a goal in [!DNL Adobe Workfront Goals].
 activity: use
+feature: Workfront Goals
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44

@@ -1,7 +1,9 @@
 ---
 title: Proof Details Explained
 description: Dig deeper into the details behind a proof in [!DNL Adobe Workfront] through the summary panel and [!UICONTROL Document Details] page.
-role: User
+feature: Workfront Proof
+type: Article
+role: User, Administrator
 level: Beginner
 kt: 10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403

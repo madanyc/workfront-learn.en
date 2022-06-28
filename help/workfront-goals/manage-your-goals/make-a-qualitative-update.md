@@ -2,7 +2,10 @@
 title: Make a Qualitative Update in [!DNL Workfront Goals]
 description: Learn how to make a qualitative, or written, update in [!DNL Adobe Workfront Goals].
 activity: use
+feature: Workfront Goals
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8925
 exl-id: 92d40d56-0a25-488b-9308-64ddfe545baa

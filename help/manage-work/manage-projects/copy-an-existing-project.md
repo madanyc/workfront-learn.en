@@ -1,6 +1,10 @@
 ---
 title: Copy an existing project
 description: Learn how to make a copy of an existing project in Adobe Workfront.
+feature: Work Management
+type: Article
+role: User
+level: Intermediate
 kt: 10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 ---

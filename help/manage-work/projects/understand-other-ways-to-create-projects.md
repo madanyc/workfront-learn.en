@@ -2,7 +2,10 @@
 title: Understand other ways to create projects
 description: Learn how to create a project from a template, create a project from scratch, copy an existing project, or import a [!DNL Microsoft Project] file.
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769

@@ -2,7 +2,10 @@
 title: Define and Express the Objective or End Goal
 description: Learn how to create a clear objective statement, or Commander's Intent, and write strong enterprise or organizational goals.
 activity: use
+feature: Workfront Goals
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46

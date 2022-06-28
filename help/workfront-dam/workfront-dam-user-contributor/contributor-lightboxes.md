@@ -2,7 +2,10 @@
 title: Lightboxes in [!UICONTROL Workfront DAM] Explained
 description: Learn how to create and use lightboxes in [!UICONTROL Workfront DAM].
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3

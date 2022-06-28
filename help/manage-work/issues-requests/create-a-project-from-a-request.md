@@ -2,7 +2,10 @@
 title: Create a project from a request
 description: Learn how to review request information, select the right project template, and convert the request into a project.
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd

@@ -2,7 +2,10 @@
 title: Integrations for Microsoft Outlook
 description: Learn how to install the Microsoft Outlook Add-in
 activity: use
+feature: Workfront Integrations and Apps
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238

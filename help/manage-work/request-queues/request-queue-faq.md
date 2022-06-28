@@ -1,7 +1,9 @@
 ---
 title: Answers to Questions about Request Queues
 description: Get answers to common questions about request queues in [!DNL Adobe Workfront].
-role: Admin
+feature: Work Management
+type: Article
+role: Administrator, User
 level: Beginner, Intermediate
 kt: 10101
 ---

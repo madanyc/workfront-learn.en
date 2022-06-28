@@ -2,7 +2,10 @@
 title: Find and Organize Assets in [!UICONTROL Workfront DAM]
 description: Learn how to search for assets, search within folders, streamline search results, use metadata and keywords as search filters, and more in [!UICONTROL Workfront DAM].
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130

@@ -2,7 +2,10 @@
 title: Get started planning a project
 description: Learn the five main components of a project, what the status signifies, how a [!UICONTROL View] can help you see relevant information, and how to set the start or due date.
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3

@@ -1,6 +1,10 @@
 ---
 title: Remove goal alignment
 description: Learn how to remove goal alignment in [!DNL Workfront Goals].
+feature: Workfront Goals
+type: Article
+role: User
+level: Beginner
 kt: 10124
 exl-id: 3e5751b8-2547-42c5-bcb7-d312d31271d5
 ---

@@ -1,6 +1,10 @@
 ---
 title: Manage requests
 description: Learn how to find requests that have been submitted using dashboards, [!UICONTROL Home], the [!UICONTROL Requests] area, or the [!UICONTROL Teams] page in [!DNL Adobe Workfront].
+feature: Work Management
+type: Article
+role: User
+level: Intermediate
 kt: 10154
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
 ---

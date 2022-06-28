@@ -2,7 +2,10 @@
 title: Create custom prompts
 description: Learn what a custom prompt is, how to create a custom prompt using text mode, and some examples that you can use in reporting in [!DNL Adobe Workfront].
 activity: use
-doc-type: feature video
+feature: Reports and Dashboards
+type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f

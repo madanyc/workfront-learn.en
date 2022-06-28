@@ -1,6 +1,8 @@
 ---
 title: How to Track Proof Progress
 description: Learn how to use [!UICONTROL SOCD] indicators, proof progress, and reports to track the progress of a proof in [!DNL Adobe Workfront].
+feature: Workfront Proof
+type: Article
 role: User
 level: Beginner
 kt: 10111

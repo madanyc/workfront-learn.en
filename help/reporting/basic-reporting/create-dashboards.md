@@ -2,7 +2,10 @@
 title: Create dashboards
 description: In this video, you will learn all about dashboard in [!DNL Adobe Workfront].
 activity: use
-doc-type: feature video
+feature: Reports and Dashboards
+type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854

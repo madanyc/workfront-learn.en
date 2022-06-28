@@ -1,6 +1,10 @@
 ---
 title: Create OR statements in filters
 description: With an OR statement, you’re telling the filter that you want to see this OR that.
+feature: Reports and Dashboards
+type: Article
+role: User
+level: Intermediate
 kt: 9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 ---

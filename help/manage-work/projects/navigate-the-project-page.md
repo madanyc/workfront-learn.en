@@ -2,7 +2,10 @@
 title: Navigate the project page
 description: Learn how to view the details of a project, what information shows in the task list, where to upload documents, and how to view the update history in [!DNL Adobe Workfront].
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c

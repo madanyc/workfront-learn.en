@@ -2,7 +2,10 @@
 title: What is an Automated Workflow Template
 description: Learn what an automated proofing workflow template is and how proof users can benefit from templates. Start planning which templates to create.
 activity: use
+feature: Workfront Proof
 type: Tutorial
+role: User, Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9

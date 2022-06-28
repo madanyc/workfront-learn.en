@@ -2,7 +2,10 @@
 title: Create Brand Guidelines in Brand Connect
 description: Learn what brand guidelines are and how to create a brand guidelines page in Brand Connect for [!UICONTROL Workfront DAM].
 activity: use
+feature: Digital Content and Documents
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8982
 exl-id: 717952e8-e633-4d65-b76a-9afb29159f5a

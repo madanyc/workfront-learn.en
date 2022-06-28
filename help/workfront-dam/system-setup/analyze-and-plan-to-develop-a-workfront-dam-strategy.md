@@ -1,6 +1,10 @@
 ---
 title: Develop a [!UICONTROL Workfront DAM] Strategy
 description: Learn how to analyze and plan to develop a [!UICONTROL Workfront DAM] strategy.
+feature: Digital Content and Documents
+type: Article
+role: Administrator
+level: Intermediate
 kt: 10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
 ---

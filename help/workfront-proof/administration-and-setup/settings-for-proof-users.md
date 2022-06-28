@@ -3,6 +3,9 @@ title: How to Set Up Users for Proofing
 description: Learn how to determine which [!DNL Adobe Workfront] users get a proofing license, then adjust user settings in both [!DNL Workfront] and the back-end settings.
 activity: use
 type: Tutorial
+feature: Workfront Proof
+role: User, Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f

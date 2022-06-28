@@ -1,15 +1,14 @@
 ---
 title: How to create tasks
 description: Learn other methods for creating tasks in a project in [!DNL Adobe Workfront].
+feature: Work Management
+type: Article
+role: User
+level: Intermediate
 kt: 10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
 ---
 # How to create tasks
-
-<!---
-should this go with the work with tasks in a project video?
-add hyperlink to video in first paragraph
---->
 
 There are several ways to create tasks on a project in [!DNL Workfront]. The [!UICONTROL Insert Task Above]/[!UICONTROL Insert Task Below] options allow you to add tasks exactly where you need them. But you may find another method works better for you.
 

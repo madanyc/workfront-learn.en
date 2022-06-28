@@ -2,7 +2,10 @@
 title: Get started managing a project
 description: Learn what your role is as a project manager and what to look at when monitoring project work in Adobe Workfront.
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d

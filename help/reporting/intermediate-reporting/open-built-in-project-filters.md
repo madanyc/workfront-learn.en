@@ -2,7 +2,10 @@
 title: Understand built-in project filters
 description: Learn how to review built-in project filters to see how they’re built and create your own project filter in [!DNL Adobe Workfront].
 activity: use
-doc-type: feature video
+feature: Reports and Dashboards
+type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86

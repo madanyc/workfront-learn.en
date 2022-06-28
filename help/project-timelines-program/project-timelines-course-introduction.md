@@ -2,7 +2,10 @@
 title: Introduction to Project Timelines
 description: Learn which elements—such as date types and task constraints—are used when building and managing project timelines in [!DNL Adobe Workfront].
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8952
 ---

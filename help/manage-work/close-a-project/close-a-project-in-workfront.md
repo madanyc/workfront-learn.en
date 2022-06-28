@@ -2,7 +2,10 @@
 title: Close a project
 description: Learn what information to review, and why it's important to have updated data, in a project before closing it in [!DNL Adobe Workfront].
 activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678

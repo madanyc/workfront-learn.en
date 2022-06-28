@@ -2,7 +2,10 @@
 title: Create filters with user-based wildcards
 description: Learn how to use wildcards and build a filter with a user-based wildcard in [!DNL Adobe Workfront].
 activity: use
-doc-type: feature video
+feature: Reports and Dashboards
+type: Tutorial
+role: User
+level: Intermediate
 team: Technical Marketing
 kt: 9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee

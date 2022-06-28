@@ -2,7 +2,10 @@
 title: Convert an Activity or Result into an Aligned Goal
 description: Learn how to convert an activity or result into an aligned goal in [!DNL Adobe Workfront Goals].
 activity: use
+feature: Workfront Goals
 type: Tutorial
+role: User
+level: Beginner
 team: Technical Marketing
 kt: 8898
 exl-id: 16343eab-1243-4f36-824f-a53da328de78

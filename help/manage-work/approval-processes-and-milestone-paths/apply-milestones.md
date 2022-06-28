@@ -1,8 +1,11 @@
 ---
 title: Apply milestones
 description: Learn how to apply milestone paths to an [!DNL Adobe Workfront] project and associate key tasks as milestone steps within the project.
-activity: deploy
+feature: Work Management
 type: Tutorial
+role: User
+level: Intermediate
+activity: deploy
 team: Technical Marketing
 kt: 8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83

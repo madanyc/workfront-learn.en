@@ -1,6 +1,10 @@
 ---
 title: Set up exchange rates
 description: Exchange rates can be used on projects and reports to reflect financial information in different currencies from around the world.
+feature: Work Management
+type: Article
+role: User
+level: Intermediate
 kt: 10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 ---

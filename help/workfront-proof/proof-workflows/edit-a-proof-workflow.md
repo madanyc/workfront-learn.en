@@ -2,7 +2,10 @@
 title: How to Edit a Proof Workflow
 description: Learn how to update a proof deadline, add users to an existing workflow, and switch an existing workflow to an automated workflow in [!DNL Adobe Workfront].
 activity: use
+feature: Workfront Proof
 type: Tutorial
+role: User, Administrator
+level: Intermediate
 team: Technical Marketing
 kt: 8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e

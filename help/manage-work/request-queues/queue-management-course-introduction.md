@@ -2,7 +2,10 @@
 title: Queue Management Course Introduction
 description: Learn how [!DNL Adobe Workfront] request queues can centralize demand management.
 activity: deploy
+feature: Work Management
 type: Tutorial
+role: Administrator, User
+level: Intermediate
 team: Technical Marketing
 kt: 8956
 ---
