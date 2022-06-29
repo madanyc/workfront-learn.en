@@ -1,9 +1,12 @@
 ---
 title: Customize User Interface Terminology
 description: Learn how to use a layout template to customize [!DNL Adobe Workfront] terminology seen in the user interface for tasks, projects, and other items.
+feature: System Setup and Administration
+team: Technical Marketing
+role: Admin
+level: Beginner
 activity: deploy
 type: Tutorial
-team: Technical Marketing
 kt: 8761
 exl-id: fc8f31ae-61f8-4705-9cc4-18068bc25fc9
 ---

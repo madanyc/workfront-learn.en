@@ -1,8 +1,12 @@
 ---
 title: How to Export a Custom Form
 description: Learn how to export an [!DNL Adobe Workfront] custom form as a PDF to easily share the information with others.
+feature: System Setup and Administration
+type: Tutorial
 role: Admin, Leader, User
 level: Beginner, Intermediate
+activity: use
+team: Technical Marketing
 kt: 10059
 exl-id: aeef197e-1d8c-43a9-8580-0c83d8027a3f
 ---

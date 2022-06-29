@@ -1,8 +1,12 @@
 ---
 title: Resource Management Setups, Workload Balancer, and Utilizat… (Titles should be no more than 60 characters)
 description: Learn how to set up resource managers with the right access and how to view the workload balancer and utilization report.
+feature: Resource Management
+type: Tutorial
 role: Leader, User
 level: Intermediate, Experienced
+activity: use
+team: Technical Marketing
 kt: 10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
 ---

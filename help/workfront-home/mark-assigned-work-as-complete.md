@@ -1,8 +1,11 @@
 ---
 title: Mark Assigned Work as complete in [!UICONTROL Home]
 description: Learn how to change the status of an assigned task or issue to indicate it's complete through the [!UICONTROL Work List]. Then filter the list to see only completed work.
-activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Beginner
+activity: use
 team: Technical Marketing
 kt: 8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf

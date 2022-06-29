@@ -1,8 +1,11 @@
 ---
 title: Update and Copy Plans in [!DNL Scenario Planner]
 description: Learn how to update a plan or copy a plan in the [!DNL Adobe Workfront] [!DNL Scenario Planner].
-activity: use
+feature: Resource Management
 type: Tutorial
+role: Leader, User
+level: Intermediate, Experienced
+activity: use
 team: Technical Marketing
 kt: 9079
 exl-id: c3a42469-6b0e-4b46-9713-eb15ecdf3055

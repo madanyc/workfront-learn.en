@@ -1,8 +1,11 @@
 ---
 title: How to Make an Update in [!UICONTROL Home]
 description: Learn how to make updates on work assignments and reply to existing updates. Tag [!DNL Workfront] users in updates so they're notified about the communication.
-activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Beginner
+activity: use
 team: Technical Marketing
 kt: 8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0

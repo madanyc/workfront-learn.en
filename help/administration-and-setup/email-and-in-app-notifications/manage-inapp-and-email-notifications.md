@@ -1,6 +1,10 @@
 ---
 title: Manage In-App and Email Event Notifications
 description: Learn how users can control which in-app and email notifications they receive so they're getting receive relevant, helpful emails regarding their work.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Beginner
 kt: 10095

@@ -1,8 +1,11 @@
 ---
 title: How to Create a Plan in [!DNL Scenario Planner]
 description: Learn how to create a plan in the [!DNL Adobe Workfront] [!DNL Scenario Planner].
-activity: use
+feature: Resource Management
 type: Tutorial
+role: Leader, User
+level: Intermediate, Experienced
+activity: use
 team: Technical Marketing
 kt: 9076
 exl-id: 554c00cd-5958-4e5d-acec-22a96a7353b0

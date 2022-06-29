@@ -1,10 +1,14 @@
 ---
 title: Custom forms Course Introduction
 description: Learn how custom forms can capture organization-specific information in [!DNL Adobe Workfront].
-activity: use
+feature: System Setup and Administration
 type: Tutorial
+role: Admin, Leader, User
+level: Beginner, Intermediate
+activity: use
 team: Technical Marketing
 kt: 8908
+hidefromtoc: yes
 ---
 # Custom forms course introduction
 

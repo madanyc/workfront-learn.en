@@ -1,6 +1,8 @@
 ---
 title: Assign and Manage Layout Template Access
 description: Learn to assign layout templates to [!DNL Adobe Workfront] users and control who can manage access.
+feature: System Setup and Administration
+level: Intermediate
 activity: deploy
 type: Tutorial
 team: Technical Marketing

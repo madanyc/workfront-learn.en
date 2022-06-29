@@ -1,6 +1,10 @@
 ---
 title: Group Administrators Explained
 description: Learn how system administrators can use group administrators to help maintain [!DNL Workfront] settings while giving groups more control over their work.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
 kt: 10103

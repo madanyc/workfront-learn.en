@@ -1,6 +1,10 @@
 ---
 title: Create an Issue Status
 description: Learn how to create an issue status in [!DNL Adobe Workfront ]to meet the needs of your organization's workflows.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
 kt: 10019

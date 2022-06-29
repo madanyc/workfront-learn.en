@@ -1,8 +1,12 @@
 ---
 title: Manage other user's time offs
 description: See how managers and other leaders can manager their team's time off calendars.
+feature: Resource Management
+type: Tutorial
 role: Leader, User
 level: Intermediate, Experienced
+activity: use
+team: Technical Marketing
 kt: 10181
 exl-id: f2f0f897-939c-45d1-8a3d-037d92d86b79
 ---

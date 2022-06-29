@@ -1,8 +1,12 @@
 ---
 title: Access a Plan in [!UICONTROL Scenario Planner]
 description: Learn what [!DNL Adobe Workfront] permissions are needed for users to access plans in the [!UICONTROL Scenario Planner].
+feature: Resource Management
+type: Tutorial
 role: Leader, User
 level: Intermediate, Experienced
+activity: use
+team: Technical Marketing
 kt: 10190
 exl-id: e81cad9d-4699-4130-b172-a2969dce1dde
 ---

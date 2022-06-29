@@ -1,6 +1,10 @@
 ---
 title: How to Deactivate or Delete Users
 description: Learn the difference between deactivating and deleting users in [!DNL Adobe Workfront]. Then manage user profiles according to your organization's needs.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Beginner
 kt: 10037

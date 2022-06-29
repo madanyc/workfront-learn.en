@@ -1,6 +1,10 @@
 ---
 title: Log In as another Workfront user
 description: Learn how system or group administrators can log in as other Adobe Workfront users to test system settings, layout templates, reports, etc.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Beginner
 kt: 10104

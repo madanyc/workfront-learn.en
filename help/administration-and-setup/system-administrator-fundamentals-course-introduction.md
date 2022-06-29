@@ -5,6 +5,7 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 kt: 8741
+hidefromtoc: yes
 ---
 # System administrator fundamentals course introduction
 

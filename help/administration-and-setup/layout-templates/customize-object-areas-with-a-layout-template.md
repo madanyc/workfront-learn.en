@@ -1,9 +1,12 @@
 ---
 title: Layout Templates&#58; Customize Object Areas
 description: Learn how to use a layout template to add, remove, and rearrange items in the left panel menu in [!DNL Adobe Workfront].
+feature: System Setup and Administration
 activity: deploy
-type: Tutorial
 team: Technical Marketing
+role: Admin
+level: Beginner
+type: Tutorial
 kt: 8763
 exl-id: 5f4845ec-3107-4519-aac6-d5ec868202fa
 ---

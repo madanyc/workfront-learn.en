@@ -1,8 +1,11 @@
 ---
 title: Attach a Custom Form to an Object
 description: Learn how to attach a custom form to an object in [!DNL Adobe Workfront] and make custom fields visible on reports.
-activity: use
+feature: System Setup and Administration
 type: Tutorial
+role: Admin, Leader, User
+level: Beginner, Intermediate
+activity: use
 team: Technical Marketing
 kt: 8910
 exl-id: 0d4ebd19-f4e8-4e3b-9580-e22e47442836

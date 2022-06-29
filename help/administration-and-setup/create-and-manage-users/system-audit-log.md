@@ -1,6 +1,10 @@
 ---
 title: How to Use the System Audit Log
 description: Learn how to use the system audit log to review when changes were made and when to items in Adobe Workfront.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Beginner, Intermediate
 kt: 10040

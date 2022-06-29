@@ -1,6 +1,10 @@
 ---
 title: Add users to Adobe Workfront
 description: Learn what information you'll need to gather about users before creating user profiles in [!DNL Adobe Workfront].
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Beginner
 kt: 10035

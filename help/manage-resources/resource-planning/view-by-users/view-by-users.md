@@ -1,8 +1,11 @@
 ---
 title: View by users in the Resource Planner
 description:  See how to use the View by User option and how resource information is displayed in this view.
-activity: use
+feature: Resource Management
 type: Tutorial
+role: Leader, User
+level: Intermediate, Experienced
+activity: use
 team: Technical Marketing
 kt: 8880
 ---

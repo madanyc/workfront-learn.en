@@ -1,8 +1,12 @@
 ---
 title: Find the Workload Balancer
 description: Learn how to find the workload balancer in Workfront and get acquainted with some of the areas available.
+feature: Resource Management
+type: Tutorial
 role: Leader, User
 level: Intermediate, Experienced
+activity: use
+team: Technical Marketing
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
 ---

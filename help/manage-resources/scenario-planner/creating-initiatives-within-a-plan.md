@@ -1,8 +1,11 @@
 ---
 title: How to Create an Initiative in [!DNL Scenario Planner]
 description: Learn how to create initiatives as part of a plan in the [!DNL Adobe Workfront] [!DNL Scenario Planner].
-activity: use
+feature: Resource Management
 type: Tutorial
+role: Leader, User
+level: Intermediate, Experienced
+activity: use
 team: Technical Marketing
 kt: 9077
 exl-id: 8c5971e6-1c6e-4357-9e7b-685b2ae558c4

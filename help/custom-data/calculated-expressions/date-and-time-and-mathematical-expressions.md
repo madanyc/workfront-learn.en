@@ -1,8 +1,11 @@
 ---
 title: Date & Time and Mathematical expressions
 description: Learn what date, time, and mathematical expressions are and which ones are available to use when creating custom data in Adobe [!UICONTROL Workfront].
-activity: use
+feature: System Setup and Administration
 type: Tutorial
+role: Admin, Leader, User
+level: Experienced
+activity: use
 team: Technical Marketing
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
 ---

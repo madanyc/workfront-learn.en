@@ -1,6 +1,10 @@
 ---
 title: Customize System-Wide Issue Statuses
 description: Learn how to change issue status names, control the issue types a status is used for, and lock/unlock statuses for group-level customization.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
 kt: 10030

@@ -1,9 +1,12 @@
 ---
 title: Create licenses, access levels, and job roles
 description: Learn about how licenses and access levels control what access users have in Adobe Workfront. Learn how job roles are used in the system.
+feature: System Setup and Administration
 activity: deploy
 type: Tutorial
 team: Technical Marketing
+role: Admin
+level: Beginner
 kt: 8754
 exl-id: 49cb518a-f3ae-4fdd-b617-2c19006c7552
 ---

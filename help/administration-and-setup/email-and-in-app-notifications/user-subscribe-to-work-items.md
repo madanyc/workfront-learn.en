@@ -1,6 +1,10 @@
 ---
 title: How to Follow Work Items by Subscribing
 description: Learn how to subscribe to [!DNL Adobe Workfront] projects, tasks, or issues to receive notifications when comments are made on the item.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin, Leader, User
 level: Beginner
 kt: 10098

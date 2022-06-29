@@ -1,8 +1,11 @@
 ---
 title: Oganize your to-do list in [!DNL Workfront] [!UICONTROL Home]
 description: Learn how to filter and sort assigned work, identify work that's ready to start, and accept work assignments in [!DNL Adobe Workfront].
-activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Beginner
+activity: use
 team: Technical Marketing
 kt: 8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730

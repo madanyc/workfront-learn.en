@@ -1,8 +1,12 @@
 ---
 title: Show time off affects project timelines
 description: See what happens to a project timeline when the time off setting is on and off.
+feature: Resource Management
+type: Tutorial
 role: Leader, User
 level: Intermediate, Experienced
+activity: use
+team: Technical Marketing
 kt: 10180
 exl-id: 0f79dd8d-b7ce-4ee9-b211-23c8ed5d497c
 ---

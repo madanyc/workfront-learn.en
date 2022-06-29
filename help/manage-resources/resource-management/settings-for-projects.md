@@ -1,8 +1,11 @@
 ---
 title: Resource management settings for projects
 description: Learn how to optimize resource management tools—durations and planned dates, planned hours, and job role assignments.
-activity: use
+feature: Resource Management
 type: Tutorial
+role: Leader, User
+level: Intermediate, Experienced
+activity: use
 team: Technical Marketing
 kt: 8874
 exl-id: 5a9ea239-9f20-4ccc-9fc3-8a7e21178664

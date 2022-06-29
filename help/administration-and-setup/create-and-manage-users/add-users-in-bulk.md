@@ -1,6 +1,10 @@
 ---
 title: Add User Profiles in Bulk
 description: Learn how to add multiple users at a time to Adobe Workfront, using a spreadsheet for a kick-start template.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Beginner
 kt: 10034

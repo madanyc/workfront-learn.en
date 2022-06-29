@@ -1,7 +1,10 @@
 ---
 title: Find and create Layout Templates
 description: Find and create a basic layout template.
+feature: System Setup and Administration
 activity: deploy
+role: Admin
+level: Intermediate, Experienced
 type: Tutorial
 team: Technical Marketing
 kt: 8759

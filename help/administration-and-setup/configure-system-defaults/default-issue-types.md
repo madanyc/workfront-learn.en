@@ -1,6 +1,10 @@
 ---
 title: Default Issue Statuses Explained
 description: Learn about the default issue statues in Adobe Workfront and why you might want to customize them to match your organization's workflow.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
 kt: 10031

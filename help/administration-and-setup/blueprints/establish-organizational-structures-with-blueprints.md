@@ -1,6 +1,10 @@
 ---
 title: Establish organizational structures with Blueprints
 description: Learn how to locate and install Blueprints in Adobe Workfront as well as add it to the Main Menu.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Beginner, Intermediate
 kt: 10102

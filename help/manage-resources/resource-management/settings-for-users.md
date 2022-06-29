@@ -1,8 +1,11 @@
 ---
 title: Resource management settings for users
 description: Learn about the user settings needed to properly use the resource management tools.
-activity: use
+feature: Resource Management
 type: Tutorial
+role: Leader, User
+level: Intermediate, Experienced
+activity: use
 team: Technical Marketing
 kt: 8873
 exl-id: a1ecee82-11f4-4b10-ba0d-49eff4c337c0

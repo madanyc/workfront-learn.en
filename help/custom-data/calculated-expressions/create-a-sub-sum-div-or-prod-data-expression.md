@@ -1,8 +1,11 @@
 ---
 title: Create a SUB, SUM, DIV, or PROD data expression
 description: Learn how to use and create the basic mathematical expressions in the a calculated field in Adobe [!DNL Workfront].
-activity: use
+feature: System Setup and Administration
 type: Tutorial
+role: Admin, Leader, User
+level: Experienced
+activity: use
 team: Technical Marketing
 kt: 8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3

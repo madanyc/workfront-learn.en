@@ -1,6 +1,10 @@
 ---
 title: Send [!UICONTROL Announcement Center] Messages
 description: Learn how to send in-application messages to [!DNL Adobe Workfront] users through the [!UICONTROL announcement center].
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Beginner
 kt: 10094

@@ -1,6 +1,10 @@
 ---
 title: Create an Individual User Profile
 description: Learn to add users to [!DNL Adobe Workfront] by creating a single user profile from scratch or by copying an existing user.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Beginner
 kt: 10036

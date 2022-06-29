@@ -1,8 +1,12 @@
 ---
 title: See time off when assigning tasks
 description: Find out how to see user's time off when trying to make task assignments.
+feature: Resource Management
+type: Tutorial
 role: Leader, User
 level: Intermediate, Experienced
+activity: use
+team: Technical Marketing
 kt: 10182
 exl-id: 34058a8e-1a81-4833-b9e2-a9d3f2713efb
 ---

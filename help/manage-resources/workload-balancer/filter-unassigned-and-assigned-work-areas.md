@@ -1,8 +1,11 @@
 ---
 title: Filter the Unassigned and Assigned Work areas
 description: Learn how to adjust time frames for both areas, filter the user list in the assigned work area, and filter the unassigned work area.
-activity: use
+feature: Resource Management
 type: Tutorial
+role: Leader, User
+level: Intermediate, Experienced
+activity: use
 team: Technical Marketing
 kt: 8875
 exl-id: 8a767d41-391c-4862-8b49-6d9480cc8187

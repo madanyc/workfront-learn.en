@@ -1,8 +1,12 @@
 ---
 title: Understand group-specific approval processes
 description: Learn how group administrators can create or edit approval processes for the groups they manage.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
-level: Beginner
+level: Intermediate
 kt: 10017
 exl-id: 138989b2-32d7-43e5-9660-d7b4172f232a
 ---
@@ -25,3 +29,4 @@ The [!UICONTROL All groups] option is not available to group administrators.
 When a specific group is selected, only the statuses available for that group show up in the [!UICONTROL “Start Approval Process when the status is set to”] menu.
 
 ![[!UICONTROL Edit Approval Process] window with status field highlighted](assets/admin-fund-approval-processes-3.png)
+

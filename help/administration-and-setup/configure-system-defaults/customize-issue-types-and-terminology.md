@@ -1,6 +1,10 @@
 ---
 title: How to Customize Issue Types and Terminology
 description: Learn how to customize and rename the four default issue types in Adobe Workfront to suit your organization's needs.
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
 kt: 10021

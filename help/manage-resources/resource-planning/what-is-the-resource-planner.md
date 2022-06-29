@@ -1,8 +1,11 @@
 ---
 title: What is the Resource Planner?
 description: Learn what the resource planner is.
-activity: use
+feature: Resource Management
 type: Tutorial
+role: Leader, User
+level: Intermediate, Experienced
+activity: use
 team: Technical Marketing
 kt: 8879
 exl-id: f4d97236-7652-4877-bca3-d935760b6dbc

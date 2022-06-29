@@ -1,9 +1,12 @@
 ---
 title: How to Organize Users
 description: Learn how [!DNL Adobe Workfront] uses companies, groups, and teams for user organization and permissions to work items.
+feature: System Setup and Administration
 activity: deploy
 type: Tutorial
 team: Technical Marketing
+role: Admin
+level: Intermediate, Experienced
 kt: 8756
 ---
 # Introduction to user organization

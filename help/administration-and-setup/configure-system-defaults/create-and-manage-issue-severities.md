@@ -1,6 +1,10 @@
 ---
 title: How to Create and Manage Issue Severities
 description: Learn how to set up and manage issue severities in [!DNL Adobe Workfront].
+feature: System Setup and Administration
+activity: deploy
+type: Tutorial
+team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
 kt: 10020

@@ -1,8 +1,11 @@
 ---
 title: Change the Status of Assigned Work in [!UICONTROL Home]
 description: Learn how to change the status of assignments to indicate work is in progress from the [!UICONTROL Home] page. Understand why status is important in [!DNL Adobe Workfront].
-activity: use
+feature: Work Management
 type: Tutorial
+role: User
+level: Beginner
+activity: use
 team: Technical Marketing
 kt: 8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d

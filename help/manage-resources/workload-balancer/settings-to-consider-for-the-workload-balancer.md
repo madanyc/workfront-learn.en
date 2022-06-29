@@ -1,8 +1,12 @@
 ---
 title: Settings to consider for the Workload Balancer
 description: See what settings to consider as you dive into the individual workloads of your users.
+feature: Resource Management
+type: Tutorial
 role: Leader, User
 level: Intermediate, Experienced
+activity: use
+team: Technical Marketing
 kt: 10189
 exl-id: d9cf1309-c994-4a4e-89e2-030b67e2f57d
 ---

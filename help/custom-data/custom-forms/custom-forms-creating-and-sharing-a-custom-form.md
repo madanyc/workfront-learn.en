@@ -1,8 +1,11 @@
 ---
 title: Create and Share a Custom Form
 description: Learn how to create a custom form, add unique fields to the form, organize fields using sections and logic, and share forms with [!DNL Adobe Workfront] users.
-activity: deploy
+feature: System Setup and Administration
 type: Tutorial
+role: Admin, Leader, User
+level: Beginner, Intermediate
+activity: use
 team: Technical Marketing
 kt: 8909
 exl-id: b37334c7-67d0-4359-9537-dc26843582d1
