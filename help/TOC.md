@@ -13,7 +13,7 @@ feature-set: Workfront
     + [Create companies](administration-and-setup/organizational-setup/user-organization-companies.md)
     + [Create groups](administration-and-setup/organizational-setup/user-organization-groups.md)
     + [Create teams](administration-and-setup/organizational-setup/user-organization-teams.md)
-    + [Log in as another Workfront user](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
+    + [Log in as another user](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
     + [Set up users with licenses, access levels, and job roles](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
     + [Understand the need for group administration](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
 
@@ -36,7 +36,7 @@ feature-set: Workfront
     + [Customize reporting lists with layout templates](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
     + [Customize the Main Menu with layout templates](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
     + [Customize Workfront Home with layout templates](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
-    + [Customize Workfront terminology](administration-and-setup/layout-templates/customize-workfront-terminology.md)
+    + [Customize terminology](administration-and-setup/layout-templates/customize-workfront-terminology.md)
     + [Find layout templates](administration-and-setup/layout-templates/find-layout-templates.md)
     + [What are layout templates?](administration-and-setup/layout-templates/what-are-layout-templates.md)
 
@@ -51,7 +51,7 @@ feature-set: Workfront
 
   + Create and manage users {#create-and-manage-users}
     + [Add users in bulk](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
-    + [Add users to Adobe Workfront](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
+    + [Add users](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
     + [Create an individual user](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
     + [Modify user information](administration-and-setup/create-and-manage-users/modify-user-information.md)
     + [Understand the difference between deactivating and deleting users](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
@@ -258,27 +258,27 @@ feature-set: Workfront
     + [Update and copy plans](manage-resources/scenario-planner/update-and-copy-plans.md)
     + [What is the Scenario Planner](manage-resources/scenario-planner/what-is-scenario-planner.md)
 
-+ Adobe Workfront Goals {#adobe-workfront-goals}
++ Workfront Goals {#workfront-goals}
   + Establish a vision for your org {#establish-a-vision-and-strategy}
     + [Align groups and teams to your strategy](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
     + [Collaborate around enterprise and organizational goals](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
     + [Create a clear objective statement](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
     + [Establish a vision and strategy for your org](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
-    + [Understand how [!UICONTROL Workfront Goals] fits in your work cycle](workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
-    + [Understand how [!UICONTROL Workfront Goals] works](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
-    + [Understand the vision behind [!UICONTROL Workfront Goals]](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
+    + [Understand how Workfront Goals fits in your work cycle](workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
+    + [Understand how Workfront Goals works](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
+    + [Understand the vision behind Workfront Goals](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
   
   + Create your goals {#create-goals}
-    + [Copy an Existing Goal](workfront-goals/create-your-goals/copy-an-existing-goal.md)
-    + [Create a layout template for [!UICONTROL Goals] users](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
-    + [Create goals in Workfront](workfront-goals/create-your-goals/create-goals-in-workfront.md)
-    + [Grant [!UICONTROL Goals] access to selected users](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
+    + [Copy an existing goal](workfront-goals/create-your-goals/copy-an-existing-goal.md)
+    + [Create a layout template for [!UICONTROL Workfront Goals] users](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
+    + [Create goals](workfront-goals/create-your-goals/create-goals-in-workfront.md)
+    + [Grant goals access to selected users](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
     + [Set up [!UICONTROL Workfront Goals] for your org](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
     + [Understand how to use [!UICONTROL Workfront Goals]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
 
   + Activate your goals {#activate-goals}
     + [Activate by aligning a goal to another](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
-    + [Activate goals in Workfront](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
+    + [Activate goals](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
     + [Add a result to a goal](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
     + [Add an activity to a goal](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
 
@@ -367,7 +367,7 @@ feature-set: Workfront
     + [Review and respond to proof comments](workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
     + [Track proof progress](workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-+ Adobe Workfront DAM {#workfront-dam-program}
++ Workfront DAM {#workfront-dam-program}
   + System setup {#system-setup}
     + [Analyze and plan a [!DNL Workfront DAM] strategy](workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
     + [Configure the integration in Workfront](workfront-dam/system-setup/configure-the-integration-in-workfront.md)
@@ -415,8 +415,8 @@ feature-set: Workfront
     + [Work with assets as a user](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Home {#home}
-    + [Approve work in Workfront Home](workfront-home/approve-work-in-workfront-home.md)
-    + [Collaborate on work with My Updates](workfront-home/collaborate-on-work-with-my-updates.md)
+    + [Approve work in [!UICONTROL Workfront Home]](workfront-home/approve-work-in-workfront-home.md)
+    + [Collaborate on work with [!UICONTROL My Updates]](workfront-home/collaborate-on-work-with-my-updates.md)
     + [Communicate about work](workfront-home/communicate-about-work-in-workfront-home.md)
     + [Find your work](workfront-home/find-your-work-in-workfront-home.md)
     + [Indicate work status](workfront-home/indicate-work-status-in-workfront-home.md)
@@ -424,5 +424,5 @@ feature-set: Workfront
     + [Mark assigned work as complete](workfront-home/mark-assigned-work-as-complete.md)
     + [Organize your to-do list](workfront-home/organize-your-to-do-list-in-workfront-home.md)
     + [Prioritize your work](workfront-home/prioritize-your-work-in-workfront-home.md)
-    + [Review work in My Updates or Workfront Home](workfront-home/review-work-in-my-updates-or-workfront-home.md)
+    + [Review work in [!UICONTROL My Updates] or [!UICONTROL Workfront Home]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
 
