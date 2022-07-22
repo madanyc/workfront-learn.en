@@ -1,5 +1,5 @@
 ---
-title: How to Use Teams for User Organization
+title: Create teams
 description: Learn how teams are used, how to use cross-functional teams, and how to create teams to help organize users and grant permissions.
 feature: System Setup and Administration
 role: Admin
@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 ---
-# Teams and user organization
+# Create teams
 
 In this video, you will learn:
 

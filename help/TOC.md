@@ -11,7 +11,7 @@ feature-set: Workfront
 + Administration and Setup {#administration-and-setup}
   + Organizational setup {#organizational-setup}
     + [Create companies](administration-and-setup/organizational-setup/user-organization-companies.md)
-    + [Create groups](administration-and-setup/organizational-setup/user-organization-groups.md)
+    + [Create groups and subgroups](administration-and-setup/organizational-setup/user-organization-groups.md)
     + [Create teams](administration-and-setup/organizational-setup/user-organization-teams.md)
     + [Log in as another user](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
     + [Set up users with licenses, access levels, and job roles](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)

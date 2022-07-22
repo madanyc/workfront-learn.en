@@ -1,5 +1,5 @@
 ---
-title: How to Use Companies for User Organization
+title: Create companies
 description: Learn how to use companies as part of its user organization and item permissions structure. Then create companies for your organization.
 feature: System Setup and Administration
 activity: deploy
@@ -10,7 +10,7 @@ level: Intermediate, Experienced
 kt: 8757
 exl-id: 1a48aa59-ae69-4bd9-843c-8edfc0bdb517
 ---
-# Companies and user organization
+# Create companies
 
 In this video, you will learn:
 

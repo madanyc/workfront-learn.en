@@ -1,5 +1,5 @@
 ---
-title: How to Use Groups for User Organization
+title: Create groups and subgroups
 description: Learn how to use groups and subgroups for user organization and permissions to work. Learn to create a group and subgroups.
 feature: System Setup and Administration
 activity: deploy
@@ -10,7 +10,7 @@ level: Intermediate, Experienced
 kt: 8758
 exl-id: b7f8ccb5-457f-4d89-bb57-5d9d6e169191
 ---
-# Groups and user organization
+# Create groups and subgroups
 
 In this video, you will learn how to:
 
