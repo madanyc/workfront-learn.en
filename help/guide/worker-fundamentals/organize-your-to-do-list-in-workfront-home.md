@@ -1,13 +1,13 @@
 ---
-title: Oganize your to-do list in Workfront Home
-description:  In this video, learn how to sort work assignments, filter assignments by type, identify work that's ready to start, and accept work assignments in Adobe Workfront.
+title: Oganize your to-do list in Home
+description:  In this video, learn how to sort work assignments, filter assignments by type, identify work that's ready to start, and accept work assignments.
 topic:
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 ---
-# Oganize your to-do list in Workfront Home
+# Oganize your to-do list in Home
 
 In this video, you will learn how to:
 

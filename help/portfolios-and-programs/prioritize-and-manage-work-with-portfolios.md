@@ -1,6 +1,6 @@
 ---
 title: Prioritize and Manage Work with Portfolios
-description: Learn how to prioritize and manage work with portfolios in [!DNL Adobe Workfront].
+description: Learn how to prioritize and manage work with portfolios in [!DNL  ].
 feature: Strategic Planning
 type: Article
 role: User

@@ -1,6 +1,6 @@
 ---
 title: How to Log Hours on Work in [!UICONTROL Home]
-description: Learn how to log time on work assignments in [!DNL Adobe Workfront]. Understand why logging time may be required at your organization.
+description: Learn how to log time on work assignments in [!DNL  ]. Understand why logging time may be required at your organization.
 feature: Work Management
 type: Tutorial
 role: User

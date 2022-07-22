@@ -1,6 +1,6 @@
 ---
 title: Create a basic filter
-description: In this video, you will learn what a filter is, how to create a filter, and how to share a filter with other users in [!DNL Adobe Workfront].
+description: In this video, you will learn what a filter is, how to create a filter, and how to share a filter with other users in [!DNL  ].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

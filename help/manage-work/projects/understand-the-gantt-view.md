@@ -1,6 +1,6 @@
 ---
 title: Understand the [!UICONTROL Gantt] view
-description: Learn how to view a project with the [!UICONTROL Gantt] chart in [!DNL Adobe Workfront].
+description: Learn how to view a project with the [!UICONTROL Gantt] chart in [!DNL  ].
 feature: Work Management
 type: Article
 role: User

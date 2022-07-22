@@ -1,6 +1,6 @@
 ---
 title: Log and review hours
-description: Record outstanding hours and review logged hours before closing a project in [!DNL Adobe Workfront].
+description: Record outstanding hours and review logged hours before closing a project in [!DNL  ].
 feature: Work Management
 type: Article
 role: User

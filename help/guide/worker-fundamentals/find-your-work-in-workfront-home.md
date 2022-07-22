@@ -1,6 +1,6 @@
 ---
 title: Find your work in Workfront Home
-description:  In this video, learn how to find incoming and existing work assignments and review assignment information in Adobe Workfront.
+description:  In this video, learn how to find incoming and existing work assignments and review assignment information  .
 topic:
 activity: use
 doc-type: feature video

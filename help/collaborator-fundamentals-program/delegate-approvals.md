@@ -1,12 +1,12 @@
 ---
 title: How to Delegate Work Approvals
-description: Learn how to delegate approvals for projects, tasks, issues, and timecards to another [!DNL Adobe Workfront] user.
+description: Learn how to delegate approvals for projects, tasks, issues, and timecards to another user.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8810
 ---
-# Delegate approvals from [!DNL Workfront Home]
+# Delegate approvals from [!DNL Home]
 
 In this video, you will learn how to:
 

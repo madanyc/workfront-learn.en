@@ -1,6 +1,6 @@
 ---
 title: Report on Proofs
-description: Learn to how to use Adobe Workfront's reporting capabilities to manage proof progress.
+description: Learn to how to use  's reporting capabilities to manage proof progress.
 feature: Workfront Proof
 type: Article
 role: User, Administrator

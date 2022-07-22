@@ -1,6 +1,6 @@
 ---
 title: Navigate the project page
-description: Learn how to view the details of a project, what information shows in the task list, where to upload documents, and how to view the update history in [!DNL Adobe Workfront].
+description: Learn how to view the details of a project, what information shows in the task list, where to upload documents, and how to view the update history in [!DNL  ].
 activity: use
 feature: Work Management
 type: Tutorial

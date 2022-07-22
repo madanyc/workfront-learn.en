@@ -1,6 +1,6 @@
 ---
 title: Set Up Event Notifications
-description: Learn how to control which email and in-app notifications [!DNL Adobe Workfront] users receive by managing event notifications.
+description: Learn how to control which email and in-app notifications users receive by managing event notifications.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial

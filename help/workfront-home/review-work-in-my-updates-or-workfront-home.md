@@ -1,6 +1,6 @@
 ---
 title: Review work in [!DNL My Updates] or [!DNL Workfront Home]
-description: '[!DNL Adobe Workfront] provides two places to access work assigned to you for review and approval - [!DNL My Updates] and [!DNL Workfront Home] '
+description: '[!DNL  ] provides two places to access work assigned to you for review and approval - [!DNL My Updates] and [!DNL Workfront Home] '
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,7 +12,7 @@ exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 ---
 # Review work in [!DNL My Updates] or [!DNL Workfront Home]
 
-Adobe Workfront provides two places to access work assigned to you for review and approval: 
+  provides two places to access work assigned to you for review and approval: 
 
 * [!DNL My Updates] 
 * [!DNL Workfront Home] 

@@ -1,6 +1,6 @@
 ---
 title: Understand updates and notifications
-description: Learn how to make updates on approval requests and find your notifications in [!DNL Adobe Workfront].
+description: Learn how to make updates on approval requests and find your notifications in [!DNL  ].
 activity: use
 feature: Work Management
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Update Plan Information in [!DNL Scenario Planner]
-description: Learn how to change or update job role, budget, or cost information after a plan or initiative is created in the [!DNL Adobe Workfront] [!DNL Scenario Planner].
+description: Learn how to change or update job role, budget, or cost information after a plan or initiative is created in the [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

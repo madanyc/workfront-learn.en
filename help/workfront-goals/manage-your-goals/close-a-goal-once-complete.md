@@ -1,6 +1,6 @@
 ---
 title: How to Close a Goal Once Complete
-description: Learn how to close a goal in [!DNL Adobe Workfront Goals].
+description: Learn how to close a goal in [!DNL   Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Customize object areas with a layout template
-description:  In this video, learn how to add, remove, and rearrange items in the left panel menu using an Adobe Workfront layout template.
+description:  In this video, learn how to add, remove, and rearrange items in the left panel menu using a layout template.
 topic:
 activity: deploy
 doc-type: feature video

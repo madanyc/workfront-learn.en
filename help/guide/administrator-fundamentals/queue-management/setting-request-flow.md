@@ -1,6 +1,6 @@
 ---
 title: Setting request flow
-description:  In this video, learn how the request flow process in Adobe Workfront works and how to create routing rules, topic groups, and queue topics.
+description:  In this video, learn how the request flow process works and how to create routing rules, topic groups, and queue topics.
 topic:
 activity: delpoy
 doc-type: feature video

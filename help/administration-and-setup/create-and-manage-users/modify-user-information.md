@@ -1,6 +1,6 @@
 ---
 title: Modify User Information
-description: Learn how to modify/edit a users information within Adobe Workfront.
+description: Learn how to modify/edit a users information.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial

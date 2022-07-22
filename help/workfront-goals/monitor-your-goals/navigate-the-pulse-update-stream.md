@@ -1,6 +1,6 @@
 ---
 title: Navigate the [!UICONTROL Pulse] Update Stream in Goals
-description: Learn how to navigate the [!UICONTROL Pulse] update stream in [!DNL Adobe Workfront Goals].
+description: Learn how to navigate the [!UICONTROL Pulse] update stream in [!DNL   Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

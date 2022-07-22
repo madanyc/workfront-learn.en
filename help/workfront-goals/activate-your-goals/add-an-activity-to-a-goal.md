@@ -1,6 +1,6 @@
 ---
 title: How to Add an Activity to a Goal
-description: Learn how to activate a goal by adding an activity in [!DNL Adobe Workfront Goals].
+description: Learn how to activate a goal by adding an activity in [!DNL   Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

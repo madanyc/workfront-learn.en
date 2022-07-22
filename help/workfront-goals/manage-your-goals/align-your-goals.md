@@ -1,6 +1,6 @@
 ---
 title: Goal Alignment in [!DNL Workfront Goals] Explained
-description: Learn how to navigate the [!UICONTROL Goal Alignment] page in [!DNL Adobe Workfront Goals].
+description: Learn how to navigate the [!UICONTROL Goal Alignment] page in [!DNL   Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

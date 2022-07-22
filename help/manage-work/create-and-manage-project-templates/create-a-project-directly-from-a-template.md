@@ -1,6 +1,6 @@
 ---
 title: Create a project directly from a template
-description: Learn how to create a project by starting with a template already built in Adobe Workfront.
+description: Learn how to create a project by starting with a template already built  .
 feature: Work Management
 type: Article
 role: User

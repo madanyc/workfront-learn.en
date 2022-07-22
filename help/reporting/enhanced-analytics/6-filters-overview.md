@@ -1,6 +1,6 @@
 ---
 title: Understand filters
-description: Learn how to add a filter based on common project fields and how to add a filter using a custom form, all in [!DNL Adobe Workfront].
+description: Learn how to add a filter based on common project fields and how to add a filter using a custom form, all in [!DNL  ].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

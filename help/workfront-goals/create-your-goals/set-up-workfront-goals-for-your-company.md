@@ -12,13 +12,13 @@ exl-id: 7890db2c-21a7-4549-8d46-34f1d334e3d2
 
 *This section is for [!DNL Workfront] system administrators responsible for setting up Workfront Goals for their users.*
 
-To guarantee your organization moves forward fast, you must be certain that work execution is aligned with company strategy. [!DNL Adobe Workfront Goals] coordinates strategy, goals, and work to drive execution across the organization and deliver measurable business outcomes.
+To guarantee your organization moves forward fast, you must be certain that work execution is aligned with company strategy. [!DNL   Goals] coordinates strategy, goals, and work to drive execution across the organization and deliver measurable business outcomes.
 
 Goal best practice starts with top-level corporate objectives and then cascades down to group, team, and individual levels. The resulting goals must be aligned with, contribute to, and support achieving corporate priorities. In [!DNL Workfront], goals are supported by results or activities that indicate how you achieve them.
 
 ## [!DNL Workfront Goals] checklist
 
-The following conditions must be met before you can access [!DNL Adobe Workfront Goals]:
+The following conditions must be met before you can access [!DNL   Goals]:
 
 * Your organization must purchase a [!DNL Workfront Goals] license, in addition to the [!DNL Workfront] license.
 * Your organization must be using the new [!DNL Workfront] experience interface. [!DNL Workfront Goals] is not available in the classic [!DNL Workfront] interface.

@@ -1,6 +1,6 @@
 ---
 title: Make a request
-description: Learn how to find the [!UICONTROL Requests] area and make a request in [!DNL Adobe Workfront]. Then learn how to view submitted and draft requests.
+description: Learn how to find the [!UICONTROL Requests] area and make a request in [!DNL  ]. Then learn how to view submitted and draft requests.
 activity: use
 feature: Work Management
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Understand actions - hover, click and drag, and click in
-description: Learn how to get more information by hovering over a chart, create a timeframe on a chart, and how to make additional charts appear, all in [!DNL Adobe Workfront].
+description: Learn how to get more information by hovering over a chart, create a timeframe on a chart, and how to make additional charts appear, all in [!DNL  ].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

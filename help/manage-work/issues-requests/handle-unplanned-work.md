@@ -1,6 +1,6 @@
 ---
 title: Handle Unplanned Work
-description: Learn how to handle unplanned work in your organization with Adobe Workfront.
+description: Learn how to handle unplanned work in your organization with  .
 feature: Work Management
 type: Article
 role: User

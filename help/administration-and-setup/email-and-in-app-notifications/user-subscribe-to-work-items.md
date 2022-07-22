@@ -1,6 +1,6 @@
 ---
 title: How to Follow Work Items by Subscribing
-description: Learn how to subscribe to [!DNL Adobe Workfront] projects, tasks, or issues to receive notifications when comments are made on the item.
+description: Learn how to subscribe to projects, tasks, or issues to receive notifications when comments are made on the item.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -36,7 +36,7 @@ You can see who else has subscribed to the work item by hovering over the number
 
 ![Task menu that shows who has subscribed](assets/admin-fund-user-notifications-13.png)
 
-If you have [!UICONTROL Manage] or [!UICONTROL Share] permissions to the work item, you can subscribe other [!DNL Workfront] users to a project, task, or issue by:
+If you have [!UICONTROL Manage] or [!UICONTROL Share] permissions to the work item, you can subscribe other users to a project, task, or issue by:
 
 1. Clicking the number next to the **[!UICONTROL Subscribe]** option.
 1. Adding the name of the person(s) that you want to subscribe to the work item.

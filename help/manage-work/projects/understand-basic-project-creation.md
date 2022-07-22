@@ -1,6 +1,6 @@
 ---
 title: Understand basic project creation
-description: Learn the four steps to get a project up and running, the definition of a project in [!DNL Adobe Workfront], and the three most common ways of creating a project.
+description: Learn the four steps to get a project up and running, the definition of a project in [!DNL  ], and the three most common ways of creating a project.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -20,7 +20,7 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12)
 
-Get your [!DNL Adobe Workfront] projects up and running quickly by using a project template. Then plan your project by focusing first on these five fields:
+Get your [!DNL  ] projects up and running quickly by using a project template. Then plan your project by focusing first on these five fields:
 
 1. Tasks
 1. Duration

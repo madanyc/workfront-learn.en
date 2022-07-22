@@ -1,6 +1,6 @@
 ---
 title: How to Create a Plan in [!DNL Scenario Planner]
-description: Learn how to create a plan in the [!DNL Adobe Workfront] [!DNL Scenario Planner].
+description: Learn how to create a plan in the [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -24,4 +24,4 @@ When creating a plan, you can establish whether the job role effort should be es
 
 After the plan is created, all numbers added for job roles in the plan, the plan’s scenarios, and any initiatives are entered and displayed in the format selected. That format is displayed at the top of columns requiring job role information.
 
-![View information in [!UICONTROL FTE] or [!UICONTROL Hours] in [!DNL Adobe Workfront] [!DNL Scenario Planner]](assets/scenario-planner-2.png)
+![View information in [!UICONTROL FTE] or [!UICONTROL Hours] in the [!DNL Scenario Planner]](assets/scenario-planner-2.png)

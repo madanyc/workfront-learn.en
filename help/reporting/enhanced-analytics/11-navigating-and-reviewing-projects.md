@@ -1,6 +1,6 @@
 ---
 title: Understand navigating and reviewing projects
-description: In this video, you will learn how to read the Flight plan chart in [!DNL Adobe Workfront].
+description: In this video, you will learn how to read the Flight plan chart in [!DNL  ].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

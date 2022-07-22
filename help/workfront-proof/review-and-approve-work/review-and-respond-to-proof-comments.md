@@ -1,6 +1,6 @@
 ---
 title: Review and Respond to Proof Comments
-description: Learn how to view and respond to proof comments from the proof viewer and from the [!UICONTROL Updates] section of [!DNL Adobe Workfront].
+description: Learn how to view and respond to proof comments from the proof viewer and from the [!UICONTROL Updates] section of [!DNL  ].
 activity: use
 feature: Workfront Proof
 type: Tutorial

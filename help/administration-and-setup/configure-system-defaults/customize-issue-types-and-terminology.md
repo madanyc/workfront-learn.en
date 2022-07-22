@@ -1,6 +1,6 @@
 ---
 title: How to Customize Issue Types and Terminology
-description: Learn how to customize and rename the four default issue types in Adobe Workfront to suit your organization's needs.
+description: Learn how to customize and rename the four default issue types to suit your organization's needs.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -23,9 +23,9 @@ exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
 
 What if the existing issue types don’t match the issue management needs of your organization? Or maybe your organization uses different terminology?
 
-For example, there’s a team that would like to track project risks using [!DNL Workfront] issues. As the system administrator, you know your organization doesn’t track bug reports. So you can change the name of an unused issue type, like [!UICONTROL Bug Reports], to Project Risks.
+For example, there’s a team that would like to track project risks using issues. As the system administrator, you know your organization doesn’t track bug reports. So you can change the name of an unused issue type, like [!UICONTROL Bug Reports], to Project Risks.
 
-Issue types are renamed at a system-wide level, so the change applies to all [!DNL Workfront] users.
+Issue types are renamed at a system-wide level, so the change applies to all users.
 
 1. Click **[!UICONTROL Setup]** in the **[!UICONTROL Main Menu]**.
 1. Expand the **[!UICONTROL Project Preferences]** section in the left menu panel.
@@ -49,9 +49,8 @@ Customize default issue types
 
 ## Change the term “issue” in Workfront
 
-Some organizations use a term other than “issue” to refer to unplanned work items. Issue is [!DNL Workfront’s] default term and appears throughout the software — menus, reports, field names, etc.
-
-System and group administrators can use the layout template functionality to rename the issue item to match their organization’s terminology. The new term then appears throughout [!DNL Workfront] for those who are assigned to the layout template.
+Some organizations use a term other than “issue” to refer to unplanned work items. Issue is the default term and appears throughout the software — menus, reports, field names, etc.
+Workfront administrators can use the layout template functionality to rename the issue item to match their organization’s terminology. The new term then appears throughout [!DNL Workfront] for those who are assigned to the layout template.
 
 ![[!UICONTROL Terminology] window with [!UICONTROL Issue] highlighted](assets/admin-fund-issue-custom-terminology.png)
 

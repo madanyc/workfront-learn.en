@@ -1,6 +1,6 @@
 ---
 title: How to Update a Request
-description: Learn how to find the requests you've submitted and make an update on those requests in [!DNL Adobe Workfront].
+description: Learn how to find the requests you've submitted and make an update on those requests.
 activity: use
 type: Tutorial
 team: Technical Marketing

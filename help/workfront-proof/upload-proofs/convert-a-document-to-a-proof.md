@@ -1,6 +1,6 @@
 ---
 title: How to Convert a Document to a Proof
-description: Learn how to generate a proof of a document that already exists in [!DNL Adobe Workfront], add a workflow to a proof, and add or edit a workflow after proof creation.
+description: Learn how to generate a proof of a document that already exists in [!DNL  ], add a workflow to a proof, and add or edit a workflow after proof creation.
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Scenario Planner] Explained'
-description: Learn how [!DNL Scenario Planner] fits with other [!DNL Adobe Workfront] resource planning tools. Then learn how to set up [!DNL Scenario Planner].
+description: Learn how [!DNL Scenario Planner] fits with other resource planning tools. Then learn how to set up [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

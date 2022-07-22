@@ -1,6 +1,6 @@
 ---
-title: User organization&#58; Teams
-description:  In this video, learn how teams are used in Adobe Workfront, how to use cross-functional teams, and how to create teams.
+title: What is a team and how to create them
+description:  In this video, learn how teams are used, how to use cross-functional teams, and how to create teams.
 topic:
 activity: deploy
 doc-type: feature video
@@ -8,12 +8,12 @@ team: Technical Marketing
 kt: Jira ticket
 role: Admin
 ---
-# User organization&#58; Teams
+# What is a team and how to create them
 
 In this video, you will learn:
 
-* How teams are used in Adobe Workfront
+* How teams are used
 * How to use cross-functional teams
-* How to create and associate teams in Adobe Workfront
+* How to create and associate teams
 
 >[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12)

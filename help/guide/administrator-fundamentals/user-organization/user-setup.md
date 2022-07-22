@@ -1,6 +1,6 @@
 ---
 title: User setup
-description:  In this video, learn about Adobe Workfront licenses, access levels, and job roles.
+description:  In this video, learn about licenses, access levels, and job roles.
 topic:
 activity: deploy
 doc-type: feature video
@@ -10,7 +10,7 @@ role: Admin
 ---
 # User setup
 
-In this video, you will learn about Adobe Workfront:
+In this video, you will learn about:
 
 * Licenses
 * Access levels

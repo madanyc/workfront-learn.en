@@ -1,6 +1,6 @@
 ---
 title: How to Create Reminder Notifications
-description: Learn how to set up object-specific reminder notifications to let [!DNL Adobe Workfront] users know when work is due soon or overdue.
+description: Learn how to set up object-specific reminder notifications to let users know when work is due soon or overdue.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -45,7 +45,7 @@ Once the reminder settings have been established and saved, the reminder notific
 
 ## Email customization
 
-Reminder notifications use a default email format and message. If you want to customize the email, you can create a template. Learn more with the [!DNL Workfront One] article, Configure email templates.
+Reminder notifications use a default email format and message. If you want to customize the email, you can create a template.
 
 <!---
 paragraph above needs a hyperlink to an article

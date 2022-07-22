@@ -11,7 +11,7 @@ exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
 ---
 # Get started with calculated fields and expressions
 
-<!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by Adobe Workfront. However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
+<!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
 
 [!DNL Workfront] provides a variety of fields that are common across multiple areas of business and are regularly used for work management. Fields like planned completion date, project budget, task assignee name, etc.
 
@@ -21,7 +21,7 @@ Yet, each organization has data specific to its industry and company that needs 
 * If funding is coming from suppliers, internal, or both.
 * What resolution is needed for images used.
 
-Although those fields are not inherently built into [!DNL Workfront], you can create custom data entry fields and pre-populated, multi-select answer fields through a [!DNL Workfront] custom form.
+Although those fields are not inherently built into [!DNL Workfront], you can create custom data entry fields and pre-populated, multi-select answer fields through a custom form.
 
 This learning path focuses on the calculated field. You will learn what a calculated field is, the different types of information you can pull into the calculated field through data expressions, and how to build those calculated fields to enhance your data collection and reporting.
 

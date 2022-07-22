@@ -1,6 +1,6 @@
 ---
-title: Log In as another Workfront user
-description: Learn how system or group administrators can log in as other Adobe Workfront users to test system settings, layout templates, reports, etc.
+title: Log In as another user
+description: Learn how Workfront administrators can log in as other users to test system settings, layout templates, reports, etc.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,9 +10,9 @@ level: Beginner
 kt: 10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
 ---
-# Log in as another [!DNL Workfront] user
+# Log in as another user
 
-One feature system administrators and group administrators find helpful as they set up the user experience in [!DNL Workfront] is the Log In As feature. This function, in the [!UICONTROL Setup] area, allows you to log in as another user without having to log out of your own account.
+One feature Workfront administrators find helpful as they set up the user experience is the Log In As feature. This function, in the [!UICONTROL Setup] area, allows you to log in as another user without having to log out of your own account.
 
 ![[!UICONTROL Log In As] page in [!UICONTROL Setup] area](assets/admin-fund-log-in-as-1.png)
 
@@ -20,9 +20,9 @@ One feature system administrators and group administrators find helpful as they 
 
 This feature is useful for a variety of reasons:
 
-* The system administrator or group administrator can preview layout templates assigned to users to ensure the menu items or dashboards display properly.
+* Administrators can preview layout templates assigned to users to ensure the menu items or dashboards display properly.
 * It’s helpful during workflow testing, to ensure a user’s permissions are set up correctly.
-* The system administrator or group administrator can even use this feature to mark a task complete or make an approval for someone who is unable to.
+* Administrators can even use this feature to mark a task complete or make an approval for someone who is unable to.
 
 ## Access Log In As
 
@@ -38,6 +38,6 @@ Once you are logged in, a notification at the top of the screen indicates who yo
 
 ## Updates tab tracks activity
 
-When a system administrator logged in as another user and made changes/updates on that user’s behalf, the changes are seen in the Updates area for that specific item. The example below shows Joan Harris changed a due date on Roy Campbell’s behalf.
+When an administrator logged in as another user and made changes/updates on that user’s behalf, the changes are seen in the Updates area for that specific item. The example below shows Joan Harris changed a due date on Roy Campbell’s behalf.
 
 ![[!UICONTROL Updates] section](assets/admin-fund-log-in-as-4.png)

@@ -1,6 +1,6 @@
 ---
 title: Create filters with user-based wildcards
-description: Learn how to use wildcards and build a filter with a user-based wildcard in [!DNL Adobe Workfront].
+description: Learn how to use wildcards and build a filter with a user-based wildcard in [!DNL  ].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -21,7 +21,7 @@ In this video, you will learn how to:
 
 >[!TIP]
 >
->Use the Assignment Users >> ID field source and name when building filters that look at task or issue assignment information.  This option looks at all of the Adobe Workfront users assigned to the task or issue, not just the “owner” or primary assignee. 
+>Use the Assignment Users >> ID field source and name when building filters that look at task or issue assignment information.  This option looks at all of the   users assigned to the task or issue, not just the “owner” or primary assignee. 
 
 >[!TIP]
 >

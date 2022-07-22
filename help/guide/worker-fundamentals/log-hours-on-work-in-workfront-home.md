@@ -1,6 +1,6 @@
 ---
 title: Log hours on work in Workfront Home
-description:  In this video, learn how to log time on work assignments in Adobe Workfront.
+description:  In this video, learn how to log time on work assignments  .
 topic:
 activity: use
 doc-type: feature video

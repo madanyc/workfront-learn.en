@@ -30,7 +30,7 @@ The progress of your goal is a good way to get an idea of where your goal is at 
 
 <!-- Learn more graphic -->
  
-* For more information about the formulas used to calculate goal progress, explore the article Calculate goal progress in [!DNL Adobe Workfront Goals].
+* For more information about the formulas used to calculate goal progress, explore the article Calculate goal progress in [!DNL   Goals].
  
 
 <!-- need link to documentation article, above -->

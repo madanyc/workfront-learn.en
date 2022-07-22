@@ -1,6 +1,6 @@
 ---
 title: Creating a template
-description:  In this video, learn how to create an Adobe Workfront project tempalte from scratch and from an existing project.
+description:  In this video, learn how to create a project tempalte from scratch and from an existing project.
 topic:
 activity: deploy
 doc-type: feature video

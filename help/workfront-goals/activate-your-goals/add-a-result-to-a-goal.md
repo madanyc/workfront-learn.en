@@ -1,6 +1,6 @@
 ---
 title: How to Add a Result to a Goal
-description: Learn how to activate a goal by adding a result in [!DNL Adobe Workfront Goals].
+description: Learn how to activate a goal by adding a result in [!DNL   Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

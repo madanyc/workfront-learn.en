@@ -1,6 +1,6 @@
 ---
 title: Change the project status
-description: Learn how to change the status of a project in [!UICONTROL Adobe Workfront] to indicate that work is complete.
+description: Learn how to change the status of a project in [!UICONTROL  ] to indicate that work is complete.
 feature: Work Management
 type: Article
 role: User

@@ -1,6 +1,6 @@
 ---
 title: Understand planned hours
-description: Learn what planned hours are in [!DNL Adobe Workfront], why planned hours are important to your project, and how to add planned hours to tasks.
+description: Learn what planned hours are in [!DNL  ], why planned hours are important to your project, and how to add planned hours to tasks.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -14,7 +14,7 @@ exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 
 In this video, you will learn how to:
 
-* What planned hours are in [!DNL Adobe Workfront]
+* What planned hours are in [!DNL  ]
 * Why planned hours are important to your project
 * How to add planned hours to tasks
 

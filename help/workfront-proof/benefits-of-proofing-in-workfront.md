@@ -1,6 +1,6 @@
 ---
 title: Learm the benefits of proofing
-description: Learn what proofing is and the benefits of using digital proofing in [!DNL Adobe Workfront].
+description: Learn what proofing is and the benefits of using digital proofing in [!DNL  ].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -21,7 +21,7 @@ In this video, you will learn:
 
 ## Proofing terminology
 
-Before you dive into proof setups in [!DNL Adobe Workfront], get familiar with the proof-specific terminology used. You’ll see these terms used frequently throughout this tutorial.
+Before you dive into proof setups in [!DNL  ], get familiar with the proof-specific terminology used. You’ll see these terms used frequently throughout this tutorial.
 
 * **Proof —** Digital version of a file that can be reviewed, marked up, and approved through [!DNL Workfront’s] proof viewer. 
 * **Proof workflow —** Process of creating, routing, and managing a proof within [!DNL Workfront]. The steps that are followed to complete these actions.

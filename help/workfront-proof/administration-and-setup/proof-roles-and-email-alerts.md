@@ -1,6 +1,6 @@
 ---
 title: Get Started with Proof Roles and Email Alerts
-description: Learn how to enable proper proof roles and email alerts so proof recipients have access to proofs and visibility into the work being done in [!DNL Adobe Workfront].
+description: Learn how to enable proper proof roles and email alerts so proof recipients have access to proofs and visibility into the work being done in [!DNL  ].
 feature: Workfront Proof
 type: Article
 role: User, Administrator

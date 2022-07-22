@@ -24,7 +24,7 @@ Once you know what’s expected, you can get started with reviewing a proof.
 
 When an asset is ready for review and approval, you will receive an email notification.
 
-![An image of a new proof email requesting the review and approval of two proofs in [!DNL Adobe Workfront].](assets/new-proof-emails.png)
+![An image of a new proof email requesting the review and approval of two proofs in [!DNL  ].](assets/new-proof-emails.png)
 
 It is important to note that this proof link is unique to you. If you share the link with someone, any comments and markup they do will be tagged with your name.
 
@@ -55,7 +55,7 @@ You may also find proofs to review on a [!DNL Workfront] dashboard that was crea
 
 If you normally work with projects, tasks, or issues in [!DNL Workfront], you may prefer to open the proof directly from the [!DNL Documents] section of that item.
 
-![An image of the [!UICONTROL Documents] section found in an [!DNL Adobe Workfront] task with the [!UICONTROL Open Proof ]link highlighted.](assets/open-proof-from-documents.png)
+![An image of the [!UICONTROL Documents] section found in an [!DNL  ] task with the [!UICONTROL Open Proof ]link highlighted.](assets/open-proof-from-documents.png)
 
 1. Click the name of the project, task, or issue.
 2. Click [!UICONTROL Documents] in the left panel menu of the item’s page.

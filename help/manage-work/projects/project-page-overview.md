@@ -1,6 +1,6 @@
 ---
 title: Understand the project page
-description: Learn about key features of the project page in [!DNL Adobe Workfront] to help you plan and manage your projects.
+description: Learn about key features of the project page in [!DNL  ] to help you plan and manage your projects.
 feature: Work Management
 type: Article
 role: User

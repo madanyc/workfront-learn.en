@@ -1,6 +1,6 @@
 ---
 title: Answers to Questions about Custom Forms
-description: Get answers to common questions about custom forms in [!DNL Adobe Workfront].
+description: Get answers to common questions about custom forms.
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User

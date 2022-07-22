@@ -14,7 +14,7 @@ exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 
 In this video, you will learn how to:
 
-* Create an automated workflow template for [!DNL Adobe Workfront] proofing
+* Create an automated workflow template for [!DNL  ] proofing
 * Assign proof recipients 
 * Set a review and approval process deadline
 * Share the automated workflow template with others

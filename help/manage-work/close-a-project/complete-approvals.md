@@ -1,6 +1,6 @@
 ---
 title: Complete approvals
-description: Learn how to identify incomplete approvals and resolve them so you can close your project in [!DNL Adobe Workfront].
+description: Learn how to identify incomplete approvals and resolve them so you can close your project in [!DNL  ].
 feature: Work Management
 type: Article
 role: User

@@ -1,6 +1,6 @@
 ---
 title: View milestones
-description: Learn how to view milestones in an [!DNL Adobe Workfront] project, plus use the milestone view in the [!UICONTROL Project] area.
+description: Learn how to view milestones in an [!DNL  ] project, plus use the milestone view in the [!UICONTROL Project] area.
 activity: deploy
 feature: Work Management
 type: Tutorial

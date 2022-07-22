@@ -1,6 +1,6 @@
 ---
 title: Create Template Groups to organize automated workflow templates
-description: Learn to how to make template groups to organize the automated proofing workflow templates you create in Adobe Workfront.
+description: Learn to how to make template groups to organize the automated proofing workflow templates you create  .
 feature: Workfront Proof
 type: Tutorial
 role: User, Administrator

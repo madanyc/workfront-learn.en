@@ -1,6 +1,6 @@
 ---
 title: Create a matrix report
-description: In this video, you will learn when a matrix report can be useful and how to create a matrix report in [!DNL Adobe Workfront].
+description: In this video, you will learn when a matrix report can be useful and how to create a matrix report in [!DNL  ].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

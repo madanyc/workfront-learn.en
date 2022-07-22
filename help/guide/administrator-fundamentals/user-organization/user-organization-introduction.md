@@ -1,6 +1,6 @@
 ---
-title: User organization&#58; Introduction
-description:  In this video, learn about Adobe Workfront companies, groups, and teams.
+title: Understand more about user organizations
+description:  In this video, learn about companies, groups, and teams.
 topic:
 activity: deploy
 doc-type: feature video
@@ -8,9 +8,9 @@ team: Technical Marketing
 kt: Jira ticket
 role: Admin
 ---
-# User organization&#58; Introduction
+# Understand more about user organizations
 
-In this video, you will learn about Adobe Workfront:
+In this video, you will learn about :
 
 * Companies
 * Groups

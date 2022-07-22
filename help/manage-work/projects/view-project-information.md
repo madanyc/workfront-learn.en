@@ -1,6 +1,6 @@
 ---
 title: View project information
-description: Learn how Filters, Views, and Groupings can make project information easily viewable to help you manage projects in Adobe Workfront.
+description: Learn how Filters, Views, and Groupings can make project information easily viewable to help you manage projects  .
 feature: Work Management
 type: Article
 role: User

@@ -1,6 +1,6 @@
 ---
 title: Viewing milestones
-description:  In this video, learn how to view milestones in an Adobe Workfront project, plus use the milestone view in the Project area.
+description:  In this video, learn how to view milestones in an project, plus use the milestone view in the Project area.
 topic:
 activity: deploy
 doc-type: feature video

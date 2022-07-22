@@ -15,7 +15,7 @@ exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 In this video, you will learn:
 
 * How to communicate work progress with status
-* Why status is important in [!DNL Adobe Workfront]
+* Why status is important in [!DNL  ]
 * How to filter the [!UICONTROL Work List] to see completed work
 
 >[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12)

@@ -1,6 +1,6 @@
 ---
 title: Establish organizational structures with Blueprints
-description: Learn how to locate and install Blueprints and add it to the Main Menu.
+description: Learn how to locate and install Blueprints and add it to the [!UICONTROL Main Menu].
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,7 +13,7 @@ kt: 10102
 
 # Establish organizational structures with Blueprints
 
-Adobe Workfront administrators can use Blueprints to help build out organizational structures in Workfront. This feature, located in the Main Menu, allows you to streamline the creation of companies, groups, roles, and teams in your environment.  
+Workfront administrators can use Blueprints to help build out organizational structures. This feature, located in the Main Menu, allows you to streamline the creation of companies, groups, roles, and teams in your environment.  
 
 ![Org structures with [!UICONTROL Blueprints]](assets/BP_orgstructure_01.png)
 

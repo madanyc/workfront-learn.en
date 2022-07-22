@@ -1,6 +1,6 @@
 ---
 title: Understand navigating and reviewing project activity
-description: In this video, you will learn how to compare projects based on users logged in, task status changes, and tasks completed in [!DNL Adobe Workfront].
+description: In this video, you will learn how to compare projects based on users logged in, task status changes, and tasks completed in [!DNL  ].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

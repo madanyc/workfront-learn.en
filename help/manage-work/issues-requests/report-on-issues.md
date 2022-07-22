@@ -1,6 +1,6 @@
 ---
 title: Report on Issues
-description: Learn how to centralize issues by creating a report in Adobe Workfront.
+description: Learn how to centralize issues by creating a report  .
 feature: Work Management
 type: Article
 role: User

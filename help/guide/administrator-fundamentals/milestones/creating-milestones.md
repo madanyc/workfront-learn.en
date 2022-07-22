@@ -1,6 +1,6 @@
 ---
 title: Creating milestones
-description:  In this video, learn what milestone paths are, how to create milestone paths, and how to add milestone steps in Adobe Workfront.
+description:  In this video, learn what milestone paths are, how to create milestone paths, and how to add milestone steps.
 topic:
 activity: deploy
 doc-type: feature video

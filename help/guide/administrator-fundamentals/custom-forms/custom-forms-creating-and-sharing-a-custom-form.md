@@ -1,6 +1,6 @@
 ---
 title: "Custom forms: Creating and sharing a custom form"
-description:  In this video, learn how to create a custom form, add unique fields to the form, organize fields using sections and logic, and share forms with Adobe Workfront users.
+description:  In this video, learn how to create a custom form, add unique fields to the form, organize fields using sections and logic, and share forms with users.
 activity: deploy
 doc-type: feature video
 team: Technical Marketing

@@ -1,6 +1,6 @@
 ---
 title: Track work progress with project metrics
-description: Learn how to use project metrics charts to track progress on project work in [!DNL Adobe Workfront].
+description: Learn how to use project metrics charts to track progress on project work in [!DNL  ].
 activity: use
 feature: Work Management
 type: Tutorial

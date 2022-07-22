@@ -1,6 +1,6 @@
 ---
 title: Convert Issues to Other Work Items
-description: Learn how to convert issues to other work items in Adobe Workfront.
+description: Learn how to convert issues to other work items  .
 feature: Work Management
 type: Article
 role: User

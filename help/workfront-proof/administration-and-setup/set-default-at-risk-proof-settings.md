@@ -1,6 +1,6 @@
 ---
 title: Set Default At Risk Proof Settings
-description: Learn how to set the default settings for at risk proof notificiations as part of the proofing setups in Adobe Workfront.
+description: Learn how to set the default settings for at risk proof notificiations as part of the proofing setups  .
 feature: Workfront Proof
 type: Article
 role: User, Administrator

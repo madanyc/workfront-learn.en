@@ -1,6 +1,6 @@
 ---
 title: Combine Multiple Files into a Single Proof
-description: Learn how to streamline the proofing process by combining multiple files into a single proof in [!DNL Adobe Workfront].
+description: Learn how to streamline the proofing process by combining multiple files into a single proof in [!DNL  ].
 feature: Workfront Proof
 type: Article
 role: User

@@ -1,6 +1,6 @@
 ---
 title: Proof Workflows as Part of Project Timelines
-description: Learn recommendations for blending a review and approval process with a project timeline in [!DNL Adobe Workfront].
+description: Learn recommendations for blending a review and approval process with a project timeline in [!DNL  ].
 activity: use
 feature: Workfront Proof
 type: Tutorial

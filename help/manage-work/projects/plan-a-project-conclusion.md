@@ -1,6 +1,6 @@
 ---
 title: Plan a project - review
-description: Review the five fields of an Adobe Workfront project to focus on when planning a project—tasks, duration, planned hours, predecessors, and assignments.
+description: Review the five fields of an   project to focus on when planning a project—tasks, duration, planned hours, predecessors, and assignments.
 feature: Work Management
 type: Article
 role: User
@@ -10,7 +10,7 @@ exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
 ---
 # Plan a project - review
 
-Get your [!DNL Adobe Workfront] projects up and running quickly by using a project template. Then plan your project by focusing first on these five fields:
+Get your [!DNL  ] projects up and running quickly by using a project template. Then plan your project by focusing first on these five fields:
 
 1. Tasks
 1. Duration

@@ -1,6 +1,6 @@
 ---
 title: Prioritize your work in Workfront Home
-description:  In this video, learn how to mark work as priority assignments and filter the Adobe Workfront Home Work List to see only priority work.
+description:  In this video, learn how to mark work as priority assignments and filter the   Home Work List to see only priority work.
 topic:
 activity: use
 doc-type: feature video

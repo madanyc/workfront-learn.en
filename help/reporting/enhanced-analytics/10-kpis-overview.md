@@ -1,6 +1,6 @@
 ---
 title: Understand KPIs
-description: In this video, you will learn how to get value from the KPI data in [!DNL Adobe Workfront].
+description: In this video, you will learn how to get value from the KPI data in [!DNL  ].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

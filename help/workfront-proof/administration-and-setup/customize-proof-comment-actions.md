@@ -1,6 +1,6 @@
 ---
 title: Customize Proof Comment Actions
-description: Learn how actions can be used on proof comments. Learn how to set up and customize action labels for Adobe Workfront's proofing features.
+description: Learn how actions can be used on proof comments. Learn how to set up and customize action labels for  's proofing features.
 feature: Workfront Proof
 type: Tutorial
 role: User, Administrator

@@ -10,7 +10,7 @@ exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 ---
 # Create OR statements in filters
 
-When you build a filter with multiple lines of criteria, Adobe Workfront by default puts an AND between each line. This means each result in the list when you use this filter meets all the filter rules. 
+When you build a filter with multiple lines of criteria,   by default puts an AND between each line. This means each result in the list when you use this filter meets all the filter rules. 
 
 In this example, we have three criteria, or rules, for a project filter: 
 

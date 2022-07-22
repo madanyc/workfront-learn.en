@@ -1,6 +1,6 @@
 ---
 title: How to create tasks
-description: Learn other methods for creating tasks in a project in [!DNL Adobe Workfront].
+description: Learn other methods for creating tasks in a project in [!DNL  ].
 feature: Work Management
 type: Article
 role: User

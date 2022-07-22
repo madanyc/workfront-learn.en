@@ -1,6 +1,6 @@
 ---
 title: How to Find Work Assignments in [!UICONTROL Home]
-description: Learn how to find incoming and existing work assigned to you in [!UICONTROL Adobe Workfront]. Then review assignment information.
+description: Learn how to find incoming and existing work assigned to you in [!UICONTROL  ]. Then review assignment information.
 feature: Work Management
 type: Tutorial
 role: User

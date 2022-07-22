@@ -1,6 +1,6 @@
 ---
 title: Review the tasks in flight
-description: Learn how to access the Tasks in flight chart and how to quickly see which tasks have not been completed in a project, all in [!DNL Adobe Workfront].
+description: Learn how to access the Tasks in flight chart and how to quickly see which tasks have not been completed in a project, all in [!DNL  ].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

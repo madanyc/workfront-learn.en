@@ -1,6 +1,6 @@
 ---
-title: How to Use a [!UICONTROL Business Case] in [!DNL Adobe Workfront]
-description: Learn how to use a [!UICONTROL Business Case] in [!DNL Adobe Workfront] so that you get the information you need on projects to make informed decisions.
+title: How to Use a [!UICONTROL Business Case] in [!DNL  ]
+description: Learn how to use a [!UICONTROL Business Case] in [!DNL  ] so that you get the information you need on projects to make informed decisions.
 feature: Strategic Planning
 type: Article
 role: User
@@ -84,7 +84,7 @@ Once the [!UICONTROL Business Case] is filled out, click the **[!UICONTROL Submi
 <!-- 
 Learn more graphic and links to documentation articles
 * Overview of areas of the business case 
-* Create a business case for a project in Adobe Workfront 
+* Create a business case for a project   
 * Create a scorecard 
 * Apply a scorecard to a project and generate an alignment score 
 -->

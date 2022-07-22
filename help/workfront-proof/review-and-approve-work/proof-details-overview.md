@@ -1,6 +1,6 @@
 ---
 title: Proof Details Explained
-description: Dig deeper into the details behind a proof in [!DNL Adobe Workfront] through the summary panel and [!UICONTROL Document Details] page.
+description: Dig deeper into the details behind a proof in [!DNL  ] through the summary panel and [!UICONTROL Document Details] page.
 feature: Workfront Proof
 type: Article
 role: User, Administrator
@@ -26,7 +26,7 @@ Note: The [!UICONTROL Approvals] section in the summary panel is for **document*
 
 If you need more information about the proof, the [!UICONTROL Document Details] link takes you to the proof’s “page” in [!DNL Workfront].
 
-![An image of the proof's page in [!DNL Adobe Workfront].](assets/document-details.png)
+![An image of the proof's page in [!DNL  ].](assets/document-details.png)
 
 It’s important to note that the ability to see information related to the proofing process depends on your proofing permissions in [!DNL Workfront].
 

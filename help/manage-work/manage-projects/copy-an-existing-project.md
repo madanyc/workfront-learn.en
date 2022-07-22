@@ -1,6 +1,6 @@
 ---
 title: Copy an existing project
-description: Learn how to make a copy of an existing project in Adobe Workfront.
+description: Learn how to make a copy of an existing project  .
 feature: Work Management
 type: Article
 role: User

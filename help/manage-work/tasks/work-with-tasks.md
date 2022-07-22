@@ -1,6 +1,6 @@
 ---
 title: Work with tasks
-description: Learn how to edit existing tasks, add and delete tasks, and change the task order on a project in [!DNL Adobe Workfront].
+description: Learn how to edit existing tasks, add and delete tasks, and change the task order on a project in [!DNL  ].
 activity: use
 feature: Work Management
 type: Tutorial

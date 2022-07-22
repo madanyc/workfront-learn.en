@@ -1,6 +1,6 @@
 ---
 title: How to Approve Work in [!UICONTROL Home]
-description: Learn how to find project, task, issue, and proof approval requests in the [!UICONTROL Work List], then approve or reject the work in [!DNL Adobe Workfront].
+description: Learn how to find project, task, issue, and proof approval requests in the [!UICONTROL Work List], then approve or reject the work in [!DNL  ].
 feature: Work Management
 type: Tutorial
 role: User

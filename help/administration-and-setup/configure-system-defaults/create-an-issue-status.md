@@ -1,6 +1,6 @@
 ---
 title: Create an Issue Status
-description: Learn how to create an issue status in [!DNL Adobe Workfront ]to meet the needs of your organization's workflows.
+description: Learn how to create an issue status to meet the needs of your organization's workflows.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -31,7 +31,7 @@ exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
 
 Group administrators can create and customize issue statuses for the groups they manage. This provides some autonomy for their group, providing them with the statuses they need to keep work moving. It also eliminates the need for a long list of system-wide statuses.
 
-Group admins can edit existing statuses if the system administrator has configured them to allow customization.
+Group administrators can edit existing statuses if the system administrator has configured them to allow customization.
 
 System administrators can manage statuses for groups by selecting the group name in the upper-right corner of the [!UICONTROL Statuses] window.
 

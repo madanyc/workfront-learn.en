@@ -1,6 +1,6 @@
 ---
 title: How to attach and edit existing approval processes
-description:  In this video, learn how to use and editing existing approval processes for projects, tasks, or issues in Adobe Workfront.
+description:  In this video, learn how to use and editing existing approval processes for projects, tasks, or issues.
 topic:
 activity: use
 doc-type: feature video

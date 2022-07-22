@@ -1,6 +1,6 @@
 ---
 title: Understand project communication
-description: Learn how to communicate about project work using updates on projects, tasks, issues, or documents. Then review existing updates in [!DNL Adobe Workfront].
+description: Learn how to communicate about project work using updates on projects, tasks, issues, or documents. Then review existing updates in [!DNL  ].
 feature: Work Management
 type: Article
 role: User
