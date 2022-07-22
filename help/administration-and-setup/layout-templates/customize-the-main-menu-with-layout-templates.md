@@ -1,6 +1,6 @@
 ---
 title: Layout Templates&#58; Customize the [!UICONTROL Main Menu]
-description: Learn how to use a layout template to customize the [!UICONTROL Main Menu] in [!DNL Adobe Workfront].
+description: Learn how to use a layout template to customize the [!UICONTROL Main Menu].
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin

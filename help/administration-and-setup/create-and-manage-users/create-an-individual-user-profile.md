@@ -1,6 +1,6 @@
 ---
 title: Create an Individual User Profile
-description: Learn to add users to [!DNL Adobe Workfront] by creating a single user profile from scratch or by copying an existing user.
+description: Learn to add users by creating a single user profile from scratch or by copying an existing user.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,7 +10,7 @@ level: Beginner
 kt: 10036
 exl-id: 91ac3283-c2ad-493e-869c-9cfccfae35dd
 ---
-# Create an individual user profile in [!DNL Adobe Workfront]
+# Create an individual user profile
 
 When a new employee is hired, or someone transfers into a department using [!DNL Workfront], the system administrator needs to create just one user. This can be done quickly and easily from the [!UICONTROL Users] area in [!DNL Workfront].
 

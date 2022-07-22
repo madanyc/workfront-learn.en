@@ -1,6 +1,6 @@
 ---
 title: Customize Project Details with Layout Templates
-description: Learn how to customize the project details fields using an [!DNL Adobe Workfront] layout template.
+description: Learn how to customize the project details fields using a layout template.
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

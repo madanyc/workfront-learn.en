@@ -300,21 +300,21 @@ feature-set: Workfront
     + [View individual goal updates](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)  
 
 
-+ Adobe Workfront Integrations {#adobe-workfront-integrations}
++ Integrations {#integrations}
   + Adobe Creative Cloud {#adobe-creative-cloud}
     + [Upload proofs with Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
     + [Use Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
 
   + G Suite {#g-suite-integrations}
-    + [Use Workfront for Adobe Creative Cloud](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
+    + [Enhance your workflow with the G Suite Integration](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
   + Jira {#jira}
-    + [Use Workfront for Adobe Creative Cloud](integrations/jira/jira.md)
+    + [Create visibility with the [!DNL Jira] Integration](integrations/jira/jira.md)
 
   + Microsoft Outlook {#outlook}
     + [Install the Microsoft Outlook add-in](integrations/outlook/integrations-microsoft-outlook.md)
 
-  + Workfront for Slack {#slack}
+  + Slack {#slack}
     + [Access your to-do list through [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
     + [Assign tasks through [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
     + [Make approvals through [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
@@ -415,7 +415,7 @@ feature-set: Workfront
     + [Work with assets as a user](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Home {#home}
-    + [Approve work in [!UICONTROL Workfront Home]](workfront-home/approve-work-in-workfront-home.md)
+    + [Approve work in [!UICONTROL Home]](workfront-home/approve-work-in-workfront-home.md)
     + [Collaborate on work with [!UICONTROL My Updates]](workfront-home/collaborate-on-work-with-my-updates.md)
     + [Communicate about work](workfront-home/communicate-about-work-in-workfront-home.md)
     + [Find your work](workfront-home/find-your-work-in-workfront-home.md)
@@ -424,5 +424,5 @@ feature-set: Workfront
     + [Mark assigned work as complete](workfront-home/mark-assigned-work-as-complete.md)
     + [Organize your to-do list](workfront-home/organize-your-to-do-list-in-workfront-home.md)
     + [Prioritize your work](workfront-home/prioritize-your-work-in-workfront-home.md)
-    + [Review work in [!UICONTROL My Updates] or [!UICONTROL Workfront Home]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
+    + [Review work in [!UICONTROL My Updates] or [!UICONTROL Home]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
 

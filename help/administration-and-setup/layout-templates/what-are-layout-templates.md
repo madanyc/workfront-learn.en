@@ -1,6 +1,6 @@
 ---
 title: What are Layout Templates?
-description: Learn how layout templates are used in [!DNL Adobe Workfront] to customize what users see in the interface.
+description: Learn how layout templates are used to customize what users see in the interface.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -14,17 +14,17 @@ exl-id: 163c3421-37c1-4160-92be-ec27e353ada4
 
 [!DNL Adobe Workfront] has a lot of good tools to help you get work done. But too much of a good thing can be overwhelming. 
 
-![Workfront Home and Main Menu](assets/what-are-layout-templates-01.png)
+![Home and Main Menu](assets/what-are-layout-templates-01.png)
 
 Layout templates let system administrators and group administrators customize the user’s experience in Workfront and allow those users to focus on what’s important to them.
 
-![Workfront Home and Main Menu](assets/what-are-layout-templates-02.png)
+![Home and Main Menu](assets/what-are-layout-templates-02.png)
 
 For example, the majority of your organization doesn't log time. However, the consultant team does bill clients, so they need to log time to ensure accurate billing. With a layout template, timesheets can be hidden for those who don't need them and show for those who do.
 
-![Workfront Home and Main Menu](assets/what-are-layout-templates-03.png)
+![Home and Main Menu](assets/what-are-layout-templates-03.png)
 
-![Workfront Home and Main Menu](assets/what-are-layout-templates-04.png)
+![Home and Main Menu](assets/what-are-layout-templates-04.png)
 
 
 ## Before you build

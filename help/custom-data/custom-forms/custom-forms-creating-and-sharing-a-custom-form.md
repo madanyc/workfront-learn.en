@@ -1,6 +1,6 @@
 ---
 title: Create and Share a Custom Form
-description: Learn how to create a custom form, add unique fields to the form, organize fields using sections and logic, and share forms with [!DNL Adobe Workfront] users.
+description: Learn how to create a custom form, add unique fields to the form, organize fields using sections and logic, and share forms with users.
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User
@@ -23,7 +23,7 @@ In this video, you will learn how to:
 
 ## Custom forms work with multiple object types
 
-Adobe Workfront has recently updated custom forms to support multiple object types. Now, when you click on the [!UICONTROL New Custom Form] button, you can select as many objects as you want to use with a single custom form. All the fields you add to this form will be available to any of the selected objects when the custom form is attached to them.
+When you click on the [!UICONTROL New Custom Form] button, you can select as many objects as you want to use with a single custom form. All the fields you add to this form will be available to any of the selected objects when the custom form is attached to them.
 
 ![Custom form window showing the [!UICONTROL New Custom Form] object options](assets/create-custom-form.png)
 

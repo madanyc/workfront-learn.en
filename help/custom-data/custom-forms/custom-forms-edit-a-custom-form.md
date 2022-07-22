@@ -1,6 +1,6 @@
 ---
 title: How to Edit Custom Forms
-description: Learn how to edit the information on a custom form after it's attaching to an object in [!DNL Adobe Workfront].
+description: Learn how to edit the information on a custom form after it's attaching to an object.
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User
@@ -16,7 +16,7 @@ exl-id: 7ce0c3c6-9a17-49fe-87a8-8ff1e628ea62
 21.4 updates have been made here
 --->
 
-You can edit information on a custom form in [!DNL Adobe Workfront] after the form is attached to an object. 
+You can edit information on a custom form after the form is attached to an object. 
 
 1. Navigate to the object for which you want to edit information on the custom form. 
 1. Click [Object type] **[!UICONTROL Details]** in the left panel. 

@@ -1,6 +1,6 @@
 ---
-title: Add users to Adobe Workfront
-description: Learn what information you'll need to gather about users before creating user profiles in [!DNL Adobe Workfront].
+title: Add users
+description: Learn what information you'll need to gather about users before creating user profiles.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,7 +10,7 @@ level: Beginner
 kt: 10035
 exl-id: 5e9e252c-c434-47ea-9b55-5caa09029505
 ---
-# Add users to [!DNL Adobe Workfront]
+# Add users
 
 Making sure the right people have user logins and the right permissions to [!DNL Workfront] is a key to success. User logins can be created by system administrators or those with a Plan license that grants administrative access to user information.
 

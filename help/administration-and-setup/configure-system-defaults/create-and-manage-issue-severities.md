@@ -1,6 +1,6 @@
 ---
 title: How to Create and Manage Issue Severities
-description: Learn how to set up and manage issue severities in [!DNL Adobe Workfront].
+description: Learn how to set up and manage issue severities.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial

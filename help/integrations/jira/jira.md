@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Jira] Integration'
+title: 'Create visibility with the [!DNL Jira] Integration'
 description: Get a glimpse into how the [!DNL Jira] integration can create visibility into what your team is doing.
 activity: use
 feature: Workfront Integrations and Apps
@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
 ---
-# [!DNL Jira]  integration
+# Create visibility with the [!DNL Jira] Integration
 
 [!DNL Jira]  is a product used to track projects and issues for development and technical support teams. While many teams use Jira to track task level progress, they use [!DNL Workfront] to do true project management because they can get a high-level progress view. With the [!DNL Jira]  native integration, this information can automatically transfer between the two applications.
 

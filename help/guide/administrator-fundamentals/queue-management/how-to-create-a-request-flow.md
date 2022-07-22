@@ -1,6 +1,6 @@
 ---
 title: How to create a request flow
-description:  In this video, learn how to configure Adobe Workfront queue topics, topic groups, and routing rules.
+description:  In this video, learn how to configure queue topics, topic groups, and routing rules.
 topic:
 activity: deploy
 doc-type: feature video

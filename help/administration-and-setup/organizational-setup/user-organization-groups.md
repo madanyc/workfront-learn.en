@@ -1,6 +1,6 @@
 ---
 title: How to Use Groups for User Organization
-description: Learn how to use groups and subgroups for user organization and permissions to work in [!DNL Adobe Workfront]. Learn to create a group and subgroups.
+description: Learn how to use groups and subgroups for user organization and permissions to work. Learn to create a group and subgroups.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -14,9 +14,9 @@ exl-id: b7f8ccb5-457f-4d89-bb57-5d9d6e169191
 
 In this video, you will learn how to:
 
-* Use groups in [!DNL Adobe Workfront]
-* Add a group in [!DNL Adobe Workfront]
-* Associate a group in [!DNL Adobe Workfront]
+* Use groups
+* Add a group
+* Associate a group
 * Create and associate subgroups
 
 >[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12)

@@ -1,6 +1,6 @@
 ---
 title: Project setup
-description:  In this video, learn how to change a custom status, set global project preferences, and create schedules in Adobe Workfront.
+description:  In this video, learn how to change a custom status, set global project preferences, and create schedules.
 topic:
 activity: deploy
 doc-type: feature video
@@ -12,7 +12,7 @@ role: Admin
 
 In this video, you will learn how to:
 
-* Change a custom status in Adobe Workfront
+* Change a custom status
 * Set global project preferences
 * Create and use schedules
 

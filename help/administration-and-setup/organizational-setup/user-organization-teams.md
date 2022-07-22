@@ -1,6 +1,6 @@
 ---
 title: How to Use Teams for User Organization
-description: Learn how teams are used in [!DNL Adobe Workfront], how to use cross-functional teams, and how to create teams to help organize users and grant permissions.
+description: Learn how teams are used, how to use cross-functional teams, and how to create teams to help organize users and grant permissions.
 feature: System Setup and Administration
 role: Admin
 level: Intermediate, Experienced
@@ -14,9 +14,9 @@ exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 
 In this video, you will learn:
 
-* How teams are used in [!DNL Adobe Workfront]
+* How teams are used
 * How to use cross-functional teams
-* How to create and associate teams in [!DNL Adobe Workfront]
+* How to create and associate teams
 
 >[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12)
 

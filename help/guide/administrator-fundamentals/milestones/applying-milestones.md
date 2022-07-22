@@ -1,6 +1,6 @@
 ---
 title: Applying milestones
-description:  In this video, learn how to apply milestone paths to an Adobe Workfront project and associate key tasks as milestone steps within the project.
+description:  In this video, learn how to apply milestone paths to a project and associate key tasks as milestone steps within the project.
 topic:
 activity: deploy
 doc-type: feature video

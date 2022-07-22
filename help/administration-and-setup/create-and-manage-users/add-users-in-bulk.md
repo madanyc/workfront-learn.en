@@ -1,6 +1,6 @@
 ---
 title: Add User Profiles in Bulk
-description: Learn how to add multiple users at a time to Adobe Workfront, using a spreadsheet for a kick-start template.
+description: Learn how to add multiple users at a time using a spreadsheet for a kick-start template.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,9 +10,9 @@ level: Beginner
 kt: 10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
 ---
-# Add users in bulk to [!DNL Adobe Workfront]
+# Add users in bulk
 
-Adding users one at a time to [!DNL Adobe Workfront] can be time consuming and overwhelming. [!DNL Workfront] allows a system administrator to add multiple users at the same time using the import feature.
+Adding users one at a time can be time consuming and overwhelming. [!DNL Workfront] allows a system administrator to add multiple users at the same time using the import feature.
 
 ![[!UICONTROL Import People] menu option](assets/admin-fund-adding-users-5.png)
 

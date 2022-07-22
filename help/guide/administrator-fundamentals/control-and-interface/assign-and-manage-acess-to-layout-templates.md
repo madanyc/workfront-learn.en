@@ -1,6 +1,6 @@
 ---
 title: Assign and manage access to layout templates
-description:  In this video, learn how to assign layout templates to Adobe Workfront users and control who can manage access.
+description:  In this video, learn how to assign layout templates to users and control who can manage access.
 topic:
 activity: deploy
 doc-type: feature video

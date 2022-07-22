@@ -1,6 +1,6 @@
 ---
 title: Customize project details with layout templates
-description:  In this video, learn how to customize the project details fields using an Adobe Workfront layout template.
+description:  In this video, learn how to customize the project details fields using a layout template.
 topic:
 activity: deploy
 doc-type: feature video

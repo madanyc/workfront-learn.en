@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Workfront] for G Suite Integration'
+title: 'Enhance your workflow with the G Suite Integration'
 description: Learn how to convert an email to a [!DNL Workfront] task or issue, view and update [!DNL Workfront] work from Gmail, and approve [!DNL Workfront] work from Gmail.
 activity: use
 feature: Workfront Integrations and Apps
@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
 ---
-# [!DNL Workfront] for G Suite Integration
+# Enhance your workflow with the G Suite Integration
 
 In this video, you will learn how to:
 

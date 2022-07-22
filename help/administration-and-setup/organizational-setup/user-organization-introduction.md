@@ -1,6 +1,6 @@
 ---
 title: Where to start with user organization
-description: Learn how [!DNL Adobe Workfront] uses companies, groups, and teams for user organization and permissions to work items.
+description: Learn how to use companies, groups, and teams for user organization and permissions to work items.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,7 +11,7 @@ kt: 8756
 ---
 # Where to start with user organization
 
-In this video, you will learn about [!DNL Adobe Workfront]:
+In this video, you will learn about:
 
 * Companies
 * Groups

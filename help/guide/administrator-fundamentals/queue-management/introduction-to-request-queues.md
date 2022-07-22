@@ -1,6 +1,6 @@
 ---
 title: Introduction to request queues
-description:  In this video, learn how request queues are structured in Adobe Workfront and how to submit a request.
+description:  In this video, learn how request queues are structured and how to submit a request.
 topic:
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User
 
 In this video, you will learn:
 
-* How to submit a request through an Adobe Workfront request queue
+* How to submit a request through a request queue
 * How request queues are structured
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12)
