@@ -16,7 +16,7 @@ See other user landing pages to get ideas.
 
 ## What's New?
 
-Explore the latest updates made to the tutorials for each Wokfront product release. Here's what was updated with the latest release:
+Explore the latest updates made to the tutorials for each Workfront product release. Here's what was updated with the latest release:
 
 * The favorites and recents icon were separated in the top navigation on Workfront. A brief summary of each can be found in the <a href="/help/manage-work/projects/find-projects.md">Find Projects</a> tutorial.
 
