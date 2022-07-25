@@ -1,5 +1,5 @@
 ---
-title: How to Customize Issue Types and Terminology
+title: Customize Issue Types and Terminology
 description: Learn how to customize and rename the four default issue types to suit your organization's needs.
 feature: System Setup and Administration
 activity: deploy

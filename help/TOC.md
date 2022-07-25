@@ -34,27 +34,27 @@ feature-set: Workfront
     + [Customize object areas with a layout template](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
     + [Customize project details with layout templates](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
     + [Customize reporting lists with layout templates](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
-    + [Customize the Main Menu with layout templates](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+    + [Customize the [!UICONTROL Main Menu] with layout templates](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
     + [Customize Workfront Home with layout templates](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
-    + [Customize terminology](administration-and-setup/layout-templates/customize-workfront-terminology.md)
+    + [Customize terminology with layout templates](administration-and-setup/layout-templates/customize-workfront-terminology.md)
     + [Find layout templates](administration-and-setup/layout-templates/find-layout-templates.md)
     + [What are layout templates?](administration-and-setup/layout-templates/what-are-layout-templates.md)
 
   + Email and In App Notifications {#email-and-in-app-notifications}
-    + [Attach reminder notifications](administration-and-setup/email-and-in-app-notifications/user-attach-reminder-notifications.md)
-    + [Create reminder notifications](administration-and-setup/email-and-in-app-notifications/admin-create-reminder-notifications.md)
+    + [Attach reminder notifications to work items](administration-and-setup/email-and-in-app-notifications/user-attach-reminder-notifications.md)
+    + [Set up reminder notifications](administration-and-setup/email-and-in-app-notifications/admin-create-reminder-notifications.md)
     + [Manage inapp and email notifications](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
     + [Set up automatic reminders](administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
     + [Set up event notifications](administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
     + [Subscribe to work items](administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
-    + [Use the announcement center](administration-and-setup/email-and-in-app-notifications/admin-use-the-announcement-center.md)
+    + [Send [!UICONTROL Announcement Center] messages](administration-and-setup/email-and-in-app-notifications/admin-use-the-announcement-center.md)
 
   + Create and manage users {#create-and-manage-users}
     + [Add users in bulk](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
     + [Add users](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
     + [Create an individual user](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
     + [Modify user information](administration-and-setup/create-and-manage-users/modify-user-information.md)
-    + [Understand the difference between deactivating and deleting users](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
+    + [When and how to deactivate or delete users](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
     + [Understand the system audit log](administration-and-setup/create-and-manage-users/system-audit-log.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
@@ -77,9 +77,9 @@ feature-set: Workfront
     + [Create LEFT/RIGHT expressions](custom-data/calculated-expressions/create-left-right-expressions.md)
     + [Get started with calculated fields and expressions](custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
     + [Learn the data expression structure](custom-data/calculated-expressions/data-expression-structure.md)
-    + [Things to know about expressions](custom-data/calculated-expressions/things-to-know-about-expressions.md)
+    + [Things to know about calculated field expressions](custom-data/calculated-expressions/things-to-know-about-expressions.md)
     + [Understand Date & Time and Mathematical expressions](custom-data/calculated-expressions/date-and-time-and-mathematical-expressions.md)
-    + [Understand ISBLANK and CONTAINS](custom-data/calculated-expressions/isblank-and-contains.md)
+    + [Use the ISBLANK and CONTAINS expressions](custom-data/calculated-expressions/isblank-and-contains.md)
     + [Use the Calculation Editor](custom-data/calculated-expressions/use-the-calculation-editor.md)
     + [Use the CONCAT expression in a calculated field](custom-data/calculated-expressions/use-the-concat-expression-in-a-calculated-field.md)
 

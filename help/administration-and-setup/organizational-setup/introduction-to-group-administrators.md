@@ -1,5 +1,5 @@
 ---
-title: Group Administrators Explained
+title: Understand the need for group administrators
 description: Learn how system administrators can use group administrators to help maintain [!DNL Workfront] settings while giving groups more control over their work.
 feature: System Setup and Administration
 activity: deploy
@@ -10,7 +10,7 @@ level: Intermediate, Experienced
 kt: 10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 ---
-# Introduction to group administrators
+# Understand the need for group administrators
 
 <!---
 21.4 updates have been made

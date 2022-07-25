@@ -1,5 +1,5 @@
 ---
-title: Assign and Manage Layout Template Access
+title: Assign and Manage Access to Layout Templates
 description: Learn to assign layout templates to users and control who can manage access.
 feature: System Setup and Administration
 level: Intermediate

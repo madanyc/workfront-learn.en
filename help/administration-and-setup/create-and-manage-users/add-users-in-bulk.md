@@ -1,5 +1,5 @@
 ---
-title: Add User Profiles in Bulk
+title: Add User in Bulk
 description: Learn how to add multiple users at a time using a spreadsheet for a kick-start template.
 feature: System Setup and Administration
 activity: deploy

@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
 ---
-# Things to know about calculated field exprsesions
+# Things to know about calculated field expressions
 
 Here is a list of concepts that are good to know when working with custom calculated fields in [!DNL Workfront].
 

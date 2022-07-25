@@ -1,5 +1,5 @@
 ---
-title: How to Export a Custom Form
+title: Export a Custom Form as a PDF
 description: Learn how to export a custom form as a PDF to easily share the information with others.
 feature: System Setup and Administration
 type: Tutorial

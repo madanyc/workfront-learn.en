@@ -1,5 +1,5 @@
 ---
-title: How to Attach Reminder Notifications
+title: Attach Reminder Notifications to Work Items
 description: Learn how to attach reminder notifications to projects, tasks, issues, or timesheets to let people know when work is due or overdue.
 feature: System Setup and Administration
 activity: deploy

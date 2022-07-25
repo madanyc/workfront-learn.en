@@ -1,5 +1,5 @@
 ---
-title: Layout Templates&#58; Customize the [!UICONTROL Main Menu]
+title: Customize the [!UICONTROL Main Menu] with layout templates
 description: Learn how to use a layout template to customize the [!UICONTROL Main Menu].
 feature: System Setup and Administration
 team: Technical Marketing

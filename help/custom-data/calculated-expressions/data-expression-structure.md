@@ -1,5 +1,5 @@
 ---
-title: Data expression structure
+title: Learn the data expression structure
 description: Learn the standard elements used when building expressions in Adobe [!DNL Workfront].
 feature: System Setup and Administration
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8911
 exl-id: 9696c36a-ffde-491c-a8c2-12f20f6bc374
 ---
-# Data expression structure
+# Learn the data expression structure
 
 In this video, you will learn:
 

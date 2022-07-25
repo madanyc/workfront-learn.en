@@ -1,5 +1,5 @@
 ---
-title: How to Create Reminder Notifications
+title: Set up Reminder Notifications
 description: Learn how to set up object-specific reminder notifications to let users know when work is due soon or overdue.
 feature: System Setup and Administration
 activity: deploy

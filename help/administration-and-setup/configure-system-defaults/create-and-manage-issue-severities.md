@@ -1,5 +1,5 @@
 ---
-title: How to Create and Manage Issue Severities
+title: Create and Manage Issue Severities
 description: Learn how to set up and manage issue severities.
 feature: System Setup and Administration
 activity: deploy

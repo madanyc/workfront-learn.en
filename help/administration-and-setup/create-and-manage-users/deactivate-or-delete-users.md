@@ -1,5 +1,5 @@
 ---
-title: How to Deactivate or Delete Users
+title: When and how to deactivate or delete users
 description: Learn the difference between deactivating and deleting users. Then manage user profiles according to your organization's needs.
 feature: System Setup and Administration
 activity: deploy
@@ -10,7 +10,7 @@ level: Beginner
 kt: 10037
 exl-id: 89b7d083-97d3-4783-a61d-35226d6582c0
 ---
-# Deactivate vs. Delete Users
+# When and how to deactivate or delete users
 
 When a user leaves the organization or no longer uses [!DNL Workfront], you’ll want to deactivate their login. Deleting a user profile should be done only in specific situations.
 

@@ -1,5 +1,5 @@
 ---
-title: How to Share Custom Fields
+title: Share custom fields
 description: Learn how to adjust the permissions on a custom field to determine whether users can manage or only view the custom field.
 feature: System Setup and Administration
 type: Tutorial

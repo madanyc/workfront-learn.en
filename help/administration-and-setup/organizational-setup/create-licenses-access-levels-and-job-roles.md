@@ -1,5 +1,5 @@
 ---
-title: Create licenses, access levels, and job roles
+title: Set up users with licenses, access levels, and job roles
 description: Learn about how licenses and access levels control what access users have. Learn how job roles are used in the system.
 feature: System Setup and Administration
 activity: deploy
@@ -10,7 +10,7 @@ level: Beginner
 kt: 8754
 exl-id: 49cb518a-f3ae-4fdd-b617-2c19006c7552
 ---
-# Create licenses, access levels, and job roles
+# Set up users with licenses, access levels, and job roles
 
 In this video, you will learn about:
 

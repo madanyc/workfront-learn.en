@@ -1,5 +1,5 @@
 ---
-title: Default Issue Statuses Explained
+title: Understand Default Issue Statuses
 description: Learn about the default issue statues and why you might want to customize them to match your organization's workflow.
 feature: System Setup and Administration
 activity: deploy
@@ -10,7 +10,7 @@ level: Intermediate, Experienced
 kt: 10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
 ---
-# Default issue statuses in [!DNL Workfront]
+# Understand default issue statuses
 
 Because each issue type is tracking different types of information, each type may require unique workflows in order for them to be resolved. Customize the statuses for each issue type to match that issue type’s workflow.
 

@@ -1,5 +1,5 @@
 ---
-title: How to Follow Work Items by Subscribing
+title: Subscribe to work items
 description: Learn how to subscribe to projects, tasks, or issues to receive notifications when comments are made on the item.
 feature: System Setup and Administration
 activity: deploy
