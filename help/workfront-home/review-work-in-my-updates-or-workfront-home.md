@@ -12,7 +12,7 @@ exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 ---
 # Review work in [!DNL My Updates] or [!DNL Home]
 
-  provides two places to access work assigned to you for review and approval: 
+Workfront provides two places to access work assigned to you for review and approval: 
 
 * [!DNL My Updates] 
 * [!DNL Home] 
