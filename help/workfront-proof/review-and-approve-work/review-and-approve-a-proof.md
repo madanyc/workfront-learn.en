@@ -37,7 +37,7 @@ The [!UICONTROL New Proof] email also contains essential information about the p
 
 Once you’re ready to start your review, all you have to do is click the blue [!UICONTROL Go to proof] button and the file automatically opens into [!DNL Workfront’s] proofing viewer.
 
-### Open a proof from [!UICONTROL Workfront Home]
+### Open a proof from [!UICONTROL Home]
 
 If you’re working in [!DNL Workfront] and have been asked to approve a proof, you’ll find an assignment in the [!UICONTROL Work List] of [!DNL Workfront] [!UICONTROL Home]. It’s helpful to select just [!UICONTROL Approvals] from the [!UICONTROL Filter], so you can focus on that type of work.
 

@@ -35,7 +35,7 @@ feature-set: Workfront
     + [Customize project details with layout templates](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
     + [Customize reporting lists with layout templates](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
     + [Customize the [!UICONTROL Main Menu] with layout templates](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
-    + [Customize Workfront Home with layout templates](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
+    + [Customize Home with layout templates](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
     + [Customize terminology with layout templates](administration-and-setup/layout-templates/customize-workfront-terminology.md)
     + [Find layout templates](administration-and-setup/layout-templates/find-layout-templates.md)
     + [What are layout templates?](administration-and-setup/layout-templates/what-are-layout-templates.md)

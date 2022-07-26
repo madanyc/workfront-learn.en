@@ -1,5 +1,5 @@
 ---
-title: Approve work in Workfront Home
+title: Approve work in Home
 description:  In this video, learn how to find approvals in the Work List, approve or reject work, and review a proof.
 topic:
 activity: use
@@ -7,7 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 ---
-# Approve work in Workfront Home
+# Approve work in Home
 
 In this video, you will learn how to:
 

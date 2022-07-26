@@ -1,5 +1,5 @@
 ---
-title: Log hours on work in Workfront Home
+title: Log hours on work in Home
 description:  In this video, learn how to log time on work assignments  .
 topic:
 activity: use
@@ -7,7 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 ---
-# Log hours on work in Workfront Home
+# Log hours on work in Home
 
 In this video, you will learn:
 

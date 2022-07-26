@@ -35,13 +35,13 @@ Edit user assignments for multiple issues
 
 ## Receiving an issue assignment
 
-You’ll find issues assigned to you in the [!UICONTROL Work List] in [!UICONTROL Workfront Home].
+You’ll find issues assigned to you in the [!UICONTROL Work List] in [!UICONTROL Home].
 
-![An image of an issue assignment in the [!UICONTROL Work List] in [!UICONTROL Workfront Home]](assets/05-workfront-home-work-list.png)
+![An image of an issue assignment in the [!UICONTROL Work List] in [!UICONTROL Home]](assets/05-workfront-home-work-list.png)
 
 Use the [!UICONTROL Filter] menu to narrow down the list so you’re viewing only issues, if desired.
 
-![An image of the [!UICONTROL Filter] menu in the [!UICONTROL Work List] in [!UICONTROL Workfront Home]](assets/06-workfront-home-issue-filter.png)
+![An image of the [!UICONTROL Filter] menu in the [!UICONTROL Work List] in [!UICONTROL Home]](assets/06-workfront-home-issue-filter.png)
 
 When an issue is assigned to a team, it appears in the [!UICONTROL Team Requests] section of the [!UICONTROL Team] page. A team member can click the [!UICONTROL Work On It] button to accept the assignment or a team lead can click the [!UICONTROL Reassign] icon to give the request to a specific person.
 
@@ -66,15 +66,15 @@ You and your team members can post updates and log hours on issues to provide vi
 
 Because there are multiple ways to post updates in [!DNL Workfront], follow your team’s specific directions regarding the recommended way that works with your system configurations and workflows.
 
-Updates and hours can be posted on the issue from [!UICONTROL Workfront Home]. Click **[!UICONTROL New Updates]** to post a comment.
+Updates and hours can be posted on the issue from [!UICONTROL Home]. Click **[!UICONTROL New Updates]** to post a comment.
 
-![An image of posting an update on an issue from [!UICONTROL Workfront Home].](assets/09-workfront-home-update.png)
+![An image of posting an update on an issue from [!UICONTROL Home].](assets/09-workfront-home-update.png)
 
 When you comment on an issue, you can direct the message to other users or teams using the @name feature, much like you can on social media.
 
 Click the **[!UICONTROL Log Time]** button to record the hours you worked on the issue.
 
-![An image of logging hours on an issue from [!UICONTROL Workfront Home].](assets/10-workfront-home-log-hours.png)
+![An image of logging hours on an issue from [!UICONTROL Home].](assets/10-workfront-home-log-hours.png)
 
 Or you can open the issue (click the name) and record your information there.
 
@@ -98,7 +98,7 @@ Subscribing is a great way for other team members or project managers to track w
 
 In addition to posting comments or logging hours, don’t forget to change the status of the issue to indicate you’re working on it. And then change it again to indicate work is complete.
 
-Change the status in the header from [!UICONTROL Workfront Home] or when you’ve opened the issue page.
+Change the status in the header from [!UICONTROL Home] or when you’ve opened the issue page.
 
 ![An image of updating an issue's status.](assets/13-update-issue-status.png)
 

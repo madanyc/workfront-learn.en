@@ -24,7 +24,7 @@ Then you can reply to updates, simply by clicking the button. This keeps all con
 
 <!---
 learn more urls
-Communicate about work in Workfront Home
+Communicate about work in Home
 Subscribe to items in Workfront
 Update work
 --->

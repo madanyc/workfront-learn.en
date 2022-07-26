@@ -1,5 +1,5 @@
 ---
-title: Find your work in Workfront Home
+title: Find your work in Home
 description:  In this video, learn how to find incoming and existing work assignments and review assignment information  .
 topic:
 activity: use
@@ -7,7 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 ---
-# Find your work in Workfront Home
+# Find your work in Home
 
 In this video, you will learn how to:
 

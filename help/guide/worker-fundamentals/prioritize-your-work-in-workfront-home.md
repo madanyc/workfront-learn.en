@@ -1,5 +1,5 @@
 ---
-title: Prioritize your work in Workfront Home
+title: Prioritize your work in Home
 description:  In this video, learn how to mark work as priority assignments and filter the   Home Work List to see only priority work.
 topic:
 activity: use
@@ -7,7 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 ---
-# Prioritize your work in Workfront Home
+# Prioritize your work in Home
 
 In this video, you will learn how to:
 
