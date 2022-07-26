@@ -1,6 +1,6 @@
 ---
 title: Understand settings for a flow request
-description: Learn how the request flow process in [!DNL  ] works. Then create routing rules, topic groups, and queue topics.
+description: Learn how the request flow process in [!DNL  Workfront] works. Then create routing rules, topic groups, and queue topics.
 activity: delpoy
 feature: Work Management
 type: Tutorial

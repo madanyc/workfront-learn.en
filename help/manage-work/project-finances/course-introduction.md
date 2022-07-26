@@ -1,6 +1,6 @@
 ---
 title: Course Introduction
-description:  Learn how to use a project's budget, track costs and revenue, and handle expenses in [!DNL  ].
+description:  Learn how to use a project's budget, track costs and revenue, and handle expenses in [!DNL  Workfront].
 activity: use
 feature: Work Management
 type: Tutorial

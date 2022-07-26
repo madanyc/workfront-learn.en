@@ -1,6 +1,6 @@
 ---
 title: Fill in the project details
-description: Learn which 12 project details fields [!DNL  ] recommends you fill in when creating a project.
+description: Learn which 12 project details fields [!DNL  Workfront] recommends you fill in when creating a project.
 feature: Work Management
 type: Article
 role: User
@@ -10,7 +10,7 @@ exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 ---
 # Fill in the project details
 
-Don’t worry … you don’t have to fill out every field and checkbox in the project details with each project you create in [!DNL  ]. Use templates to pre-fill information, then turn your attention to the 12 most important project details fields listed below. 
+Don’t worry … you don’t have to fill out every field and checkbox in the project details with each project you create in [!DNL  Workfront]. Use templates to pre-fill information, then turn your attention to the 12 most important project details fields listed below. 
 
 1. **Name**
    

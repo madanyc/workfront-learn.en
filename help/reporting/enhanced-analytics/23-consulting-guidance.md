@@ -1,6 +1,6 @@
 ---
 title: Understand consulting guidance
-description: In this video, you will learn how to make recommendations to help your organization operate more efficiently in [!DNL  ].
+description: In this video, you will learn how to make recommendations to help your organization operate more efficiently in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

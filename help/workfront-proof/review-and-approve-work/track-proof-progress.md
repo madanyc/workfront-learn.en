@@ -1,6 +1,6 @@
 ---
 title: How to Track Proof Progress
-description: Learn how to use [!UICONTROL SOCD] indicators, proof progress, and reports to track the progress of a proof in [!DNL  ].
+description: Learn how to use [!UICONTROL SOCD] indicators, proof progress, and reports to track the progress of a proof in [!DNL  Workfront].
 feature: Workfront Proof
 type: Article
 role: User
@@ -18,7 +18,7 @@ To view proof progress in [!DNL Workfront], you must have a Plan, Work, or Revie
 
 Get a high-level view of how the proof is progressing through the review and approval process using the [!UICONTROL SOCD] icons in the [!UICONTROL Documents] list. These icons indicate specific actions taken on the proof.
 
-![An image of the [!UICONTROL Documents] list in an [!DNL  ] project with the [!UICONTROL SOCD] icons highlighted.](assets/manage-proofs-socd.png)
+![An image of the [!UICONTROL Documents] list in an [!DNL  Workfront] project with the [!UICONTROL SOCD] icons highlighted.](assets/manage-proofs-socd.png)
 
 The icons indicate the work done on a proof from the time you send the proof to recipients to the time they make a decision on the proof.
 
@@ -46,7 +46,7 @@ If you want to know how each individual proof recipient is doing, open the proof
 
 The proof status is based on the status of the stage’s proof recipients. The overall proof status is visible on the [!UICONTROL Documents] page, to the right of the [!UICONTROL SOCD] indicators, so you can easily tell if you have a decision on the proof.
 
-![An image of the [!UICONTROL Documents] list in an [!DNL  ] project with the overall proof status highlighted.](assets/manage-proofs-overall-status.png)
+![An image of the [!UICONTROL Documents] list in an [!DNL  Workfront] project with the overall proof status highlighted.](assets/manage-proofs-overall-status.png)
 
 This proof status indicates the overall status of the proof. For example, if two recipients approved the proof, their individual statuses show [!UICONTROL Approved]. However, the third recipient hasn’t made a decision yet, so that person’s status is [!UICONTROL Pending]. Therefore, the overall status shows as [!UICONTROL Pending].
 
@@ -66,11 +66,11 @@ You also can leverage [!DNL Workfront’s] reporting capabilities to track proof
 
 A proof approval report helps you track outstanding approvals to make sure deadlines are met.
 
-![An image of a proof approval report in [!DNL  ].](assets/proof-approval-report.png)
+![An image of a proof approval report in [!DNL  Workfront].](assets/proof-approval-report.png)
 
 A document version report allows you to manage and track proof versions.
 
-![An image of a document version report in [!DNL  ].](assets/document-version-report.png)
+![An image of a document version report in [!DNL  Workfront].](assets/document-version-report.png)
 
 We recommend working with your [!DNL Workfront] consultant to create reports that meet your organization’s requirements. Some of the reports require familiarity with [!DNL Workfront’s] text mode reporting.
 

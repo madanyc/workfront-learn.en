@@ -1,6 +1,6 @@
 ---
 title: Understand built-in project filters
-description: Learn how to review built-in project filters to see how they’re built and create your own project filter in [!DNL  ].
+description: Learn how to review built-in project filters to see how they’re built and create your own project filter in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

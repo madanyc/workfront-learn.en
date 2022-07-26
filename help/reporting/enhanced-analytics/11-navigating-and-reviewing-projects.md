@@ -1,6 +1,6 @@
 ---
 title: Understand navigating and reviewing projects
-description: In this video, you will learn how to read the Flight plan chart in [!DNL  ].
+description: In this video, you will learn how to read the Flight plan chart in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

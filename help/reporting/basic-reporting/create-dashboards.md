@@ -1,6 +1,6 @@
 ---
 title: Create dashboards
-description: In this video, you will learn all about dashboard in [!DNL  ].
+description: In this video, you will learn all about dashboard in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

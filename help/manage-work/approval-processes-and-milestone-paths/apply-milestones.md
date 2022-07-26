@@ -1,6 +1,6 @@
 ---
 title: Apply milestones
-description: Learn how to apply milestone paths to an [!DNL  ] project and associate key tasks as milestone steps within the project.
+description: Learn how to apply milestone paths to an [!DNL  Workfront] project and associate key tasks as milestone steps within the project.
 feature: Work Management
 type: Tutorial
 role: User

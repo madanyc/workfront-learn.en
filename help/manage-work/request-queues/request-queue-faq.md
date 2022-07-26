@@ -1,6 +1,6 @@
 ---
 title: Answers to Questions about Request Queues
-description: Get answers to common questions about request queues in [!DNL  ].
+description: Get answers to common questions about request queues in [!DNL  Workfront].
 feature: Work Management
 type: Article
 role: Administrator, User

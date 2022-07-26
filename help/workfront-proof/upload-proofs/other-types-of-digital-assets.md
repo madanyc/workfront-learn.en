@@ -1,6 +1,6 @@
 ---
 title: Upload a proof of a video
-description: Learn how to upload a video for proofing in [!DNL  ].
+description: Learn how to upload a video for proofing in [!DNL  Workfront].
 feature: Workfront Proof
 type: Article
 role: User

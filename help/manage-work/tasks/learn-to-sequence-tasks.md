@@ -14,7 +14,7 @@ exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 
 In this video, you will learn:
 
-* What a predecessor is in [!DNL  ]
+* What a predecessor is in [!DNL  Workfront]
 * How predecessors sequence tasks in a project
 * How to use durations and predecessors to create a timeline
 * How to change or enter predecessors

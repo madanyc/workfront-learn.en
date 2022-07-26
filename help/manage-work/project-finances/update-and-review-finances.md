@@ -1,6 +1,6 @@
 ---
 title: Update and review finances
-description: Learn how to review the financial information associated with a project in [!DNL  ].
+description: Learn how to review the financial information associated with a project in [!DNL  Workfront].
 feature: Work Management
 type: Article
 role: User

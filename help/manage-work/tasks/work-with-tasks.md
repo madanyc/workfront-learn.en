@@ -1,6 +1,6 @@
 ---
 title: Work with tasks
-description: Learn how to edit existing tasks, add and delete tasks, and change the task order on a project in [!DNL  ].
+description: Learn how to edit existing tasks, add and delete tasks, and change the task order on a project in [!DNL  Workfront].
 activity: use
 feature: Work Management
 type: Tutorial

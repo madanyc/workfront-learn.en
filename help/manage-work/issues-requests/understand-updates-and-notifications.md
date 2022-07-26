@@ -1,6 +1,6 @@
 ---
 title: Understand updates and notifications
-description: Learn how to make updates on approval requests and find your notifications in [!DNL  ].
+description: Learn how to make updates on approval requests and find your notifications in [!DNL  Workfront].
 activity: use
 feature: Work Management
 type: Tutorial

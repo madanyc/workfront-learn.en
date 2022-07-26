@@ -1,6 +1,6 @@
 ---
 title: Oganize your to-do list in [!DNL Workfront] [!UICONTROL Home]
-description: Learn how to filter and sort assigned work, identify work that's ready to start, and accept work assignments in [!DNL  ].
+description: Learn how to filter and sort assigned work, identify work that's ready to start, and accept work assignments in [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User

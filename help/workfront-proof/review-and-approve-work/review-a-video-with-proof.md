@@ -1,6 +1,6 @@
 ---
 title: How to Review a Video with Proof
-description: Learn how to adjust viewer settings and add time-stamped comments to a video using  proofing in [!DNL  ].
+description: Learn how to adjust viewer settings and add time-stamped comments to a video using  proofing in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

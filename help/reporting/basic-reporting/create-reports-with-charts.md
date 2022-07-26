@@ -1,6 +1,6 @@
 ---
 title: Create reports with charts
-description: In this video, you will learn how charts can improve the visualization of data and how to use chart tools in [!DNL  ].
+description: In this video, you will learn how charts can improve the visualization of data and how to use chart tools in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

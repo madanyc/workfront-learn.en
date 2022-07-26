@@ -1,6 +1,6 @@
 ---
 title: Review digital work
-description: Learn how to find and make approvals for projects, tasks, issues, documents, and proofs in [!DNL  ].
+description: Learn how to find and make approvals for projects, tasks, issues, documents, and proofs in [!DNL  Workfront].
 activity: use
 feature: Work Management
 type: Tutorial
@@ -14,7 +14,7 @@ exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 
 In this video, you will learn how to:
 
-* Find approvals in [!DNL  ]
+* Find approvals in [!DNL  Workfront]
 * Make approvals for projects, tasks, and issues
 * Make approvals for documents
 * Make approvals for proofs

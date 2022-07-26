@@ -1,6 +1,6 @@
 ---
 title: How to Manage Proof Comments
-description: Learn how to manage proof comments in [!DNL  ] by applying comment actions, resolving comments, and filtering the comments column.
+description: Learn how to manage proof comments in [!DNL  Workfront] by applying comment actions, resolving comments, and filtering the comments column.
 feature: Workfront Proof
 type: Article
 role: User, Administrator

@@ -1,6 +1,6 @@
 ---
 title: Understand parent-child tasks
-description: Learn how tasks are structured using a parent-child relationship in a [!DNL  ] project.
+description: Learn how tasks are structured using a parent-child relationship in a [!DNL  Workfront] project.
 activity: use
 feature: Work Management
 type: Tutorial

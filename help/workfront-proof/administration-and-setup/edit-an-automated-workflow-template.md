@@ -1,6 +1,6 @@
 ---
 title: Edit an Automated Workflow Template
-description: Learn how to make changes to an existing automated proofing workflow template in [!DNL  ].
+description: Learn how to make changes to an existing automated proofing workflow template in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Article

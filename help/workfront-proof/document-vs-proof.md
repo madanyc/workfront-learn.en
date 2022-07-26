@@ -1,6 +1,6 @@
 ---
 title: Documents and Proofs Explained
-description: Learn the difference between a document and a proof in [!DNL  ].
+description: Learn the difference between a document and a proof in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

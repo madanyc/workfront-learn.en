@@ -1,6 +1,6 @@
 ---
 title: Track progress from the project timeline
-description: Learn how to track the progress of work from the project timeline in [!DNL  ] using percent complete, status, assignments, or constraints.
+description: Learn how to track the progress of work from the project timeline in [!DNL  Workfront] using percent complete, status, assignments, or constraints.
 feature: Work Management
 type: Article
 role: User
@@ -10,7 +10,7 @@ exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 ---
 # Track progress from the project timeline
 
-Make sure tasks are progressing the way they should to hit project deadlines. As you scan through the [!UICONTROL Task] list, there are several features in [!DNL  ] that help you monitor the progress and status of work.
+Make sure tasks are progressing the way they should to hit project deadlines. As you scan through the [!UICONTROL Task] list, there are several features in [!DNL  Workfront] that help you monitor the progress and status of work.
 
 ## Percent complete
 

@@ -1,6 +1,6 @@
 ---
 title: Create a basic filter activity
-description: In this video, you will do an activity to create your own filter in [!DNL  ].
+description: In this video, you will do an activity to create your own filter in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

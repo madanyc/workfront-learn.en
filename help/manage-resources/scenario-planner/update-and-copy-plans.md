@@ -1,6 +1,6 @@
 ---
 title: Update and Copy Plans in [!DNL Scenario Planner]
-description: Learn how to update a plan or copy a plan in the [!DNL  ] [!DNL Scenario Planner].
+description: Learn how to update a plan or copy a plan in the [!DNL  Workfront] [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

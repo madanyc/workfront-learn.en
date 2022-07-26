@@ -1,6 +1,6 @@
 ---
 title: Create a request flow
-description: Learn how to configure [!DNL  ] queue topics, topic groups, and routing rules to help manage request and work intake.
+description: Learn how to configure [!DNL  Workfront] queue topics, topic groups, and routing rules to help manage request and work intake.
 activity: deploy
 feature: Work Management
 type: Tutorial

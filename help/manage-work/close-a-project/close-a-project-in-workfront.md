@@ -1,6 +1,6 @@
 ---
 title: Close a project
-description: Learn what information to review, and why it's important to have updated data, in a project before closing it in [!DNL  ].
+description: Learn what information to review, and why it's important to have updated data, in a project before closing it in [!DNL  Workfront].
 activity: use
 feature: Work Management
 type: Tutorial

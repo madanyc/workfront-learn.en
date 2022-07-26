@@ -1,6 +1,6 @@
 ---
-title: How to Use a [!UICONTROL Business Case] in [!DNL  ]
-description: Learn how to use a [!UICONTROL Business Case] in [!DNL  ] so that you get the information you need on projects to make informed decisions.
+title: How to Use a [!UICONTROL Business Case] in [!DNL  Workfront]
+description: Learn how to use a [!UICONTROL Business Case] in [!DNL  Workfront] so that you get the information you need on projects to make informed decisions.
 feature: Strategic Planning
 type: Article
 role: User

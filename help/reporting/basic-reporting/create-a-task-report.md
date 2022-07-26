@@ -1,6 +1,6 @@
 ---
 title: Create a task report
-description: In this video, you will learn how to create a task report with a complex filter and find the reports you create in [!DNL  ].
+description: In this video, you will learn how to create a task report with a complex filter and find the reports you create in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Access a Plan in [!UICONTROL Scenario Planner]
-description: Learn what [!DNL  ] permissions are needed for users to access plans in the [!UICONTROL Scenario Planner].
+description: Learn what [!DNL  Workfront] permissions are needed for users to access plans in the [!UICONTROL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

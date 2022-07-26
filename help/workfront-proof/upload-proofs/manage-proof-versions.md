@@ -1,6 +1,6 @@
 ---
 title: Learn How to Manage Proof Versions
-description: Learn how to find the details of when a proof was uploaded, download all versions of a proof, and delete a proof version in [!DNL  ].
+description: Learn how to find the details of when a proof was uploaded, download all versions of a proof, and delete a proof version in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Dig deeper into navigation
-description: In this video, you will learn how to quickly see how much time workers are dedicating to each project in [!DNL  ].
+description: In this video, you will learn how to quickly see how much time workers are dedicating to each project in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

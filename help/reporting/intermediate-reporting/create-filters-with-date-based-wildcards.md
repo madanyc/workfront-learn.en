@@ -1,6 +1,6 @@
 ---
 title: Create filters with date-based wildcards
-description: Learn how and when to use date-based wildcards and build a filter with a date-based wildcard in [!DNL  ].
+description: Learn how and when to use date-based wildcards and build a filter with a date-based wildcard in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

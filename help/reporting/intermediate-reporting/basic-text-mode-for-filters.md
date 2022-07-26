@@ -1,6 +1,6 @@
 ---
 title: Understand basic text mode for filters
-description: Learn what text mode is, what camel case is, and some basic “plug and play” text mode you can use in your report filters in [!DNL  ].
+description: Learn what text mode is, what camel case is, and some basic “plug and play” text mode you can use in your report filters in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

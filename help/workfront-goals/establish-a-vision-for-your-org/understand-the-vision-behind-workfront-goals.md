@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Workfront Goals] Explained by Product'
-description: Learn about [!DNL Workfront Goals] in [!DNL  ] from the Product team.
+description: Learn about [!DNL Workfront Goals] in [!DNL  Workfront] from the Product team.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -14,6 +14,6 @@ exl-id: 42327448-227b-428f-93aa-6039db1291e5
 
 In this video, you will learn about:
 
-* [!DNL Workfront Goals] in [!DNL  ]
+* [!DNL Workfront Goals] in [!DNL  Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335181/?quality=12)

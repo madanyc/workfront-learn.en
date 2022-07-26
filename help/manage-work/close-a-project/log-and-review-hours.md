@@ -1,6 +1,6 @@
 ---
 title: Log and review hours
-description: Record outstanding hours and review logged hours before closing a project in [!DNL  ].
+description: Record outstanding hours and review logged hours before closing a project in [!DNL  Workfront].
 feature: Work Management
 type: Article
 role: User

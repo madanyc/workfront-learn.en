@@ -1,6 +1,6 @@
 ---
 title: Take a project live
-description: Learn how to take your [!DNL  ] project live using the project status.
+description: Learn how to take your [!DNL  Workfront] project live using the project status.
 activity: use
 feature: Work Management
 type: Tutorial

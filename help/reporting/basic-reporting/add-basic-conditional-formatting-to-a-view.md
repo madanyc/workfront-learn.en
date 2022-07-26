@@ -1,6 +1,6 @@
 ---
 title: Add basic conditional formatting
-description: In this video, you will learn what conditional formatting is in a view and how to create and modify conditional formatting in [!DNL  ].
+description: In this video, you will learn what conditional formatting is in a view and how to create and modify conditional formatting in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

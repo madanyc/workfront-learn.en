@@ -1,6 +1,6 @@
 ---
 title: How to Review a Website with Proof
-description: Learn how to open a static or interactive website proof in [!DNL  ] and make comments.
+description: Learn how to open a static or interactive website proof in [!DNL  Workfront] and make comments.
 activity: use
 feature: Workfront Proof
 type: Tutorial

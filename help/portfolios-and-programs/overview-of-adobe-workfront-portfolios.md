@@ -1,5 +1,5 @@
 ---
-title: An Introduction to [!DNL  ] Portfolios
+title: An Introduction to [!DNL  Workfront] Portfolios
 description: Learn about what portfolios are in [!DNL Workfront] and how they can help you prioritize projects and compare projects against one another.
 feature: Strategic Planning
 type: Article
@@ -11,7 +11,7 @@ level: Intermediate
 
 Managers often have the tricky job of figuring out which projects would best help their company reach its goals and objectives. That means judging a current or potential project based on criteria that is important to those objectives. This criteria can include things like the number of resources needed, how much money will the project cost vs. what it will bring in, and/or the number of risks involved. With this information, managers can decide which projects should be done first and which can be put on the back burner.  
 
-Thinking of and planning projects isn’t an overly difficult task—it’s a process most managers are used to. The real struggle comes with comparing projects against one another. Sifting through a long and detailed list of projects is time consuming. That’s where portfolios in [!DNL  ] can help.
+Thinking of and planning projects isn’t an overly difficult task—it’s a process most managers are used to. The real struggle comes with comparing projects against one another. Sifting through a long and detailed list of projects is time consuming. That’s where portfolios in [!DNL  Workfront] can help.
 
 ## What is a portfolio? 
 

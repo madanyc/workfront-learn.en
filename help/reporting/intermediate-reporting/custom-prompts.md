@@ -1,6 +1,6 @@
 ---
 title: Create custom prompts
-description: Learn what a custom prompt is, how to create a custom prompt using text mode, and some examples that you can use in reporting in [!DNL  ].
+description: Learn what a custom prompt is, how to create a custom prompt using text mode, and some examples that you can use in reporting in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
