@@ -5,9 +5,9 @@ level: Beginner
 feature-set: Workfront
 ---
 
-# [!DNL Workfront] tutorials {#tutorials-workfront}
+# Workfront tutorials {#tutorials-workfront}
 
-+ [Workfront](home.md)
++ [Workfront Tutorials](home.md)
 + Administration and Setup {#administration-and-setup}
   + Organizational setup {#organizational-setup}
     + [Create companies](administration-and-setup/organizational-setup/user-organization-companies.md)
