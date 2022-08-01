@@ -425,4 +425,7 @@ feature-set: Workfront
     + [Organize your to-do list](workfront-home/organize-your-to-do-list-in-workfront-home.md)
     + [Prioritize your work](workfront-home/prioritize-your-work-in-workfront-home.md)
     + [Review work in [!UICONTROL My Updates] or [!UICONTROL Home]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
+    + [Understand updates and notifications](manage-work/issues-requests/understand-updates-and-notifications.md)
+    
+
 

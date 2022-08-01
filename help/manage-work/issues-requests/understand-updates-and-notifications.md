@@ -1,6 +1,6 @@
 ---
 title: Understand updates and notifications
-description: Learn how to make updates on approval requests and find your notifications in [!DNL  Workfront].
+description: Learn how to make updates on approval requests and find your notifications in Workfront.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -15,7 +15,7 @@ exl-id: 40296ba0-32c1-4fe7-8060-f71991872c37
 In this video, you will learn how to:
 
 * Make your own updates on approval requests
-* Find [!DNL Workfront] notifications
+* Find Workfront notifications
 
 >[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12)
 
