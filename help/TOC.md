@@ -131,7 +131,7 @@ feature-set: Workfront
     + [Apply milestones](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
     + [Attach and edit existing approval processes](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
     + [Create a single-use approval process](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-    + [Delegate approvals](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+    + [Delegate tasks, issues, and approvals](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
     + [View milestones](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
   + Create and manage project templates {#create-and-manage-project-templates}
