@@ -3,6 +3,7 @@ title: Create a basic grouping
 description: In this video, you will learn what a grouping is, how to create a grouping, and how to share a grouping with other users in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
+thumbnail: 335147.jpeg
 type: Tutorial
 role: User
 level: Beginner

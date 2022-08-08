@@ -3,6 +3,7 @@ title: Navigate the project page
 description: Learn how to view the details of a project, what information shows in the task list, where to upload documents, and how to view the update history in [!DNL  Workfront].
 activity: use
 feature: Work Management
+thumbnail: 335085.jpeg
 type: Tutorial
 role: User
 level: Intermediate

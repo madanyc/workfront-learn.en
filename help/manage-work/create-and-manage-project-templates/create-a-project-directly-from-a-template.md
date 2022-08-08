@@ -2,6 +2,7 @@
 title: Create a project directly from a template
 description: Learn how to create a project by starting with a template already built  .
 feature: Work Management
+thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Article
 role: User
 level: Intermediate

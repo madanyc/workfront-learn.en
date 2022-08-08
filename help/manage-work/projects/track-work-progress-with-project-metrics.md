@@ -3,6 +3,7 @@ title: Track work progress with project metrics
 description: Learn how to use project metrics charts to track progress on project work in [!DNL  Workfront].
 activity: use
 feature: Work Management
+thumbnail: 336667.jpeg
 type: Tutorial
 role: User
 level: Intermediate

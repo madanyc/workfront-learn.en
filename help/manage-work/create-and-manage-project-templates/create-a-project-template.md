@@ -3,6 +3,7 @@ title: Create a project template
 description: Learn to create a project template from scratch and from an existing template.
 activity: use
 feature: Work Management
+thumbnail: 335210.jpeg
 type: Tutorial
 role: User
 level: Intermediate

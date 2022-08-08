@@ -3,6 +3,7 @@ title: View milestones
 description: Learn how to view milestones in an [!DNL  Workfront] project, plus use the milestone view in the [!UICONTROL Project] area.
 activity: deploy
 feature: Work Management
+thumbnail: 335206.jpeg
 type: Tutorial
 role: User
 level: Intermediate

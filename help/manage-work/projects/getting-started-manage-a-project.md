@@ -1,8 +1,9 @@
 ---
 title: Get started managing a project
-description: Learn what your role is as a project manager and what to look at when monitoring project work  .
+description: Learn what your role is as a project manager and what to look at when monitoring project work.
 activity: use
 feature: Work Management
+thumbnail: 335094.jpeg
 type: Tutorial
 role: User
 level: Intermediate
