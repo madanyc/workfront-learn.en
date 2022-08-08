@@ -5,6 +5,7 @@ feature: Workfront Proof
 type: Article
 role: User
 level: Beginner
+thumbnail: email-alert-vs-proof-notifications.png
 kt: 10174
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
 ---

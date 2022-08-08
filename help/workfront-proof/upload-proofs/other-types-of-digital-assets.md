@@ -5,6 +5,7 @@ feature: Workfront Proof
 type: Article
 role: User
 level: Beginner
+thumbnail: upload-a-proof-video.png
 kt: 10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
 ---

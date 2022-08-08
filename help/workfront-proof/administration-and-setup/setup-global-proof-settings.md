@@ -5,6 +5,7 @@ feature: Workfront Proof
 type: Article
 role: User, Administrator
 level: Intermediate
+thumbnail: setup-global-proof-settings.png
 kt: 10237
 exl-id: c10eb48d-2e05-4b82-8393-60c4b9196d40
 ---

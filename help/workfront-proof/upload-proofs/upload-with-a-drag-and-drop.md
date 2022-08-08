@@ -5,6 +5,7 @@ feature: Workfront Proof
 type: Article
 role: User
 level: Beginner
+thumbnail: upload-drag-and-drop.png
 kt: 10178
 exl-id: b092b7cd-34e0-4fb5-9c69-db5709279460
 ---

@@ -5,6 +5,7 @@ feature: Workfront Proof
 type: Article
 role: User, Administrator
 level: Intermediate
+thumbnail: report-on-proofs.png
 kt: 10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
 ---
