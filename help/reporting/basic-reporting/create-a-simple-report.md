@@ -8,6 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: 8858
+thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 ---
 # Create a simple report

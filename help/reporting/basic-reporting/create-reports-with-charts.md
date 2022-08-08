@@ -7,6 +7,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+thumbnail: 335153.png
 kt: 8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 ---
@@ -15,7 +16,7 @@ exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 In this video, you will learn:
 
 * How charts can improve the visualization of data 
-* How to use Workfront’s chart tools
+* How to use Workfront's chart tools
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12)
 

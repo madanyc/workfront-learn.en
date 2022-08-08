@@ -5,6 +5,7 @@ feature: Reports and Dashboards
 type: Article
 role: User
 level: Beginner
+thumbnail: understand-additional-calendar-options.png
 kt: 10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
 ---
