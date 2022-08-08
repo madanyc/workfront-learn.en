@@ -2,6 +2,7 @@
 title: Track progress from the project timeline
 description: Learn how to track the progress of work from the project timeline in [!DNL  Workfront] using percent complete, status, assignments, or constraints.
 feature: Work Management
+thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Article
 role: User
 level: Intermediate

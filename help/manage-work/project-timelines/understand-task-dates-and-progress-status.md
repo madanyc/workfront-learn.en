@@ -3,6 +3,7 @@ title: Understand date types and progress status
 description: Learn how to view the different date types in [!DNL  Workfront] and use progress status to help you track work progress.
 activity: use
 feature: Work Management
+thumbnail: 335095.jpeg
 type: Tutorial
 role: User
 level: Intermediate

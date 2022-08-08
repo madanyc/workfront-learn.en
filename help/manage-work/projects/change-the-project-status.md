@@ -2,6 +2,7 @@
 title: Change the project status
 description: Learn how to change the status of a project in [!UICONTROL  ] to indicate that work is complete.
 feature: Work Management
+thumbnail: change-the-project-status.jpeg
 type: Article
 role: User
 level: Intermediate

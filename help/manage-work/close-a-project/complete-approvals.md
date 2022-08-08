@@ -2,6 +2,7 @@
 title: Complete approvals
 description: Learn how to identify incomplete approvals and resolve them so you can close your project in [!DNL  Workfront].
 feature: Work Management
+thumbnail: complete-approvals.jpeg
 type: Article
 role: User
 level: Intermediate

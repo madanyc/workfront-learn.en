@@ -2,6 +2,7 @@
 title: Copy an existing project
 description: Learn how to make a copy of an existing project  .
 feature: Work Management
+thumbnail: copy-an-existing-project.jpeg
 type: Article
 role: User
 level: Intermediate
