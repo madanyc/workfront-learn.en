@@ -7,6 +7,7 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+thumbnail: 336092.png
 kt: 8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 ---
