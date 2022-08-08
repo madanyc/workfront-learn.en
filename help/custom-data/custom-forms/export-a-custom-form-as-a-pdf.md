@@ -7,6 +7,7 @@ role: Admin, Leader, User
 level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
+thumbnail: exportform.png
 kt: 10059
 exl-id: aeef197e-1d8c-43a9-8580-0c83d8027a3f
 ---

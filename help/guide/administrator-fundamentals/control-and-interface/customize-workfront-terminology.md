@@ -7,6 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: Admin
+thumbnail: 335074.jpeg
 ---
 # Customize Workfront terminology
 

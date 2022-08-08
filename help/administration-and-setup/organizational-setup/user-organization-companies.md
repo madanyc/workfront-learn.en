@@ -7,6 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
+thumbnail: 335069.png
 kt: 8757
 exl-id: 1a48aa59-ae69-4bd9-843c-8edfc0bdb517
 ---

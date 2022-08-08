@@ -7,6 +7,7 @@ role: User
 level: Beginner
 activity: use
 team: Technical Marketing
+thumbnail: 340342.png
 kt: 9721
 exl-id: 76e9dc5d-05e7-40e9-af05-af880018170c
 ---
