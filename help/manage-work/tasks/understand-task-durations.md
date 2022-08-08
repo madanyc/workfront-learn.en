@@ -3,6 +3,7 @@ title: Understand task durations
 description: Learn how durations affect start and completion dates of tasks, how durations factor into project timelines, and some best practices for using task durations.
 activity: use
 feature: Work Management
+thumbnail: 335089.jpeg
 type: Tutorial
 role: User
 level: Intermediate

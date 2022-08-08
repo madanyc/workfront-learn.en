@@ -2,6 +2,7 @@
 title: How to create tasks
 description: Learn other methods for creating tasks in a project in [!DNL  Workfront].
 feature: Work Management
+thumbnail: how-to-create-tasks.jpeg
 type: Article
 role: User
 level: Intermediate

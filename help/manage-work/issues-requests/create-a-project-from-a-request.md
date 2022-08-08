@@ -3,6 +3,7 @@ title: Create a project from a request
 description: Learn how to review request information, select the right project template, and convert the request into a project.
 activity: use
 feature: Work Management
+thumbnail: 340343.jpeg
 type: Tutorial
 role: User
 level: Intermediate

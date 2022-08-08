@@ -3,6 +3,7 @@ title: Attach and edit existing approval processes
 description: Learn how to use and edit existing approval processes for projects, tasks, or issues in [!DNL  Workfront].
 activity: use
 feature: Work Management
+thumbnail: 335226.jpeg
 type: Tutorial
 role: User
 level: Intermediate
