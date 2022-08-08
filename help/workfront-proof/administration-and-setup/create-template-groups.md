@@ -5,6 +5,7 @@ feature: Workfront Proof
 type: Tutorial
 role: User, Administrator
 level: Intermediate
+thumbnail: create-template-groups.png
 kt: 10232
 exl-id: 248cba16-fa88-44e1-a3d5-e763783d965d
 ---

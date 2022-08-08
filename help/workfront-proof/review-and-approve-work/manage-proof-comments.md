@@ -5,6 +5,7 @@ feature: Workfront Proof
 type: Article
 role: User, Administrator
 level: Beginner
+thumbnail: manage-proof-comments.png
 kt: 10109
 exl-id: 603023f3-f79e-414c-a6da-1f42c234c63d
 ---

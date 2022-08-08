@@ -5,6 +5,7 @@ feature: Workfront Proof
 type: Article
 role: User
 level: Beginner
+thumbnail: what-is-a-proof-version.png
 kt: 10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
 ---
