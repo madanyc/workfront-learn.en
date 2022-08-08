@@ -7,6 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Beginner
+thumbnail: 335066.jpeg
 kt: 8754
 exl-id: 49cb518a-f3ae-4fdd-b617-2c19006c7552
 ---

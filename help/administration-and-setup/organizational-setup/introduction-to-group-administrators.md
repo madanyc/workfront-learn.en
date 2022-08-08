@@ -7,6 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
+thumbnail: groupadmins.png
 kt: 10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 ---

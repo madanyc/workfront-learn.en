@@ -7,6 +7,7 @@ role: Admin, Leader, User
 level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
+thumbnail: 335172.png
 kt: 8909
 exl-id: b37334c7-67d0-4359-9537-dc26843582d1
 ---

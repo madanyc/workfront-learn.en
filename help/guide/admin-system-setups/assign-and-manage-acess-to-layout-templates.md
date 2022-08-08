@@ -8,6 +8,7 @@ team: Technical Marketing
 kt: Jira ticket
 role: Admin
 level: Beginner
+thumbnail: 335081.jpeg
 ---
 # Assign and manage access to layout templates
 
