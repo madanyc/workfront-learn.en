@@ -120,6 +120,9 @@ feature-set: Workfront
     + [Manage requests](manage-work/issues-requests/manage-incoming-requests.md)
     + [Review digital work](manage-work/issues-requests/review-and-approve-digital-work.md)
     + [Update a request](manage-work/issues-requests/update-a-request.md)
+    + [Manage issue assignments](manage-work/issues-requests/manage-issue-assignments.md)
+    + [Report on issues](manage-work/issues-requests/report-on-issues.md)
+
 
   + Request queues {#request-queues}
     + [Create a request flow](manage-work/request-queues/create-a-request-flow.md)
