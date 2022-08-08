@@ -2,6 +2,7 @@
 title: Fill in the project details
 description: Learn which 12 project details fields [!DNL  Workfront] recommends you fill in when creating a project.
 feature: Work Management
+thumbnail: fill-in-the-project-details.jpeg
 type: Article
 role: User
 level: Intermediate

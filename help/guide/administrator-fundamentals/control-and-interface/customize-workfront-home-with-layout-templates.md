@@ -7,6 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: Admin
+thumbnail: 335081.jpeg
 ---
 # Customize Home with layout templates
 

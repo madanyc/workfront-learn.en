@@ -7,6 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket ###
 role: Admin
+thumbnail: 335073.jpeg
 ---
 # Customize the [!UICONTROL Main Menu] with layout templates
 

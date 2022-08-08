@@ -7,6 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Beginner
+thumbnail: setupremindnote.png
 kt: 10091
 exl-id: f1ba58d7-3226-4c62-8aa4-40f88495b833
 ---

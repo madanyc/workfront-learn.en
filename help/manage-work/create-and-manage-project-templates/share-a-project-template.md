@@ -3,6 +3,7 @@ title: Share a project template
 description: Learn to share a project template and projects created from a template.
 activity: use
 feature: Work Management
+thumbnail: 335211.jpeg
 type: Tutorial
 role: User
 level: Intermediate

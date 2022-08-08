@@ -3,6 +3,7 @@ title: Review digital work
 description: Learn how to find and make approvals for projects, tasks, issues, documents, and proofs in [!DNL  Workfront].
 activity: use
 feature: Work Management
+thumbnail: 335108.jpeg
 type: Tutorial
 role: User
 level: Intermediate

@@ -3,6 +3,7 @@ title: Take a project live
 description: Learn how to take your [!DNL  Workfront] project live using the project status.
 activity: use
 feature: Work Management
+thumbnail: 335093.jpeg
 type: Tutorial
 role: User
 level: Intermediate

@@ -7,6 +7,7 @@ role: Admin
 level: Beginner
 activity: deploy
 type: Tutorial
+thumbnail: 335073.jpeg
 kt: 8760
 exl-id: 5fa4e251-fcf3-41a4-be50-f0302a481358
 ---

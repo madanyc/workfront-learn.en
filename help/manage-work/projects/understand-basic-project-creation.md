@@ -3,6 +3,7 @@ title: Understand basic project creation
 description: Learn the four steps to get a project up and running, the definition of a project, and the three most common ways of creating a project.
 activity: use
 feature: Work Management
+thumbnail: 335082.jpeg
 type: Tutorial
 role: User
 level: Intermediate

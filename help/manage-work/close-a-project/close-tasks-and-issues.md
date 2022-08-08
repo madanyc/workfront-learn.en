@@ -2,6 +2,7 @@
 title: Close tasks and issues
 description: Learn how to make sure tasks and issues are closed before you close out a project in [!DNL  Workfront].
 feature: Work Management
+thumbnail: close-tasks-and-issues.jpeg
 type: Article
 role: User
 level: Intermediate

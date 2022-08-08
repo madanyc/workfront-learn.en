@@ -3,6 +3,7 @@ title: Understand built-in issue filters
 description: Learn how to review built-in issue filters to see how they’re built and create your own issue filter in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
+thumbnail: 336819.png
 type: Tutorial
 role: User
 level: Intermediate

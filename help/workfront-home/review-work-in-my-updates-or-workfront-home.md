@@ -7,6 +7,7 @@ role: User
 level: Beginner
 activity: use
 team: Technical Marketing
+thumbnail: myupdates.png
 kt: 10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 ---
