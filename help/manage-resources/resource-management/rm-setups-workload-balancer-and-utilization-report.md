@@ -7,6 +7,7 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
+thumbnail: setups-utillization-report.png
 kt: 10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
 ---
