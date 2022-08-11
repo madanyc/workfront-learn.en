@@ -5,6 +5,7 @@ feature: Work Management
 type: Article
 role: User
 level: Intermediate
+thumbnail: manage-incoming-requests.jpeg
 kt: 10154
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
 ---
