@@ -241,6 +241,9 @@ feature-set: Workfront
     + [View user allocations in the Workload Balancer](manage-resources/workload-balancer/view-user-allocations.md)
 
   + Resource planning {#resource-planning}
+    + [View by job role](manage-resources/resource-planning/view-by-job-role/view-by-job-role.md)
+    + [View by project](manage-resources/resource-planning/view-by-project/view-by-project.md)
+    + [View by users](manage-resources/resource-planning/view-by-users/view-by-users.md)
     + [View utilization](manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
     + [What is the Resource Planner?](manage-resources/resource-planning/what-is-the-resource-planner.md)
 
