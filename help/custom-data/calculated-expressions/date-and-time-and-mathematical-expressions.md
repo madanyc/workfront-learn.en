@@ -7,6 +7,7 @@ role: Admin, Leader, User
 level: Experienced
 activity: use
 team: Technical Marketing
+thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
 ---
 # Understand Date & Time and Mathematical expressions

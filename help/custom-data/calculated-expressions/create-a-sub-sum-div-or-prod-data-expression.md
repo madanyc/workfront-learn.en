@@ -7,6 +7,7 @@ role: Admin, Leader, User
 level: Experienced
 activity: use
 team: Technical Marketing
+thumbnail: 335177.png
 kt: 8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 ---

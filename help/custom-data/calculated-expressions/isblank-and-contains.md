@@ -7,6 +7,7 @@ role: Admin, Leader, User
 level: Experienced
 activity: use
 team: Technical Marketing
+thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
 ---
 # Use the ISBLANK and CONTAINS expressions
