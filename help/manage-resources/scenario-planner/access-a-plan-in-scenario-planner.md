@@ -7,6 +7,7 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
+thumbnail: access-a-plan.png
 kt: 10190
 exl-id: e81cad9d-4699-4130-b172-a2969dce1dde
 ---
