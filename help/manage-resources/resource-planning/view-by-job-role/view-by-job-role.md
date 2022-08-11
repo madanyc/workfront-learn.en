@@ -1,6 +1,6 @@
 ---
 title: View by job role in the Resource Planner
-description:  See how to use the View by Job Role option and how resource information is displayed in this view.
+description: See how to use the View by Job Role option and how resource information is displayed in this view.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -8,6 +8,7 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 kt: 8906
+exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 ---
 # View by job role in the [!DNL Resource Planner]
 
