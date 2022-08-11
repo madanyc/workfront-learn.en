@@ -1,6 +1,6 @@
 ---
 title: View by project in the Resource Planner
-description:  See how to use the View by Project option and how resource information is displayed in this view.
+description: See how to use the View by Project option and how resource information is displayed in this view.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -8,6 +8,7 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 kt: 8907
+exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 ---
 # View by project in the [!DNL Resource Planner]
 
