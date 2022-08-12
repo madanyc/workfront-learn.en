@@ -32,8 +32,7 @@ If you have trouble accessing your own superhero token, you can use this shared 
 
 >[!TIP]
 >
->For step-by-step instructions on completing the walkthrough, download the ![Adobe Workfront Fusion activity book](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/adobe-workfront-fusion-activity-book.pdf).
-**Disclaimer**: The Adobe Workfront Fusion activity book contains a few links to Workfront One, which do not work. This will be updated soon.
+>For step-by-step instructions on completing the walkthrough, download the ![Adobe Workfront Fusion activity book](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/adobe-workfront-fusion-activity-book.pdf). **Disclaimer**: The Adobe Workfront Fusion activity book contains a few links to Workfront One, which do not work. This will be updated soon.
 
 
 ## Search items in the mapping panel
