@@ -4,7 +4,7 @@ description: Learn how to determine which [!DNL  Workfront] users get a proofing
 activity: use
 type: Tutorial
 feature: Workfront Proof
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335126.png

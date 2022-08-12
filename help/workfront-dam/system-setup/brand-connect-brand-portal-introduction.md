@@ -4,7 +4,7 @@ description: Learn how to access the Brand Portal in [!UICONTROL Workfront DAM],
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator
+role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8966

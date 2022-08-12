@@ -1,7 +1,6 @@
 ---
 title: Understand Data Structures
 description: Learn how to understand data structure usage and capabilities, and create and use a data structure within a scenario, all in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

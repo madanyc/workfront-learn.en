@@ -1,7 +1,6 @@
 ---
 title: Dev Tool Walkthrough
 description: Learn how to install and use the different areas in the [!DNL Adobe Workfront Fusion Dev Tool] to take a deeper dive into advanced scenario design tricks.
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

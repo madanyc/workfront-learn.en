@@ -1,7 +1,6 @@
 ---
 title: Use Filters
 description: In this video, you will learn how to use filters between modules and within a module, and review execution history, all in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

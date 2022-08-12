@@ -1,7 +1,6 @@
 ---
 title: Define Use Cases and Find the Best Approach
 description: Learn how to identify a specific use case for your scenario, determine the right design, and give stakeholders the best advice in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

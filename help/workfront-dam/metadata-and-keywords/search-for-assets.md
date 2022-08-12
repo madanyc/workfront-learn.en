@@ -4,7 +4,7 @@ description: Learn how to search for assets using metadata and keywords, plan fo
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator, User
+role: Admin, User
 level: Intermediate
 team: Technical Marketing
 kt: 8976

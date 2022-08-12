@@ -1,7 +1,6 @@
 ---
 title: Testing and launch
 description: Learn how to consistently iterate through design and testing, and create detailed and shareable documentation when using [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

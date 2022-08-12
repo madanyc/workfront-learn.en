@@ -1,7 +1,6 @@
 ---
 title: Switch Function Walkthrough
 description: Learn how to use the Switch function to transform one value to another within a module field in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

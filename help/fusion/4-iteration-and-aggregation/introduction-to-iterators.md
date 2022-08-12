@@ -1,7 +1,6 @@
 ---
 title: Introduction to Iterators
 description: Learn how iteration and aggregation are used, and about different types of iterators in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

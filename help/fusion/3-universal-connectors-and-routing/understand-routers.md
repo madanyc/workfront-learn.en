@@ -1,7 +1,6 @@
 ---
 title: Understand Routers
 description: Learn what routers are and why to use them, how bundles of data pass down router paths, and how to add and use routers, all in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -4,7 +4,7 @@ description: Learn about what will be covered in the [!UICONTROL Workfront DAM] 
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator
+role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8964

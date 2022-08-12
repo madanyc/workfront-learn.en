@@ -1,7 +1,6 @@
 ---
 title: Introduction to Aggregations
 description: Learn what aggregators are, how to use aggregators, and the different types of aggregators in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

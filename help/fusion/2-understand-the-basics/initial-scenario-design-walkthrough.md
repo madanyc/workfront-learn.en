@@ -1,7 +1,6 @@
 ---
 title: Initial Scenario Design Walkthrough
 description: In this video, you will learn how to create folders and new scenarios, use the scenario designer, and create a basic scenario in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -1,7 +1,6 @@
 ---
 title: Routers Walkthrough
 description: Learn how to use a router to pass Pokemon vs. superheroes bundles down the correct path in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

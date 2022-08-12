@@ -4,7 +4,7 @@ description: Learn how to enable and enforce the keyword taxonomy, when users ca
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator
+role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8974

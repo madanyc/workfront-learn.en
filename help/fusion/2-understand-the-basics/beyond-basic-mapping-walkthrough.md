@@ -1,7 +1,6 @@
 ---
 title: Beyond Basic Mapping Walkthrough
 description: In this video, you will change some project fields in the scenario you created previously using the mapping panel formulas in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

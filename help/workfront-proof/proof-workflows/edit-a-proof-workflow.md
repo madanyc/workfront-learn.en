@@ -4,7 +4,7 @@ description: Learn how to update a proof deadline, add users to an existing work
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335138.png

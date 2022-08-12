@@ -1,7 +1,6 @@
 ---
 title: Aggregation Walkthrough
 description: Learn how to aggregate the planned hours on every working task in a project and send an email to yourself with that info, all in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

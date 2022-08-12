@@ -1,7 +1,6 @@
 ---
 title: Understand Error Handling Directives
 description: Learn about the error handler directives that allow execution to continue and those that stop the execution, in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

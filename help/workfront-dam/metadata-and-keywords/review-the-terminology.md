@@ -4,7 +4,7 @@ description: Learn about what metadata is, which questions to ask when developin
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator
+role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8971

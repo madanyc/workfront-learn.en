@@ -4,7 +4,7 @@ description: Learn about what keywords are, how to set up a keyword list, and ho
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator
+role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8973

@@ -1,7 +1,6 @@
 ---
 title: Become Familiar with Apps and Modules
 description: Learn what triggers, actions, and searches are and how types of modules found in different app connectors function in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

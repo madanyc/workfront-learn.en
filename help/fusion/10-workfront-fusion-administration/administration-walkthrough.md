@@ -1,7 +1,6 @@
 ---
 title: Administration Walkthrough
 description: Learn how to switch between different organizations or teams and add users to the system in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -4,7 +4,7 @@ description: Learn how to create folders, groups, and users in [!UICONTROL Workf
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator
+role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8967

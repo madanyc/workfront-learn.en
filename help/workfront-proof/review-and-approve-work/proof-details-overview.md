@@ -3,7 +3,7 @@ title: Proof Details Explained
 description: Dig deeper into the details behind a proof in [!DNL  Workfront] through the summary panel and [!UICONTROL Document Details] page.
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Beginner
 thumbnail: understand-proof-details.png
 kt: 10110

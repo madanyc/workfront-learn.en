@@ -4,7 +4,7 @@ description: Learn how [!DNL  Workfront] request queues can centralize demand ma
 activity: deploy
 feature: Work Management
 type: Tutorial
-role: Administrator, User
+role: Admin, User
 level: Intermediate
 team: Technical Marketing
 kt: 8956

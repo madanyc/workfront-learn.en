@@ -1,7 +1,6 @@
 ---
 title: What is Error Handling?
 description: Learn some common error types and how the system handles them by default, then learn how to apply custom error handling in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

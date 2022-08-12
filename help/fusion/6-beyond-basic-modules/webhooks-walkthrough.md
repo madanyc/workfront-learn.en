@@ -1,7 +1,6 @@
 ---
 title: Webhooks Walkthrough
 description: Learn how to use a webhook to create an app to determine whether or not a customer is old enough to purchase alcohol, all in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

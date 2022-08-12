@@ -3,7 +3,7 @@ title: Answers to Questions about Request Queues
 description: Get answers to common questions about request queues in [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
-role: Administrator, User
+role: Admin, User
 level: Beginner, Intermediate
 kt: 10101
 ---

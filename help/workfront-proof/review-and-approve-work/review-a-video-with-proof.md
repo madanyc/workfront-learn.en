@@ -4,7 +4,7 @@ description: Learn how to adjust viewer settings and add time-stamped comments t
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335144.png

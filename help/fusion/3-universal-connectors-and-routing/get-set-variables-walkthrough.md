@@ -1,7 +1,6 @@
 ---
 title: Get/Set Variables Walkthrough
 description: In this video, you will learn how to look up information about a project in Workfront and send an email with related information in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

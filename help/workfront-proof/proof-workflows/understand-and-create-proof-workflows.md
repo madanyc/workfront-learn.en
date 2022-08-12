@@ -4,7 +4,7 @@ description: Learn what information to gather to create a proof workflow and the
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 thumbnail: 335125.png
 team: Technical Marketing

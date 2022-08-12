@@ -1,7 +1,6 @@
 ---
 title: Understand Arrays, Collections, and Elements
 description: Learn how data can be organized into arrays, collections, and elements, and how to work with simple and complex arrays, in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -4,7 +4,7 @@ description: Learn how to make changes to an existing automated proofing workflo
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335131.png

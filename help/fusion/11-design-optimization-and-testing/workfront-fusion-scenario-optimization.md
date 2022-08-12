@@ -1,7 +1,6 @@
 ---
 title: Workfront Fusion Scenario Optimization
 description: Learn how to perform fewer operations, send fewer API calls, and use fewer modules, all in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -1,7 +1,6 @@
 ---
 title: Advanced Troubleshooting with the Dev Tool
 description: Learn how to install and use the [!DNL Adobe Workfront Fusion Dev Tool], and review the different advanced scenario design tools it includes.
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

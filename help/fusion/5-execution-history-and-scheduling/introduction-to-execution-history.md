@@ -1,7 +1,6 @@
 ---
 title: Introduction to Execution History
 description: In this video, you will learn how the execution history helps you support and troubleshoot in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -4,7 +4,7 @@ description: Learn how to save time with metadata templates, set up a metadata t
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator
+role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8975

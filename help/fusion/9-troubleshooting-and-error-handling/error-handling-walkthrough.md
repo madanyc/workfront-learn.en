@@ -1,7 +1,6 @@
 ---
 title: Error Handling Walkthrough
 description: Learn to understand how default error handling occurs and how to add specific module error handling using directives in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

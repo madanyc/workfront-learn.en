@@ -4,7 +4,7 @@ description: Learn how to view and respond to proof comments from the proof view
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335139.png

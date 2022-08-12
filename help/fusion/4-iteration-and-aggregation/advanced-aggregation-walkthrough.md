@@ -1,7 +1,6 @@
 ---
 title: Advanced Aggregation Walkthrough
 description: Learn how to call a web service to return details about multiple countries and identify population, grouped by sub-region, all in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -1,7 +1,6 @@
 ---
 title: Switch it Up!
 description: Learn what switch functions and switch modules are and when to use a switch function vs a switch module in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

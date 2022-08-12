@@ -4,7 +4,7 @@ description: Learn what an automated proofing workflow template is and how proof
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335129.png
