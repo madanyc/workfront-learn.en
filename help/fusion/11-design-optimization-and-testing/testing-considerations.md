@@ -1,11 +1,12 @@
 ---
 title: Testing and launch
-description:  Learn how to consistently iterate through design and testing, and create detailed and shareable documentation when using [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how to consistently iterate through design and testing, and create detailed and shareable documentation when using [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 ---
 # Testing and launch
 
@@ -38,4 +39,3 @@ Prioritize testing throughout the entire lifecycle of your Workfront Fusion impl
 ## Want to learn more? We recommend the following:
 
 [Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
-

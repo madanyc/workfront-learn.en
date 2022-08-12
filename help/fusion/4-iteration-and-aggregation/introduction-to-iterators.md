@@ -1,11 +1,12 @@
 ---
 title: Introduction to Iterators
-description:  Learn how iteration and aggregation are used, and about different types of iterators in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how iteration and aggregation are used, and about different types of iterators in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: a790156d-e04e-4fd0-b4a3-9c30cfaeaac5
 ---
 # Introduction to iterators
 

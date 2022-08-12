@@ -1,11 +1,12 @@
 ---
 title: Runs, Cycles, and Bundles Walkthrough
-description:  Learn how to use different scenario configurations to explore using runs and cycles in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how to use different scenario configurations to explore using runs and cycles in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 820f35af-a068-4a15-9322-98462964de61
 ---
 # Exploring runs, cycles, and bundles walkthrough
 
@@ -29,6 +30,3 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 ## Want to learn more? We recommend the following:
 
 [Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
-
-
-

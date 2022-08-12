@@ -1,12 +1,12 @@
 ---
 title: Filters Walkthrough
-description:  In this video, you will learn how to add a filter between the two modules in the modules in [!DNL Adobe Workfront Fusion].
-topic: 
+description: In this video, you will learn how to add a filter between the two modules in the modules in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9007 
-
+kt: 9007
+exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 ---
 # Using the mighty filter walkthrough
 

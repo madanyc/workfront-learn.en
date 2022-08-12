@@ -1,11 +1,12 @@
 ---
 title: Webhooks Walkthrough
-description:  Learn how to use a webhook to create an app to determine whether or not a customer is old enough to purchase alcohol, all in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how to use a webhook to create an app to determine whether or not a customer is old enough to purchase alcohol, all in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 ---
 # Webhooks walkthrough
 
@@ -53,4 +54,3 @@ Create a Workfront webhook that is waiting for new updates created and then logs
 ## Want to learn more? We recommend the following:
 
 [Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
-

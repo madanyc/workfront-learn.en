@@ -1,12 +1,12 @@
 ---
 title: Common Routing Patterns
-description:  In this video, you will learn the difference mutually exclusive and non-exclusive router paths in [!DNL Adobe Workfront Fusion].
-topic: 
+description: In this video, you will learn the difference mutually exclusive and non-exclusive router paths in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9014 
-
+kt: 9014
+exl-id: dbf95ede-8b11-4b9e-a87a-a0e4db863e9c
 ---
 # Common routing patterns
 

@@ -1,12 +1,12 @@
 ---
 title: Get/Set Variables Walkthrough
-description:  In this video, you will learn how to look up information about a project in Workfront and send an email with related information in [!DNL Adobe Workfront Fusion].
-topic: 
+description: In this video, you will learn how to look up information about a project in Workfront and send an email with related information in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9017 
-
+kt: 9017
+exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 ---
 # Set and get variables walkthrough
 
@@ -37,6 +37,3 @@ Make a clone of the “Sharing variables between routing paths” scenario you c
 ## Want to learn more? We recommend the following:
 
 [Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
-
-
-

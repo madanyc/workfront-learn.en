@@ -1,11 +1,12 @@
 ---
 title: Switch Module Walkthrough
-description:  Learn how to use the Switch module when you need to perform more complex or dynamic data transformations in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how to use the Switch module when you need to perform more complex or dynamic data transformations in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
 ---
 # Use the switch module walkthrough
 
@@ -29,6 +30,3 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 ## Want to learn more? We recommend the following:
 
 [Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
-
-
-

@@ -1,11 +1,12 @@
 ---
 title: Understand Data Stores
-description:  Learn how to use data stores as a persistent data set and how data structures support a data store in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how to use data stores as a persistent data set and how data structures support a data store in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: d85e52cb-08d0-4a3a-8187-59e63492c1d5
 ---
 # Understand data stores
 

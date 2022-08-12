@@ -1,11 +1,12 @@
 ---
 title: Execution History Walkthrough
-description:  Learn how to review the execution history of a scenario to understand what happened when in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how to review the execution history of a scenario to understand what happened when in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 ---
 # Review execution history walkthrough
 
@@ -55,4 +56,3 @@ When you click on an execution, Workfront Fusion loads the execution and the mod
 ## Want to learn more? We recommend the following:
 
 [Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
-

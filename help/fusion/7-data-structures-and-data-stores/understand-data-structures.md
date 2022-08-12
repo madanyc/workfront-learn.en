@@ -1,11 +1,12 @@
 ---
 title: Understand Data Structures
-description:  Learn how to understand data structure usage and capabilities, and create and use a data structure within a scenario, all in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how to understand data structure usage and capabilities, and create and use a data structure within a scenario, all in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 5b64d25e-5555-400d-ae40-eb1199153874
 ---
 # Understand data structures
 
