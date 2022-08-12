@@ -1,11 +1,12 @@
 ---
 title: Advanced Aggregation Walkthrough
-description:  Learn how to call a web service to return details about multiple countries and identify population, grouped by sub-region, all in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how to call a web service to return details about multiple countries and identify population, grouped by sub-region, all in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 ---
 # Advanced aggregation walkthrough
 
@@ -49,4 +50,3 @@ Create a new scenario to sum all hours logged on tasks in projects in the market
 ## Want to learn more? We recommend the following:
 
 [Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
-

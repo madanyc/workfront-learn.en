@@ -1,11 +1,12 @@
 ---
 title: Data Stores Walkthrough
-description:  Learn how use to a data store to synchronize company names between a list of companies and Workfront using [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how use to a data store to synchronize company names between a list of companies and Workfront using [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 ---
 # Data stores walkthrough
 
@@ -41,4 +42,3 @@ Data stores are not designed to be used as a data warehouse or logging. Data sto
 ## Want to learn more? We recommend the following:
 
 [Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
-

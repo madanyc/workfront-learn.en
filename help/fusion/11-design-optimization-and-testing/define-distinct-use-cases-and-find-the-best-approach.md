@@ -1,11 +1,12 @@
 ---
 title: Define Use Cases and Find the Best Approach
-description:  Learn how to identify a specific use case for your scenario, determine the right design, and give stakeholders the best advice in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how to identify a specific use case for your scenario, determine the right design, and give stakeholders the best advice in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 ---
 # Define distinct use cases and find the best approach
 

@@ -1,11 +1,12 @@
 ---
 title: Dev Tool Walkthrough
-description:  Learn how to install and use the different areas in the [!DNL Adobe Workfront Fusion Dev Tool] to take a deeper dive into advanced scenario design tricks.
-topic: 
+description: Learn how to install and use the different areas in the [!DNL Adobe Workfront Fusion Dev Tool] to take a deeper dive into advanced scenario design tricks.
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 ---
 # Dev tool walkthrough
 
@@ -32,4 +33,3 @@ The Dev Tool has a number of advanced features that improve your ability to unde
 ## Want to learn more? We recommend the following:
 
 [Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
-

@@ -1,11 +1,12 @@
 ---
 title: Understand Error Handling Directives
-description:  Learn about the error handler directives that allow execution to continue and those that stop the execution, in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn about the error handler directives that allow execution to continue and those that stop the execution, in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 ---
 # Understand error handling directives
 
@@ -65,5 +66,3 @@ In this video, you will learn:
 * The scenario execution status is marked as "success."
 
 ![An image of a Commit directive](assets/troubleshooting-and-error-handling-6.png)
-
-

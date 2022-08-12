@@ -1,11 +1,12 @@
 ---
 title: Switch it Up!
-description:  Learn what switch functions and switch modules are and when to use a switch function vs a switch module in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn what switch functions and switch modules are and when to use a switch function vs a switch module in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
 ---
 # Switch it up!
 

@@ -1,11 +1,12 @@
 ---
 title: Understand the Webhook World
-description:  Learn how to use webhooks as triggers, and how to create queues for incoming data with webhooks, all in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how to use webhooks as triggers, and how to create queues for incoming data with webhooks, all in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 87140000-e26b-48b3-ad58-c60b6be7a7fa
 ---
 # Understand the webhook world
 

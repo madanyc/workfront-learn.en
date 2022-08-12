@@ -1,11 +1,12 @@
 ---
 title: Scenario Guardrails
-description:  Learn about scenario guardrails, module guardrails, file guardrails, and webhook guardrails, all in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn about scenario guardrails, module guardrails, file guardrails, and webhook guardrails, all in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 ---
 # Scenario guardrails
 

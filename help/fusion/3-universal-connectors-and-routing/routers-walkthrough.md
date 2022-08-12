@@ -1,12 +1,12 @@
 ---
 title: Routers Walkthrough
-description:  Learn how to use a router to pass Pokemon vs. superheroes bundles down the correct path in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn how to use a router to pass Pokemon vs. superheroes bundles down the correct path in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9013 
-
+kt: 9013
+exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 ---
 # Routers walkthrough
 
@@ -97,4 +97,3 @@ In the Set multiple variables module for Pokemon characters, create a variable c
 ## Want to learn more? We recommend the following:
 
 [Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
-

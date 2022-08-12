@@ -1,11 +1,12 @@
 ---
 title: Understand Incomplete Executions
-description:  Learn what incomplete executions are and how to handle an error that results in an incomplete execution in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Learn what incomplete executions are and how to handle an error that results in an incomplete execution in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket 
+kt: Jira ticket
+exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 ---
 # Understand incomplete executions
 
@@ -35,4 +36,3 @@ If an error occurs on any other module and there is no error handler route attac
 ## Want to learn more? We recommend the following:
 
 [Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
-

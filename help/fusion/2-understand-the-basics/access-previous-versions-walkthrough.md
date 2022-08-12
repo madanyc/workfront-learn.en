@@ -1,12 +1,12 @@
 ---
 title: Access Previous Versions Walkthrough
-description:  Discover how you can restore previous versions after you’ve made changes to your scenario and saved them in [!DNL Adobe Workfront Fusion].
-topic: 
+description: Discover how you can restore previous versions after you’ve made changes to your scenario and saved them in [!DNL Adobe Workfront Fusion].
+topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9009 
-
+kt: 9009
+exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 ---
 # Access previous versions walkthrough
 
