@@ -40,7 +40,7 @@ In this video, you will learn:
 
 * The error is ignored and the subsequent modules are not processed. 
 * If there are unprocessed bundles, the scenario execution continues normally.
-* The scenario execution status is marked as "success/"
+* The scenario execution status is marked as "success."
 
 ![An image of an Ignore directive](assets/troubleshooting-and-error-handling-4.png)
 

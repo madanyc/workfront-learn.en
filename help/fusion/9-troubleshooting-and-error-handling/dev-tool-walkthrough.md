@@ -22,7 +22,10 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12)
 
-For step-by-step instructions on completing the walkthrough, download the [Adobe Workfront Fusion activity book](/help/assets/adobe-workfront-fusion-activity-book.pdf). **Disclaimer**: The Adobe Workfront Fusion activity book contains a few links to Workfront One, which do not work. This will be updated soon.
+>[!TIP]
+>
+>For step-by-step instructions on completing the walkthrough, download the [Adobe Workfront Fusion activity book](/help/assets/adobe-workfront-fusion-activity-book.pdf). **Disclaimer**: The Adobe Workfront Fusion activity book contains a few links to Workfront One, which do not work. This will be updated soon.
+
 
 ## Download the Dev tool
 
