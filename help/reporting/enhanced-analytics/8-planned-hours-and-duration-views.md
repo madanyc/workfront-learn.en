@@ -2,7 +2,7 @@
 title: Understand planned hours and duration views
 description: In the Burndown and Project treemap charts, you can view the information by planned hours or duration.
 feature: Reports and Dashboards
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 kt: 10044

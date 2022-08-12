@@ -2,7 +2,7 @@
 title: Get Started with Automated Workflows
 description: Learn what an automated proof workflow is in [!DNL  Workfront] and how it is different from a basic workflow.
 feature: Workfront Proof
-type: Article
+type: Tutorial
 role: User, Administrator
 level: Intermediate
 kt: 10164

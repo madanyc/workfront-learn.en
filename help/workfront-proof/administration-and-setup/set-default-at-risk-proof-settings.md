@@ -2,7 +2,7 @@
 title: Set Default At Risk Proof Settings
 description: Learn how to set the default settings for at risk proof notificiations as part of the proofing setups  .
 feature: Workfront Proof
-type: Article
+type: Tutorial
 role: User, Administrator
 level: Intermediate
 thumbnail: set-default-at-risk-proof-settings.png

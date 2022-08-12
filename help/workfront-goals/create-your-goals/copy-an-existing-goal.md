@@ -2,7 +2,7 @@
 title: Copy an Existing Goal
 description: Learn how to copy an existing goal in [!DNL Workfront Goals].
 feature: Workfront Goals
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 kt: 10121

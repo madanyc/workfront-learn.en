@@ -2,7 +2,7 @@
 title: What is a Version of a Proof?
 description: Discover how versions can help you manage the review and approval process across multiple iterations of a file using [!DNL  's] proofing features.
 feature: Workfront Proof
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 thumbnail: what-is-a-proof-version.png

@@ -2,7 +2,7 @@
 title: Understand the calendar interface
 description: Tour of the calendar interface
 feature: Reports and Dashboards
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 thumbnail: understand-the-calendar-interface.png

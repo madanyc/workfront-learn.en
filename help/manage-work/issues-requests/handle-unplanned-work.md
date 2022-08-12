@@ -3,7 +3,7 @@ title: Handle Unplanned Work
 description: Learn how to handle unplanned work in your organization with  .
 feature: Work Management
 thumbnail: handle-unplanned-work.jpeg
-type: Article
+type: Tutorial
 role: User
 level: Intermediate
 kt: 10070

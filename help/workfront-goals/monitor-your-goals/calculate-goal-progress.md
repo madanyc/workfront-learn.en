@@ -2,7 +2,7 @@
 title: Calculate goal progress
 description: Learn how goal progress is calculated in [!DNL Workfront Goals].
 feature: Workfront Goals
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 kt: 10119

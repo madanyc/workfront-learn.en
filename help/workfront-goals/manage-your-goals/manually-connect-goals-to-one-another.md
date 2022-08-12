@@ -2,7 +2,7 @@
 title: Manually connect goals to one another
 description: Learn how to manually connect goals to one another in [!DNL Workfront Goals].
 feature: Workfront Goals
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 kt: 10123

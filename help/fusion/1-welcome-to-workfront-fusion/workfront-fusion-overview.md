@@ -3,7 +3,7 @@ title: Workfront Fusion training overview
 description: Learn about the Adobe Workfront Fusion activity book and how to get a Workfront test drive account.
 topic: 
 activity: use
-type: Article
+type: Tutorial
 team: Technical Marketing
 kt: 
 

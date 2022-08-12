@@ -2,7 +2,7 @@
 title: Plan a project - review
 description: Review the five fields of an   project to focus on when planning a project—tasks, duration, planned hours, predecessors, and assignments.
 feature: Work Management
-type: Article
+type: Tutorial
 role: User
 level: Intermediate
 kt: 10152

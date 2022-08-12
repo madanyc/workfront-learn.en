@@ -3,7 +3,7 @@ title: Track overall project progress
 description: Learn how the information displayed in the project header can help you track overall project progress and health.
 feature: Work Management
 thumbnail: track-overall-project-progress.jpeg
-type: Article
+type: Tutorial
 role: User
 level: Intermediate
 kt: 10149

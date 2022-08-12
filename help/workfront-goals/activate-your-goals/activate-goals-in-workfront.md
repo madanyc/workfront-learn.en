@@ -2,7 +2,7 @@
 title: Activate Goals in [!DNL Workfront Goals]
 description: Learn how to activate goals in [!DNL Workfront Goals] once you have created them.
 feature: Workfront Goals
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 kt: 10118

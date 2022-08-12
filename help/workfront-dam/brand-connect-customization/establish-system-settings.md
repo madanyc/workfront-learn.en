@@ -2,7 +2,7 @@
 title: Establish System Settings in [!UICONTROL Brand Connect]
 description: Learn how to establish system settings in [!UICONTROL Brand Connect] of [!UICONTROL Workfront DAM].
 feature: Digital Content and Documents
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 kt: 10089

@@ -2,7 +2,7 @@
 title: Email Alerts and Proof Notifications Explained
 description: Understand the difference between email alerts and proof notifications in [!DNL  Workfront].
 feature: Workfront Proof
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png

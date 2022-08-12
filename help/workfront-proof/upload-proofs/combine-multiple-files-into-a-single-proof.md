@@ -2,7 +2,7 @@
 title: Combine Multiple Files into a Single Proof
 description: Learn how to streamline the proofing process by combining multiple files into a single proof in [!DNL  Workfront].
 feature: Workfront Proof
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
