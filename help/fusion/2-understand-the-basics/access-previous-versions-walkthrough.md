@@ -50,4 +50,4 @@ Trigger modules can only be used as the first module and can return zero, one, o
 
 ## Want to learn more? We recommend the following:
 
-![Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

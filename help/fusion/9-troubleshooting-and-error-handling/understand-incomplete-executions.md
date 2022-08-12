@@ -34,5 +34,5 @@ If an error occurs on any other module and there is no error handler route attac
 
 ## Want to learn more? We recommend the following:
 
-![Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion documentation](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
 
