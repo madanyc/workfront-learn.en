@@ -26,7 +26,7 @@ In some tutorials, you’ll create a new scenario from scratch. In other section
 
 To complete the exercises in the Workfront Fusion learning paths, you will need a Workfront test drive. If you already have a test drive, we recommend a new one for this training.
 
-Request a practice environment by filling out ![this form](https://forms.office.com/r/f1J8HRGrNY). If you’re unable to access the form, send your name, email address, and company name to wfttstdr@adobe.com.
+Request a practice environment by filling out [this form](https://forms.office.com/r/f1J8HRGrNY). If you’re unable to access the form, send your name, email address, and company name to wfttstdr@adobe.com.
 
 ### Access Workfront Fusion for practice
 
