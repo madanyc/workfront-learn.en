@@ -314,6 +314,20 @@ feature-set: Workfront
   + G Suite {#g-suite-integrations}
     + [Enhance your workflow with the G Suite Integration](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
+  + Jira {#jira}
+    + [Create visibility with the [!DNL Jira] Integration](integrations/jira/jira.md)
+
+  + Microsoft Outlook {#outlook}
+    + [Install the Microsoft Outlook add-in](integrations/outlook/integrations-microsoft-outlook.md)
+
+  + Slack {#slack}
+    + [Access your to-do list through [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
+    + [Assign tasks through [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
+    + [Make approvals through [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
+    + [Search Workfront through [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
+    + [Understand Workfront for [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
+    + [View Recent Work through [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+
 + Fusion {#fusion}
   + Welcome to Workfront Fusion {#welcome-to-workfront-fusion}
     + [Workfront Fusion overview](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
@@ -394,21 +408,6 @@ feature-set: Workfront
     + [Accessibility and clarity](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
     + [Scenario guardrails](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
     + [Testing and launch](fusion/11-design-optimization-and-testing/testing-considerations.md)
-
-
-  + Jira {#jira}
-    + [Create visibility with the [!DNL Jira] Integration](integrations/jira/jira.md)
-
-  + Microsoft Outlook {#outlook}
-    + [Install the Microsoft Outlook add-in](integrations/outlook/integrations-microsoft-outlook.md)
-
-  + Slack {#slack}
-    + [Access your to-do list through [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
-    + [Assign tasks through [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
-    + [Make approvals through [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
-    + [Search Workfront through [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
-    + [Understand Workfront for [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-    + [View Recent Work through [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
 
 + Workfront Proof {#workfront-proof}
   + [Learn the benefits of proofing](workfront-proof/benefits-of-proofing-in-workfront.md)
