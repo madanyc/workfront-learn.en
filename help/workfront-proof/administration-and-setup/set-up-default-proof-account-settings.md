@@ -2,7 +2,7 @@
 title: Set Up Proof Account Default Settings
 description: Learn how to set up default account settings that apply globally to all proofs and proofing users  .
 feature: Workfront Proof
-type: Article
+type: Tutorial
 role: User, Administrator
 level: Intermediate
 thumbnail: set-up-proof-actual-default-settings.png

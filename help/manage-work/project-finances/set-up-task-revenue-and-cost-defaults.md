@@ -2,7 +2,7 @@
 title: Set up task revenue & cost defaults
 description: The revenue type and cost type are used to calculate the planned and actual financial information for a task.
 feature: Work Management
-type: Article
+type: Tutorial
 role: User
 level: Intermediate
 kt: 10066

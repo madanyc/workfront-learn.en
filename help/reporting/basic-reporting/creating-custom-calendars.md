@@ -2,7 +2,7 @@
 title: Create a custom calendar
 description: Learn how to create your own custom calendar
 feature: Reports and Dashboards
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 thumbnail: create-a-custom-calendar.png

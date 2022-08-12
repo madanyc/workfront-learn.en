@@ -3,7 +3,7 @@ title: Lessons Learned from Closing a Project
 description: Learn how you can include a "lessons learned" task to identify what went well and what can improve the next time.
 feature: Work Management
 thumbnail: lessons-learned-from-closing-a-project.jpeg
-type: Article
+type: Tutorial
 role: User
 level: Intermediate
 kt: 10135

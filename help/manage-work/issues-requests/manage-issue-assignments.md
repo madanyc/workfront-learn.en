@@ -3,7 +3,7 @@ title: Manage issue assignments
 description: Learn how to assign out an issue to an individual user, multiple users, or a team so the issue will get resolved.
 feature: Work Management
 thumbnail: manage-issue-assignments.jpeg
-type: Article
+type: Tutorial
 role: User
 level: Intermediate
 kt: 10071

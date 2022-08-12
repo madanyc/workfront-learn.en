@@ -2,7 +2,7 @@
 title: Set Default Proof Roles
 description: Learn how to set the default proof role that's assigned when new users are created or people open a proof  .
 feature: Workfront Proof
-type: Article
+type: Tutorial
 role: User, Administrator
 level: Intermediate
 thumbnail: set-default-proof-roles.png

@@ -2,7 +2,7 @@
 title: Understand team capacity
 description: The Team capacity chart shows when a home team was over-allocated or under-allocated.
 feature: Reports and Dashboards
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 kt: 10047

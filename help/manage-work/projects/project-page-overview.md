@@ -2,7 +2,7 @@
 title: Understand the project page
 description: Learn about key features of the project page in [!DNL  Workfront] to help you plan and manage your projects.
 feature: Work Management
-type: Article
+type: Tutorial
 role: User
 level: Intermediate
 kt: 10142

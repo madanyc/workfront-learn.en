@@ -3,7 +3,7 @@ title: Report on Issues
 description: Learn how to centralize issues by creating a report  .
 feature: Work Management
 thumbnail: report-on-issues.jpeg
-type: Article
+type: Tutorial
 role: User
 level: Intermediate
 kt: 10072

@@ -3,7 +3,7 @@ title: Upload assets
 description: Upload documents, proofs, and other assets to the project before closing it to ensure all relevant data is associated with the project.
 feature: Work Management
 thumbnail: upload-assets.jpeg
-type: Article
+type: Tutorial
 role: User
 level: Intermediate
 kt: 10138

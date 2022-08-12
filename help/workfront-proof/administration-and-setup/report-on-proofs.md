@@ -2,7 +2,7 @@
 title: Report on Proofs
 description: Learn to how to use  's reporting capabilities to manage proof progress.
 feature: Workfront Proof
-type: Article
+type: Tutorial
 role: User, Administrator
 level: Intermediate
 thumbnail: report-on-proofs.png

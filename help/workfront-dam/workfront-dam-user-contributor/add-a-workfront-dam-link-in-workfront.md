@@ -2,7 +2,7 @@
 title: Add a [!UICONTROL Workfront DAM] Link in Workfront
 description: Learn how to add a [!UICONTROL Workfront DAM] link in Workfront so that you can link [!UICONTROL DAM] to your project, task, or issue in Workfront.
 feature: Digital Content and Documents
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 kt: 10106

@@ -3,7 +3,7 @@ title: Create OR statements in filters
 description: With an OR statement, you’re telling the filter that you want to see this OR that.
 feature: Reports and Dashboards
 thumbnail: create-or-statements-in-filters.png
-type: Article
+type: Tutorial
 role: User
 level: Intermediate
 kt: 9987

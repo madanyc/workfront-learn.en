@@ -2,7 +2,7 @@
 title: Your turn to create a calendar
 description: Learn how to create a customer calendar in this hands-on activity.
 feature: Reports and Dashboards
-type: Article
+type: Tutorial
 role: User
 level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
