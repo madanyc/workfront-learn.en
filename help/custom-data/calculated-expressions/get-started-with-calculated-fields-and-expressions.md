@@ -7,6 +7,7 @@ role: Admin, Leader, User
 level: Experienced
 activity: use
 team: Technical Marketing
+thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
 ---
 # Get started with calculated fields and expressions

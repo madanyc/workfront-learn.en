@@ -7,6 +7,7 @@ role: Admin, Leader, User
 level: Experienced
 activity: use
 team: Technical Marketing
+thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
 ---
 # Things to know about calculated field expressions

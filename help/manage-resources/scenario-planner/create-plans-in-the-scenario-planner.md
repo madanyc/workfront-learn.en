@@ -7,6 +7,7 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
+thumbnail: 335318.jpeg
 kt: 9076
 exl-id: 554c00cd-5958-4e5d-acec-22a96a7353b0
 ---
