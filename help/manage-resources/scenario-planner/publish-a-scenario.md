@@ -7,6 +7,7 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
+thumbnail: publish-scenario.jpeg
 exl-id: 987fc7a0-9b5a-4321-b831-bb59dcffdadf
 ---
 # Publishing a scenario
