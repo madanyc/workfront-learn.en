@@ -47,7 +47,7 @@ The Search items field at the top of the mapping panels helps you quickly find f
 
 Up to this point, you have worked with a very simple API (Application Programming Interface) that requires no extra authentication to pull information needed in the scenario. Here are a few tips to help you navigate working with APIs and universal connectors.
 
-### Step 1: Determine the type of API
+## Step 1: Determine the type of API
 
 Workfront and many software systems are built using a REST (Representational State Transfer) API, which is the easiest and most standard type of API today. However, there are a few others, such as:
 
@@ -60,7 +60,7 @@ Workfront and many software systems are built using a REST (Representational Sta
 >
 >When connecting to larger platforms such as Salesforce, different areas of those platforms will provide different APIs. Make sure you find the right one for the service you want to connect to. 
 
-### Step 2: Determine the type of authentication required by the API
+## Step 2: Determine the type of authentication required by the API
 
 API authentication is a form of identification used to control access to a service, such as when you try to connect through Workfront Fusion. It helps you prove to another system that you are authorized to access the system. OAuth 2 is the most common type of authentication used today. Learn more with an internet search about API authentication. 
 

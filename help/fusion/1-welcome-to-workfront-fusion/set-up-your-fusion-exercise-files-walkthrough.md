@@ -10,9 +10,8 @@ kt: 8998
 ---
 # Set up your Fusion exercise files walkthrough
 
-In this video, you will learn how to:
+Step 1: Download the [Fusion exercise files](/help/assets/fusion-exercise-files.zip)
 
-* Download the exercise files from Workfront One
-* Upload these files into a folder in Workfront
+Step 2: Watch the video to learn how to upload these files into a folder in Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12)
