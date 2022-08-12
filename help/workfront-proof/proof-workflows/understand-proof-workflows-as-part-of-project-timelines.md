@@ -4,7 +4,7 @@ description: Learn recommendations for blending a review and approval process wi
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8825

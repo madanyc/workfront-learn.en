@@ -1,7 +1,6 @@
 ---
 title: Data Stores Walkthrough
 description: Learn how use to a data store to synchronize company names between a list of companies and Workfront using [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

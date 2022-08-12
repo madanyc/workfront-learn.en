@@ -4,7 +4,7 @@ description: Learn how to access and comment on a proof, use markup to indicate 
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: review-approve-digital-work.png

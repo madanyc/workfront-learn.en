@@ -1,7 +1,6 @@
 ---
 title: Understand JSON in Scenarios
 description: Learn what JSON is, how it's structured, and how it will be translated into data to be used within your scenarios in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

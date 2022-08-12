@@ -1,7 +1,6 @@
 ---
 title: Understand Organizations, Teams, and Users
 description: Learn how to use, create, and navigate between organizations, teams, and users in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

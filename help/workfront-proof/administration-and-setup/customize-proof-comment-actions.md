@@ -3,7 +3,7 @@ title: Customize Proof Comment Actions
 description: Learn how actions can be used on proof comments. Learn how to set up and customize action labels for  's proofing features.
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335128.png

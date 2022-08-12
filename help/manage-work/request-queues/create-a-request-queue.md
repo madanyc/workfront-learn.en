@@ -4,7 +4,7 @@ description: Learn how to set up a request queue and establish queue details in 
 activity: deploy
 feature: Work Management
 type: Tutorial
-role: Administrator, User
+role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335221.jpeg

@@ -4,7 +4,7 @@ description: Learn what a proof decision is  . Then rename the proof decision op
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335127.png

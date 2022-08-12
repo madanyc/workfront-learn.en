@@ -1,7 +1,6 @@
 ---
 title: Switch Module Walkthrough
 description: Learn how to use the Switch module when you need to perform more complex or dynamic data transformations in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

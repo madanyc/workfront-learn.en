@@ -1,7 +1,6 @@
 ---
 title: Data Structures Walkthrough
 description: Learn how to take time log information from one file, transform it, and produce a new file with the transformed data in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

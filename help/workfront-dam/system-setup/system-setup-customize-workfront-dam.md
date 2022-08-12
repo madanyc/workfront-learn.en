@@ -4,7 +4,7 @@ description: Learn how to customize [!UICONTROL Workfront DAM] by creating water
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator
+role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8969

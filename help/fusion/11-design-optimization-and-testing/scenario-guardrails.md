@@ -1,7 +1,6 @@
 ---
 title: Scenario Guardrails
 description: Learn about scenario guardrails, module guardrails, file guardrails, and webhook guardrails, all in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

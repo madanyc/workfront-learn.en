@@ -4,7 +4,7 @@ description: Learn how the request flow process in [!DNL  Workfront] works. Then
 activity: delpoy
 feature: Work Management
 type: Tutorial
-role: Administrator, User
+role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335222.jpeg

@@ -4,7 +4,7 @@ description: Learn how to open a static or interactive website proof in [!DNL  W
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335143.png

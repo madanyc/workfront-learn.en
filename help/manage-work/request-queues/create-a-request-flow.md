@@ -4,7 +4,7 @@ description: Learn how to configure [!DNL  Workfront] queue topics, topic groups
 activity: deploy
 feature: Work Management
 type: Tutorial
-role: Administrator, User
+role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335223.jpeg

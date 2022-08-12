@@ -1,7 +1,6 @@
 ---
 title: Accessibility and clarity
 description: Learn some basic best practices for making scenarios easy to read, share, and understand.
-topic: null
 activity: use
 type: Tutorial
 team: Technical Marketing

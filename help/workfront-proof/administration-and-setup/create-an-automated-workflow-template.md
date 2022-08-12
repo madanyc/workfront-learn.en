@@ -4,7 +4,7 @@ description: Learn how to create an automated workflow template by assigning pro
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335130.png

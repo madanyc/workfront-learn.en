@@ -1,7 +1,6 @@
 ---
 title: Understand Scenario Scheduling
 description: In this video, you will learn what scenario scheduling, cycles, and runs are in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

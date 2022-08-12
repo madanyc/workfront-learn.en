@@ -1,7 +1,6 @@
 ---
 title: Runs, Cycles, and Bundles Walkthrough
 description: Learn how to use different scenario configurations to explore using runs and cycles in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

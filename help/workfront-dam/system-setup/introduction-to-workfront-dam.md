@@ -4,7 +4,7 @@ description: Learn how to search for and view assets, and explore how the folder
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator
+role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8965

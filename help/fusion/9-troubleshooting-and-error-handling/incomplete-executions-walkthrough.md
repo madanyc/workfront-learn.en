@@ -1,7 +1,6 @@
 ---
 title: Incomplete Executions Walkthrough
 description: Learn the value of storing incomplete executions and then re-running bundles after evaluating and correcting errors in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

@@ -4,7 +4,7 @@ description: Learn how to establish global settings, set asset options, establis
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator
+role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8968

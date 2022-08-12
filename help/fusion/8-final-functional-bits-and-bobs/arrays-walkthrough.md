@@ -1,7 +1,6 @@
 ---
 title: Arrays Walkthrough
 description: In this video we will review previous walkthrough exercises where simple and complex arrays were used in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

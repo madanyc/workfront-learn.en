@@ -1,7 +1,6 @@
 ---
 title: Universal Connectors Exercise Overview
 description: Learn how to tap into the power of universal connectors, connect to an external API, and extract information from an array, all in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

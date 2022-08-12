@@ -1,7 +1,6 @@
 ---
 title: Routing Patterns Walkthrough
 description: Learn how to use the Set Variable module to send a number through multiple paths to see how filters and fallbacks behave in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

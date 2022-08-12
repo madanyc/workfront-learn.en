@@ -4,7 +4,7 @@ description: Learn how request queues are structured in [!DNL  Workfront] and ho
 activity: use
 feature: Work Management
 type: Tutorial
-role: Administrator, User
+role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335220.jpeg

@@ -1,7 +1,6 @@
 ---
 title: Introduction and Tech Strategy
 description: In this video, you will see the power and flexibility of [!DNL Adobe Workfront Fusion], the Fusion core and designer capabilities, and a Fusion example scenario.
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

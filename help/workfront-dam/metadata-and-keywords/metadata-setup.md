@@ -4,7 +4,7 @@ description: Learn how to create a metadata schema, understand the different typ
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
-role: Administrator
+role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8972

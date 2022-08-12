@@ -1,7 +1,6 @@
 ---
 title: Execution History Walkthrough
 description: Learn how to review the execution history of a scenario to understand what happened when in [!DNL Adobe Workfront Fusion].
-topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing

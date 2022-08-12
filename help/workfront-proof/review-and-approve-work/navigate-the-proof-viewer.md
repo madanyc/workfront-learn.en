@@ -4,7 +4,7 @@ description: Learn how to move a proof around, zoom in/out on the content, use t
 activity: use
 feature: Workfront Proof
 type: Tutorial
-role: User, Administrator
+role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335140.png
