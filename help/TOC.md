@@ -311,6 +311,88 @@ feature-set: Workfront
   + G Suite {#g-suite-integrations}
     + [Enhance your workflow with the G Suite Integration](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
++ Fusion {#fusion}
+  + Welcome to Workfront Fusion {#welcome-to-workfront-fusion}
+    + [Workfront Fusion overview](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
+    + [Set up your Workfront Fusion exercise files](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
+    + [Introduction and tech strategy](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+    + [Core concepts](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
+
+  + Understand the basics {#understand-the-basics}
+    + [Initial scenario design walkthrough](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
+    + [Mapping panel and formula editor](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
+    + [Mapping panel important notes](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
+    + [Beyond basic mapping walkthrough](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
+    + [Use filters](fusion/2-understand-the-basics/use-filters.md)
+    + [Filters walkthrough](fusion/2-understand-the-basics/filters-walkthrough.md)
+    + [Access previous versions walkthrough](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+
+  + Universal connectors and routing {#universal-connectors-and-routing}
+    + [Universal connectors exercise overview](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
+    + [Introduction to universal connectors walkthrough](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
+    + [Understand routers](fusion/3-universal-connectors-and-routing/understand-routers.md)
+    + [Routers walkthrough](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
+    + [Common routing patterns](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
+    + [Routing patterns walkthrough](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
+    + [Set-it and get-it](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
+    + [Get/set variables walkthrough](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+
+  + Iteration and aggregation {#iteration-and-aggregation}
+    + [Introduction to iterators](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
+    + [Introduction to iterators walkthrough](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
+    + [Introduction to aggregations](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
+    + [Aggregation walkthrough](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
+    + [Advanced aggregation walkthrough](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
+
+  + Execution history and scheduling {#execution-history-and-scheduling}
+    + [Introduction to execution history](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
+    + [Execution history walkthrough](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
+    + [Understand scenario scheduling](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
+    + [Balance runs cycles and bundles](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
+    + [Runs cycles and bundles walkthrough](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
+
+  + Beyond basis modules {#beyond-basic-modules}
+    + [Become familiar with additional apps and common modules](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
+    + [Switch it up](fusion/6-beyond-basic-modules/switch-it-up.md)
+    + [Switch function walkthrough](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
+    + [Switch module walkthrough](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
+    + [Understand the webhook world](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
+    + [Webhooks walkthrough](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+
+  + Data structures and data stores {#data-structures-and-data-stores}
+    + [Understand data structures](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
+    + [Data structures walkthrough](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
+    + [Understand data stores](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
+    + [Data stores walkthrough](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+
+  + Final functional bits and bobs {#final-functional-bits-and-bobs}
+    + [Workfront app walkthrough](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
+    + [Understand arrays, collections, and elements](fusion/8-final-functional-bits-and-bobs/understand-arrays-collections-and-elements.md)
+    + [Arrays walkthrough](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
+    + [Understand JSON in scenarios](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
+    + [Working with JSON walkthrough](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
+
+  + Troubleshooting and error handling {#troubleshooting-and-error-handling}
+    + [Advanced troubleshooting with the dev tool](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
+    + [Dev tool walkthrough](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
+    + [What is error handling](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
+    + [Understand error handling directives](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
+    + [Error handling walkthrough](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
+    + [Understand incomplete executions](fusion/9-troubleshooting-and-error-handling/understand-incomplete-executions.md)
+    + [Incomplete executions walkthrough](fusion/9-troubleshooting-and-error-handling/incomplete-executions-walkthrough.md)
+
+  + Workfront fusion administration {#workfront-fusion-administration}
+    + [Understand organizations teams and users](fusion/10-workfront-fusion-administration/understand-organizations-teams-and-users.md)
+    + [Administration walkthrough](fusion/10-workfront-fusion-administration/administration-walkthrough.md)
+
+  + Design optimization and testing {#design-optimization-and-testing}
+    + [Define distinct use cases and find the best approach](fusion/11-design-optimization-and-testing/define-distinct-use-cases-and-find-the-best-approach.md)
+    + [Workfront Fusion scenario optimization](fusion/11-design-optimization-and-testing/workfront-fusion-scenario-optimization.md)
+    + [Accessibility and clarity](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
+    + [Scenario guardrails](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
+    + [Testing and launch](fusion/11-design-optimization-and-testing/testing-considerations.md)
+
+
   + Jira {#jira}
     + [Create visibility with the [!DNL Jira] Integration](integrations/jira/jira.md)
 
