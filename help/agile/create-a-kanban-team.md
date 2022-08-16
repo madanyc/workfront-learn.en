@@ -1,5 +1,5 @@
 ---
-title: Creating a Kanban team
+title: Create a Kanban team
 description: Learn how to create a Kanban team and determine settings for the team.
 feature: Agile
 role: Admin, Leader, User
@@ -8,11 +8,8 @@ kt: 10881
 thumbnail: 10881.png
 ---
 
-# Creating a Kanban team
+# Create a Kanban team
 
-## Set up a Scrum Team
-
-Create a Kanban team
 The Creative Marketing Team has been using Scrum for a while now. They appreciate the flexible environment of an agile team, but they’re finding it difficult to commit stories to a specific timeframe because of how often priorities change for their team.  
 
 They do have an alternative to Scrum. It’s called Kanban. 

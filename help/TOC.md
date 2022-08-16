@@ -521,6 +521,7 @@ feature-set: Workfront
   + [Manage work as a Kanban team](agile/manage-work-kanban-team.md)
   + [Manage work as a Scrum team](agile/manage-work-scrum-team.md)
   + [Plan and create an iteration](agile/plan-and-create-an-iteration.md)
+  + [Using the iteration page](agile/using-the-iteration-page.md)
 
  
 + [Benefits of using Agile](agile/benefits-of-using-agile.md)
