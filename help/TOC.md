@@ -514,5 +514,16 @@ feature-set: Workfront
     + [Review work in [!UICONTROL My Updates] or [!UICONTROL Home]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
     + [Understand updates and notifications](manage-work/issues-requests/understand-updates-and-notifications.md)
     
++ Agile {#agile}
+  + [Create a Kanban team](agile/create-a-kanban-team.md)
+  + [Create  a Scum agile team](agile/create-a-scrum-agile-team.md)
+  + [Grooming the backlog](agile/gooming-the-backlog.md)
+  + [Manage work as a Kanban team](agile/manage-work-kanban-team.md)
+  + [Manage work as a Scrum team](agile/manage-work-scrum-team.md)
+  + [Plan and create an iteration](agile/plan-and-create-an-iteration.md)
 
-
+ 
++ [Benefits of using Agile](agile/benefits-of-using-agile.md)
++ [What is the Scrum methodology and how does it work?](agile/what-is-the-scrum-methodology.md)
++ [What is the Kanban methodology and how does it work?](agile/what-is-the-kanban-methodology.md)
++ [Transitioning to Agile](agile/transitioning-to-agile.md)
