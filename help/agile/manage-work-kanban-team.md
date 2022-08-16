@@ -6,8 +6,8 @@ role: Admin, Leader, User
 level: Intermediate
 kt: 10888
 thumbnail: 10888.png
+exl-id: 05656ae0-46b2-4034-ac25-d936090d134c
 ---
-
 # Manage work as a Kanban team
 
 Manage work as a Kanban team
@@ -41,5 +41,4 @@ If you exceed the limit in a status column equating to New or In Progress, you w
 
 ![Exceed WIP limits](assets/kanban-04.png)
 
-If your team decides that they can handle more or less items at a time, you (and other team members with editing rights) can change the Work in Progress number right from the storyboard by clicking on the WIP number and editing it to reflect your new decision. 
-
+If your team decides that they can handle more or less items at a time, you (and other team members with editing rights) can change the Work in Progress number right from the storyboard by clicking on the WIP number and editing it to reflect your new decision.

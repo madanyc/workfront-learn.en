@@ -8,8 +8,8 @@ kt: 10892
 thumbnail: 10892.png
 hide: yes
 hidefromtoc: yes
+exl-id: eaad6a3f-9d1a-4dbe-8187-09e25de605f1
 ---
-
 # Transitioning to Agile
 
 ## Questions to ask before making the switch 
@@ -53,4 +53,4 @@ After you establish transition steps and make sure everyone is comfortable with 
 
 Tracking a new Agile team’s progress or success will be very beneficial to giving the team confidence in the changes they are incorporating. In addition, having these metrics will help justify the benefits of transitioning a team to Agile when in higher-level meetings. 
 
-Finally, it’s important to provide your team and new scrum masters with a form that outlines helpful questions to ask during daily stand-ups and the iteration retrospectives. This provides some excellent documentation for future reviews of process. It also allows for the team to identify areas that need improvement and help them answer questions they may not think to talk about if they are new to Agile.  
+Finally, it’s important to provide your team and new scrum masters with a form that outlines helpful questions to ask during daily stand-ups and the iteration retrospectives. This provides some excellent documentation for future reviews of process. It also allows for the team to identify areas that need improvement and help them answer questions they may not think to talk about if they are new to Agile.

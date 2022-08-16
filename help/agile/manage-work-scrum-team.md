@@ -6,8 +6,8 @@ role: Admin, User
 level: Intermediate
 kt: 10872
 thumbnail: 346282.jpeg
+exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
 ---
-
 # Manage work as a Scrum team
 
 Now that you’ve created your Creative Marketing scrum team, step into the shoes of the scrum master to see what their experience is like. 
@@ -29,4 +29,4 @@ The Agile team will groom the backlog together. This basically means three thing
 
 - First, the scrum master will help the team understand what the product owner’s expectations are for what work should be getting done. 
 - Second, team members will estimate how long it will take to complete each story. 
-- Third, the team uses this information to make informed decisions about what to work on, and when to work on it. 
+- Third, the team uses this information to make informed decisions about what to work on, and when to work on it.

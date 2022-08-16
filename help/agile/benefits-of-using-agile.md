@@ -8,8 +8,8 @@ kt: 10889
 thumbnail: 10889.png
 hide: yes
 hidefromtoc: yes
+exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
 ---
-
 # Benefits of using Agile
 
 ## Ability to adjust and pivot quickly 
@@ -30,5 +30,4 @@ Having this transparency and unified direction allows everyone to move forward, 
 
 ## Frequent feedback 
 
-The final major benefit of adopting Agile would be the feedback loop that is incorporated at the end of each iteration (remember: an iteration is a set amount of time in which the team has to work toward completing specific deliverables). The feedback loop allows a team to look back at the last couple of weeks to determine what issues came up, how the plan may be changing moving forward, what the customer now needs if previous needs have changed, and lessons learned as a team. 
-
+The final major benefit of adopting Agile would be the feedback loop that is incorporated at the end of each iteration (remember: an iteration is a set amount of time in which the team has to work toward completing specific deliverables). The feedback loop allows a team to look back at the last couple of weeks to determine what issues came up, how the plan may be changing moving forward, what the customer now needs if previous needs have changed, and lessons learned as a team.

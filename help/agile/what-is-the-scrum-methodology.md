@@ -8,8 +8,8 @@ kt: 10890
 thumbnail: 10890.png
 hide: yes
 hidefromtoc: yes
+exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
 ---
-
 # What is the Scrum methodology and how does it work?
 
 The Scrum methdology encompases the flexibility model but differs from other methdologies in that it has defined roles for those who are part of the team -- such as Product Owner, Scum Master, etc. -- and defined practices to define and complete work.
@@ -96,6 +96,3 @@ Using a storyboard, teams move their stories through status columns to show when
 A burndown chart can be used to monitor if the team is completing stories at a fast enough rate, or velocity. Burndown charts can be used on individual iterations or the entire product release. 
 
 ![Burndown chart](assets/burndown-01.png)
-
-
-

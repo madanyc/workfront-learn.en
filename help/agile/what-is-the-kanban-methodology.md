@@ -8,8 +8,8 @@ kt: 10891
 thumbnail: 10891.png
 hide: yes
 hidefromtoc: yes
+exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
 ---
-
 # What is the Kanban methodology and how does it work?
 
 Unlike other agile methodologies that focus on a cyclical process, the Kanban methodology focuses on an optimized workflow. Kanban looks to improve the flow of work by visualizing the work utilizing a Kanban board, setting a limit on the amount of work that can be in progress, and analyzing the flow to make continuous improvements. 

@@ -6,8 +6,8 @@ role: Admin, Leader, User
 level: Intermediate
 kt: 10871
 thumbnail: 346281.jpeg
+exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
 ---
-
 # Create a Scrum Agile Team
 
 ## Set up a Scrum Team
@@ -41,4 +41,4 @@ Already have a team in Workfront that you want to convert to an Agile team? No p
 
 ## Scrum team setup change 
 
-The “On the issues tab, show” option is no longer included on the team settings page because the Issues tab is no longer needed by Agile teams. Issues assigned to a team are found on the Backlog tab, which makes it easier to plan iterations that include both tasks and issues. 
+The “On the issues tab, show” option is no longer included on the team settings page because the Issues tab is no longer needed by Agile teams. Issues assigned to a team are found on the Backlog tab, which makes it easier to plan iterations that include both tasks and issues.

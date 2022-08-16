@@ -6,8 +6,8 @@ role: Admin, Leader, User
 level: Intermediate
 kt: 10881
 thumbnail: 10881.png
+exl-id: 01573905-514d-4df6-b2b6-1c92585e56fc
 ---
-
 # Create a Kanban team
 
 The Creative Marketing Team has been using Scrum for a while now. They appreciate the flexible environment of an agile team, but they’re finding it difficult to commit stories to a specific timeframe because of how often priorities change for their team.  
@@ -39,6 +39,4 @@ To help manage your completed work more efficiently, stories stay on the board f
 
 If needed, that setting can be adjusted to between 1 and 30 days in the team settings window. 
 
-Keep in mind that even though this is a different methodology, it’s still important when working in an agile environment to continually groom the backlog by discussing story requirements and adjusting story priority. Anytime you want to re-prioritize the backlog, you need to move one tab over to the Backlog tab to rearrange it. 
-
-
+Keep in mind that even though this is a different methodology, it’s still important when working in an agile environment to continually groom the backlog by discussing story requirements and adjusting story priority. Anytime you want to re-prioritize the backlog, you need to move one tab over to the Backlog tab to rearrange it.

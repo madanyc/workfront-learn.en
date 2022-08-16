@@ -1,13 +1,13 @@
 ---
 title: Grooming the backlog
-description: Learn how to break down stories into smaller ones, re-prioritize stories in the backlog, and mark that stories are ready to be put into an iteration. 
+description: Learn how to break down stories into smaller ones, re-prioritize stories in the backlog, and mark that stories are ready to be put into an iteration.
 feature: Agile
 role: Admin, User
 level: Intermediate
 kt: 10873
 thumbnail: 346283.jpeg
+exl-id: ebd18f1d-f309-4e99-9c76-8aabd4009806
 ---
-
 # Grooming the backlog
 
 Learn how to break down stories into smaller ones, re-prioritize stories in the backlog, and mark that stories are ready to be put into an iteration.
