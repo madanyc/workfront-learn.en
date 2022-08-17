@@ -3,6 +3,7 @@ title: Understand actions - hover, click and drag, and click in
 description: Learn how to get more information by hovering over a chart, create a timeframe on a chart, and how to make additional charts appear, all in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
+thumbnail: 335044.png
 type: Tutorial
 role: User
 level: Beginner

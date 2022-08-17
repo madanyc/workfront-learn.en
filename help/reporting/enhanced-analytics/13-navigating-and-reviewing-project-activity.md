@@ -3,6 +3,7 @@ title: Understand navigating and reviewing project activity
 description: In this video, you will learn how to compare projects based on users logged in, task status changes, and tasks completed in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
+thumbnail: 335049.png
 type: Tutorial
 role: User
 level: Beginner

@@ -3,6 +3,7 @@ title: Understand KPIs
 description: In this video, you will learn how to get value from the KPI data in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
+thumbnail: 335046.png
 type: Tutorial
 role: User
 level: Beginner

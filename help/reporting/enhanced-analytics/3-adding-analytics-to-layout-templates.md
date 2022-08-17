@@ -3,6 +3,7 @@ title: Add [!UICONTROL Analytics] to layout templates
 description: Learn how system and group administrators grant access to Analytics in the New Workfront Experience, and in [!DNL  Workfront] Classic.
 activity: use
 feature: Reports and Dashboards
+thumbnail: 335045.png
 type: Tutorial
 role: User
 level: Beginner
