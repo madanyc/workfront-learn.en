@@ -145,6 +145,11 @@ feature-set: Workfront
   + Manage projects {#manage-projects}
     + [Copy an existing project](manage-work/manage-projects/copy-an-existing-project.md)
 
+  + Portfolios {#portfolios}
+    + [Overview of portfolios](manage-work/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+    + [Introduction to the Business Case](manage-work/portfolios-and-programs/introduction-to-the-business-case.md)
+    + [Prioritize and manage work with portfolios](manage-work/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+
   + Project timelines {#project-timelines}
     + [Track progress from the project timeline](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
     + [Understand date types and progress status](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
