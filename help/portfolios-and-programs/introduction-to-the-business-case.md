@@ -6,8 +6,8 @@ thumbnail: introduction-to-the-business-case.png
 type: Tutorial
 role: User
 level: Intermediate
+exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
 ---
-
 # Introduction to the [!UICONTROL Business Case]
 
 As a manager, it’s your goal to make sure projects contribute to the overall goals and initiatives of the company in a positive way. In order to make informed decisions, you need information from your project managers about what they will need for their projects to move forward. This can be done through the [!UICONTROL Business Case]. 
