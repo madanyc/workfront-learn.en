@@ -2,6 +2,7 @@
 title: Understand the activity by team chart
 description: The Activity by team chart allows you to understand how your organization’s home teams spend their time in Workfront.
 feature: Reports and Dashboards
+thumbnail: understand-the-activity-by-team-chart.png
 type: Tutorial
 role: User
 level: Beginner

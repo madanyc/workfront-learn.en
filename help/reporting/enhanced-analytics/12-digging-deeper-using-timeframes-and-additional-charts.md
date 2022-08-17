@@ -3,6 +3,7 @@ title: Dig deeper using timeframes and additional charts
 description: Learn to drill down on a project in the Flight plan chart to make the Burndown chart and the Tasks in flight chart appear in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
+thumbnail: 335048.png
 type: Tutorial
 role: User
 level: Beginner

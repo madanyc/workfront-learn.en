@@ -3,6 +3,7 @@ title: Understand accessing and reviewing the burndown
 description: Learn how to access the burndown chart and understand the relationship between remaining hours, project condition, and project velocity in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
+thumbnail: 335051.png
 type: Tutorial
 role: User
 level: Beginner
