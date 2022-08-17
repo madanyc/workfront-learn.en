@@ -373,7 +373,7 @@ feature-set: Workfront
     + [Balance runs cycles and bundles](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
     + [Runs cycles and bundles walkthrough](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
 
-  + Beyond basis modules {#beyond-basic-modules}
+  + Beyond basic modules {#beyond-basic-modules}
     + [Become familiar with additional apps and common modules](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
     + [Switch it up](fusion/6-beyond-basic-modules/switch-it-up.md)
     + [Switch function walkthrough](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
@@ -403,7 +403,7 @@ feature-set: Workfront
     + [Understand incomplete executions](fusion/9-troubleshooting-and-error-handling/understand-incomplete-executions.md)
     + [Incomplete executions walkthrough](fusion/9-troubleshooting-and-error-handling/incomplete-executions-walkthrough.md)
 
-  + Workfront fusion administration {#workfront-fusion-administration}
+  + Workfront Fusion administration {#workfront-fusion-administration}
     + [Understand organizations teams and users](fusion/10-workfront-fusion-administration/understand-organizations-teams-and-users.md)
     + [Administration walkthrough](fusion/10-workfront-fusion-administration/administration-walkthrough.md)
 

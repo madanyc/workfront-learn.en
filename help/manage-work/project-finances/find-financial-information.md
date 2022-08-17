@@ -3,6 +3,7 @@ title: Find financial information
 description: Learn how to find financial information about a project and understand where it came from.
 activity: use
 feature: Work Management
+thumbnail: 335208.png
 type: Tutorial
 role: User
 level: Intermediate
