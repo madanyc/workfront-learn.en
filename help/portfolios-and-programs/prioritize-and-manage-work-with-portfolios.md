@@ -1,7 +1,8 @@
 ---
-title: Prioritize and Manage Work with Portfolios
+title: Prioritize and manage work with portfolios
 description: Learn how to prioritize and manage work with portfolios in [!DNL  Workfront].
 feature: Strategic Planning
+thumbnail: prioritize-and-manage-work-with-portfolios.png
 type: Tutorial
 role: User
 level: Intermediate
