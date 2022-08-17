@@ -2,6 +2,7 @@
 title: Understand multiple billing rates
 description: Within Workfront, a project manager has the ability to override system billing rates within a specific project.
 feature: Work Management
+thumbnail: understand-multiple-billing-rates.png
 type: Tutorial
 role: User
 level: Intermediate

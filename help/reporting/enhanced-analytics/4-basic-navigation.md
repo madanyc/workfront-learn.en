@@ -3,6 +3,7 @@ title: Understand basic navigation
 description: In this video, you will learn how to navigate to the [!UICONTROL Analytics] area and see an overview of the work charts and the people charts in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
+thumbnail: 335057.png
 type: Tutorial
 role: User
 level: Beginner

@@ -2,6 +2,7 @@
 title: Get started with [!UICONTROL Enhanced Analytics]
 description: Learn the most important fields to update in order to get the most out of Enhanced analytics.
 feature: Reports and Dashboards
+thumbnail: analytics-prerequisites.png
 type: Tutorial
 role: User
 level: Beginner

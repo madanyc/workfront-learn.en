@@ -3,6 +3,7 @@ title: Understand an end user use case
 description: In this video, you will learn how end users might use Flight plan, Burndown, and Tasks in flight charts in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
+thumbnail: 335055.png
 type: Tutorial
 role: User
 level: Beginner

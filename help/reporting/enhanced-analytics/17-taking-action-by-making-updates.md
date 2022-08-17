@@ -3,6 +3,7 @@ title: Take action by making updates
 description: In this video, you will learn how to make updates from within the Tasks in flight chart in [!DNL  Workfront].
 activity: use
 feature: Reports and Dashboards
+thumbnail: 335053.png
 type: Tutorial
 role: User
 level: Beginner
