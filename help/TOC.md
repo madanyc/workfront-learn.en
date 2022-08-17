@@ -528,6 +528,43 @@ feature-set: Workfront
   + [Plan and create an iteration](agile/plan-and-create-an-iteration.md)
   + [Using the iteration page](agile/using-the-iteration-page.md)
 
++ Best Practices {#best-practices}
+  + [Agile](best-practices/agile-bp.md)
+  + [API Explorer](best-practices/api-explorer-bp.md)
+  + [Business case and portfolio optimizer](best-practices/business-case-and-portfolio-optimizer-bp.md)
+  + [Communication](best-practices/communication-bp.md)
+  + [Custom forms](best-practices/custom-forms-bp.md)
+  + [Custom reports](best-practices/custom-reports-bp.md)
+  + [Dashboards](best-practices/dashboards-bp.md)
+  + [Documents](best-practices/documents-bp.md)
+  + [Filters, views, and groupings](best-practices/filters-views-groupings-bp.md)
+  + [Job roles](best-practices/job-roles-bp.md)
+  + [Layout templates](best-practices/layout-templates-bp.md)
+  + [Licenses and access levels](best-practices/licenses-access-levels-bp.md)
+  + [Onboarding and adoption](best-practices/onboarding-adoption-bp.md)
+  + [Organization units](best-practices/organizational-units-bp.md)
+  + [Portfolios and programs](best-practices/portfolios-programs-bp.md)
+  + [Preview sandbox](best-practices/preview-sandbox-bp.md)
+  + [Project, task, and issue preferences](best-practices/project-task-issue-preferences-bp.md)
+  + [Project templates](best-practices/project-templates-bp.md)
+  + [Workfront Proof](best-practices/proofing-bp.md)
+  + [Request queue](best-practices/request-queues-bp.md)
+  + [Resource Planner](best-practices/resource-planner-bp.md)
+  + [Resource pools](best-practices/resource-pools-bp.md)
+  + [Scneario Planner](best-practices/scenario-planner-bp.md)
+  + [Schedules](best-practices/schedules-bp.md)
+  + [Statuses](best-practices/statuses-bp.md)
+  + [System peformance and maintenance](best-practices/system-performance-maintenance-bp.md)
+  + [Text mode reporting](best-practices/test-mode-reporting-bp.md)
+  + [Timeline planning and management](best-practices/timeline-planning-management-bp.md)
+  + [Timesheets and loggin time](best-practices/timesheets-logging-time-bp.md)
+  + [Utilization](best-practices/utilization-bp.md)
+  + [Workfront Goals](best-practices/workfront-goals-bp.md)
+  + [Workload Balancer](best-practices/workload-balancer-bp.md)
+
+
+
+
  
 + [Benefits of using Agile](agile/benefits-of-using-agile.md)
 + [What is the Scrum methodology and how does it work?](agile/what-is-the-scrum-methodology.md)
