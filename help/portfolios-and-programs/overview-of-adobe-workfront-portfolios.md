@@ -6,8 +6,8 @@ thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
 level: Intermediate
+exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 ---
-
 # Overview of portfolios
 
 Managers often have the tricky job of figuring out which projects would best help their company reach its goals and objectives. That means judging a current or potential project based on criteria that is important to those objectives. This criteria can include things like the number of resources needed, how much money will the project cost vs. what it will bring in, and/or the number of risks involved. With this information, managers can decide which projects should be done first and which can be put on the back burner.  

@@ -6,8 +6,8 @@ thumbnail: prioritize-and-manage-work-with-portfolios.png
 type: Tutorial
 role: User
 level: Intermediate
+exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 ---
-
 # Prioritize and manage work with portfolios
 
 All of the information entered in the [!UICONTROL Business Case] rolls up to the portfolio and into the default view in the [!UICONTROL Portfolio Optimization] section. 
@@ -94,4 +94,3 @@ If during the comparison you see that new projects should have a higher priority
 * Prioritizing projects in the Portfolio Optimizer
 
 -->
-
