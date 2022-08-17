@@ -1,12 +1,10 @@
 ---
 title: Best Practice - Workload Balancer
 description: Explore best practice recommendations from Adobe Workfront experts about setting up, managing, and using the Workload Balancer.
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
+feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 kt: 10932
-thumbnail: Cannot find MPC Link.jpeg
 ---
 
 # Best Practice - Workload Balancer
