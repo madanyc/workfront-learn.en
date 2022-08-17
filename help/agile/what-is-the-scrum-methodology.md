@@ -5,7 +5,7 @@ feature: Agile
 role: Admin, Leader, User
 level: Intermediate
 kt: 10890
-thumbnail: 10890.png
+thumbnail: what-is-scrum.jpeg
 hide: yes
 hidefromtoc: yes
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8

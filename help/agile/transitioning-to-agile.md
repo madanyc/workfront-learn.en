@@ -5,7 +5,7 @@ feature: Agile
 role: Admin, Leader, User
 level: Intermediate
 kt: 10892
-thumbnail: 10892.png
+thumbnail: transitioning-to-agile.jpeg
 hide: yes
 hidefromtoc: yes
 exl-id: eaad6a3f-9d1a-4dbe-8187-09e25de605f1

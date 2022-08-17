@@ -5,7 +5,7 @@ feature: Agile
 role: Admin, Leader, User
 level: Intermediate
 kt: 10891
-thumbnail: 10891.png
+thumbnail: what-is-kanban.jpeg
 hide: yes
 hidefromtoc: yes
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5

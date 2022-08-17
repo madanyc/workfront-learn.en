@@ -5,7 +5,7 @@ feature: Agile
 role: Admin, Leader, User
 level: Intermediate
 kt: 10889
-thumbnail: 10889.png
+thumbnail: benefits-of-agile.png
 hide: yes
 hidefromtoc: yes
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be

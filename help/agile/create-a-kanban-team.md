@@ -5,7 +5,7 @@ feature: Agile
 role: Admin, Leader, User
 level: Intermediate
 kt: 10881
-thumbnail: 10881.png
+thumbnail: create-kanban-team.png
 exl-id: 01573905-514d-4df6-b2b6-1c92585e56fc
 ---
 # Create a Kanban team

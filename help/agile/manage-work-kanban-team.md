@@ -5,7 +5,7 @@ feature: Agile
 role: Admin, Leader, User
 level: Intermediate
 kt: 10888
-thumbnail: 10888.png
+thumbnail: manage-work-kanban.png
 exl-id: 05656ae0-46b2-4034-ac25-d936090d134c
 ---
 # Manage work as a Kanban team
