@@ -1,7 +1,7 @@
 ---
 title: Best Practice - Scenario Planner
 description: Explore best practice recommendations from Adobe Workfront experts about the Scenario Planner tool.
-feature: RWorkfront Scenario Planner
+feature: Workfront Scenario Planner
 role: Admin, Leader, User
 level: Beginner
 kt: 10924
@@ -9,7 +9,7 @@ kt: 10924
 
 # Best Practice - Scenario Planner
 
-## What is an Adobe Workfront “best practice”? 
+## What is an Adobe Workfront "best practice"? 
 
 Best practices are guidelines that represent an effective, efficient course of action; are easily adopted by you and the users at your company; and can be replicated successfully across your organization. 
 
@@ -17,9 +17,9 @@ As you review these recommendations, please keep in mind that some Workfront bes
 
 ## Navigating this page 
 
-As you scroll through this page, first you’ll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of “why.” 
+As you scroll through this page, first you'll find a high-level list of all the best practices for the topic. This allows you to review the recommendations without diving into the details of "why." 
 
-The “Why are these best practices?” area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
+The "Why are these best practices?" area, found after the high-level list, provides greater detail into some of the best practices and why they're deemed as a process, tool, etc., you should consider implementing with your Workfront instance. 
 
 </br>
 </br>
@@ -43,9 +43,9 @@ Create and compare multiple high-level scenarios to help navigate your organizat
 
 
 
-**Here’s why**
+**Here's why**
 
-By viewing and comparing multiple scenarios, at a high level, you’re able to accurately evaluate the resources needed to accomplish your goals. You can make sure your organization is staffed appropriately, budgets are spread accordingly, and the appropriate goals are met at the desired time. 
+By viewing and comparing multiple scenarios, at a high level, you're able to accurately evaluate the resources needed to accomplish your goals. You can make sure your organization is staffed appropriately, budgets are spread accordingly, and the appropriate goals are met at the desired time. 
 
  
 
@@ -60,9 +60,9 @@ Keep scenarios to a minimum.
 
 
 
-**Here’s why**
+**Here's why**
  
-Although you can create many scenarios in an initiative, it’s recommended to keep those to a minimum. This will make comparing scenarios easier when looking at them in card format and the delivery of the chosen scenarios more manageable. 
+Although you can create many scenarios in an initiative, it's recommended to keep those to a minimum. This will make comparing scenarios easier when looking at them in card format and the delivery of the chosen scenarios more manageable. 
 
 </br>
 </br>
@@ -71,7 +71,7 @@ Although you can create many scenarios in an initiative, it’s recommended to k
 
 Estimate or adjust the required job roles or Fixed Costs information monthly. 
 
-**Here’s why**
+**Here's why**
 
 Keeping the required job roles and costs of the initiative up-to-date keeps the initiative calculations in the scenario as accurate as possible. This way, you can allocate your people resources and hours to your priority projects and easily see what you need to know about your supply and demand.  
 
