@@ -5,8 +5,8 @@ feature: Digital Content and Documents
 role: Admin, Leader, User
 level: Beginner
 kt: 10907
+exl-id: 0c0fca34-2be0-4208-95d0-241d2e032ce7
 ---
-
 # Best Practice - Custom forms
 
 ## What is an Adobe Workfront “best practice”? 
@@ -286,6 +286,4 @@ Limit who can create custom forms in your Workfront instance.
 
 Having a select group of people who can create custom forms helps control the number of custom forms created in your Workfront instance.  
 
-In addition, allowing others to create forms can alleviate work from the system administrator and gives each group control over updates to the custom forms they use on a regular basis. 
-
- 
+In addition, allowing others to create forms can alleviate work from the system administrator and gives each group control over updates to the custom forms they use on a regular basis.

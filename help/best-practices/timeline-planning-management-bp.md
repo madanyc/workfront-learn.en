@@ -5,8 +5,8 @@ feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
 kt: 10929
+exl-id: 8c18746d-e23a-44d0-b1e3-ebf5ba8d022f
 ---
-
 # Best Practice - Timeline planning and management
 
 ## What is an Adobe Workfront “best practice”? 
@@ -147,5 +147,4 @@ Place Project Metrics at the top of the left panel menu for users who use Workfr
 
 **Here’s why**
 
-Most leaders, executives, and other users who don’t manage projects or fulfill task assignments would appreciate seeing this level of project metrics when they first open a project. Use a layout template to move Project Metrics to the top of the left panel menu on a project page to make it more visible and easier for users to access. 
-
+Most leaders, executives, and other users who don’t manage projects or fulfill task assignments would appreciate seeing this level of project metrics when they first open a project. Use a layout template to move Project Metrics to the top of the left panel menu on a project page to make it more visible and easier for users to access.

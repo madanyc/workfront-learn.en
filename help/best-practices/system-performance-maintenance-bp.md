@@ -5,8 +5,8 @@ feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 kt: 10927
+exl-id: c3f32975-96f4-4e62-8c3a-5b985b45bbbf
 ---
-
 # Best Practice - System performance and maintenance
 
 ## What is an Adobe Workfront “best practice”? 
@@ -94,5 +94,3 @@ Keep projects short.
 **Here’s why**
 
 Every time you save a project, or a task inside of the project, there is a timeline calculation running to update all dependencies. Depending on the number of tasks in your project, the recalculation can take a long time to run.
-
-

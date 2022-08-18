@@ -5,8 +5,8 @@ feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
 kt: 10904
+exl-id: 6928404e-52ba-4905-9377-295e80d79e27
 ---
-
 # Best Practice - Business Case and Portfolio Optimizer
 
 ## What is an Adobe Workfront “best practice”? 
@@ -54,4 +54,4 @@ Estimate and adjust important project information like the cost, alignment, net 
 
 **Here’s why**
 
-Making sure this information is as close to what the “real life” project will entail allows you to accurately use the score feature in the Portfolio Optimizer to determine the priority of the projects listed. The Portfolio Optimizer is a great tool to ensure your projects are prioritized efficiently and are aligned to your company’s strategy and value. 
+Making sure this information is as close to what the “real life” project will entail allows you to accurately use the score feature in the Portfolio Optimizer to determine the priority of the projects listed. The Portfolio Optimizer is a great tool to ensure your projects are prioritized efficiently and are aligned to your company’s strategy and value.

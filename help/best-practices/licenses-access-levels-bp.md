@@ -5,8 +5,8 @@ feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 kt: 10914
+exl-id: 6be3fab9-16a1-4ab9-89ce-8c53f8358e62
 ---
-
 # Best Practice - Licenses and access levels
 
 ## What is an Adobe Workfront “best practice”? 
@@ -195,5 +195,4 @@ Restrict what users can do with Workfront items through sharing, rather than rem
 
 **Here’s why**
 
-Access levels control what users can do with specific items on a global level. The sharing permissions on each project, task, portfolio, document, etc., control what an individual user can do with that specific item. Rather than removing a capability for everyone with a specific access level, fine-tune the sharing permissions on specific items so users have limited controls. 
-
+Access levels control what users can do with specific items on a global level. The sharing permissions on each project, task, portfolio, document, etc., control what an individual user can do with that specific item. Rather than removing a capability for everyone with a specific access level, fine-tune the sharing permissions on specific items so users have limited controls.

@@ -5,8 +5,8 @@ feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
 kt: 10917
+exl-id: 5e172ad5-7e75-41cd-bce0-858095d13c6c
 ---
-
 # Best Practice - Preview Sandbox
 
 ## What is an Adobe Workfront “best practice”? 
@@ -44,5 +44,4 @@ The Preview Sandbox environment serves as a replica of your live environment. Al
 Conducting user acceptance testing (UAT) and involving select users during the testing phase of a change can help you better understand your users' needs and workflows. This is a great way to improve Workfront workflows and adoption within your organization. 
 
 
-**Note**: Every change that you would like to implement in Workfront does not have to be created in the Preview Sandbox environment first. Many Workfront changes, like the creation of a new request queue or project template, can be done within the Production environment. A good rule of thumb when testing in the Production instance is to control the visibility of your objects until you're ready to publish to a larger audience. Be sure to delete anything that you don’t intend to use so that the system remains clean and manageable. 
-
+**Note**: Every change that you would like to implement in Workfront does not have to be created in the Preview Sandbox environment first. Many Workfront changes, like the creation of a new request queue or project template, can be done within the Production environment. A good rule of thumb when testing in the Production instance is to control the visibility of your objects until you're ready to publish to a larger audience. Be sure to delete anything that you don’t intend to use so that the system remains clean and manageable.

@@ -5,8 +5,8 @@ feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
 kt: 10930
+exl-id: 15457411-fd4a-4348-892a-2fb08a079a35
 ---
-
 # Best Practice - Timesheets and logging time
 
 ## What is an Adobe Workfront “best practice”? 
@@ -126,5 +126,4 @@ Turn off the ability to log time at the project level.
 
 **Here’s why**
 
-Time logged at the project level doesn’t show what the time was actually spent working on. Logging actual hours worked at the task and issue levels shows how long it took to complete specific items of work. This information can be helpful when adjusting project templates, as you'll be able to more accurately plan the project timeline and plan for the people resources needed. It also means reports will be more accurate and provide better insight into where workers’ time is going. 
-
+Time logged at the project level doesn’t show what the time was actually spent working on. Logging actual hours worked at the task and issue levels shows how long it took to complete specific items of work. This information can be helpful when adjusting project templates, as you'll be able to more accurately plan the project timeline and plan for the people resources needed. It also means reports will be more accurate and provide better insight into where workers’ time is going.

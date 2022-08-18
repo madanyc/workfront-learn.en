@@ -5,8 +5,8 @@ feature: Workfront Goals
 role: Admin, Leader, User
 level: Beginner
 kt: 10933
+exl-id: 08c65fae-2077-4b37-b051-bc39d978a923
 ---
-
 # Best Practice - Workfront Goals
 
 ## What is an Adobe Workfront “best practice”? 

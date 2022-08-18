@@ -5,8 +5,8 @@ feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 kt: 10931
+exl-id: 553aae90-1f98-4659-a516-db96b682012e
 ---
-
 # Best Practice - Utilization
 
 ## What is an Adobe Workfront “best practice”? 
@@ -61,4 +61,3 @@ Assign resources to children tasks rather than to parent tasks to track the tota
 **Here’s why**
 
 When the Utilization report is created, it includes hours logged to the project, children tasks, issues, and parent tasks that have at least one assignment. However, it does not track the hours logged to parent tasks without any assignments. To get a good representation of the total hours spent on the tasks, issues, or project, do not use parent tasks as working tasks and assign users only to children tasks.
-

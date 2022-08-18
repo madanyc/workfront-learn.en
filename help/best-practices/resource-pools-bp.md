@@ -5,8 +5,8 @@ feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 kt: 10923
+exl-id: 374bf818-644d-4c3c-83e6-b50589423fb1
 ---
-
 # Best Practice - Resource pools
 
 ## What is an Adobe Workfront “best practice”? 

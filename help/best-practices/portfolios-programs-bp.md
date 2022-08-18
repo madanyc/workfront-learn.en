@@ -5,8 +5,8 @@ feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
 kt: 10916
+exl-id: a5aabc2b-4b7a-4bf4-882e-f9d939130ec0
 ---
-
 # Best Practice - Portfolios and programs
 
 ## What is an Adobe Workfront “best practice”? 
@@ -41,4 +41,4 @@ Leverage portfolios and programs to help manage projects and reports.
 
 When using portfolios and programs, you can use additional Workfront tools more efficiently. For instance, in a report, you may want to view only a set of projects that have the same objectives or are vying for the same budget. By organizing projects into a portfolio and/or program, you can easily filter those projects by that portfolio instead of several other criteria to narrow down the report. 
 
-In addition, you can employ additional tools such as the Utilization report, which helps you understand how and where users are working, or the Portfolio Optimizer, which makes it easier to prioritize projects and align them to overall company goals and strategies. 
+In addition, you can employ additional tools such as the Utilization report, which helps you understand how and where users are working, or the Portfolio Optimizer, which makes it easier to prioritize projects and align them to overall company goals and strategies.

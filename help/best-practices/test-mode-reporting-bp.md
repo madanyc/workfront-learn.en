@@ -5,8 +5,8 @@ feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
 kt: 10928
+exl-id: c624545c-ba42-4cc3-aafe-8be15baadb75
 ---
-
 # Best Practice - Text mode reporting
 
 ## What is an Adobe Workfront “best practice”? 
@@ -61,4 +61,4 @@ Put calculations used in a text mode calculation in the report’s description.
 
 **Here’s why**
 
-Including any text mode calculations in the report’s description helps others understand how the calculation was built and what kind of information it should be displaying. It also reminds system administrators how the report was built, in case updates are needed in the future. 
+Including any text mode calculations in the report’s description helps others understand how the calculation was built and what kind of information it should be displaying. It also reminds system administrators how the report was built, in case updates are needed in the future.

@@ -5,8 +5,8 @@ feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 kt: 10926
+exl-id: c3a4fe42-339c-4063-ad67-045868bbc6b1
 ---
-
 # Best Practice - Statuses
 
 ## What is an Adobe Workfront “best practice”? 
@@ -97,7 +97,4 @@ Do not use project statuses in place of tasks to indicate progression of a proje
 
 **Here’s why**
 
-Keep project statuses simple to indicate high-level phases of progression, like Planning, Current, Complete, etc. Let the tasks, task statuses, and the task percent complete tell you how work is progressing overall on the project. These task-level indicators roll up into the project percent complete, the project condition, and the project progress status, all of which are better and more accurate indicators of project progression than a project status. In addition, this task-level information provides better project reporting. 
-
-
-
+Keep project statuses simple to indicate high-level phases of progression, like Planning, Current, Complete, etc. Let the tasks, task statuses, and the task percent complete tell you how work is progressing overall on the project. These task-level indicators roll up into the project percent complete, the project condition, and the project progress status, all of which are better and more accurate indicators of project progression than a project status. In addition, this task-level information provides better project reporting.

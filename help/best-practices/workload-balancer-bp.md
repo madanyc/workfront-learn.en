@@ -5,8 +5,8 @@ feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 kt: 10932
+exl-id: b0fbbfa7-0851-4a83-a933-742bfb02e7dd
 ---
-
 # Best Practice - Workload Balancer
 
 ## What is an Adobe Workfront “best practice”? 
@@ -76,5 +76,4 @@ Associate schedules and job roles to user profiles.
 
 **Here’s why**
 
-In order to get the most accurate information on the skills and availability of your resources, it’s recommended to associate schedules and job roles to your user profiles in Workfront. This information is used by several of Workfront’s resource management tools. 
-
+In order to get the most accurate information on the skills and availability of your resources, it’s recommended to associate schedules and job roles to your user profiles in Workfront. This information is used by several of Workfront’s resource management tools.

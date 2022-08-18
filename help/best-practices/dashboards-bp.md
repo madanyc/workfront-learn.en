@@ -5,8 +5,8 @@ feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
 kt: 10909
+exl-id: fd4cd3d4-9343-4f33-919a-9c390f42411a
 ---
-
 # Best Practice - Dashboards
 
 ## What is an Adobe Workfront “best practice”? 
@@ -82,5 +82,4 @@ Customize the columns visible on a report when it’s part of a dashboard.
 
 **Here’s why**
  
-By default, side-by-side reports on a dashboard display only one column. Depending on column name or data it will be displaying, three or four columns may fit. Enable the “Show this column when on a dashboard” option on columns you want to display when the report is in a side-by-side configuration on a dashboard.  
-
+By default, side-by-side reports on a dashboard display only one column. Depending on column name or data it will be displaying, three or four columns may fit. Enable the “Show this column when on a dashboard” option on columns you want to display when the report is in a side-by-side configuration on a dashboard.

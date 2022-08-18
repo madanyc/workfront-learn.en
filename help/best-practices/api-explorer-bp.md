@@ -5,8 +5,8 @@ feature: Workfront API
 role: Admin, Leader, User
 level: Beginner
 kt: 10902
+exl-id: 0f3fc5ba-d01a-4337-829f-def0830ddf81
 ---
-
 # Best Practice - API Explorer
 
 ## What is an Adobe Workfront “best practice”? 
@@ -67,5 +67,4 @@ Add the object ID field to reports used by the system administrator.
 
 **Here’s why**
 
-System administrators often need to refer to objects in Workfront by their ID numbers when using APIs or other integrations. Include the ID field in views for the objects you work on (projects, tasks, issues, templates, custom forms, etc.) to make it easy to access and copy. 
-
+System administrators often need to refer to objects in Workfront by their ID numbers when using APIs or other integrations. Include the ID field in views for the objects you work on (projects, tasks, issues, templates, custom forms, etc.) to make it easy to access and copy.

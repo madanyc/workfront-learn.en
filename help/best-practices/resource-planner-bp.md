@@ -5,8 +5,8 @@ feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 kt: 10922
+exl-id: 8c81892e-d554-43e6-aeba-106bade52cf9
 ---
-
 # Best Practice - Resource Planner
 
 ## What is an Adobe Workfront “best practice”? 
@@ -61,4 +61,4 @@ When you budget resources at the project level, this information is automaticall
 **Note**: The Resource Planner is found in two areas of Workfront, depending on whether you want to budget your resources for just one project or multiple projects. 
 
 Access the Resource Planner of an individual project by going to the project's Business Case > Resource Budgeting > Edit Resource Budgeting and add details to the Resource Pools to start budgeting resources. 
-Budget resources for multiple projects by going to Workfront Main Menu > Resourcing > Planner (this displays by default).  
+Budget resources for multiple projects by going to Workfront Main Menu > Resourcing > Planner (this displays by default).

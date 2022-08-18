@@ -5,8 +5,8 @@ feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 kt: 10925
+exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
 ---
-
 # Best Practice - Schedules
 
 ## What is an Adobe Workfront “best practice”? 
@@ -84,5 +84,4 @@ Add a reminder to the Adobe Workfront system administrator’s calendar to updat
 
 **Here’s why**
 
-Update the schedules in your Workfront instance with national holidays, company holidays, and other days users won’t be working. Do this at a set time each year, either at the end of the year or when holiday schedules are released by human resources, so project timelines, resource planning, etc., reflect accurate user availability. 
-
+Update the schedules in your Workfront instance with national holidays, company holidays, and other days users won’t be working. Do this at a set time each year, either at the end of the year or when holiday schedules are released by human resources, so project timelines, resource planning, etc., reflect accurate user availability.

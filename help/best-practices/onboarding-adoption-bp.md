@@ -5,8 +5,8 @@ feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
 kt: 10915
+exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
 ---
-
 # Best Practice - Onboarding and adoption
 
 ## What is an Adobe Workfront “best practice”? 
@@ -145,5 +145,3 @@ It’s important that users are given clear expectations so they know what the g
 
 
 Make sure leadership sends out communications stating their support.
-
-

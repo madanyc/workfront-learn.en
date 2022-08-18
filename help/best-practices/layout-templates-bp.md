@@ -5,8 +5,8 @@ feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 kt: 10913
+exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
 ---
-
 # Best Practice - Layout templates
 
 ## What is an Adobe Workfront “best practice”? 
@@ -104,5 +104,4 @@ Create as few layout templates as possible.
 
 **Here’s why**
 
-When making layout templates, try to make them in a way that will satisfy the needs of most people on a team, in a group, assigned the same job role, etc., as possible. Fewer layout templates means less maintenance needed by system and group administrators. 
-
+When making layout templates, try to make them in a way that will satisfy the needs of most people on a team, in a group, assigned the same job role, etc., as possible. Fewer layout templates means less maintenance needed by system and group administrators.

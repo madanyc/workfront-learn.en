@@ -5,8 +5,8 @@ feature: Agile
 role: Admin, Leader, User
 level: Beginner
 kt: 10901
+exl-id: c0c05fb4-a61b-41bd-b994-b23571c78788
 ---
-
 # Best Practice - Agile
 
 ## What is an Adobe Workfront “best practice”? 
@@ -94,5 +94,4 @@ Generate your backlog in the “Project” view—you may refer to this as an Ep
 
 **Here’s why**
 
-A backlog on a board may not represent all of the work needed to create larger value. Looking at the Project can help focus the team on the higher value you are trying to deliver to your customer. From there, you can refine and prioritize the work and pull it onto a board. 
-
+A backlog on a board may not represent all of the work needed to create larger value. Looking at the Project can help focus the team on the higher value you are trying to deliver to your customer. From there, you can refine and prioritize the work and pull it onto a board.

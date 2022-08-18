@@ -5,8 +5,8 @@ feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
 kt: 10911
+exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
 ---
-
 # Best Practice - Filters, Views, and Groupings
 
 ## What is an Adobe Workfront “best practice”? 
@@ -82,6 +82,4 @@ When creating filters for project status, task status, or issue status, use the 
 
 By using (object)>>Equates With, you’re including all custom statuses that have that specific status assigned in the Equates With field in the status setups. Whereas setting up the filter as (object)>>Status > Equal requires that you select specific statutes for the filter. This could present a maintenance challenge if you need to account for those new statuses in various filters. Each filter would need to be opened and updated with the new status. 
 
-For example, if you want to see all current projects, you could set up your filter to read Project>>Status > Equal > Current. But if someone adds a custom status named Active and equates it to Current, that filter won’t find projects with the Active status. However, if you use the Project>>Status Equates With > Equal > Current, then the filter finds objects with either the Current or Active status because they both have Current in the Equates With field. 
-
-
+For example, if you want to see all current projects, you could set up your filter to read Project>>Status > Equal > Current. But if someone adds a custom status named Active and equates it to Current, that filter won’t find projects with the Active status. However, if you use the Project>>Status Equates With > Equal > Current, then the filter finds objects with either the Current or Active status because they both have Current in the Equates With field.

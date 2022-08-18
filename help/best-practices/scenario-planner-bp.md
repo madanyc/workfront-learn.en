@@ -5,8 +5,8 @@ feature: Workfront Scenario Planner
 role: Admin, Leader, User
 level: Beginner
 kt: 10924
+exl-id: f9dafebf-efb0-4c40-b98d-540a92e931a7
 ---
-
 # Best Practice - Scenario Planner
 
 ## What is an Adobe Workfront "best practice"? 
@@ -77,4 +77,4 @@ Keeping the required job roles and costs of the initiative up-to-date keeps the 
 
  
 
-This can also allow you to quickly see and resolve any conflicts in resources, budgets, or timelines that may arise. 
+This can also allow you to quickly see and resolve any conflicts in resources, budgets, or timelines that may arise.

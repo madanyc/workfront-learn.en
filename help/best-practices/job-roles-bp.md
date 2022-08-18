@@ -5,8 +5,8 @@ feature: People Teams and Groups
 role: Admin, Leader, User
 level: Beginner
 kt: 10912
+exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
 ---
-
 # Best Practice - Job roles
 
 ## What is an Adobe Workfront “best practice”? 
@@ -100,5 +100,4 @@ Work assignments require a specific type of job role. For example, a task should
 You need to manage resources by the job roles. For example, you can have 600 hours of graphic design but only 200 hours of senior art direction. 
  
 
-If you do create similar job roles, use the description field on each to indicate the differences between the roles, when and how they’re used, etc. 
-
+If you do create similar job roles, use the description field on each to indicate the differences between the roles, when and how they’re used, etc.

@@ -5,8 +5,8 @@ feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 kt: 10919
+exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
 ---
-
 # Best Practice - Project templates
 
 ## What is an Adobe Workfront “best practice”? 
@@ -232,4 +232,4 @@ Check the project team on the template and remove users who won’t be working w
 
 When you create a template from an existing project, it brings over the people who were assigned tasks/issues on the project. And as you’re working with your template, you may remove people who were previously assigned work or change an assignment you made yourself on the template. 
 
-All of these users will be listed as part of the project team, in the People and Scheduling sections of the project. As a result, they’ll get propagated to all projects created from that template. This could cause confusion for the user because as part of the project team, they receive notifications about activity on the project, see the project in the Projects I’m On list, and gain permissions to the project and its tasks, issues and documents. 
+All of these users will be listed as part of the project team, in the People and Scheduling sections of the project. As a result, they’ll get propagated to all projects created from that template. This could cause confusion for the user because as part of the project team, they receive notifications about activity on the project, see the project in the Projects I’m On list, and gain permissions to the project and its tasks, issues and documents.

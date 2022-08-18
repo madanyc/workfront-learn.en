@@ -5,8 +5,8 @@ feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
 kt: 10908
+exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 ---
-
 # Best Practice - Custom reports
 
 ## What is an Adobe Workfront “best practice”? 
@@ -99,5 +99,4 @@ Create views that allow for in-line editing.
 
 **Here’s why**
 
-With in-line editing, users can change information about an item directly from a report or list. This is a time-saver because users don’t have to open the object to make changes or bounce from object to object when updating multiple items. Make sure users know that in-line editing is convenient and quick (two things that contribute to user adoption of Workfront). 
-
+With in-line editing, users can change information about an item directly from a report or list. This is a time-saver because users don’t have to open the object to make changes or bounce from object to object when updating multiple items. Make sure users know that in-line editing is convenient and quick (two things that contribute to user adoption of Workfront).

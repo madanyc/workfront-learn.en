@@ -5,8 +5,8 @@ feature: Workfront Proof
 role: Admin, Leader, User
 level: Beginner
 kt: 10920
+exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 ---
-
 # Best Practice - Proofing
 
 ## What is an Adobe Workfront “best practice”? 
@@ -219,4 +219,4 @@ Avoid the All Activity proof email alert option.
 
 This option sends a proof email notification any time something happens with a proof—a comment is made, a reply is posted, a decision is made, etc. The recipient is essentially seeing proof activity as it happens. 
 
-For proof owners and creators, the Decisions email alert works best for multi-stage proof workflows and Final Decision works best for single-stage workflows. Generally, everyone else can be set to Disabled, unless they want to be notified of other people making comments or decisions (in which case, one of the summary email options might work best). 
+For proof owners and creators, the Decisions email alert works best for multi-stage proof workflows and Final Decision works best for single-stage workflows. Generally, everyone else can be set to Disabled, unless they want to be notified of other people making comments or decisions (in which case, one of the summary email options might work best).

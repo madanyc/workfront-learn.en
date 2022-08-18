@@ -5,8 +5,8 @@ feature: Digital Content and Documents
 role: Admin, Leader, User
 level: Beginner
 kt: 10910
+exl-id: 0554b393-ca51-443c-97e9-98af017a0586
 ---
-
 # Best Practice - Documents
 
 ## What is an Adobe Workfront “best practice”? 
@@ -39,5 +39,4 @@ Turn on Workfront’s out-of-the-box document integrations if you use third-part
 
 **Here’s why**
 
-Workfront’s default cloud provider-based document integrations allow you to link files to Workfront objects. This means you don’t have to export a copy of a document and upload it to Workfront, which results in multiple versions of a file floating around. 
-
+Workfront’s default cloud provider-based document integrations allow you to link files to Workfront objects. This means you don’t have to export a copy of a document and upload it to Workfront, which results in multiple versions of a file floating around.

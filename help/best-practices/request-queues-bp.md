@@ -5,8 +5,8 @@ feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 kt: 10921
+exl-id: dbb961f9-c207-49f1-9545-ec127f983c15
 ---
-
 # Best Practice - Request queues
 
 ## What is an Adobe Workfront “best practice”? 
@@ -235,4 +235,4 @@ Route requests to a team, rather than an individual.
 
 When requests are sent to the team, it gives the whole team visibility into the requests being made and what upcoming work might entail. Everyone can watch the Team page for new items or keep track of what’s new with a report on a dashboard. 
 
-It also ensures that when the traffic manager or other person in charge of reviewing or assigning the incoming requests is unavailable, that a back-up is automatically available and has access to the request information. 
+It also ensures that when the traffic manager or other person in charge of reviewing or assigning the incoming requests is unavailable, that a back-up is automatically available and has access to the request information.

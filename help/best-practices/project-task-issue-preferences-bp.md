@@ -5,8 +5,8 @@ feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 kt: 10918
+exl-id: 321af897-3791-4b06-a9dd-241b5246b2a0
 ---
-
 # Best Practice - Project, task, and issue preferences
 
 ## What is an Adobe Workfront “best practice”? 
@@ -94,4 +94,4 @@ In the issues preferences, check the option for Automatically update Resolvable 
 
 **Here’s why**
 
-When an issue is converted to a project, this preference setting “links” the statuses of the two items. Updating the status of the project (the resolving object) will automatically update the issue status. This means the requester can see progress being made on their request, even if they don’t have permissions to see the entire project in Workfront. 
+When an issue is converted to a project, this preference setting “links” the statuses of the two items. Updating the status of the project (the resolving object) will automatically update the issue status. This means the requester can see progress being made on their request, even if they don’t have permissions to see the entire project in Workfront.
