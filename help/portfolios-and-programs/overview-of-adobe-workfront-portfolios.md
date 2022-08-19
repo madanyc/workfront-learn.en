@@ -3,6 +3,8 @@ title: Overview of portfolios
 description: Learn about what portfolios are in [!DNL Workfront] and how they can help you prioritize projects and compare projects against one another.
 feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
+hide: yes
+hidefromtoc: yes
 type: Tutorial
 role: User
 level: Intermediate
