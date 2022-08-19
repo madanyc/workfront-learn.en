@@ -546,7 +546,7 @@ feature-set: Workfront
   + [Request queue](best-practices/request-queues-bp.md)
   + [Resource Planner](best-practices/resource-planner-bp.md)
   + [Resource pools](best-practices/resource-pools-bp.md)
-  + [Scneario Planner](best-practices/scenario-planner-bp.md)
+  + [Scenario Planner](best-practices/scenario-planner-bp.md)
   + [Schedules](best-practices/schedules-bp.md)
   + [Statuses](best-practices/statuses-bp.md)
   + [System peformance and maintenance](best-practices/system-performance-maintenance-bp.md)
