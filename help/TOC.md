@@ -123,6 +123,10 @@ feature-set: Workfront
     + [Manage issue assignments](manage-work/issues-requests/manage-issue-assignments.md)
     + [Report on issues](manage-work/issues-requests/report-on-issues.md)
 
+  + Portfolios {#portfolios}
+    + [Overview of portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+    + [Introduction to the Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
+    + [Prioritize and manage work with portfolios](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
   + Request queues {#request-queues}
     + [Create a request flow](manage-work/request-queues/create-a-request-flow.md)
@@ -566,9 +570,6 @@ feature-set: Workfront
 + [What is the Kanban methodology and how does it work?](agile/what-is-the-kanban-methodology.md)
 + [Transitioning to Agile](agile/transitioning-to-agile.md)
 + [Workfront for executives](workfront-for-executives/workfront-for-executives.md)
-+ [Overview of portfolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-+ [Introduction to the Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
-+ [Prioritize and manage work with portfolios](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
 
 
