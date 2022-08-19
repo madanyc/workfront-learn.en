@@ -1,6 +1,6 @@
 ---
 title: Workfront for executives
-description: 
+description: Learn how to access reports and dashboards, make requests, and review requests.			
 activity: use
 feature: Work Management
 type: Tutorial
@@ -11,7 +11,7 @@ thumbnail: workfront-4-executives.png
 hide: yes
 hidefromtoc: yes
 kt: 
-exl-id: 
+
 ---
 # Workfront for executives
 
