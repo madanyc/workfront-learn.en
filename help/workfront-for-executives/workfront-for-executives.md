@@ -1,6 +1,6 @@
 ---
 title: Workfront for executives
-description: Learn how to access reports and dashboards, make requests, and review requests.			
+description: Learn how to access reports and dashboards, make requests, and review requests.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -10,8 +10,8 @@ team: Technical Marketing
 thumbnail: workfront-4-executives.png
 hide: yes
 hidefromtoc: yes
-kt: 
-
+kt: null
+exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 ---
 # Workfront for executives
 
@@ -58,5 +58,3 @@ In this video, you will learn how to:
 * View your submitted requests
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12)
-
-
