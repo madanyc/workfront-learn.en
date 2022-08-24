@@ -75,7 +75,7 @@ To learn about what information transfers when you convert an issue to a task or
 
 Transferring the custom form data requires either:
 
-* Multiple copies of the same custom form—one for the issue, then one for the task or project. The fields on these custom forms should be an exact match, so the information can transfer from one item to the other.
+* Multiple copies of the same custom form—one for the issue, then one for the task or project. The fields on these custom forms should be an exact match, so the information can transfer from one custom form to the other.
 
 * Or a single custom form in which the issue, task, and/or project objects are selected. Using this method you only need to create and maintain your custom fields in a single custom form. This is a recent enhancement and is much easier than having multiple copies of the same form, but either method will work.
 
@@ -100,6 +100,7 @@ If you include a custom form in a project template it will automatically be assi
 * Unlink issues from their resolvable objects
 
 -->
+
 ## Convert an issue to a task or project from any issue list
 
 To increase the efficiency of your work and make it easier to convert issues in a fast-paced environment, you have the ability to convert an issue to a task or a project from any issue list in a project, report, or dashboard. Just select an issue and then click on the 3-dot menu that appears.
