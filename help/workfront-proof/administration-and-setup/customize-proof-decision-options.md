@@ -21,6 +21,13 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12)
 
+## Your turn
+
+1. Determine what decision options are needed for your organization’s proof workflows. Remember, these settings are global so every team using proofing will see the same options.
+1. Now log in to Workfront and go to the proofing settings. In the Decisions tab, rename the decisions to match your organization’s needs. Hide the options that won’t be needed.
+1. Once you have the decision settings done, give them a quick test by uploading a proof and assigning yourself as a Review & Approver.
+
+
 <!--
 Lean More URLs
 -->

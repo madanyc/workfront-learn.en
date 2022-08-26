@@ -75,6 +75,10 @@ A document version report allows you to manage and track proof versions.
 
 We recommend working with your [!DNL Workfront] consultant to create reports that meet your organization’s requirements. Some of the reports require familiarity with [!DNL Workfront’s] text mode reporting.
 
+## Your turn
+
+Talk with your team or proofing system administrator to find out what kind of reporting you’ll use in Workfront to keep proof workflows running smoothly.
+
 <!--
 ### Learn more
 * Learn to create reports in [!DNL Workfront] with the Basic Report Creation program on Workfront One.

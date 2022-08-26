@@ -21,6 +21,17 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12)
 
+## Your turn
+
+>[!IMPORTANT]
+>
+>Don’t forget to remind any co-workers assigned to a proof workflow that you’re working with proofs as part of your Workfront training.
+
+1. Find a proof that you uploaded to Workfront. Use the Proofing Workflow window to do the following: push the deadline out by one day and change a Reviewer to a Reviewer & Approver.
+1. Make sure the proof has an automated workflow assigned, then add a template to the proof.
+
+
+
 <!--
 ## Learn more
 * Add stages and users to an automated workflow on a proof

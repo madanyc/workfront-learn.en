@@ -21,6 +21,18 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12)
 
+## Your turn
+
+>[!IMPORTANT]
+>
+>Don’t forget to remind your co-workers you’re sending them a proof as part of your Workfront training.
+
+
+1. Find several files on your computer or a server that you can upload. These can be text documents, images, spreadsheets, etc.
+1. Upload two files to your practice project or task, using a basic workflow. Assign your co-worker to review and approve the proofs, with a deadline of 2 pm tomorrow.
+1. If you have 3 proofs to upload and they all need different deadlines, can you upload them all at the same time? Why or why not?
+1. Which proof role will you be playing in review and approval processes on your team?
+
 <!--
 ## Learn more
 * Supported proofing file types

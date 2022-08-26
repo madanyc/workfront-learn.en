@@ -31,6 +31,15 @@ As you start proofing websites, you may find that [!DNL Workfront] doesn’t sup
 * The website needs to be publicly accessible, meaning it can’t be behind a firewall.
 * When creating static website proofs, the website cannot be password protected.
 
+## Your turn
+
+>[!IMPORTANT]
+>
+>Don’t forget to remind your co-workers you’re sending them a proof as part of your Workfront training.
+
+1. Open a project, task, or issue that you’re using for hands-on practice in Workfront. Make a static proof of your organization’s website. If it doesn’t meet the static proof criteria, you can use adobe.com.
+1. Next, make an interactive proof of your organization’s website. You can use adobe.com if the other website won’t work.
+
 <!-- 
 Learn more about these considerations in the articles Generate a static proof for a website or other web content and Generate an interactive proof for a website or other web content. 
 -->

@@ -36,6 +36,12 @@ There may be times, however, when you need to set this information manually whil
 * **Decisions —** This sends alerts as each proofing workflow stakeholder makes a decision on the proof. This option is best when using an automated workflow, with several decisions. Assign to the person monitoring the proof workflow. This could be a proof manager, proof owner, proof creator, project manager, or other [!DNL Workfront] user.
 * **Disabled —** Use this for guest proof users to limit the number of emails they receive about the proof. Recipients are still notified about new proofs, new versions, and late proofs, plus [!DNL Workfront] users receive direct messages made in a proof comment using @username and guest recipients with @emailaddress.
 
+## Your turn
+
+1. Log in to Workfront and create users who will use proofing that you haven’t previously created. Set the proof permissions profile in their user settings according to the role the person will play in proof workflows.
+1. For users who are already created, edit their settings to adjust the and proof permissions profile selection, if needed.
+1. Access the proofing setups area and go to the Users tab. Check the personal settings for your users—language, time zone, date format, default proof role, and default email alert. This is important if these users were created before the global system defaults were established (these settings are discussed in Section 1 of this learning path).
+
 <!--
 Download the proof role and email alert guides to have on hand as you start uploading proofs and assigning proof recipients.
 -->
