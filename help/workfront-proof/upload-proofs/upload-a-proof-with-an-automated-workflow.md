@@ -60,3 +60,26 @@ You’ll notice that you’re on the list of proof recipients because you’re t
 ![An image of the proof upload window with the proof owner highlighted in the list of recipients.](assets/proof-owner.png)
 
 If you’re just uploading the proof but someone else will be managing the workflow, you can change the proof owner by clicking the [!UICONTROL Owner] link and entering their name. This is recommended if someone other than the original uploader will be uploading a version.
+
+## Your turn
+
+>[!IMPORTANT]
+>
+>Don’t forget to remind your co-workers you’re sending them a proof as part of your Workfront training.
+
+
+Upload a proof with an advanced workflow. If your organization already has proof templates set up, select the one that’s used by your team then make a few adjustments.
+
+* Adjust the email alerts so no one gets notified when activity happens on the proof.
+* The first stage should have 2 reviewers/approvers.
+* The second stage should have only 1 reviewer/approver.
+
+If your organization doesn’t have proof templates created yet, set up a 2-stage workflow from scratch.
+
+* Assign yourself and your favorite co-worker to the first stage.
+* Make the deadline for the first stage 1 day from when the proof is created.
+* Assign another favorite co-worker to the second stage.
+* Make the stage kick off when the first stage’s deadline has passed.
+* Give the person in this stage 2 days to complete the review, but it has to be done by noon.
+
+

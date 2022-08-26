@@ -33,6 +33,17 @@ You can filter the comments column by both of these features, helping you curate
 
 ![An image of the comment filters in the proofing viewer with the [!UICONTROL Actions] and [!UICONTROL General] filtering options highlighted.](assets/manage-comments-3.png)
 
+## Your turn
+
+>[!IMPORTANT]
+>
+>Don’t forget to remind any co-workers assigned to a proof workflow that you’re working with proofs as part of your Workfront training.
+
+
+1. Find a proof that you’ve uploaded in Workfront. Open the proof viewer to look at the comments that have been made and reply to a comment. Close the proof viewer when you’re done.
+1. Use the Updates section—either in the Document Details or the summary panel—to view the latest comments on a proof you’ve uploaded in Workfront. Reply to a comment.
+
+
 <!--
 ## Learn more
 * Create and manage proof comments

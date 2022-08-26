@@ -32,3 +32,13 @@ Uploading a video in [!DNL Workfront] follows the same steps as uploading a stat
 * Assign a basic or automated workflow.
 * Set a deadline.
 * Click [!UICONTROL **Create Proof**] to finish.
+
+## Your turn
+
+>[!IMPORTANT]
+>
+>Don’t forget to alert your co-workers you’re sending them a proof as part of your Workfront training.
+
+
+If you have a video file available, upload it to a practice project, task, or issue in Workfront. Apply a basic or automated workflow that is similar to the one you’ll normally use—or apply the actual workflow, if you already know what it is.
+

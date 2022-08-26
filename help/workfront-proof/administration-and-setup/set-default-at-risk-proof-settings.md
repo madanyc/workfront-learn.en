@@ -25,6 +25,12 @@ The at risk notification is on by default, a proof is considered “at risk” 2
 1. Select **[!UICONTROL Save]** for that setting.
 1. Make sure it says [!UICONTROL Enabled] in the [!UICONTROL At risk notifications] field. If not, click the link to turn on the setting.
 
+## Your turn
+
+1. Log in to Workfront and navigate to the Setup area. In the Review and Approval section, pick the settings for designated proof recipients and non-recipients.
+1. Now use the Main Menu in Workfront to go to the proof setups (select Proofing). Set the country, language, and time zone to be the defaults for all proofs and proof users.
+1. If needed, adjust the At Risk notification time in the Settings tab in the proof setups area. Talk with the teams using proof to decide what will work best for them.
+
 <!--
 Lean More URLs
 -->

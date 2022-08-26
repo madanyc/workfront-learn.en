@@ -26,6 +26,14 @@ If you have a proof open in the proofing viewer, you can begin a version upload 
 
 ![An image of the proofing viewer with the version menu expanded in the upper-left corner and the [!UICONTROL New version] link highlighted.](assets/upload-version-from-viewer.png)
 
+## Your turn
+
+>[!IMPORTANT]
+>
+>Don’t forget to remind your co-workers you’re sending them a proof as part of your Workfront training.
+
+Find a proof that you’ve uploaded in Workfront. Upload a new version of that proof, assigning a new workflow template or making changes to the existing workflow.
+
 <!--
 ### Learn more 
 * Create a new version of a proof

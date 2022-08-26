@@ -19,3 +19,8 @@ In this video, you will learn:
 * How to customize action labels
 
 >[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12)
+
+## Your turn
+
+Look at the proof workflows you’ve already created and reflect on the discussions you’ve had with the teams using review and approval workflows. Will actions be needed? If so, update the documents where you recorded the workflows to include the actions.
+

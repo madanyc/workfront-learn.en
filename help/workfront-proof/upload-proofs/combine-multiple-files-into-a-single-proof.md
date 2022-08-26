@@ -37,6 +37,22 @@ Nothing else is required to view the combined file. Just click [!UICONTROL Open 
 
 ![An image of the proof viewer with a multi-page proof visible.](assets/combine-proofs-2.png)
 
+## Your turn
+
+>[!IMPORTANT]
+>
+>Don’t forget to remind your co-workers you’re sending them a proof as part of your Workfront training.
+
+
+Find three or four files (PDF, text file, etc.) on your computer.
+
+1. Open a project, task, or issue that you’re using for hands-on practice in Workfront.
+1. Upload the files, combining them into a single proof.
+1. Adjust the order of the files by moving the last one in the list to be the first in the list.
+1. Assign the workflow of your choice (basic or automated) and complete the upload.
+
+
+
 <!--
 ##Learn more
 * Create a multi-page proof

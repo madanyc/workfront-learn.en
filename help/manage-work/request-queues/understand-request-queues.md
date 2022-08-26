@@ -26,12 +26,30 @@ As you start filling in a request form, [!DNL Workfront] saves a draft automatic
 
 You’ll see an indication that the draft has saved at the top of the window. [!DNL Workfront] will save a draft of your request, even if required fields aren’t filled in yet.
 
-![](assets/queue-mgt-make-a-request-draft-1.png)
+![image of a creating a request draft](assets/queue-mgt-make-a-request-draft-1.png)
 
 When you’re ready to submit the request, find it in the [!UICONTROL Drafts] tab. Click the name to open it and finish filling out the form. Then click [!UICONTROL Submit Request] when you’re done.
 
-![](assets/queue-mgt-make-a-request-draft-2.png)
+![image of recalling a request draft](assets/queue-mgt-make-a-request-draft-2.png)
 
+## Your turn
+
+Let's take a minute to review the information you were just presented.
+
+**Question:** How do you make a request in Workfront? List the steps in order.
+
+* Choose the request type you need to make
+* Click Submit request
+* Fill out the information on the form
+* Click "New Request"
+* Navigate to the request area
+
+
+**Answer:** Navigate to the request area > Click New Request > Choose the request type you need to make > Fill out the information on the form > Click Submit request
+
+**Question:** A request is really an ...
+
+**Answer:** Issue
 
 <!---
 You can also access request drafts from the [!UICONTROL Select a Request Type] menu at the top of the window. Select an option from the [!UICONTROL Recent Drafts] section, or start a new request by picking a queue from the [!UICONTROL New Requests] section. Fill everything out like normal, then submit the request.
