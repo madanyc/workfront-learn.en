@@ -21,7 +21,7 @@ kt:
 * Review financial information (if applicable)
 * Change the project status
 
-1. Talk with your manager or internal Workfront team to learn what steps you should follow to close a project at your organization. Which of these steps are in Workfront? Which are outside Workfront?
+2. Talk with your manager or internal Workfront team to learn what steps you should follow to close a project at your organization. Which of these steps are in Workfront? Which are outside Workfront?
 
 1. As a project manager, holding “lessons learned” sessions can provide valuable information.
 
