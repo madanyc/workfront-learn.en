@@ -161,6 +161,7 @@ feature-set: Workfront
     + [Lessons learned from closing a project](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
     + [Log and review hours](manage-work/close-a-project/log-and-review-hours.md)
     + [Upload assets](manage-work/close-a-project/upload-assets.md)
+    + [Close a project activity](manage-work/close-a-project/close-a-project-activity.md)
 
   + Project finances {#project-finances}
     + [Find financial information](manage-work/project-finances/find-financial-information.md)
