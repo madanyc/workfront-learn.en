@@ -4,7 +4,7 @@ description: Learn about the Adobe Workfront Fusion activity book and how to get
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: null
+kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 ---
 # Workfront Fusion training overview

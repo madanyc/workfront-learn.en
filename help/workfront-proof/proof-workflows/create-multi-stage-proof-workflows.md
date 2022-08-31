@@ -18,5 +18,5 @@ An automated workflow has multiple stages, or steps, that need to be completed i
 
 <!--
 Note by Chuck Middleton, 6-28-22:
-This tutorial is incomplete. It should have a video included. Video with MPC ID 335130 does an excellent job of explaining automated workflows, but it was in the Workfront Proof > Administration and setup section of the TOC. I moved it, along with related workflow tutorials, into the Workfront Proof > Proof workflows section. I also removed this tutorial from the TOC.
+This tutorial is an incomplete dulplicate. It should have a video included. Video with MPC ID 335130 does an excellent job of explaining automated workflows, but it was in the Workfront Proof > Administration and setup section of the TOC. I moved it, along with related workflow tutorials, into the Workfront Proof > Proof workflows section. I also removed this tutorial from the TOC.
 -->
