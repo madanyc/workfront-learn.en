@@ -1,5 +1,5 @@
 ---
-title: Proofing Viewers Explained
+title: Proofing viewers explained
 description: Learn about [!DNL Workfront]'s web-based proofing viewer and desktop proofing viewer, the difference between the two, and how to access each. 
 feature: Workfront Proof
 type: Tutorial

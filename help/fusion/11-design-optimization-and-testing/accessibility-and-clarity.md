@@ -4,7 +4,7 @@ description: Learn some basic best practices for making scenarios easy to read, 
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: null
+kt: 11037
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
 ---
 # Accessibility and clarity
