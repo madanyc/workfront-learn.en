@@ -61,6 +61,7 @@ feature-set: Workfront
     + [Create milestones](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
     + [Understand group-specific approval processes](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 
+
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
     + [Attach a custom form to an object](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
@@ -158,7 +159,7 @@ feature-set: Workfront
     + [Close a project](manage-work/close-a-project/close-a-project-in-workfront.md)
     + [Close tasks and issues](manage-work/close-a-project/close-tasks-and-issues.md)
     + [Complete approvals](manage-work/close-a-project/complete-approvals.md)
-    + [Lessons learned from closing a project](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+    + [Record lessons learned](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
     + [Log and review hours](manage-work/close-a-project/log-and-review-hours.md)
     + [Upload assets](manage-work/close-a-project/upload-assets.md)
     + [Close a project activity](manage-work/close-a-project/close-a-project-activity.md)
@@ -207,28 +208,28 @@ feature-set: Workfront
     + [Understand built-in task filters](reporting/intermediate-reporting/open-built-in-task-filters.md)  
 
   + Enhanced Analytics {#enhanced-analytics}
-    + [Add [!UICONTROL analytics] to layout templates](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
-    + [Dig deeper into navigation](reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
-    + [Dig deeper using timeframes and additional charts](reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
     + [Get started with [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
+    + [Add [!UICONTROL analytics] to layout templates](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+    + [Understand basic navigation](reporting/enhanced-analytics/4-basic-navigation.md)
+    + [Understand work and people charts](reporting/enhanced-analytics/5-work-and-people-charts.md) 
+    + [Understand filters](reporting/enhanced-analytics/6-filters-overview.md)
+    + [Understand date ranges and timeframes](reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
+    + [Understand planned hours and duration views](reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
+    + [Understand actions: hover click and drag and click in](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
+    + [Understand KPIs](reporting/enhanced-analytics/10-kpis-overview.md)
+    + [Understand navigating and reviewing projects](reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
+    + [Dig deeper using timeframes and additional charts](reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)  
+    + [Understand navigating and reviewing project activity](reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
+    + [Dig deeper into navigation](reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
+    + [Understand accessing and reviewing the burndown](reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
     + [Review the tasks in flight](reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
     + [Take action by making updates](reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
-    + [Understand a KPI comparisons use case](reporting/enhanced-analytics/21-kpi-comparisons.md)
-    + [Understand accessing and reviewing the burndown](reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
-    + [Understand actions: hover, click and drag, and click in](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-    + [Understand an end user use case](reporting/enhanced-analytics/22-end-user-use.md)
-    + [Understand basic navigation](reporting/enhanced-analytics/4-basic-navigation.md)
-    + [Understand consulting guidance](reporting/enhanced-analytics/23-consulting-guidance.md)
-    + [Understand date ranges and timeframes](reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
-    + [Understand filters](reporting/enhanced-analytics/6-filters-overview.md)
-    + [Understand KPIs](reporting/enhanced-analytics/10-kpis-overview.md)
-    + [Understand navigating and reviewing project activity](reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
-    + [Understand navigating and reviewing projects](reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
-    + [Understand planned hours and duration views](reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-    + [Understand team capacity](reporting/enhanced-analytics/20-team-capacity-overview.md)
     + [Understand the activity by team chart](reporting/enhanced-analytics/18-activity-by-team-chart.md)
     + [Understand the resource capacity chart](reporting/enhanced-analytics/19-resource-capacity-chart.md)
-    + [Understand work and people charts](reporting/enhanced-analytics/5-work-and-people-charts.md) 
+    + [Understand team capacity](reporting/enhanced-analytics/20-team-capacity-overview.md)
+    + [Understand a KPI comparisons use case](reporting/enhanced-analytics/21-kpi-comparisons.md)
+    + [Understand an end user use case](reporting/enhanced-analytics/22-end-user-use.md)
+    + [Understand consulting guidance](reporting/enhanced-analytics/23-consulting-guidance.md)
 
 + Manage resources {#manage-resources}
   + Resource management {#resource-management}
@@ -271,21 +272,21 @@ feature-set: Workfront
 
 + Workfront Goals {#workfront-goals}
   + Establish a vision for your org {#establish-a-vision-and-strategy}
+    + [Understand how Workfront Goals works](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
     + [Align groups and teams to your strategy](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
     + [Collaborate around enterprise and organizational goals](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
     + [Create a clear objective statement](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
     + [Establish a vision and strategy for your org](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
     + [Understand how Workfront Goals fits in your work cycle](workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
-    + [Understand how Workfront Goals works](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
     + [Understand the vision behind Workfront Goals](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
   
   + Create your goals {#create-goals}
+    + [Understand how to use [!UICONTROL Workfront Goals]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
     + [Copy an existing goal](workfront-goals/create-your-goals/copy-an-existing-goal.md)
     + [Create a layout template for [!UICONTROL Workfront Goals] users](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
     + [Create goals](workfront-goals/create-your-goals/create-goals-in-workfront.md)
     + [Grant goals access to selected users](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
     + [Set up [!UICONTROL Workfront Goals] for your org](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
-    + [Understand how to use [!UICONTROL Workfront Goals]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
 
   + Activate your goals {#activate-goals}
     + [Activate by aligning a goal to another](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
@@ -390,7 +391,7 @@ feature-set: Workfront
 
   + Final functional bits and bobs {#final-functional-bits-and-bobs}
     + [Workfront app walkthrough](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
-    + [Understand arrays, collections, and elements](fusion/8-final-functional-bits-and-bobs/understand-arrays-collections-and-elements.md)
+    + [Understand arrays collections and elements](fusion/8-final-functional-bits-and-bobs/understand-arrays-collections-and-elements.md)
     + [Arrays walkthrough](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
     + [Understand JSON in scenarios](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
     + [Working with JSON walkthrough](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
@@ -418,6 +419,8 @@ feature-set: Workfront
 + Workfront Proof {#workfront-proof}
   + [Learn the benefits of proofing](workfront-proof/benefits-of-proofing-in-workfront.md)
   + [Understand the difference between a document and a proof](workfront-proof/document-vs-proof.md)
+  + [Proofing viewers explained](workfront-proof/two-options-for-the-proofing-viewers.md)
+
 
   + Administration and setup {#administration-and-setup-for-proof}
     + [Customize proof comment actions](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
@@ -462,15 +465,16 @@ feature-set: Workfront
 
 + Workfront DAM {#workfront-dam-program}
   + System setup {#system-setup}
+    + [Understand [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
     + [Analyze and plan a [!DNL Workfront DAM] strategy](workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
     + [Configure the integration in Workfront](workfront-dam/system-setup/configure-the-integration-in-workfront.md)
     + [Customize [!DNL Workfront DAM]](workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
     + [Set up groups and users](workfront-dam/system-setup/system-setup-groups-and-users.md)
-    + [Understand [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
     + [Understand [!UICONTROL Brand Portal]](workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
     + [Understand system settings](workfront-dam/system-setup/system-setup-system-settings.md)
 
   + Metadata and keywords {#metadata-and-keywords}
+    + [Understand metadata](workfront-dam/metadata-and-keywords/metadata-introduction.md)  
     + [Enable and enforce keyword taxonomy](workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
     + [Review the metadata terminology](workfront-dam/metadata-and-keywords/review-the-terminology.md)
     + [Search for assets using metadata and keywords](workfront-dam/metadata-and-keywords/search-for-assets.md)
@@ -478,7 +482,6 @@ feature-set: Workfront
     + [Set up metadata mapping](workfront-dam/metadata-and-keywords/metadata-mapping.md)
     + [Set up the metadata keywords](workfront-dam/metadata-and-keywords/keyword-setup.md)
     + [Set up the metadata](workfront-dam/metadata-and-keywords/metadata-setup.md)
-    + [Understand metadata](workfront-dam/metadata-and-keywords/metadata-introduction.md)  
 
   + Brand Connect customization {#brand-connect-customization}
     + [Add custom pages in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
@@ -521,13 +524,25 @@ feature-set: Workfront
     + [Understand updates and notifications](manage-work/issues-requests/understand-updates-and-notifications.md)
     
 + Agile {#agile}
-  + [Create a Kanban team](agile/create-a-kanban-team.md)
-  + [Create  a Scum agile team](agile/create-a-scrum-agile-team.md)
-  + [Grooming the backlog](agile/gooming-the-backlog.md)
-  + [Manage work as a Kanban team](agile/manage-work-kanban-team.md)
-  + [Manage work as a Scrum team](agile/manage-work-scrum-team.md)
-  + [Plan and create an iteration](agile/plan-and-create-an-iteration.md)
-  + [Using the iteration page](agile/using-the-iteration-page.md)
+
+  + Scrum {#scrum}
+      + [Create  a Scum agile team](agile/create-a-scrum-agile-team.md)
+      + [Manage work as a Scrum team](agile/manage-work-scrum-team.md)
+      + [Grooming the backlog](agile/gooming-the-backlog.md)
+      + [Plan and create an iteration](agile/plan-and-create-an-iteration.md)
+      + [Using the iteration page](agile/using-the-iteration-page.md)
+
+  + Kanban {#kanban}
+    + [Create a Kanban team](agile/create-a-kanban-team.md)
+     + [Manage work as a Kanban team](agile/manage-work-kanban-team.md)
+
+  + Boards  {#boards}
+    + [Add and manage tags for cards](boards/add-and-manage-tags-for-cards.md)
+    + [Add and manage team members for a board](boards/add-and-manage-team-members-for-a-board.md)
+    + [Add cards to a board](boards/add-cards-to-a-board.md)
+    + [Find and create a basic board](boards/find-and-create-a-basic-board.md)
+    + [Manage board columns](boards/manage-board-columns.md)
+    + [Manage cards on a board](boards/manage-cards-on-a-board.md)
 
 + Best Practices {#best-practices}
   + [Agile](best-practices/agile-bp.md)
