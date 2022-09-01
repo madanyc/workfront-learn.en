@@ -50,11 +50,11 @@ Create a new project in Workfront for each row in the Project List CSV file.
 
 **The connection is established. Now enter the document ID of the document you want to download from Workfront.**
 
-   ![Initial Scenario Design Image 6](../12-exercises/assets/initial-scenario-design-7.png)
+   ![Initial Scenario Design Image 7](../12-exercises/assets/initial-scenario-design-7.png)
 
    1. Go back to Workfront. In the "Fusion Exercise Files" folder, select "_Fusion2020_Project List.csv" and click Document Details in the left panel. Copy the document ID number from the URL address (this is the first long number in the URL).
 
-    ![Initial Scenario Design Image 7](../12-exercises/assets/initial-scenario-design-8.png)
+   ![Initial Scenario Design Image 8](../12-exercises/assets/initial-scenario-design-8.png)
 
    1. Go back to Fusion and paste the number in the Document ID field and click OK.
 
@@ -66,7 +66,7 @@ Create a new project in Workfront for each row in the Project List CSV file.
 
    1. Set up Parse CSV for 6 columns, CSV contains headers, Comma delimiterType, and put Data in the CSV field. Then click OK.
 
-    ![Initial Scenario Design Image 8](../12-exercises/assets/initial-scenario-design-9.png)
+   ![Initial Scenario Design Image 9](../12-exercises/assets/initial-scenario-design-9.png)
 
    1. Rename this module "Parse project list."
 
@@ -78,11 +78,11 @@ Create a new project in Workfront for each row in the Project List CSV file.
       >
       >Ignore the warning that a transformer should not be the last module (this is true, but doesn't matter for this test). Click Run Anyway.
 
-   ![Initial Scenario Design Image 9](../12-exercises/assets/initial-scenario-design-10.png)
+   ![Initial Scenario Design Image 10](../12-exercises/assets/initial-scenario-design-10.png)
 
    1. Open the execution inspector on the Parse CSV module to see the inputs and the outputs of the module. There is one bundle (a CSV file) as input and several bundles as outputs (one bundle for each row in the CSV file). It should look something like this:
 
-   ![Initial Scenario Design Image 10](../12-exercises/assets/initial-scenario-design-11.png)
+   ![Initial Scenario Design Image 11](../12-exercises/assets/initial-scenario-design-11.png)
 
 **Add a module to create a project for each row in the CSV file.**
 
@@ -106,7 +106,7 @@ Create a new project in Workfront for each row in the Project List CSV file.
 
 **Your mapping panel should look like this:**
 
-   ![Initial Scenario Design Image 11](../12-exercises/assets/initial-scenario-design-12.png)
+   ![Initial Scenario Design Image 12](../12-exercises/assets/initial-scenario-design-12.png)
 
    1. Click OK.
  
@@ -122,7 +122,7 @@ Create a new project in Workfront for each row in the Project List CSV file.
 
       + You'll see 20 operations were performed. Each operation took a bundle, meaning one row, from the CSV file as input and output one bundle, which was a project created in Workfront. The project ID of the project created appears with the output bundle.
 
-   ![Initial Scenario Design Image 12](../12-exercises/assets/initial-scenario-design-13.png)
+   ![Initial Scenario Design Image 13](../12-exercises/assets/initial-scenario-design-13.png)
 
 **Using notes**
 
@@ -138,7 +138,7 @@ Create a new project in Workfront for each row in the Project List CSV file.
 
         + An orange dot appears on the Notes button once notes are added.
 
-        ![Initial Scenario Design Image 13](../12-exercises/assets/initial-scenario-design-14.png)
+        ![Initial Scenario Design Image 14](../12-exercises/assets/initial-scenario-design-14.png)
 
    1. Save the scenario by clicking the Save button in the controls toolbar.
 
