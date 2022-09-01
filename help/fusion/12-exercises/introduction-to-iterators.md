@@ -16,9 +16,11 @@ Learn to use iteration-type apps and perform actions on each bundle of informati
 
 Look at a specific project in Workfront, then look at all the tasks within that project. You will use the increment tool module to count the number of tasks within the project. Finally, you'll use the Set variable module to subtract the Number of Children from the Number of Open Issues to produce a numeric value for each of the task bundles.
 
+![Introduction to iterators Image 1](../12-exercises/assets/introduction-to-iterators-walkthrough-1.png)
+
 ## Steps to follow
 
-Read a project and related tasks.
+**Read a project and related tasks.**
 
 1. Start a new scenario. Name it "Introduction to iteration."
 
@@ -60,7 +62,9 @@ Count and process iterated bundles.
 
 1. In the Variable value field, subtract the number of open children from the number of open opTasks.
 
-It should look like this:
+**It should look like this:**
+
+![Introduction to iterators Image 2](../12-exercises/assets/introduction-to-iterators-walkthrough-2.png)
 
 1. Rename this module "Random Math."
 

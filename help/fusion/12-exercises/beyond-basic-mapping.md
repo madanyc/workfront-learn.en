@@ -14,17 +14,17 @@ Learn how to use the mapping panel formulas to manipulate or convert field(s) se
 
 ## Exercise overview
 
-Change the project name, planned start date, and priority from the Initial scenario design walkthrough exercises using the mapping panel formulas.
+Change the project name, planned start date, and priority from the Beyond Basic Mapping Image 1 walkthrough exercises using the mapping panel formulas.
 
-![Initial Scenario Design](../assets/../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
+![Beyond Basic Mapping Image 1](../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
 
 ## Steps to follow
 
-**Make a clone of your Initial scenario design scenario.**
+**Make a clone of your Beyond Basic Mapping Image 1 scenario.**
 
-1. Select the Clone option to the right of the Initial scenario design in the scenario section, as shown below. Name it "Beyond basic mapping."
+1. Select the Clone option to the right of the Beyond Basic Mapping Image 1 in the scenario section, as shown below. Name it "Beyond basic mapping."
 
-![Initial Scenario Design](../assets/../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
+![Beyond Basic Mapping Image 2](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
 
 **Now we're going to use the mapping panel in the Create Workfront projects module to configure the project name, planned start date, and priority fields.**
 
@@ -40,7 +40,7 @@ Change the project name, planned start date, and priority from the Initial scena
 
 **At this point, your mapping panel should look like this:**
 
-![Initial Scenario Design](../assets/../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
+![Beyond Basic Mapping Image 3](../12-exercises/assets/beyond-basic-mapping-walkthrough-3.png)
 
 1. Click OK and then click Run once.
 

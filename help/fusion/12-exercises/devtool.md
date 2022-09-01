@@ -16,11 +16,15 @@ Enhance your abilities to troubleshoot a scenario and ease complex configuration
 
 Install and use the different areas in the Workfront DevTool to take a deeper dive into requests/responses made and advanced scenario design tricks.
 
-Note: The Workfront Fusion DevTool is only available in the Chrome browser when using the Chrome developer tool.
+>[!NOTE]
+>
+>The Workfront Fusion DevTool is only available in the Chrome browser when using the Chrome developer tool.
+
+![Devtool Image 1](../12-exercises/assets/devtool-walkthrough-1.png)
 
 ## Steps to follow
 
-Install the DevTool.
+**Install the DevTool.**
 
 1. Download the "workfront-fusion-devtool.zip" document found in the Fusion Exercise Files folder in the test drive.
 
@@ -30,13 +34,19 @@ Install the DevTool.
 
 1. Toggle on Developer mode using the switch at the top right, then click the "Load unpacked" button that appears at the top left. Select the folder containing the DevTool (this is where you unzipped it).
 
+![Devtool Image 2](../12-exercises/assets/devtool-walkthrough-2.png)
+
 1. Once unpacked, the DevTool appears among your other extensions.
 
-Use the Live Stream.
+![Devtool Image 3](../12-exercises/assets/devtool-walkthrough-3.png)
+
+**Use the Live Stream.**
 
 1. Start by opening the "Using Data Stores to sync data" scenario.
 
 1. Open the DevTool by typing F12 or function F1. Or you can click the three-dot menu in the Chrome address bar and navigate to Developer Tools.
+
+![Devtool Image 4](../12-exercises/assets/navigate-to-devtools.png)
 
 1. Click the Workfront Fusion tab, then select Live Stream from the list on the left.
 
@@ -44,15 +54,23 @@ Use the Live Stream.
 
 1. Click on an event to see tabs on the right for Request Headers, Request Body, Response Headers, and Response Body.
 
-Use the Scenario Debugger.
+![Devtool Image 4](../12-exercises/assets/devtool-walkthrough-4.png)
+
+**Use the Scenario Debugger**
 
 1. Select Scenario Debugger and click a module to see information about the operations of that module.
 
+![Devtool Image 5](../12-exercises/assets/devtool-walkthrough-5.png)
+
 1. Navigate to the History tab. Click Details on an execution to examine module operation details for a specific execution.
 
-Use the Tools.
+![Devtool Image 6](../12-exercises/assets/devtool-walkthrough-6.png)
+
+**Use the Tools**
 
 1. Go back to the scenario designer and select Tools in the DevTool. This displays the tools available.
+
+![Devtool Image 7](../12-exercises/assets/devtool-walkthrough-7.png)
 
 + Focus a Module - Find and open a module quickly by using the module ID.
 

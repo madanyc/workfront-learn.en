@@ -16,9 +16,13 @@ Understand how to use groupings when aggregating.
 
 Call a web service to return details about multiple countries and identify the total population of all countries, grouped by subregion.
 
+![Advanced Aggregation Image 1](../12-exercises/assets/advanced-aggregation-walkthrough-1.png)
+
 ## Steps to follow
 
-Get country details.
+**Get country details.**
+
+![Advanced Aggregation Image 2](../12-exercises/assets/advanced-aggregation-walkthrough-2.png)
 
 1. Create a new scenario and name it "Advanced aggregation."
 
@@ -34,15 +38,19 @@ Get country details.
 
 1. Click Save and Run once.
 
-The output is a single bundle, but it comes in an array with 24 collections, one for each Spanish speaking country.
+**The output is a single bundle, but it comes in an array with 24 collections, one for each Spanish speaking country.**
 
-You need to gather subregion information for each of the countries, so you'll need to make an additional HTTP request.
+![Advanced Aggregation Image 3](../12-exercises/assets/advanced-aggregation-walkthrough-3.png)
+
+**You need to gather subregion information for each of the countries, so you'll need to make an additional HTTP request.**
 
 1. Add another request to get subregion information. It will only return the first country, but that's OK for now. Add another HTTP Make a request module and use the URL https://restcountries.eu/rest/v2/name/.
 
 1. To get the name of the first country, go to the mapping panel and click Data, then Name in the array. The [1] in the data field means it will return the first item in the array.
 
    + Click the number and change the index if needed, but in this case you just want the first item.
+
+![Advanced Aggregation Image 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
 1. Check Parse response in the mapping panel, then click OK.
 
@@ -54,13 +62,17 @@ You need to gather subregion information for each of the countries, so you'll ne
 
 1. To get the other countries, you need to iterate through the array. Add an iterator, which takes a list of things and outputs a bundle for each item on the list.
 
-Add the iterator and aggregator.
+**Add the iterator and aggregator.**
 
 1. Right-click between the HTTP modules and add the Iterator Flow Control module.
 
 1. In the Array field, select Data from the Get Countries module.
 
+![Advanced Aggregation Image 5](../12-exercises/assets/advanced-aggregation-walkthrough-5.png)
+
 1. In the Get Country Details module, update the URL field to take the name field from the iterator instead of from the Get Countries module.
+
+![Advanced Aggregation Image 6](../12-exercises/assets/advanced-aggregation-walkthrough-6.png)
 
 1. Now add a numeric aggregator after Get Country Details to group and sum the populations.
 
@@ -72,13 +84,17 @@ Add the iterator and aggregator.
 
 1. Click the Show advanced settings option at the bottom and group by [data:subregion] from the Get Country Details module.
 
-Finish with a text aggregator to aggregate what you grouped within the numeric aggregator.
+![Advanced Aggregation Image 7](../12-exercises/assets/advanced-aggregation-walkthrough-7.png)
+
+**Finish with a text aggregator to aggregate what you grouped within the numeric aggregator.**
 
 1. Add a text aggregator to the end.
 
 1. The source module is the numeric aggregator.
 
 1. In the Text area, insert "The total population of [KEY] is [result]."
+
+![Advanced Aggregation Image 8](../12-exercises/assets/advanced-aggregation-walkthrough-8.png)
 
 1. Save and Run once.
 

@@ -16,6 +16,11 @@ Transform data from a source file into a destination file.
 
 Open a CSV file that contains a list of time entries. These time entries are for minutes logged throughout certain days by multiple users. The goal is to take this information and produce a new CSV that shows the total time, in hours, logged by each user, each day.
 
+![Data structures Image 1](../12-exercises/assets/data-structures-walkthrough-1.png)
+
+![Data structures Image 2](../12-exercises/assets/data-structures-walkthrough-2.png)
+
+
 In this scenario, you will open a file that contains a list of time entries for minutes worked, including the date and time, how many minutes were entered, and the email address of who made the entry. There are 100 time entries, some made by the same individuals and some of those were made on the same day as others.
 
 To produce a file that shows the total time, in hours, worked each day by each individual, you'll follow these steps:
@@ -34,7 +39,7 @@ To produce a file that shows the total time, in hours, worked each day by each i
 
 ## Steps to follow
 
-Download the file from Workfront.
+**Download the file from Workfront.**
 
 1. In the Workfront "Fusion Exercise Files" folder, select "_Fusion1.0JanTime.csv" and click Document Details.
 
@@ -46,17 +51,23 @@ Download the file from Workfront.
 
 1. Set up your Workfront connection and include the Document ID you copied from the Workfront URL.
 
-Parse the time entry data.
+![Data structures Image 3](../12-exercises/assets/data-structures-walkthrough-3.png)
+
+**Parse the time entry data.**
 
 1. Add another module, selecting Parse CSV.
 
 1. Set up Parse CSV for 7 columns. Check the CSV contains headers box. Choose the Comma delimiterType and put Data in the CSV field.
 
+![Data structures Image 4](../12-exercises/assets/data-structures-walkthrough-4.png)
+
 1. Click Run once to view the output.
 
 1. Open the execution inspector to see the inputs and the outputs of the Parse CSV module. There is one bundle (a CSV file) as input and several bundles as outputs (one bundle for each row in the CSV file). It should look something like this:
 
-Next, transform the data into the desired output form, with aggregated time totals expressed in hours instead of minutes.
+![Data structures Image 5](../12-exercises/assets/data-structures-walkthrough-5.png)
+
+**Next, transform the data into the desired output form, with aggregated time totals expressed in hours instead of minutes.**
 
 1. Add a Numeric Aggregator tool module.
 
@@ -70,13 +81,17 @@ Next, transform the data into the desired output form, with aggregated time tota
 
    + This will sum for every combination of the email and the date. Be sure to put a comma between column 4 and column 1. This will be used as a delimiter later on.
 
-Your mapping panel should look like this:
+**Your mapping panel should look like this:**
+
+![Data structures Image 6](../12-exercises/assets/data-structures-walkthrough-6.png)
 
 1. Click Run once to check the aggregation output.
 
-The output bundles should look like this:
+**The output bundles should look like this:**
 
-Now convert the aggregated minutes into hours.
+![Data structures Image 7](../12-exercises/assets/data-structures-walkthrough-7.png)
+
+**Now convert the aggregated minutes into hours.**
 
 1. Add another tools module, selecting Set Variable.
 
@@ -84,9 +99,11 @@ Now convert the aggregated minutes into hours.
 
 1. Set the variable value to formatNumber(result/60;2;.;,)
 
-Your mapping panel should look like this:
+**Your mapping panel should look like this:**
 
-Next, get the values set up for the output file. You want the userID and the date value used for the groupings. You also want the hours that were calculated.
+![Data structures Image 8](../12-exercises/assets/data-structures-walkthrough-8.png)
+
+**Next, get the values set up for the output file. You want the userID and the date value used for the groupings. You also want the hours that were calculated.**
 
 1. Add another module-CSV module using the aggregator Create CSV (advanced).
 
@@ -106,11 +123,13 @@ Next, get the values set up for the output file. You want the userID and the dat
 
 1. Name the item "Hours," set the type to Number, and click Add.
 
-Your data structure should look like the image at right:
+**Your data structure should look like this:**
+
+![Data structures Image 9](../12-exercises/assets/data-structures-walkthrough-9.png)
 
 1. Click Save to finish the Time Logged Daily Sum data structure.
 
-Now you supply the values for the three fields you just created. You should see those three fields in the CSV mapping panel.
+**Now you supply the values for the three fields you just created. You should see those three fields in the CSV mapping panel.**
 
 1. Click in the UserID field and choose GET from the general functions tab. In the first parameter, put SPLIT from the text and binary functions tab. The first parameter for the SPLIT function is the Key field. Add a comma as the delimiter and 1 as the index. This indicates you want the GET to retrieve the first field in the Key array.
 
@@ -118,11 +137,15 @@ Now you supply the values for the three fields you just created. You should see 
 
 1. For the Hours field, add the Hours field from the Set Variable tool.
 
-Your CSV mapping panel should look like this:
+**Your CSV mapping panel should look like this:**
 
-If you run the scenario now, you should see this output:
+![Data structures Image 10](../12-exercises/assets/data-structures-walkthrough-10.png)
 
-Now, add a module to take this output and upload it as a document to an existing project in Workfront.
+**If you run the scenario now, you should see this output:**
+
+![Data structures Image 11](../12-exercises/assets/data-structures-walkthrough-11.png)
+
+**Now, add a module to take this output and upload it as a document to an existing project in Workfront.**
 
 1. Open the project in Workfront and copy the project ID from the URL.
 
@@ -140,8 +163,12 @@ Now, add a module to take this output and upload it as a document to an existing
 
 Your mapping panel should look like this:
 
+![Data structures Image 12](../12-exercises/assets/data-structures-walkthrough-12.png)
+
 1. Click OK and Save the scenario.
 
 1. Click Run once to run the scenario.
 
-Check the execution inspector in the Upload Document module to confirm the document was uploaded.
+**Check the execution inspector in the Upload Document module to confirm the document was uploaded.**
+
+![Data structures Image 13](../12-exercises/assets/data-structures-walkthrough-13.png)
