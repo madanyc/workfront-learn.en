@@ -26,7 +26,7 @@ Using the "Introduction to iteration" scenario you built in the last exercise, a
 
 1. Add a filter between the Read Project's Tasks module and the Count the # of tasks module. Name the filter "Only working tasks."
 
-1. Set the condition to Number of Children <Numeric Operator: Equal to> 0.
+1. Set the condition to Number of Children Numeric Operator: Equal to 0.
 
 ![Aggregation Image 2](../12-exercises/assets/aggregation-walkthrough-2.png)
 
