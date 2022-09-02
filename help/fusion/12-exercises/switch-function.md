@@ -16,16 +16,13 @@ Learn how to use the switch functionality using the Switch function.
 
 For simple data changes, use the Switch function to transform one value to another within a module field. In this exercise, change the two-letter key to the actual name for the project progress status to send in an email.
 
-![Switch function Image 1](../12-exercises/assets/switch-function-walkthrough-1.png)
+   ![Switch function Image 1](../12-exercises/assets/switch-function-walkthrough-1.png)
 
 ## Steps to follow
 
 1. Clone the scenario named "Sharing variables between routing paths."
-
 1. Name the new scenario "Sharing variables between routing paths - Switch."
-
 1. Click the trigger module and add Progress Status to the Outputs section.
-
 1. In the Send an email module, add Progress Status to the Content field.
 
    + If you just map over the value coming from the Search module, there's a two-letter code for the progress status.
@@ -36,4 +33,4 @@ For simple data changes, use the Switch function to transform one value to anoth
    + A key value is defined in the first position after the Progress Status ("LT") with the corresponding output defined in the second position ("Late").
    + The next key value is defined in the third position, with the corresponding output defined in the fourth position, etc., for as many keys as desired.
 
-![Switch function Image 2](../12-exercises/assets/switch-function-walkthrough-2.png)
+      ![Switch function Image 2](../12-exercises/assets/switch-function-walkthrough-2.png)
