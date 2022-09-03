@@ -1,5 +1,5 @@
 ---
-title: Introduction to Iterators Walkthrough
+title: Introduction to iterators walkthrough
 description: Learn how to count the number of working tasks in a project, then calculate a value for each of the task bundles, all in [!DNL Adobe Workfront Fusion].
 activity: use
 doc-type: feature video
@@ -23,7 +23,7 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!TIP]
 >
->For step-by-step instructions on completing the walkthrough, download the [Adobe Workfront Fusion activity book](/help/assets/adobe-workfront-fusion-activity-book.pdf). **Disclaimer**: The Adobe Workfront Fusion activity book contains a few links to Workfront One, which do not work. This will be updated soon.
+>For step-by-step instructions on completing the walkthrough, go to the [Introduction to iterators walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators.html?lang=en) exercise.
 
 
 ## Want to learn more? We recommend the following:

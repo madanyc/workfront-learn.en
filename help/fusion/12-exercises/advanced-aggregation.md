@@ -1,5 +1,5 @@
 ---
-title: Advanced Aggregation
+title: Advanced aggregation
 description: Understand how to use groupings when aggregating. (Should be between 60 and 160 characters, but is 49 characters)
 feature: Workfront Fusion
 role: User
@@ -8,7 +8,7 @@ kt: 11048
 thumbnail: KT11048.png
 ---
 
-# Advanced Aggregation
+# Advanced aggregation
 
 Understand how to use groupings when aggregating.
 
@@ -32,11 +32,11 @@ Call a web service to return details about multiple countries and identify the t
    1. Rename this module "Get Countries."
    1. Click Save and Run once.
 
-   **The output is a single bundle, but it comes in an array with 24 collections, one for each Spanish speaking country.**
+      **The output is a single bundle, but it comes in an array with 24 collections, one for each Spanish speaking country.**
 
-   ![Advanced Aggregation Image 3](../12-exercises/assets/advanced-aggregation-walkthrough-3.png)
+      ![Advanced Aggregation Image 3](../12-exercises/assets/advanced-aggregation-walkthrough-3.png)
 
-   **You need to gather subregion information for each of the countries, so you'll need to make an additional HTTP request.**
+      **You need to gather subregion information for each of the countries, so you'll need to make an additional HTTP request.**
 
 1. Add another request to get subregion information. It will only return the first country, but that's OK for now. Add another HTTP Make a request module and use the URL https://restcountries.eu/rest/v2/name/.
 1. To get the name of the first country, go to the mapping panel and click Data, then Name in the array. The [1] in the data field means it will return the first item in the array.

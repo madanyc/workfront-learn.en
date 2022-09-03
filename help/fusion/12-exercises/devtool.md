@@ -1,5 +1,5 @@
 ---
-title: DevTool
+title: Dev tool
 description: Enhance your abilities to troubleshoot a scenario and ease complex configurations using the DevTool.
 feature: Workfront Fusion
 role: User
@@ -8,39 +8,39 @@ kt: 11057
 thumbnail: KT11057.png
 ---
 
-# DevTool
+# Dev tool
 
-Enhance your abilities to troubleshoot a scenario and ease complex configurations using the DevTool.
+Enhance your abilities to troubleshoot a scenario and ease complex configurations using the Dev tool.
 
 ## Exercise overview
 
-Install and use the different areas in the Workfront DevTool to take a deeper dive into requests/responses made and advanced scenario design tricks.
+Install and use the different areas in the Workfront Dev tool to take a deeper dive into requests/responses made and advanced scenario design tricks.
 
 >[!NOTE]
 >
->The Workfront Fusion DevTool is only available in the Chrome browser when using the Chrome developer tool.
+>The Workfront Fusion Dev tool is only available in the Chrome browser when using the [Chrome developer tool](https://developer.chrome.com/docs/devtools/).
 
    ![Devtool Image 1](../12-exercises/assets/devtool-walkthrough-1.png)
 
 ## Steps to follow
 
-**Install the DevTool.**
+**Install the Dev tool.**
 
 1. Download the "workfront-fusion-devtool.zip" document found in the Fusion Exercise Files folder in the test drive.
 1. Extract the Zip files to a folder.
-1. Open a tab in Chrome and enter chrome://extensions.
-1. Toggle on Developer mode using the switch at the top right, then click the "Load unpacked" button that appears at the top left. Select the folder containing the DevTool (this is where you unzipped it).
+1. Open a tab in Chrome and enter **chrome://extensions**.
+1. Toggle on Developer mode using the switch at the top right, then click the "Load unpacked" button that appears at the top left. Select the folder containing the Dev tool (this is where you unzipped it).
 
    ![Devtool Image 2](../12-exercises/assets/devtool-walkthrough-2.png)
 
-1. Once unpacked, the DevTool appears among your other extensions.
+1. Once unpacked, the Dev tool appears among your other extensions.
 
    ![Devtool Image 3](../12-exercises/assets/devtool-walkthrough-3.png)
 
     **Use the Live Stream.**
 
 1. Start by opening the "Using Data Stores to sync data" scenario.
-1. Open the DevTool by typing F12 or function F1. Or you can click the three-dot menu in the Chrome address bar and navigate to Developer Tools.
+1. Open the Dev tool by typing F12 or function F12. Or you can click the three-dot menu in the Chrome address bar and navigate to Developer Tools.
 
    ![Devtool Image 4](../12-exercises/assets/navigate-to-devtools.png)
 
@@ -62,7 +62,7 @@ Install and use the different areas in the Workfront DevTool to take a deeper di
 
     **Use the Tools**
 
-1. Go back to the scenario designer and select Tools in the DevTool. This displays the tools available.
+1. Go back to the scenario designer and select Tools in the Dev tool. This displays the tools available.
 
    ![Devtool Image 7](../12-exercises/assets/devtool-walkthrough-7.png)
 

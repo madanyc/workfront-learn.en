@@ -35,7 +35,7 @@ Change the project name, planned start date, and priority from the Beyond Basic 
 1. Next go to the Planned Start Date and use the addDays formula to add 15 days to the field, as described in the Beyond basic mapping walkthrough video.
 1. Find the Priority field and toggle the Map button at the top right of the field. The picklist menu changes to a number. Create an if statement to label a project as High(4) priority if the CSV file confidence rating is less than 100, otherwise it can be Normal(2).
 
-   + The confidence rating is in Column 1.
+   + The confidence rating is in Column 4.
 
    **At this point, your mapping panel should look like this:**
 

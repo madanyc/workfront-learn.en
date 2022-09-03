@@ -23,7 +23,7 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!TIP]
 >
->For step-by-step instructions on completing the walkthrough, download the [Adobe Workfront Fusion activity book](/help/assets/adobe-workfront-fusion-activity-book.pdf). **Disclaimer**: The Adobe Workfront Fusion activity book contains a few links to Workfront One, which do not work. This will be updated soon.
+>For step-by-step instructions on completing the walkthrough, go to the [Beyond basic mapping walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) exercise.
 
 ## Your turn
 

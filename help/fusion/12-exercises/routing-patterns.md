@@ -21,7 +21,7 @@ Use the Set Variable module to send a number through multiple paths to see how f
 ## Steps to follow
 
 1. Create a new scenario and call it "Routing patterns and fallbacks".
-1. For the trigger, add the Set Variable tool module. Put "My Number" for the Variable name, leave the Variable lifetime as One cycle, and set the Variable field to "71."
+1. For the trigger, add the Set Variable tool module. Put "My Number" for the Variable name, leave the Variable lifetime as One cycle, and set the Variable field to "75."
 
    ![Routing patterns Image 2](../12-exercises/assets/routing-patterns-walkthrough-2.png)
 

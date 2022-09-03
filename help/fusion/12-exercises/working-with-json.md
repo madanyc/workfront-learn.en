@@ -20,7 +20,7 @@ The purpose of this exercise is to conceptually show how to utilize information 
 
 ## Steps to follow
 
-    **Create a data structure and parsing JSON.**
+   **Create a data structure and parsing JSON.**
 
 1. Create a new scenario and name it "Working with JSON donut data."
 1. For the trigger module, use the Set variable module.
@@ -64,8 +64,7 @@ The purpose of this exercise is to conceptually show how to utilize information 
     **Aggregate scenario data to JSON.**
 
 1. On the lower routing path, add an Aggregate to JSON module.
-1. For the Source Module, choose the iterator-
-the Parse JSON module.
+1. For the Source Module, choose the iterator--the Parse JSON module.
 1. For the Data structure, create or choose any data structure. For this example, use Donut data.
 1. Go ahead and map the fields over directly for this example, as shown below.
 1. When you get to batter and topping, notice these are arrays, so you need to click Add item to map them.

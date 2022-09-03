@@ -27,7 +27,8 @@ In this video, you will learn how to:
 
 >[!TIP]
 >
->For step-by-step instructions on completing the walkthrough, download the [Adobe Workfront Fusion activity book](/help/assets/adobe-workfront-fusion-activity-book.pdf). **Disclaimer**: The Adobe Workfront Fusion activity book contains a few links to Workfront One, which do not work. This will be updated soon.
+>For step-by-step instructions on completing the walkthrough, go to the [Initial Scenario Design walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en) exercise.
+
 
 
 ## Want to learn more? We recommend the following:

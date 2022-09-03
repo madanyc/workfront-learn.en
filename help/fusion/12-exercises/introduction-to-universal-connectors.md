@@ -63,13 +63,13 @@ Using a Pokemon character in a spreadsheet, call the Poke API through an HTTP co
 1. Save the scenario.
 1. Click Run Once and observe the error message you receive in the HTTP Make a request module.
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
    >Notice in the input data URL field the character name is capitalized. This won't work for making that API call because character names need to be lowercase.
 
    ![Introduction to universal connectors Image 5](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-5.png)
 
-1. Use the mapping panel in the HTTP Make a request URL field to make the [Character] field all lowercase letters using the lower function.
+1. Use the mapping panel in the HTTP Make a request URL field to make the [Character] field all lowercase letters using the **lower** function.
 
    ![Introduction to universal connectors Image 6](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-6.png)
 

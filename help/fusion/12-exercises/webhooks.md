@@ -40,7 +40,7 @@ The purpose of this scenario is to create an app to sell to convenience stores s
 1. Back in the Webhooks mapping panel a URL has been created for this specific webhook. Click on "Copy address to clipboard" to copy that URL.
 1. Click OK.
 1. Click Run once.
-1. Use the URL in Postman to send a name and birthdate to your custom webhook. For instructions on setting up Postman, see section three of the Beyond basic modules in Workfront Fusion learning path.
+1. Use the URL in Postman to send a name and birthdate to your custom webhook. For instructions on setting up Postman, see the [Webhooks walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=en) tutorial.
 
     **The Webhooks module panel should look like this:**
 
@@ -69,7 +69,7 @@ The purpose of this scenario is to create an app to sell to convenience stores s
    ![Webhooks Image 6](../12-exercises/assets/webhooks-walkthrough-6.png)
 
 1. Create a filter between the router and the Webhook response module. Name it "Client token does not match."
-1. For the Condition, use the clientToken field from the trigger module and do a numeric "Not equal to" comparison to the number 512191.
+1. For the Condition, use the clientToken field from the trigger module and do a numeric "Not equal to" comparison to the number 5121933.
 
    ![Webhooks Image 7](../12-exercises/assets/webhooks-walkthrough-7.png)
 
@@ -80,7 +80,7 @@ The purpose of this scenario is to create an app to sell to convenience stores s
    ![Webhooks Image 9](../12-exercises/assets/webhooks-walkthrough-9.png)
 
 1. Create a filter between the router and the Webhook response module on the lower path. Name it "Client token does match."
-1. For the Condition, use the clientToken field from the trigger module and do a numeric "Equal to" comparison to the number 512191.
+1. For the Condition, use the clientToken field from the trigger module and do a numeric "Equal to" comparison to the number 5121933.
 
 
    ![Webhooks Image 8](../12-exercises/assets/webhooks-walkthrough-8.png)

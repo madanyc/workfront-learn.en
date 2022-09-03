@@ -1,5 +1,5 @@
 ---
-title: Access Previous Versions
+title: Access previous versions
 description: Learn how to return to a previous version of a scenario. (Should be between 60 and 160 characters, but is 56 characters)
 feature: Workfront Fusion
 role: User
@@ -8,7 +8,7 @@ kt: 11041
 thumbnail: KT1101.png
 ---
 
-# Access Previous Versions
+# Access previous versions
 
 Learn how to return to a previous version of a scenario.
 

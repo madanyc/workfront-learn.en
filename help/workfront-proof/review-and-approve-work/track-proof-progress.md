@@ -81,7 +81,7 @@ Talk with your team or proofing system administrator to find out what kind of re
 
 <!--
 ### Learn more
-* Learn to create reports in [!DNL Workfront] with the Basic Report Creation program on Workfront One.
+* Learn to create reports in [!DNL Workfront] with the Basic Report Creation course.
 * View progress and status of a proof
 * View activity on a proof within [!DNL Workfront]
 -->

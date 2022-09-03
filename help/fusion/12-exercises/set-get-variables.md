@@ -46,7 +46,7 @@ Look up information about a project in Workfront and send an email with related 
 
 1. Save the scenario and click Run once.
 
-  If you receive an error on the Read a record module, it's likely due to the Search module finding a project without a sponsor listed.
+   If you receive an error on the Read a record module, it's likely due to the Search module finding a project without a sponsor listed.
 
    **To avoid this error, create two paths: one for projects that have a sponsor ID and one for projects that don't.**
 
@@ -86,7 +86,9 @@ Look up information about a project in Workfront and send an email with related 
 
    ![Set Get variables Image 8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
 
-   **Before you test the scenario, we recommend restricting the number of projects you process to avoid getting a flood of emails.**
+   >[!IMPORTANT]
+   >
+   >Before you test the scenario, we recommend restricting the number of projects you process to avoid getting a flood of emails.
 
 1. Go to your Workfront test drive and locate the Northstar Fashion Exhibitors Booth project. This is a current project that has a sponsor. Copy the project ID from the URL.
 

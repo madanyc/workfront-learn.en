@@ -35,7 +35,7 @@ A project or task report can display useful information about the original issue
 
 <!-- Need wf one documentation article link below
 
-For the text mode used to create this report, see the Workfront One article titled View: Display original issue information on task and project list.
+For the text mode used to create this report, see the article titled View: Display original issue information on task and project list.
 
 -->
 

@@ -20,11 +20,11 @@ Using the "Introduction to iteration" scenario you built in the last exercise, a
 
 ## Steps to follow
 
-    **Add a filter and SUM the planned hours.**
+   **Add a filter and SUM the planned hours.**
 
 1. Clone the "Introduction to iteration" scenario you created in the previous exercise, and name it "Introduction to aggregation."
 1. Add a filter between the Read Project's Tasks module and the Count the # of tasks module. Name the filter "Only working tasks."
-1. Set the condition to Number of Children Numeric Operator: Equal to 0.
+1. Set the condition to Number of Children [Numeric Operator: Equal to] 0.
 
    ![Aggregation Image 2](../12-exercises/assets/aggregation-walkthrough-2.png)
 

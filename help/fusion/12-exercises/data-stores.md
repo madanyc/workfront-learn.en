@@ -29,7 +29,7 @@ This is the first part of a one-directional synchronization of companies in Work
 1. Set up your Workfront connection and include the document ID copied from the Workfront URL.
 1. Name this module "Get companies file."
 1. Now add a Parse CSV module.
-1. For the Number of columns field, type 1.
+1. For the Number of columns field, type 2.
 1. Map Data from the Download document module in the CSV field.
 1. Name this module "Parse companies file."
 1. Save your scenario and click Run once.
@@ -119,8 +119,8 @@ This is the first part of a one-directional synchronization of companies in Work
 
    ![Data stores Image 9](../12-exercises/assets/data-stores-walkthrough-9.png)
 
-1. Now add another Add/replace a record module by cloning the one at the end of routing path 1.
-1. Drag the cloned module into place at the end of routing path 1. Delete the empty module that was there.
+1. Now add another Add/replace a record module by cloning the one at the end of routing path 2.
+1. Drag the cloned module into place at the end of routing path 3. Delete the empty module that was there.
 1. Click on the cloned module. All fields should stay the same except the WFID field. Map it from the Matching companies Search module.
 
    ![Data stores Image 10](../12-exercises/assets/data-stores-walkthrough-10.png)

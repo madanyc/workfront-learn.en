@@ -29,17 +29,19 @@ Practice with different scenario configurations to explore using runs and cycles
 1. In the Search criteria, remove the second filter that restricts the search to a single project.
 1. Click OK.
 
-   ![Exploring runs cycles and bundles Image 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
-
 1. In the Fusion toolbar, open Scenario settings and change the Max number of cycles field from 1 to 1.
 1. Click OK.
+
+   ![Exploring runs cycles and bundles Image 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
+
 
     **Schedule the scenario to run every minute.**
 
 1. Click the clock icon by the trigger module and change the Minutes field to 1 minute.
-1. Next, switch the Scheduling toggle under the Run once button to On. Save your scenario.
 
    ![Exploring runs cycles and bundles Image 2](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
+   
+1. Next, switch the Scheduling toggle under the Run once button to On. Save your scenario.
 
    ![Exploring runs cycles and bundles Image 3](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
 

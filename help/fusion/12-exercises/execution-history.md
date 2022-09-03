@@ -33,13 +33,21 @@ Review the execution history for the "Using the mighty filter" scenario to under
 
    ![Execution History Image 4](../12-exercises/assets/execution-history-walkthrough-4.png)
 
+   ![Execution History Image 5](../12-exercises/assets/execution-history-walkthrough-5.png)
+
+
 1. In the right panel, scroll through or click through the Simple log to view details of the execution's "play-by-play."
 
    + You can see when operations were completed in modules and when bundles passed (or did not pass) through filters.
+
+   ![Execution History Image 6](../12-exercises/assets/execution-history-walkthrough-6.png)
+   
    + Click a log item to open the operation panel in the scenario panel. The logs are listed in chronological order of when they occurred.
 
-   ![Execution History Image 5](../12-exercises/assets/execution-history-walkthrough-5.png)
+
+   ![Execution History Image 7](../12-exercises/assets/execution-history-walkthrough-7.png)
+
 
 1. The Advanced log shows similar information. However, it provides more information on how many cycles were executed per run and lets you dig deeper into which bundles of information were processed in each cycle.
 
-   ![Execution History Image 6](../12-exercises/assets/execution-history-walkthrough-6.png)
+![Execution History Image 8](../12-exercises/assets/execution-history-walkthrough-8.png)

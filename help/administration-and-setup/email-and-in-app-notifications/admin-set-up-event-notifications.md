@@ -23,7 +23,7 @@ add URL link in the note at the top of the LP
 
 >[!NOTE]
 >
->Because of a phased rollout, the functionality that allows system and group administrators to manage event notifications is temporarily not available for some [!DNL Workfront] customers. Please follow this [!DNL Workfront One] article for updates regarding the release: Unlock configuration of event notifications for groups.
+>Because of a phased rollout, the functionality that allows system and group administrators to manage event notifications is temporarily not available for some [!DNL Workfront] customers. Please follow this article for updates regarding the release: Unlock configuration of event notifications for groups.
 
 System administrators determine which notifications users should receive through [!DNL Workfront].
 

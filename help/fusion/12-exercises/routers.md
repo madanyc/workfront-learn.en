@@ -12,11 +12,11 @@ thumbnail: KT11043.png
 
 Understand the importance of routers and how they can be used to conditionally process different modules.
 
-   ![Routers Image 1](../12-exercises/assets/routers-walkthrough-1.png)
-
 ## Exercise overview
 
 Use a router to pass Pokemon vs. superheroes bundles down the correct path, then create a task for each character.
+
+   ![Routers Image 1](../12-exercises/assets/routers-walkthrough-1.png)
 
 ## Steps to follow
 
@@ -37,11 +37,11 @@ Use a router to pass Pokemon vs. superheroes bundles down the correct path, then
 1. Clone the Tools module and move it to the end of the second path.
 1. Click the wand icon - the Auto-align button - in the toolbar.
 
-**Your scenario should look like this:**
+   **Your scenario should look like this:**
 
    ![Routers Image 3](../12-exercises/assets/routers-walkthrough-3.png)
 
-    **Next, you're going to change the mapped values in the new cloned modules.**
+   **Next, you're going to change the mapped values in the new cloned modules.**
 
 1. Go to <https://superheroapi.com/> and use your Facebook account to get an access token.
 
@@ -58,11 +58,11 @@ Use a router to pass Pokemon vs. superheroes bundles down the correct path, then
 
     **Now you can click into the Set multiple variables module in the superhero path and update the name, height, weight, and abilities.**
 
-1. Update the Name and Abilities fields from the Get superhero abilities module-Module 1.
+1. Update the Name and Abilities fields from the Get superhero abilities module-Module 8.
 
    ![Routers Image 5](../12-exercises/assets/routers-walkthrough-5.png)
 
-1. Update the Height and Weight fields from the Get superhero appearance module-Module 1.
+1. Update the Height and Weight fields from the Get superhero appearance module-Module 6.
 
    ![Routers Image 6](../12-exercises/assets/routers-walkthrough-6.png)
 
@@ -89,7 +89,7 @@ Use a router to pass Pokemon vs. superheroes bundles down the correct path, then
 
 1. Click OK, and rename this module to "Create a task for each character."
 
-    Add filters so the scenario can run without errors. You want only Pokemon characters to go down the top path, only superhero characters to go down the middle path, and all characters to go down the bottom path.
+   **Add filters so the scenario can run without errors. You want only Pokemon characters to go down the top path, only superhero characters to go down the middle path, and all characters to go down the bottom path.**
 
 1. Click the dotted line to the left of the Get Pokemon info module to create the first filter. Name it "Pokemon character."
 1. For the condition, only allow records where the franchise (Column 2) is equal to "Pokemon." Choose the text "Equal to" operator.

@@ -25,7 +25,7 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!TIP]
 >
->For step-by-step instructions on completing the walkthrough, refer to the Adobe Workfront Fusion activity book.
+>For step-by-step instructions on completing the walkthrough, go to the [Access previous versions walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=en) exercise.
 
 ## Add to your terminology
 
