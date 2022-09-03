@@ -434,7 +434,7 @@ feature-set: Workfront
     + [Data structures](fusion/12-exercises/data-structures.md)
     + [Data stores](fusion/12-exercises/data-stores.md)
     + [Working with JSON](fusion/12-exercises/working-with-json.md)
-    + [DevTool](fusion/12-exercises/devtool.md)
+    + [Dev tool](fusion/12-exercises/devtool.md)
 
 + Workfront Proof {#workfront-proof}
   + [Learn the benefits of proofing](workfront-proof/benefits-of-proofing-in-workfront.md)
