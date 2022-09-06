@@ -28,7 +28,7 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 * Make sure to spend at least 1 hour per month communicating the “Why?” when a new process or software, such as Adobe Workfront, is implemented. 
 
-* Before creating training videos or guides, review what is available on Workfront One. 
+* Before creating training videos or guides, review what is available on Experience League. 
 
 * Set aside time, right from the start, for regular training sessions for both new and existing users to help them continue expanding their knowledge of Workfront. 
 
@@ -40,7 +40,7 @@ The “Why are these best practices?” area, found after the high-level list, p
 
 * Establish a Workfront Center of Excellence to inform company best practices with Workfront. 
 
-* Use the Workfront One Community. 
+* Use the Experience League Community. 
 
 * Set standards or expectations for users and make sure leadership supports those expectations. 
 
@@ -65,11 +65,11 @@ These communication efforts create awareness among users and provide the framewo
 
 **Best practice**
 
-Before creating training videos or guides, review what is available on Workfront One. 
+Before creating training videos or guides, review what is available on Experience League. 
 
 **Here’s why**
  
-If you don’t have to create training for your users about Workfront, don’t. You can, of course, create your own training, but if you don’t have the time to do it yourself or the money to purchase custom training, there are really good resources on the Training page on Workfront One to get your users up and running, no matter their role  
+If you don’t have to create training for your users about Workfront, don’t. You can, of course, create your own training, but if you don’t have the time to do it yourself or the money to purchase custom training, there are really good resources on Experience League to get your users up and running, no matter their role  
 
 In addition, check out the Getting Started page for the basic courses to get users up and running on Workfront. 
 
@@ -94,7 +94,7 @@ More often than not, the board will consist of:
 
 Each user should be assigned a role and given responsibilities that help oversee key infrastructure practices like communication, education, process improvement, or reporting.   
 
-For more information, go to the System Administrator Best Practices – Knowing Your People page on Workfront One.  
+For more information, go to System Administrator Best Practices – Knowing Your People on Experience League.  
 
 </br>
 </br>
@@ -125,11 +125,11 @@ The Workfront Center of Excellence is composed of your subject matter experts (S
 
 **Best practice**
 
-Use the Workfront One Community. 
+Use the Experience League Community. 
 
 **Here’s why**
 
-Workfront One’s Community is a chance for you to ask for and receive advice on all things Workfront and work related. Even if you don’t want to participate in the discussions, you can peruse the page to find information on topics you're interested in or struggle with. 
+Experience League’s Community is a chance for you to ask for and receive advice on all things Workfront and work related. Even if you don’t want to participate in the discussions, you can peruse the page to find information on topics you're interested in or struggle with. 
 
 </br>
 </br>

@@ -31,8 +31,7 @@ Request a practice environment by filling out [this form](https://forms.office.c
 
 Workfront does not offer Workfront Fusion test drives. To practice as you complete the learning paths, request access to Workfront Fusion from your organization’s Workfront Fusion administrator.
 
-### The Workfront Fusion activity book
+### Step-by-step instructions on completing the walkthrough exercises
 
-For step-by-step instructions on completing the walkthrough exercises, download the [Adobe Workfront Fusion activity book](/help/assets/adobe-workfront-fusion-activity-book.pdf). 
+There are step-by-step instructions on completing the walkthrough exercises. You can access these from the left navigation bar under Fusion > Exercises, or use the link provided at the bottom of a walkthrough tutorial.
 
-**Disclaimer**: The Adobe Workfront Fusion activity book contains a few links to Workfront One, which do not work. This will be updated soon.

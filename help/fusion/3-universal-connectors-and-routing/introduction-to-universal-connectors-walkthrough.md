@@ -29,7 +29,7 @@ URL for exercise: https://pokeapi.co/api/v2/pokemon/{Character}
 
 >[!TIP]
 >
->For step-by-step instructions on completing the walkthrough, download the [Adobe Workfront Fusion activity book](/help/assets/adobe-workfront-fusion-activity-book.pdf). **Disclaimer**: The Adobe Workfront Fusion activity book contains a few links to Workfront One, which do not work. This will be updated soon.
+>For step-by-step instructions on completing the walkthrough, go to the [Introduction to universal connectors walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en) exercise.
 
 
 ## Want to learn more? We recommend the following:

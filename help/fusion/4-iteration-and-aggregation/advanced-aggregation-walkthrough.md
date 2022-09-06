@@ -1,5 +1,5 @@
 ---
-title: Advanced Aggregation Walkthrough
+title: Advanced aggregation walkthrough
 description: Learn how to call a web service to return details about multiple countries and identify population, grouped by sub-region, all in [!DNL Adobe Workfront Fusion].
 activity: use
 doc-type: feature video
@@ -28,7 +28,7 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!TIP]
 >
->For step-by-step instructions on completing the walkthrough, download the [Adobe Workfront Fusion activity book](/help/assets/adobe-workfront-fusion-activity-book.pdf). **Disclaimer**: The Adobe Workfront Fusion activity book contains a few links to Workfront One, which do not work. This will be updated soon.
+>For step-by-step instructions on completing the walkthrough, go to the [Advanced aggregation walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/advanced-aggregation.html?lang=en) exercise.
 
 ## Reinforcement of aggregation principle
 

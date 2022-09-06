@@ -69,7 +69,7 @@ The project details fields that appear in the Convert to project window depend o
 
 <!-- Need link to wf one doc article below 
 
-To learn about what information transfers when you convert an issue to a task or project, we recommend you read through the conversion considerations in the Workfront One article, Convert issues. This lists what information is kept when converting issues and what isn’t. Workfront recommends you become familiar with these considerations so you don’t lose important information when converting issues to tasks or projects.
+To learn about what information transfers when you convert an issue to a task or project, we recommend you read through the conversion considerations in the article, Convert issues. This lists what information is kept when converting issues and what isn’t. Workfront recommends you become familiar with these considerations so you don’t lose important information when converting issues to tasks or projects.
 
 -->
 
@@ -83,7 +83,7 @@ Transferring the custom form data requires either:
 
 <!-- Need link to wf one doc article below
 
-Learn more in the Workfront One article, Transfer custom form data to a larger work item.
+Learn more in the article, Transfer custom form data to a larger work item.
 
 -->
 
