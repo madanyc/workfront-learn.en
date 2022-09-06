@@ -61,6 +61,7 @@ feature-set: Workfront
     + [Create milestones](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
     + [Understand group-specific approval processes](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 
+
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
     + [Attach a custom form to an object](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
@@ -544,13 +545,25 @@ feature-set: Workfront
     + [Understand updates and notifications](manage-work/issues-requests/understand-updates-and-notifications.md)
     
 + Agile {#agile}
-  + [Create a Kanban team](agile/create-a-kanban-team.md)
-  + [Create  a Scum agile team](agile/create-a-scrum-agile-team.md)
-  + [Grooming the backlog](agile/gooming-the-backlog.md)
-  + [Manage work as a Kanban team](agile/manage-work-kanban-team.md)
-  + [Manage work as a Scrum team](agile/manage-work-scrum-team.md)
-  + [Plan and create an iteration](agile/plan-and-create-an-iteration.md)
-  + [Using the iteration page](agile/using-the-iteration-page.md)
+
+  + Scrum {#scrum}
+      + [Create  a Scum agile team](agile/create-a-scrum-agile-team.md)
+      + [Manage work as a Scrum team](agile/manage-work-scrum-team.md)
+      + [Grooming the backlog](agile/gooming-the-backlog.md)
+      + [Plan and create an iteration](agile/plan-and-create-an-iteration.md)
+      + [Using the iteration page](agile/using-the-iteration-page.md)
+
+  + Kanban {#kanban}
+    + [Create a Kanban team](agile/create-a-kanban-team.md)
+     + [Manage work as a Kanban team](agile/manage-work-kanban-team.md)
+
+  + Boards  {#boards}
+    + [Add and manage tags for cards](boards/add-and-manage-tags-for-cards.md)
+    + [Add and manage team members for a board](boards/add-and-manage-team-members-for-a-board.md)
+    + [Add cards to a board](boards/add-cards-to-a-board.md)
+    + [Find and create a basic board](boards/find-and-create-a-basic-board.md)
+    + [Manage board columns](boards/manage-board-columns.md)
+    + [Manage cards on a board](boards/manage-cards-on-a-board.md)
 
 + Best Practices {#best-practices}
   + [Agile](best-practices/agile-bp.md)
