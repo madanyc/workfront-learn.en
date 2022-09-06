@@ -558,6 +558,7 @@ feature-set: Workfront
      + [Manage work as a Kanban team](agile/manage-work-kanban-team.md)
 
   + Boards  {#boards}
+    + [Add and edit column settings on a board](boards/add-and-edit-column-settings-on-a-board.md)
     + [Add and manage tags for cards](boards/add-and-manage-tags-for-cards.md)
     + [Add and manage team members for a board](boards/add-and-manage-team-members-for-a-board.md)
     + [Add cards to a board](boards/add-cards-to-a-board.md)
