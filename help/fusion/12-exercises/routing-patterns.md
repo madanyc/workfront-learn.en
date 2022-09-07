@@ -43,4 +43,6 @@ Use the Set Variable module to send a number through multiple paths to see how f
 
 1. Change the Set variable number to 9500 and Run once. Because the number is not less than 100 or less than 1000, the bundle travels down the fallback route.
 
-If you add one more path with an Increment function tool module, but set no filter, what will happen when you click Run once again? Will a bundle ever go down the fallback route with the fourth route added?  No, because with no filter set, every bundle will always go down this path instead of the fallback route.
+If you add one more path with an Increment function tool module, but set no filter, what will happen when you click Run once again? Will a bundle ever go down the fallback route with the fourth route added?  
+
+   + No, because with no filter set, every bundle will always go down this path instead of the fallback route.

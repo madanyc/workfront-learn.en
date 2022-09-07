@@ -64,7 +64,7 @@ To produce a file that shows the total time, in hours, worked each day by each i
 1. The Value field is column 7 from CSV file. This is the minutes logged by each user.
 1. To sum the fields by group, click Advanced Settings and set Group by to email (column 4), date (column 5).
 
-   + This will sum for every combination of the email and the date. Be sure to put a comma between column 4 and column 1. This will be used as a delimiter later on.
+   + This will sum for every combination of the email and the date. Be sure to put a comma between column 4 and column 5. This will be used as a delimiter later on.
 
    **Your mapping panel should look like this:**
 

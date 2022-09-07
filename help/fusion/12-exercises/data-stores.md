@@ -90,7 +90,7 @@ This is the first part of a one-directional synchronization of companies in Work
 
    **Routing path 2 - Update the data store.**
 
-1. Create a filter on routing path 1. Name it "Not in data store."
+1. Create a filter on routing path 2. Name it "Not in data store."
 
 1. Set the Condition to the Key from the Data store module and does not exist.
 
@@ -113,7 +113,7 @@ This is the first part of a one-directional synchronization of companies in Work
 
    **Routing path 3-Sync the data store between systems.**
 
-1. Start by creating a filter on routing path 1. Name it "Company exists, not in data store."
+1. Start by creating a filter on routing path 3. Name it "Company exists, not in data store."
 1. Set the Condition to the Key from the Data store Search records module and does not exist.
 1. Click the Add AND rule button and designate that the company name from the CSV file (Column 2) is equal to the name of the company found in the Workfront Search module.
 

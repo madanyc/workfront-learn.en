@@ -14,15 +14,15 @@ Learn how to use the mapping panel formulas to manipulate or convert field(s) se
 
 ## Exercise overview
 
-Change the project name, planned start date, and priority from the Beyond Basic Mapping Image 1 walkthrough exercises using the mapping panel formulas.
+Change the project name, planned start date, and priority from the Beyond Basic Mapping walkthrough exercises using the mapping panel formulas.
 
    ![Beyond Basic Mapping Image 1](../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
 
 ## Steps to follow
 
-   **Make a clone of your Beyond Basic Mapping Image 1 scenario.**
+   **Make a clone of your Initial scenario design scenario.**
 
-1. Select the Clone option to the right of the Beyond Basic Mapping Image 1 in the scenario section, as shown below. Name it "Beyond basic mapping."
+1. Select the Clone option to the right of the Initial scenario design in the scenario section, as shown below. Name it "Beyond basic mapping."
 
    ![Beyond Basic Mapping Image 2](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
 
@@ -30,7 +30,7 @@ Change the project name, planned start date, and priority from the Beyond Basic 
 
 1. Click the Create Workfront projects module to edit the settings. Using the mapping panel, change the Name field to be "[My Project Name] by [Sponsor]."
 
-   + The [My Project Name] is column 1 from the Parse CSV module and [Sponsor] is column 1. The word "by" is just typed between the two.
+   + The [My Project Name] is column 1 from the Parse CSV module and [Sponsor] is column 6. The word "by" is just typed between the two.
 
 1. Next go to the Planned Start Date and use the addDays formula to add 15 days to the field, as described in the Beyond basic mapping walkthrough video.
 1. Find the Priority field and toggle the Map button at the top right of the field. The picklist menu changes to a number. Create an if statement to label a project as High(4) priority if the CSV file confidence rating is less than 100, otherwise it can be Normal(2).
