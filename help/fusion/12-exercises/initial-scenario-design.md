@@ -26,7 +26,7 @@ Create a new project in Workfront for each row in the Project List CSV file.
    ![Initial Scenario Design Image 2](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. On the next page, search for Workfront and select that app. Then click Continue.
-1. At the top left of the scenario designer screen, rename your scenario to "Initial Scenario Design Image 1."
+1. At the top left of the scenario designer screen, rename your scenario to "Initial dcenario design"
 1. Click the empty trigger module in the center of the screen and select the Workfront app, then select the Download Document module.
 
    **Authenticate the module's connection to your Workfront account.**
@@ -35,7 +35,7 @@ Create a new project in Workfront for each row in the Project List CSV file.
 
    ![Initial Scenario Design Image 3](../12-exercises/assets/initial-scenario-design-3.png)
 
-1. Give the connection a name, such as "My Workfront 201."
+1. Give the connection a name, such as "My Workfront 2020"
 
    ![Initial Scenario Design Image 4](../12-exercises/assets/initial-scenario-design-4.png)
 

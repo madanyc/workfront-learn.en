@@ -47,7 +47,7 @@ Use a router to pass Pokemon vs. superheroes bundles down the correct path, then
 
     >[!NOTE]
     >
-    >If you have trouble accessing your own superhero token, you can use this shared token: 10110256647253581. Please be considerate of how many times you call to the superhero API so this shared token continues to work for everyone.
+    >If you have trouble accessing your own superhero token, you can use this shared token: 10110256647253588. Please be considerate of how many times you call to the superhero API so this shared token continues to work for everyone.
 
 1. Open the settings for the Get superhero appearance and change the URL to https://superheroapi.com/api/[access- token]/332/appearance. Be sure to include your access token in the URL. Click OK.
 1. Open the settings for the Get superhero abilities and change the URL to https://superheroapi.com/api/[access- token]/332/powerstats. Be sure to include your access token in the URL. Click OK.
@@ -58,11 +58,11 @@ Use a router to pass Pokemon vs. superheroes bundles down the correct path, then
 
     **Now you can click into the Set multiple variables module in the superhero path and update the name, height, weight, and abilities.**
 
-1. Update the Name and Abilities fields from the Get superhero abilities module-Module 8.
+1. Update the Name and Abilities fields from the Get superhero abilities module--Module 8.
 
    ![Routers Image 5](../12-exercises/assets/routers-walkthrough-5.png)
 
-1. Update the Height and Weight fields from the Get superhero appearance module-Module 6.
+1. Update the Height and Weight fields from the Get superhero appearance module--Module 6.
 
    ![Routers Image 6](../12-exercises/assets/routers-walkthrough-6.png)
 

@@ -29,7 +29,7 @@ Practice with different scenario configurations to explore using runs and cycles
 1. In the Search criteria, remove the second filter that restricts the search to a single project.
 1. Click OK.
 
-1. In the Fusion toolbar, open Scenario settings and change the Max number of cycles field from 1 to 1.
+1. In the Fusion toolbar, open Scenario settings and change the Max number of cycles field from 1 to 3.
 1. Click OK.
 
    ![Exploring runs cycles and bundles Image 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)

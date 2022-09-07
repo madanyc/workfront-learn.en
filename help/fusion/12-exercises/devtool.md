@@ -74,7 +74,7 @@ Install and use the different areas in the Workfront Dev tool to take a deeper d
 + Swap Connection - The tool takes the connection from the selected module and sets the same connection to all modules of the same app in the scenario. This is helpful if you have to change the connection throughout a completed scenario. Avoid losing all mapping and save time by using this tool.
 + Swap Variable - Finds all occurrences of the given variable across the whole scenario, or in one module, and replaces them with the new one. Wildcards are not supported. If you've accidentally mapped a value throughout the entire scenario, this can help you easily swap for the correct value.
 + Swap App - Swaps the given app for another one.
-+ Base 64 - Encode the entered data to Base64 or decode Base61. Useful when you want to search for particular data in the encoded request.
++ Base 64 - Encode the entered data to Base64 or decode Base64. Useful when you want to search for particular data in the encoded request.
 + Copy Module Name - Copies the selected module name to the clipboard.
 + Remap Source - Change the mapping source from one module to another. You need to first add the module to use as a source module to the route in a scenario.
 + Migrate OS - Made specifically to upgrade Google Sheets (legacy) modules to the latest Google Sheets version. It adds a new version of the module just after the legacy version of the module in the scenario route.
