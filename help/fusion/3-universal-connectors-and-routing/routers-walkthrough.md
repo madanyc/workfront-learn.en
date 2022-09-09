@@ -23,9 +23,9 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 ## Exercise URLs
 
-* Superhero API website: https://superheroapi.com/
-* First URL for exercise: https://superheroapi.com/api/{access-token}/{character-id}/appearance
-* Second URL for exercise: https://superheroapi.com/api/{access-token}/{character-id}/powerstats
+* Superhero API website: https://www.superheroapi.com/
+* First URL for exercise: https://www.superheroapi.com/api/{access-token}/{character-id}/appearance
+* Second URL for exercise: https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
 
 If you have trouble accessing your own superhero token, you can use this shared token: 10110256647253588. Please be considerate of how many times you call to the superhero API so this shared token continues to work for everyone.
 
